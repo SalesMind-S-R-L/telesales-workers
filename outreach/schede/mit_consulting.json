@@ -1,0 +1,21 @@
+{
+  "riassunto": "M&IT Consulting e' una societa' bolognese di consulenza direzionale e formazione manageriale attiva da 25 anni, con quattro aree: consulenza strategica, formazione (leadership e coaching), sistemi di gestione ISO e soluzioni digitali.",
+  "pain_point": "Dopo 25 anni il portafoglio clienti industriale e' solido ma maturo: aprire nuove direzioni aziendali fuori dal giro storico richiede un'attivita' di primo contatto che i consulenti senior difficilmente riescono a presidiare.",
+  "hook": "ho visto che da 25 anni affiancate imprese industriali e dei servizi con consulenza direzionale e formazione manageriale da Bologna",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sul sito, meglio la variante istituzionale verso ruolo generico.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://www.mitconsulting.it/formazione/",
+  "nome_azienda": "M&IT Consulting",
+  "nome_decisore": "",
+  "ruolo_decisore": "Titolare / Direzione",
+  "email": "",
+  "telefono": "",
+  "citta": "Bologna",
+  "settore": "Consulenza gestionale",
+  "website": "mitconsulting.it",
+  "pagine_lette": ["https://www.mitconsulting.it/"]
+}

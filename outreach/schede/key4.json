@@ -1,0 +1,20 @@
+{
+  "riassunto": "Key4 e' una start-up innovativa fondata nel 2018 che opera come EPC nell'automazione industriale e nell'industria 4.0, con soluzioni chiavi in mano di logistica automatica, robotica, piattaforme IoT, MES, digital twin e AI. Lavora con manifatturiere medio-grandi e cita clienti come SKF, Technogym, CNH Industrial ed EFFER.",
+  "pain_point": "Con progetti EPC complessi e cicli di vendita lunghi nel manifatturiero, l'acquisizione sembra affidata a case study e social: il decisore commerciale potrebbe avere poco tempo per la prospezione attiva su nuove aziende target.",
+  "hook": "ho visto che dal 2018 avete portato soluzioni chiavi in mano di automazione e digital twin a clienti come SKF, Technogym e CNH Industrial.",
+  "variante_email": "A",
+  "motivo_variante": "Il decisore ha un ruolo esplicitamente sales (chief sales engineer officer & business developer) e il pain di prospezione su cicli lunghi e' molto plausibile, quindi approccio diretto.",
+  "da_verificare": "Email e' un pattern non verificato; confermare che Emanuele Pansini presidi ancora il commerciale e che il target manifatturiero medio-grande sia compatibile con l'offerta Telesales.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Key4",
+  "nome_decisore": "Emanuele Pansini",
+  "ruolo_decisore": "Chief sales engineer officer & business developer",
+  "email": "emanuele.pansini@key-4.com",
+  "telefono": "",
+  "citta": "Bari",
+  "settore": "Consulenza gestionale",
+  "website": "key-4.com",
+  "slug": "key4",
+  "pagine_lette": ["https://www.key-4.com"]
+}

@@ -1,0 +1,1551 @@
+{
+ "slot_1000": [
+  {
+   "nome": "Bar Internazionale",
+   "tel": "+390471284662",
+   "ind": "Via Roma 13",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Parkhotel Laurin",
+   "tel": "+390471311000",
+   "ind": "Via Laurin 4",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Regina A.",
+   "tel": "+390471972195",
+   "ind": "Via Renon 1",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Bistro Lampl",
+   "tel": "+393336769495",
+   "ind": "Via Rencio 53 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "The Garden Cafe",
+   "tel": "+393934415712",
+   "ind": "Via dei Bottai 22/C - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Mila Bistro",
+   "tel": "+393802353501",
+   "ind": "Via Innsbruck, 43 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Eurac Cafe",
+   "tel": "+393475578569",
+   "ind": "Viale Druso, 1/A - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Wieser's Cafe",
+   "tel": "+393451381326",
+   "ind": "Strada Castel Guardia 6, 39057 San Paolo Appiano BZ",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Sportbar",
+   "tel": "+393336321067",
+   "ind": "Unterrainer Straße - Strada Riva di Sotto 36b",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Galerie Lounge & Wine Bar",
+   "tel": "+393342793609",
+   "ind": "J.-G.-Plazer-Straße - Via J. G. Plazer 14",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Dorfbar",
+   "tel": "+393661768001",
+   "ind": "2",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Weidlhof B&B",
+   "tel": "+393392730509",
+   "ind": "23",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "B&B Le stanze di Saraswati",
+   "tel": "+393381971653",
+   "ind": "Via Roma - Romstraße 15",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "B&B Hotel Garni Bolzano",
+   "tel": "+390471205454",
+   "ind": "Via Werner Von Siemens 18",
+   "citta": "Bolzano",
+   "titolare": "Gruppo B&B Hotels",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Asterix",
+   "tel": "+390471280437",
+   "ind": "Piazza Mazzini 35",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Fiera",
+   "tel": "+390471539288",
+   "ind": "Via Kravogl 3",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Ristorante Eberle",
+   "tel": "+390471976125",
+   "ind": "Passeggiata Sant'Osvaldo 1",
+   "citta": "Bolzano",
+   "titolare": "Famiglia Zisser (Stefan Zisser)",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Loom Hotel",
+   "tel": "+390471283075",
+   "ind": "Via Copernico 11",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Bistro Thaler Arome",
+   "tel": "+390471313030",
+   "ind": "Via dei Portici 69",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Alla Baita Drink Food e Sound",
+   "tel": "+393774120941",
+   "ind": "Via Maso della Pieve 11 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Schenk",
+   "tel": "+393485408845",
+   "ind": "Via Enrico Fermi 20/B - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Bnb Bolzano Rooms",
+   "tel": "+393489351120",
+   "ind": "Via Brennero, 4 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Il Battente 1862",
+   "tel": "+393486101215",
+   "ind": "Via Hofer Andreas, 20 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Gambero",
+   "tel": "+393806581176",
+   "ind": "Via Thuille Ludwig, 5/A - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Fermento",
+   "tel": "+393358004005",
+   "ind": "Via Palermo, 11/C - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Teglia 2.0",
+   "tel": "+393459781975",
+   "ind": "Viale Puccini Giacomo, 36 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Anna & Roby",
+   "tel": "+393803736555",
+   "ind": "Via Galilei, 38 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Cantina dei Sapori",
+   "tel": "+393282814259",
+   "ind": "Piazzetta Frank Anne 19 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Gatta Matta",
+   "tel": "+393428583381",
+   "ind": "Via Leonardo da Vinci 1/H - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Lo-Locatelli",
+   "tel": "+393421082804",
+   "ind": "Via Antonio Locatelli 1 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Mana'",
+   "tel": "+393356726103",
+   "ind": "Via Innsbruck, 29 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Fortuna",
+   "tel": "+393336661939",
+   "ind": "Via San Quirino, 35 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Nuovo Antalya Pizza Kebab",
+   "tel": "+393801221617",
+   "ind": "Via della Rena - Raingasse 3/d",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Dips - French Tacos & Salads",
+   "tel": "+393515752373",
+   "ind": "Via Dr. Julius Perathoner - Dr.-Julius-Perathoner-Straße 29",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Mezopotamia Pizza & Kebab Rosticceria",
+   "tel": "+393276961666",
+   "ind": "Via Palermo - Palermostraße 72",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  }
+ ],
+ "slot_1130": [
+  {
+   "nome": "Felicita Gelato Autentico",
+   "tel": "+393285585765",
+   "ind": "Via Cassa di Risparmio 9 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "gelateria",
+   "mob": true
+  },
+  {
+   "nome": "Gelateria Bar Bersaglio",
+   "tel": "+390471224423",
+   "ind": "Piazzetta del Bersaglio 8",
+   "citta": "Bolzano",
+   "titolare": "Francesco Perri",
+   "kind": "gelateria",
+   "mob": false
+  },
+  {
+   "nome": "Gelateria Bar Bersaglio Resia",
+   "tel": "+390471224826",
+   "ind": "Via Resia 108",
+   "citta": "Bolzano",
+   "titolare": "Francesco Perri",
+   "kind": "gelateria",
+   "mob": false
+  },
+  {
+   "nome": "Gelateria Bar Mario Bolzano",
+   "tel": "+390471264502",
+   "ind": "Via Santa Geltrude 48",
+   "citta": "Bolzano",
+   "titolare": "Mario",
+   "kind": "gelateria",
+   "mob": false
+  },
+  {
+   "nome": "Milano 192 Gelato",
+   "tel": "+390471236500",
+   "ind": "Via Milano 192/A",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "gelateria",
+   "mob": false
+  },
+  {
+   "nome": "Good Day Cafè",
+   "tel": "+393270714000",
+   "ind": "Corso Libertà 14",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Gyros Atene Bar",
+   "tel": "+393455892824",
+   "ind": "Via Resia 49",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Bar Pia di Shahzad",
+   "tel": "+393533812732",
+   "ind": "Via Claudia Augusta 27",
+   "citta": "Bolzano",
+   "titolare": "Muhammad Atif Shahzad",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Bar Ristorante Circolo Tennis Gries",
+   "tel": "+393473964215",
+   "ind": "Via Knoller 8",
+   "citta": "Bolzano",
+   "titolare": "Circolo Tennis Gries",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Gelatiera Caffettiera Pennini",
+   "tel": "+393881935902",
+   "ind": "Via Resia 76/A",
+   "citta": "Bolzano",
+   "titolare": "Pennini",
+   "kind": "gelateria",
+   "mob": true
+  },
+  {
+   "nome": "Gelateria Eccetera",
+   "tel": "+393487938787",
+   "ind": "Via dei Grappoli 23 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "gelateria",
+   "mob": true
+  },
+  {
+   "nome": "Gelateria Cadore",
+   "tel": "+393485257499",
+   "ind": "Corso Italia 57/B - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "gelateria",
+   "mob": true
+  },
+  {
+   "nome": "Gelateria Polaris",
+   "tel": "+393496649688",
+   "ind": "Viale Europa 44 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "gelateria",
+   "mob": true
+  },
+  {
+   "nome": "Pasticceria Fantasy",
+   "tel": "+393452176405",
+   "ind": "Corso della Liberta 28 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "pasticceria",
+   "mob": true
+  },
+  {
+   "nome": "Pasticceria La Mousse",
+   "tel": "+393498404071",
+   "ind": "Via Sassari 91 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "pasticceria",
+   "mob": true
+  },
+  {
+   "nome": "B&B Mele d'Oro",
+   "tel": "+393347440107",
+   "ind": "Via Castel Greifenstein 6 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Bar Ristorante Vecchia Persia",
+   "tel": "+393737646563",
+   "ind": "Via San Quirino, 19 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Ristorante Bar Ottofratelli",
+   "tel": "+393403616601",
+   "ind": "Via Resia - Reschenstraße 49",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Pub Murphy's",
+   "tel": "+393274698118",
+   "ind": "Via Parma - Parmastraße 95",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "VIVES Bar",
+   "tel": "+393473585027",
+   "ind": "Via Luigi Galvani - Luigi-Galvani-Straße 38b",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Bar Hope Bistrot",
+   "tel": "+393396659088",
+   "ind": "28",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Crema e Cioccolato Gelateria Caffetteria",
+   "tel": "+393381889508",
+   "ind": "Via Kennedy, 168 - 39055 Laives (BZ)",
+   "citta": "Laives",
+   "titolare": "",
+   "kind": "gelateria",
+   "mob": true
+  },
+  {
+   "nome": "Tina Gelateria Eisdiele",
+   "tel": "+393516690438",
+   "ind": "Via Kennedy, 24 - 39055 Laives (BZ)",
+   "citta": "Laives",
+   "titolare": "",
+   "kind": "gelateria",
+   "mob": true
+  },
+  {
+   "nome": "Bar Antares",
+   "tel": "+393383363639",
+   "ind": "Via J.F. Kennedy snc - 39055 Laives (BZ)",
+   "citta": "Laives",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Hotel Posta (cellulare)",
+   "tel": "+393240519426",
+   "ind": "Via San Giacomo 242, 39055 Laives",
+   "citta": "Laives",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Hotel-Gasthof Weisses Roessl",
+   "tel": "+393208146503",
+   "ind": "Via J.G. Plazer 15, 39057 San Michele Appiano BZ",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Bar Carmen",
+   "tel": "+393498394566",
+   "ind": "Via Stazione 15, 39057 Appiano sulla Strada del Vino BZ",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Café Mozart",
+   "tel": "+393348017686",
+   "ind": "Vicolo del Sole 12, 39057 Appiano sulla Strada del Vino BZ",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Ansitz Schreckenstein - Allegra Weinbar",
+   "tel": "+393396241592",
+   "ind": "Strada Riva di Sotto 24, 39057 San Paolo Appiano BZ",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Hotel Unterrain",
+   "tel": "+393343253333",
+   "ind": "Strada Riva di Sotto 29, 39057 San Paolo Appiano BZ",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  }
+ ],
+ "slot_1430": [
+  {
+   "nome": "Ristorante Pizzeria Veruska",
+   "tel": "+390471977046",
+   "ind": "Via Andreas Hofer 8",
+   "citta": "Bolzano",
+   "titolare": "Veruska",
+   "kind": "pizzeria",
+   "mob": false
+  },
+  {
+   "nome": "Apartment Sonnblick",
+   "tel": "+393336388445",
+   "ind": "Gungano 10, 39052 Caldaro",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Cibus",
+   "tel": "+393442469234",
+   "ind": "Zona Industriale",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "City Chicken",
+   "tel": "+393924088313",
+   "ind": "Via Firenze 9",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "East & West",
+   "tel": "+393889844400",
+   "ind": "Via del Ronco 19/B",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Fischbanke",
+   "tel": "+393405707468",
+   "ind": "Dr.-Streiter Gasse 28",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Food Clab",
+   "tel": "+393914670813",
+   "ind": "Via Innsbruck 29/A",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "New Pizza Kebab Service",
+   "tel": "+393897994714",
+   "ind": "Corso Libertà 76",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Noisteria",
+   "tel": "+393888228895",
+   "ind": "Via Volta 15",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Punjabi Tadka Indian Restaurant",
+   "tel": "+393490051312",
+   "ind": "Via Renon 14",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Ristorante Persiano Khatoon",
+   "tel": "+393513444296",
+   "ind": "Corso Italia 38",
+   "citta": "Bolzano",
+   "titolare": "Khatoon",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Rockin Beets",
+   "tel": "+393883684746",
+   "ind": "Via Rovigo 24",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Saint Patrick",
+   "tel": "+393338849271",
+   "ind": "Via Fago 46/C",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Ciao & Qiao di Yan Qiao",
+   "tel": "+393393523315",
+   "ind": "Via De Lai 4/B",
+   "citta": "Bolzano",
+   "titolare": "Yan Qiao",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Ficale di Turrina Daniele",
+   "tel": "+393452227720",
+   "ind": "Via Argentieri 17",
+   "citta": "Bolzano",
+   "titolare": "Daniele Turrina",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Jin Chang S.n.c. di Xu Feng",
+   "tel": "+393208596698",
+   "ind": "Viale Duca D'Aosta 91",
+   "citta": "Bolzano",
+   "titolare": "Xu Feng",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Cubana",
+   "tel": "+393408693849",
+   "ind": "Piazza Matteotti 11",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Marylin",
+   "tel": "+393931751469",
+   "ind": "Via della Posta 12",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Rasuli Hemn",
+   "tel": "+393288868882",
+   "ind": "Via Claudia Augusta 41/A",
+   "citta": "Bolzano",
+   "titolare": "Hemn Rasuli",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Pippo's Mountain Lodge",
+   "tel": "+393801880023",
+   "ind": "Via Piramidi 1 - Soprabolzano (Renon)",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Campo Franz",
+   "tel": "+393356915094",
+   "ind": "Piazza Von Der Vogelweide 13 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Osteria Il Tinello",
+   "tel": "+393341017514",
+   "ind": "Via dei Conciapelli 38 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "L'Osteria",
+   "tel": "+393277950513",
+   "ind": "Via Torino 82/B - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Altro che pizza",
+   "tel": "+393395467722",
+   "ind": "Via Roma 53 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Pizza e Dintorni",
+   "tel": "+393920325025",
+   "ind": "Viale Amedeo Duca D'Aosta 28/A - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Shalla Pizza",
+   "tel": "+393661440409",
+   "ind": "Via Rovigo 24/A - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Al Papero Giallo",
+   "tel": "+393292062682",
+   "ind": "Via Dalmazia 105 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Garnì Petra",
+   "tel": "+393356684804",
+   "ind": "Via Gruppo Brenta 9",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Residence Lavina",
+   "tel": "+393497387999",
+   "ind": "Località Mezzavia 2",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Haderburgschaenke zum 18. Fass",
+   "tel": "+393347775843",
+   "ind": "Via Trento 53, 39040 Salorno (BZ)",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Officina del Gusto by KP",
+   "tel": "+393336885511",
+   "ind": "Strada Statale 24, 39040 Salorno (BZ)",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Valentina",
+   "tel": "+393355247623",
+   "ind": "Via Stazione 54, 39040 Salorno (BZ)",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Fichtenhof (cellulare)",
+   "tel": "+393420715788",
+   "ind": "Cauria/Gfrill 23, 39040 Salorno",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Agritu E-Cinque",
+   "tel": "+393383612836",
+   "ind": "Via Molini - Mühlenstraße 6",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Agritur Zuveith",
+   "tel": "+393408306272",
+   "ind": "Via Molini - Mühlenstraße 78a",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Amalia Pernter 1896",
+   "tel": "+393392169953",
+   "ind": "Piazza S. Andrea - St.-Andreas-Platz 3",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Castel Mareccio",
+   "tel": "+390471307000",
+   "ind": "Via Alto Adige 60",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Ferrari Tower",
+   "tel": "+3904711552601",
+   "ind": "Via del Macello 28",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Magdalener Hof",
+   "tel": "+390471978267",
+   "ind": "Via Rencio 48",
+   "citta": "Bolzano",
+   "titolare": "Famiglia Ramoser (Jakob Ramoser)",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "All'Olmo",
+   "tel": "+390471203699",
+   "ind": "Via Antonio Pacinotti 15",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Alla Corte",
+   "tel": "+390471261034",
+   "ind": "Via Claudia Augusta 121",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Rosengarten Apartments",
+   "tel": "+393400034065",
+   "ind": "",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Mic Ramen",
+   "tel": "+393319998088",
+   "ind": "Viale Druso - Drususallee 91",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Bottega della Pizza",
+   "tel": "+393294935102",
+   "ind": "Via Brennero - Brennerstraße 29",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Architect's Lodge",
+   "tel": "+393204926698",
+   "ind": "Via Dr. Josef Streiter - Dr.-Josef-Streiter-Gasse 7",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Villa Jasmine",
+   "tel": "+393913518879",
+   "ind": "",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": true
+  }
+ ],
+ "slot_1630": [
+  {
+   "nome": "Falkensteiner Hotel Bozen Waltherpark",
+   "tel": "+3904711431601",
+   "ind": "Via Alto Adige 31",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Garnì Adria",
+   "tel": "+390471975735",
+   "ind": "Via Perathoner 17",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Feichter",
+   "tel": "+390471978768",
+   "ind": "Via dei Grappoli 15",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Stadt Hotel Città",
+   "tel": "+390471975221",
+   "ind": "Via Argentieri 1",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Cafe Mozart Bozen",
+   "tel": "+390471970000",
+   "ind": "Via Dr. Julius Perathoner 1",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Corte Bar & Bistro",
+   "tel": "+390471053000",
+   "ind": "Piazza Walther 13",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Restaurant 1908 - Parkhotel Holzner",
+   "tel": "+390471345231",
+   "ind": "Via del Paese 18 - Soprabolzano",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Noodle Bar by Grissino",
+   "tel": "+3904711963333",
+   "ind": "Corso della Libertà 54",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "B&B Unterhabsbergerhof",
+   "tel": "+393397820460",
+   "ind": "Frazione Monticolo 74, 39057 Monticolo Appiano BZ",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Hotel Sigmundskron",
+   "tel": "+393493419271",
+   "ind": "Weinstrasse 66c, Frangart, 39010 Appiano",
+   "citta": "Appiano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Laubencafé",
+   "tel": "+393298085003",
+   "ind": "Piazza Principale 6, 39052 Caldaro (BZ)",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Garni Gallmetzer",
+   "tel": "+393358222523",
+   "ind": "Lavardistr. 20, 39052 Caldaro",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Garni Saltneregg",
+   "tel": "+393382004379",
+   "ind": "Via Klavenz 41, 39052 Caldaro",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Garni Gartenheim",
+   "tel": "+39338400277",
+   "ind": "Oberplanitzing 16, 39052 Caldaro",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Garni-Hotel Peterlinhof",
+   "tel": "+393487377189",
+   "ind": "Saltnerweg 11, 39052 Caldaro",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Garni Guflhof",
+   "tel": "+393336678491",
+   "ind": "Unterplanitzing 3, 39052 Caldaro",
+   "citta": "Caldaro",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "B&B Vaja",
+   "tel": "+393772383756",
+   "ind": "Via della Roggia 1, 39044 Egna (BZ)",
+   "citta": "Egna",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Bar Marina (cellulare)",
+   "tel": "+393332670708",
+   "ind": "Via Stazione 49, 39044 Egna",
+   "citta": "Egna",
+   "titolare": "",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Ela Living Albergo Diffuso (cellulare)",
+   "tel": "+393275419817",
+   "ind": "Piazza Centrale 1 (reception), 39044 Egna",
+   "citta": "Egna",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Comfort Hotel Erika (cellulare)",
+   "tel": "+393407194276",
+   "ind": "Via Nazionale 20, 39040 Salorno",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Bistro Portikus",
+   "tel": "+390471813684",
+   "ind": "Via Portici 32, 39044 Egna (BZ)",
+   "citta": "Egna",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Villner Hof",
+   "tel": "+390471812039",
+   "ind": "Via Villa 30/C, 39044 Egna (BZ)",
+   "citta": "Egna",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Pension Dolomiten (frazione Laghetti)",
+   "tel": "+390471817130",
+   "ind": "Via Nazionale 19, 39044 Laghetti/Egna (BZ)",
+   "citta": "Egna",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Bar Franceschini Enrico",
+   "tel": "+390471884272",
+   "ind": "Via Dr. Josef Noldin 2, 39040 Salorno (BZ)",
+   "citta": "Salorno",
+   "titolare": "Franceschini Enrico",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Comfort Hotel Erika",
+   "tel": "+390471883145",
+   "ind": "Via Nazionale 20, 39040 Salorno (BZ)",
+   "citta": "Salorno",
+   "titolare": "F.lli Franceschini",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Pub Bistro Naomi",
+   "tel": "+390471883107",
+   "ind": "Via Nazionale - Staatsstraße 9",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Barduskeller",
+   "tel": "+390471817524",
+   "ind": "Goetheplatz - Piazza Goethe 4",
+   "citta": "Salorno",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Holler Pub",
+   "tel": "+390471978339",
+   "ind": "Vicolo delle Erbe 10",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Tortuga Pub",
+   "tel": "+390471401769",
+   "ind": "Piazzetta Questore Mazzoni 9",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Ideal Park Laives",
+   "tel": "+390471590600",
+   "ind": "Via Kennedy 233 - Laives",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  }
+ ],
+ "slot_riserva": [
+  {
+   "nome": "Bad St. Isidor",
+   "tel": "+390471365263",
+   "ind": "Campegno 31",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Cappello di Ferro Hotel",
+   "tel": "+390471978397",
+   "ind": "Via dei Bottai 21",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Four Points by Sheraton",
+   "tel": "+3904711950000",
+   "ind": "Via Bruno Buozzi 35",
+   "citta": "Bolzano",
+   "titolare": "Marriott International",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Gardenhotel Premstaller",
+   "tel": "+390471631166",
+   "ind": "Via C. Firmiani 27/B",
+   "citta": "Bolzano",
+   "titolare": "Famiglia Premstaller",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Garni Alpen Queen",
+   "tel": "+393271781324",
+   "ind": "Via Macello 8",
+   "citta": "Bolzano",
+   "titolare": "Vocolli (gestione)",
+   "kind": "hotel",
+   "mob": true
+  },
+  {
+   "nome": "Gasthof Klaus",
+   "tel": "+390471329999",
+   "ind": "Colle 15",
+   "citta": "Bolzano",
+   "titolare": "Klaus Zelger",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Gasthof Kohlern - Albergo Colle",
+   "tel": "+390471329978",
+   "ind": "Colle 11",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Ariston",
+   "tel": "+390471916558",
+   "ind": "Via Roma 82",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Chrys",
+   "tel": "+390471921121",
+   "ind": "Via Mendola 100",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Lewald",
+   "tel": "+390471250330",
+   "ind": "Via Maso della Pieve 17",
+   "citta": "Bolzano",
+   "titolare": "Famiglia Lewald (Johanna, Monica, Christian)",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Hotel Post Gries",
+   "tel": "+390471279000",
+   "ind": "Corso Libertà 117",
+   "citta": "Bolzano",
+   "titolare": "Famiglia Berger (Berger Hotel S.r.l.)",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Istituto Salesiano Rainerum",
+   "tel": "+390471972283",
+   "ind": "P.zza Domenicani 15",
+   "citta": "Bolzano",
+   "titolare": "Salesiani Don Bosco",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Parkhotel Werth - Business Resort",
+   "tel": "+390471250103",
+   "ind": "Via Maso della Pieve 19",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "hotel",
+   "mob": false
+  },
+  {
+   "nome": "Stay Cooper - Capitol Rooms",
+   "tel": "+393271135751",
+   "ind": "Via Dr. Streiter 6",
+   "citta": "Bolzano",
+   "titolare": "Stay Cooper (brand)",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Al Ponte",
+   "tel": "+390471916491",
+   "ind": "Via Roma 78",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Altro che pizza",
+   "tel": "+390471253587",
+   "ind": "Via Roma 53",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Antico Ristorante Pizzeria da Piero",
+   "tel": "+390471401343",
+   "ind": "Piazza Gries 16",
+   "citta": "Bolzano",
+   "titolare": "Piero",
+   "kind": "pizzeria",
+   "mob": false
+  },
+  {
+   "nome": "Argenton Daniel",
+   "tel": "+390471342019",
+   "ind": "Via Claudia Augusta 89",
+   "citta": "Bolzano",
+   "titolare": "Daniel Argenton",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Bar Bistro Gambrinus",
+   "tel": "+390471283242",
+   "ind": "Viale Duca D'Aosta 21",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Bar Padovana by Nano e Nica",
+   "tel": "+3904711703881",
+   "ind": "Via Milano 100",
+   "citta": "Bolzano",
+   "titolare": "Nano e Nica",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Bar Resia Bistró",
+   "tel": "+390471913074",
+   "ind": "Via Resia 166",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Bar Ristorante Hong Kong",
+   "tel": "+390471400578",
+   "ind": "Via Claudia Augusta 25/A",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Batzenhäusl - Ca' de Bezzi",
+   "tel": "+390471050950",
+   "ind": "Via Andreas Hofer 30",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Baumannhof - Buschenschank",
+   "tel": "+390471365663",
+   "ind": "Costa di Sopra 6",
+   "citta": "Bolzano",
+   "titolare": "Famiglia Baumann",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Bistro Lampl",
+   "tel": "+390471970066",
+   "ind": "Via Rencio 53",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Bistro' Dalmazia Bar",
+   "tel": "+390471910004",
+   "ind": "Via Dalmazia 39",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Braceria Catizone Lucrezia",
+   "tel": "+390471910095",
+   "ind": "Via della Mendola 62",
+   "citta": "Bolzano",
+   "titolare": "Lucrezia Catizone",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Caffetteria da Libero",
+   "tel": "+390471500295",
+   "ind": "Via Alessandria 19",
+   "citta": "Bolzano",
+   "titolare": "Libero",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Caffetteria Ristorante Pizzeria da Libero",
+   "tel": "+390471918509",
+   "ind": "Via Dalmazia 81/A",
+   "citta": "Bolzano",
+   "titolare": "Libero Cariglia",
+   "kind": "pizzeria",
+   "mob": false
+  },
+  {
+   "nome": "Café Pizzeria Maso della Pieve",
+   "tel": "+390471250197",
+   "ind": "Via Maso della Pieve 9",
+   "citta": "Bolzano",
+   "titolare": "",
+   "kind": "pizzeria",
+   "mob": false
+  }
+ ]
+}

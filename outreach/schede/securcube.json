@@ -1,0 +1,20 @@
+{
+  "riassunto": "Securcube, con sede ad Asolo (TV), sviluppa software di digital forensics per l'analisi di tabulati telefonici e celle (PhoneLog, BTS Tracker) e offre servizi di laboratorio con consulenza processuale. I clienti sono forze dell'ordine, agenzie investigative e laboratori forensi in Italia e all'estero, inclusi Carabinieri e Guardia di Finanza.",
+  "pain_point": "Vendere a forze dell'ordine e laboratori forensi a livello globale richiede cicli lunghi e contatti molto mirati: e' plausibile che l'espansione commerciale, soprattutto verso agenzie investigative private e mercati esteri, sia limitata dal tempo che il team tecnico puo' dedicare alla prospezione.",
+  "hook": "ho visto che con PhoneLog e BTS Tracker lavorate gia' con Carabinieri, Guardia di Finanza ed enti americani sull'analisi forense di tabulati e celle",
+  "variante_email": "B",
+  "motivo_variante": "Target di nicchia istituzionale senza pain commerciale evidente dal sito; il questionario e' l'approccio piu' adatto per qualificare.",
+  "da_verificare": "Email nicola.chemello@securcube.net e' un pattern non verificato. Verificare se il target istituzionale (forze dell'ordine) e' compatibile con l'offerta Telesales prima dell'invio.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Securcube",
+  "nome_decisore": "Nicola Chemello",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "nicola.chemello@securcube.net",
+  "telefono": "",
+  "citta": "Asolo",
+  "settore": "IT / Software",
+  "website": "securcube.net",
+  "slug": "securcube",
+  "pagine_lette": ["https://securcube.net"]
+}

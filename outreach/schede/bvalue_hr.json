@@ -1,0 +1,20 @@
+{
+  "riassunto": "bValue HR, con headquarter a Bolzano, sviluppa una piattaforma HR all-in-one con oltre 16 moduli: payroll, presenze, recruiting, onboarding, performance, formazione LMS, spese e trasferte. Si rivolge ad aziende da 50 a oltre 1000 dipendenti in settori come tecnologia, energia, logistica e telecomunicazioni, con pricing da 1 euro per utente al mese e oltre 100 clienti.",
+  "pain_point": "Un software HR con pricing aggressivo per azienda da 50+ dipendenti compete in un mercato affollato (Factorial, Zucchetti): e' plausibile che il vincolo alla crescita non sia il prodotto ma il numero di demo qualificate con HR manager e direttori del personale fissate ogni settimana.",
+  "hook": "ho visto che la vostra piattaforma HR copre oltre 16 moduli, dal payroll al desk-booking, con piu' di 100 clienti e un pricing da 1 euro per utente al mese",
+  "variante_email": "B",
+  "motivo_variante": "Prodotto SaaS che vive di demo, ma il sito non esplicita difficolta' commerciali; il questionario e' l'apertura piu' prudente.",
+  "da_verificare": "Email youssef.fitasse@bvaluehr.com e' un pattern non verificato. Il dominio bvaluehr.com ha un certificato TLS non valido senza www: verificare il dominio email corretto prima dell'invio.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Bvalue Hr",
+  "nome_decisore": "Youssef Fitasse",
+  "ruolo_decisore": "Principal chief executive officer",
+  "email": "youssef.fitasse@bvaluehr.com",
+  "telefono": "",
+  "citta": "Bolzano",
+  "settore": "IT / Software",
+  "website": "bvaluehr.com",
+  "slug": "bvalue_hr",
+  "pagine_lette": ["https://www.bvaluehr.com"]
+}

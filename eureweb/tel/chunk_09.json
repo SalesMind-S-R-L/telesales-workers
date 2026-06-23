@@ -1,0 +1,205 @@
+[
+{
+"n": 233,
+"azienda": "Widiba",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "widiba.it"
+},
+{
+"n": 234,
+"azienda": "Younited Credit",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "younited-credit.com"
+},
+{
+"n": 235,
+"azienda": "Harley-Davidson Italia",
+"settore": "Automotive",
+"sede": "Milano",
+"sito": "harley-davidson.com"
+},
+{
+"n": 236,
+"azienda": "Leapmotor Italia",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "leapmotor.it"
+},
+{
+"n": 237,
+"azienda": "MINI Italia",
+"settore": "Automotive",
+"sede": "San Donato Milanese (MI)",
+"sito": "mini.it"
+},
+{
+"n": 238,
+"azienda": "Carrera (Safilo licenze) / Polaroid",
+"settore": "Fashion & Lifestyle",
+"sede": "Padova",
+"sito": "safilogroup.com"
+},
+{
+"n": 239,
+"azienda": "Dolce & Gabbana",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "dolcegabbana.com"
+},
+{
+"n": 240,
+"azienda": "Max Mara Fashion Group",
+"settore": "Fashion & Lifestyle",
+"sede": "Reggio Emilia",
+"sito": "maxmara.com"
+},
+{
+"n": 241,
+"azienda": "Tod s Group",
+"settore": "Fashion & Lifestyle",
+"sede": "Sant Elpidio a Mare (FM)",
+"sito": "todsgroup.com"
+},
+{
+"n": 242,
+"azienda": "Aldi Italia",
+"settore": "Retail & GDO",
+"sede": "Verona",
+"sito": "aldi.it"
+},
+{
+"n": 243,
+"azienda": "Toyota Motor Italia",
+"settore": "Automotive",
+"sede": "Roma",
+"sito": "toyota.it"
+},
+{
+"n": 244,
+"azienda": "Cameo (Dr. Oetker Italia)",
+"settore": "Food & Beverage",
+"sede": "Desenzano del Garda (Brescia)",
+"sito": "cameo.it"
+},
+{
+"n": 245,
+"azienda": "Cogedi (Uliveto e Rocchetta)",
+"settore": "Food & Beverage",
+"sede": "Roma",
+"sito": "uliveto.it"
+},
+{
+"n": 246,
+"azienda": "Parmareggio (Gruppo BonReale)",
+"settore": "Food & Beverage",
+"sede": "Modena",
+"sito": "parmareggio.it"
+},
+{
+"n": 247,
+"azienda": "Pasta Garofalo",
+"settore": "Food & Beverage",
+"sede": "Gragnano (NA)",
+"sito": "pasta-garofalo.com"
+},
+{
+"n": 248,
+"azienda": "Sammontana",
+"settore": "Food & Beverage",
+"sede": "Empoli (FI)",
+"sito": "sammontana.it"
+},
+{
+"n": 249,
+"azienda": "Kiko Milano",
+"settore": "Retail & GDO",
+"sede": "Bergamo",
+"sito": "kikocosmetics.com"
+},
+{
+"n": 250,
+"azienda": "Mondo Convenienza",
+"settore": "Retail & GDO",
+"sede": "Civitavecchia (RM)",
+"sito": "mondoconv.it"
+},
+{
+"n": 251,
+"azienda": "Pull&Bear / Bershka / Stradivarius (Inditex Italia)",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "inditex.com"
+},
+{
+"n": 252,
+"azienda": "Engie Italia",
+"settore": "Telco / Energia-Utility",
+"sede": "Milano",
+"sito": "engie.it"
+},
+{
+"n": 253,
+"azienda": "Gruppo Hera (Hera Comm)",
+"settore": "Telco / Energia-Utility",
+"sede": "Bologna",
+"sito": "gruppohera.it"
+},
+{
+"n": 254,
+"azienda": "Spotify Italia",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "spotify.com"
+},
+{
+"n": 255,
+"azienda": "Anima Holding (Anima SGR)",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "animasgr.it"
+},
+{
+"n": 256,
+"azienda": "Enel / Enel Energia",
+"settore": "Telco / Energia-Utility",
+"sede": "Roma",
+"sito": "enel.it"
+},
+{
+"n": 257,
+"azienda": "RaiPlay (Rai)",
+"settore": "Telecomunicazioni",
+"sede": "Roma",
+"sito": "raiplay.it"
+},
+{
+"n": 258,
+"azienda": "Sky / NOW (Sky Italia)",
+"settore": "Telecomunicazioni",
+"sede": "Milano/Roma",
+"sito": "nowtv.it"
+},
+{
+"n": 259,
+"azienda": "Compass Banca (Gruppo Mediobanca)",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "compass.it"
+},
+{
+"n": 260,
+"azienda": "ConTe.it (Admiral Group)",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "conte.it"
+},
+{
+"n": 261,
+"azienda": "Acqua di Parma (LVMH)",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "acquadiparma.com"
+}
+]

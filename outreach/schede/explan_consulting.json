@@ -1,0 +1,20 @@
+{
+  "riassunto": "Explan Consulting di Bollate (MI) e' una societa' con oltre 20 anni di esperienza in innovazione digitale per le PMI italiane: infrastrutture IT, managed service, sicurezza informatica e due piattaforme proprietarie, PlanGei per il facility management e PlanCom Dynamics, ERP per installatori e manutentori. E' partner di Microsoft, IBM, Cisco e VMware.",
+  "pain_point": "Le societa' di managed service e ERP verticali come PlanCom vivono di contratti ricorrenti, ma acquisire nuove PMI richiede primi appuntamenti che i tecnici-consulenti raramente hanno tempo di procurarsi: e' plausibile che la pipeline dipenda da passaparola piu' che da prospezione strutturata.",
+  "hook": "ho visto che oltre ai servizi IT gestiti avete sviluppato piattaforme proprietarie come PlanGei per il facility e PlanCom Dynamics per installatori e manutentori",
+  "variante_email": "B",
+  "motivo_variante": "Offerta matura ma nessun segnale esplicito di pain commerciale dal sito; meglio qualificare con il questionario.",
+  "da_verificare": "Email francesco.soatin@explan.it e' un pattern non verificato. Verificare che Francesco Soatin sia il CEO attuale.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Explan Consulting",
+  "nome_decisore": "Francesco Soatin",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "francesco.soatin@explan.it",
+  "telefono": "",
+  "citta": "Bollate",
+  "settore": "IT / Software",
+  "website": "explan.it",
+  "slug": "explan_consulting",
+  "pagine_lette": ["https://explan.it"]
+}

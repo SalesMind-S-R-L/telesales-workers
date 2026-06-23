@@ -1,0 +1,21 @@
+{
+  "riassunto": "Neos Srl e' una societa' di consulenza direzionale e formazione con sedi a Milano e Palermo: sistemi di gestione ISO, sicurezza sul lavoro, ESG e corsi di formazione professionale e manageriale, con oltre 1.500 progetti di consulenza completati.",
+  "pain_point": "Nel mercato di consulenza compliance e formazione la concorrenza e' alta e i clienti si rinnovano: servono primi incontri costanti con nuove direzioni aziendali per non dipendere dal parco clienti storico.",
+  "hook": "ho visto che avete superato 1.500 progetti di consulenza e 1.800 clienti tra Milano e Palermo",
+  "variante_email": "A",
+  "motivo_variante": "Decisore identificato e hook su numeri specifici del sito, adatta alla variante personalizzata.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://www.neossrl.com/formazione/corsi-professionali/formazione-manageriale-e-delle-risorse-umane/leadership-16-ore.asp",
+  "nome_azienda": "Neos Srl",
+  "nome_decisore": "Carlo Vetrano",
+  "ruolo_decisore": "Direttore",
+  "email": "carlo.vetrano@neossrl.com",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "neossrl.com",
+  "pagine_lette": ["https://www.neossrl.com/"]
+}

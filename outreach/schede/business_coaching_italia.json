@@ -1,0 +1,21 @@
+{
+  "riassunto": "Business Coaching Italia e' una societa' romana dedicata interamente al business coaching per imprenditori e manager, con oltre 20 coach certificati e centinaia di imprenditori seguiti ogni anno per strutturare e far crescere le loro aziende.",
+  "pain_point": "Un team di 20 coach va alimentato con nuovi clienti ogni mese: se l'acquisizione poggia soprattutto su contenuti e passaparola, manca un canale outbound che porti appuntamenti qualificati in modo prevedibile.",
+  "hook": "ho visto che il vostro team di oltre 20 coach segue centinaia di imprenditori ogni anno con sessioni di business coaching",
+  "variante_email": "A",
+  "motivo_variante": "Founder visibile e hook su numeri concreti del sito, adatta alla variante personalizzata.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://www.businesscoachingitalia.com/",
+  "nome_azienda": "Business Coaching Italia",
+  "nome_decisore": "Antonio Panico",
+  "ruolo_decisore": "Founder",
+  "email": "antonio.panico@businesscoachingitalia.com",
+  "telefono": "",
+  "citta": "Roma",
+  "settore": "Consulenza gestionale",
+  "website": "businesscoachingitalia.com",
+  "pagine_lette": ["https://www.businesscoachingitalia.com/chi-siamo/"]
+}

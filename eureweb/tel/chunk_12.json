@@ -1,0 +1,205 @@
+[
+{
+"n": 320,
+"azienda": "Citterio",
+"settore": "Food & Beverage",
+"sede": "Rho (MI)",
+"sito": "citterio.com"
+},
+{
+"n": 321,
+"azienda": "Rovagnati",
+"settore": "Food & Beverage",
+"sede": "Biassono (MB)",
+"sito": "rovagnati.it"
+},
+{
+"n": 322,
+"azienda": "Bata Italia",
+"settore": "Retail & GDO",
+"sede": "Limena (PD)",
+"sito": "bata.it"
+},
+{
+"n": 323,
+"azienda": "Deichmann Italia",
+"settore": "Retail & GDO",
+"sede": "Vigonza (PD)",
+"sito": "deichmann.com"
+},
+{
+"n": 324,
+"azienda": "Isola dei Tesori (Gruppo Arcaplanet/Maxi Zoo era; insegna Fortune)",
+"settore": "Retail & GDO",
+"sede": "Asti",
+"sito": "isoladeitesori.it"
+},
+{
+"n": 325,
+"azienda": "Kasanova",
+"settore": "Retail & GDO",
+"sede": "Cologno Monzese (MI)",
+"sito": "kasanova.com"
+},
+{
+"n": 326,
+"azienda": "Maisons du Monde Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "maisonsdumonde.com"
+},
+{
+"n": 327,
+"azienda": "ManoMano Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "manomano.it"
+},
+{
+"n": 328,
+"azienda": "NaturaSi (EcorNaturaSi)",
+"settore": "Retail & GDO",
+"sede": "Verona",
+"sito": "naturasi.it"
+},
+{
+"n": 329,
+"azienda": "Piazza Italia",
+"settore": "Retail & GDO",
+"sede": "Nola (NA)",
+"sito": "piazzaitalia.it"
+},
+{
+"n": 330,
+"azienda": "Risparmio Casa",
+"settore": "Retail & GDO",
+"sede": "Pomezia (RM)",
+"sito": "risparmiocasa.com"
+},
+{
+"n": 331,
+"azienda": "Stroili (Stroili Oro)",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "stroilioro.com"
+},
+{
+"n": 332,
+"azienda": "Terranova (Teddy)",
+"settore": "Retail & GDO",
+"sede": "Rimini",
+"sito": "terranovastyle.com"
+},
+{
+"n": 333,
+"azienda": "Ascopiave",
+"settore": "Telco / Energia-Utility",
+"sede": "Pieve di Soligo (TV)",
+"sito": "gruppoascopiave.it"
+},
+{
+"n": 334,
+"azienda": "Planetel S.p.A.",
+"settore": "Telecomunicazioni",
+"sede": "Treviolo (BG)",
+"sito": "planetel.it"
+},
+{
+"n": 335,
+"azienda": "Tiscali",
+"settore": "Telecomunicazioni",
+"sede": "Cagliari",
+"sito": "tiscali.it"
+},
+{
+"n": 336,
+"azienda": "Banca Sella",
+"settore": "Finance & Insurance",
+"sede": "Biella",
+"sito": "sella.it"
+},
+{
+"n": 337,
+"azienda": "Genertel",
+"settore": "Finance & Insurance",
+"sede": "Trieste",
+"sito": "genertel.it"
+},
+{
+"n": 338,
+"azienda": "N26 Italia",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "n26.com"
+},
+{
+"n": 339,
+"azienda": "Crivelli Gioielli",
+"settore": "Fashion & Lifestyle",
+"sede": "Valenza (AL)",
+"sito": "crivelligioielli.com"
+},
+{
+"n": 340,
+"azienda": "Deborah Milano",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "deborahmilano.com"
+},
+{
+"n": 341,
+"azienda": "Diego Dalla Palma Milano",
+"settore": "Fashion & Lifestyle",
+"sede": "Vimodrone (MI)",
+"sito": "diegodallapalmamilano.com"
+},
+{
+"n": 342,
+"azienda": "Falconeri (Oniverse)",
+"settore": "Fashion & Lifestyle",
+"sede": "Verona",
+"sito": "falconeri.com"
+},
+{
+"n": 343,
+"azienda": "Harmont & Blaine",
+"settore": "Fashion & Lifestyle",
+"sede": "Caivano (NA)",
+"sito": "harmontblaine.com"
+},
+{
+"n": 344,
+"azienda": "Lotto Sport Italia",
+"settore": "Fashion & Lifestyle",
+"sede": "Trevignano (TV)",
+"sito": "lottosport.com"
+},
+{
+"n": 345,
+"azienda": "Pupa Milano",
+"settore": "Fashion & Lifestyle",
+"sede": "Trezzo sull Adda (MI)",
+"sito": "pupamilano.com"
+},
+{
+"n": 346,
+"azienda": "Roberto Coin",
+"settore": "Fashion & Lifestyle",
+"sede": "Vicenza",
+"sito": "robertocoin.com"
+},
+{
+"n": 347,
+"azienda": "Stroili / Stroili Oro",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "stroilioro.com"
+},
+{
+"n": 348,
+"azienda": "Aprilia",
+"settore": "Automotive",
+"sede": "Noale (VE)",
+"sito": "aprilia.com"
+}
+]

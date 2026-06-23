@@ -1,0 +1,52 @@
+{
+  "intro": "Come chiamare i titolari delle aziende di traslochi e fissare una DEMO del configuratore IsyQuote. Ci si presenta a nome Easyquote.",
+  "chi_chiami": [
+    "Titolari di aziende di traslochi in Toscana (PMI: ditte individuali, SNC, piccole SRL). Obiettivo: fissare una demo del configuratore IsyQuote col referente Easyquote (Nabil) - videocall a giugno, dal vivo da luglio.",
+    "NON chiamare la lista rossa zona Lucca (competitor del cliente pilota) ne il pilota L&C Traslochi e Servizi. NON chiamare le aziende di soli trasporti."
+  ],
+  "script": {
+    "regola": "In chiamata NON si fanno prezzi: il prezzo si vede in demo. L'unico obiettivo e fissare l'appuntamento.",
+    "apertura": "\"Buongiorno, sono [NOME] della parte commerciale di Easyquote. Parlo con il titolare? Vi contatto perche abbiamo creato uno strumento pensato apposta per le aziende di traslochi.\"",
+    "sviluppo": "Gancio sulla nicchia + il tempo perso: \"Abbiamo costruito un configuratore che mettete sul vostro sito: il cliente fa il preventivo da solo e lo riceve subito, cosi voi non perdete piu mezz'ore al telefono per ogni preventivo. Lo usa gia un'azienda che seguiamo, L&C, cresciuta molto negli ultimi anni.\" (NB: la crescita di L&C nasce da piu fattori, non solo dal configuratore: non promettere che da solo porta da 60k a 500k). Verifica che facciano traslochi (non solo trasporti).",
+    "chiusura": "Proponi due slot e fissa: \"Le va se le faccio vedere come funziona in 15 minuti? Ho [giorno] alle [ora] oppure [giorno] alle [ora]. Glielo mostro gia funzionante.\" Poi conferma con l'appuntamento sul calendario di Nabil."
+  },
+  "scenari": [
+    ["A. Risponde segretaria/centralino", "Chiedi del titolare: \"Mi passa il titolare? E una cosa che riguarda direttamente lui, sul sito e i preventivi.\" Se non c'e, prendi nome e momento buono per richiamare."],
+    ["B. Parli col titolare", "Aggancia sul tempo perso a fare preventivi e sul caso L&C, poi fissa la demo. Non spiegare tutto a voce: \"E piu veloce se glielo mostro.\""],
+    ["C. 'Ho gia un sito'", "\"Perfetto, il configuratore ci si integra: oggi il sito mostra e basta, con noi prende preventivi e prenotazioni. In demo glielo faccio vedere sul suo.\""],
+    ["D. 'I miei clienti chiamano, non vanno sul sito'", "\"Continua a rispondere al telefono: ma invece di perdere mezz'ora a fare il preventivo a voce, gli dice di configurarlo sul sito in 5 minuti. Lei piu libero, il cliente piu contento perche non aspetta.\""],
+    ["E. 'Quanto costa?'", "\"Il prezzo dipende da come lo configura, quindi glielo mostriamo in demo. In chiamata le fisso solo l'appuntamento, senza impegno.\""]
+  ],
+  "obiezioni": [
+    ["\"Mandatemi una mail\"", "\"Volentieri, intanto le blocco 15 minuti in videocall: in 5 minuti capisce se fa per lei, e molto piu chiaro che leggere una mail.\""],
+    ["\"Non ho tempo\"", "\"Bastano 15 minuti, gestione zero da parte sua: glielo mostriamo gia funzionante su un'azienda come la sua.\""],
+    ["\"Lavoro da solo / siamo in due\"", "\"E proprio per questo: il configuratore fa i preventivi al posto suo mentre lei e fuori a fare il trasloco. Le fa risparmiare le ore piu preziose.\""],
+    ["\"Il settore va male / non e il momento\"", "\"Capisco. Proprio perche il settore e fermo, chi si muove adesso prende i clienti di chi resta indietro. Le faccio vedere in 15 minuti, poi decide lei.\""],
+    ["\"Ci penso\"", "\"Certo. Le fisso intanto la demo cosi vede con i suoi occhi: se non la convince, l'ha persa per 15 minuti. [Giorno] alle [ora]?\""]
+  ],
+  "regole_oro_setter": [
+    ["1. L'obiettivo e la DEMO con il titolare.", "Tutto il resto e dettaglio."],
+    ["2. MAI prezzi al telefono.", "Il prezzo si vede in demo."],
+    ["3. Ti presenti come EASYQUOTE.", "Mai come Telesales."],
+    ["4. Non bruciare il contatto.", "Tono da pari, mai insistente: il nome resta per sempre."],
+    ["5. Rispetta le esclusioni.", "Niente lista rossa Lucca, niente pilota L&C, niente aziende di soli trasporti."]
+  ],
+  "esiti": [
+    ["Da contattare", "Stato iniziale."],
+    ["Non risposto", "Nessuno ha risposto."],
+    ["Da richiamare", "Centralino/segreteria, titolare assente o non era il momento."],
+    ["Referente individuato", "Hai nome del titolare e momento buono per richiamare."],
+    ["Interessato", "Apertura positiva, demo da fissare."],
+    ["Appuntamento fissato", "Demo fissata a calendario. Win."],
+    ["Da ricontattare piu avanti", "Non ora (es. sotto stagione, valutera dopo)."],
+    ["Non in target", "Azienda di soli trasporti o non idonea."],
+    ["Non interessato", "Chiuso."],
+    ["Numero/contatto errato", "Recapito sbagliato."]
+  ],
+  "tono": [
+    ["Da chi conosce il settore", "Parli la lingua del traslocatore: preventivi a mano, telefono che squilla, tempo perso."],
+    ["Concreto", "Frasi corte, due slot, niente spiegoni: 'glielo mostro'."],
+    ["Pari grado", "Professionale, mai supplicante. Il titolare e impegnato: vai dritto al valore."]
+  ],
+  "mini_report": "Esempio: \"30 chiamate, 18 titolari raggiunti, 4 demo fissate (3 fuori Firenze in videocall).\""
+}

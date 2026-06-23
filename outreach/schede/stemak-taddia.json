@@ -1,0 +1,22 @@
+{
+  "riassunto": "Stemak progetta e realizza macchine e attrezzature automatiche su specifica richiesta per l'assemblaggio industriale. Offre soluzioni specializzate come rivettatrici, avvitatrici e attrezzature personalizzate ad alta produttivita' e affidabilita'.",
+  "pain_point": "Costruttore di macchine di assemblaggio su misura identificato col titolare: la produzione su commessa assorbe il fondatore e manca un canale dedicato a portare nuove richieste di preventivo.",
+  "hook": "ho visto che realizzate macchine automatiche di assemblaggio su specifica, come rivettatrici e avvitatrici",
+  "variante_email": "B",
+  "motivo_variante": "Ditta individuale legata al titolare: aggancio concreto sul su misura, variante B.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.stemakautomazione.it/costruzione-macchine",
+  "nome_azienda": "Stemak",
+  "nome_decisore": "Stefano Taddia",
+  "ruolo_decisore": "Titolare",
+  "email": "stefano.taddia@stemakautomazione.it",
+  "telefono": "",
+  "citta": "Monte San Pietro",
+  "settore": "Automazione e macchinari",
+  "website": "stemakautomazione.it",
+  "pagine_lette": [
+    "https://www.stemakautomazione.it/costruzione-macchine"
+  ]
+}

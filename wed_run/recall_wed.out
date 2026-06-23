@@ -1,0 +1,36 @@
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.6). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[10:22:47] recall daemon avviato. foglio: 900 numeri
+[10:34:51]   QUEUE recall +390471052788 (Real Frabe S.r.l.) -> 12:31
+[10:37:52]   QUEUE recall +390471280078 (Thai - Oriental) -> 12:00
+[11:02:07]   QUEUE recall +390471917021 (Passione Pizza da Angelo (Do) -> 18:00
+[11:02:07]   QUEUE recall +390471916558 (Hotel Ariston) -> 13:00
+[11:32:21]   QUEUE recall +393392730509 (Weidlhof B&B) -> 13:31
+[11:50:30]   QUEUE recall +390471971713 (Bar Novum) -> 13:46
+[12:02:41]   >>> RECALL LIVE +390471280078 Thai - Oriental -> btcal_9501ktrfqw5sftmtfndcrshqf8qm
+[12:05:42]   QUEUE recall +390471280078 (Thai - Oriental) -> 15:00
+[12:33:03]   >>> RECALL LIVE +390471052788 Real Frabe S.r.l. -> btcal_8801ktrhfexefax9n04d61j1s84e
+[12:36:04]   QUEUE recall +390471052788 (Real Frabe S.r.l.) -> 14:33
+[13:00:26]   >>> RECALL LIVE +390471916558 Hotel Ariston -> btcal_8101ktrk1k1xemttx3srap0tbmyv
+[13:33:56]   >>> RECALL LIVE +393392730509 Weidlhof B&B -> btcal_6201ktrmyy8ge2bsrvv2s1nne7nn
+[13:46:08]   >>> RECALL LIVE +390471971713 Bar Novum -> btcal_6201ktrnn9b0f7xa2svn7hme9d1h
+[14:35:08]   >>> RECALL LIVE +390471052788 Real Frabe S.r.l. -> btcal_7201ktrrf008fh28e1xb4r5gej38
+[15:02:44]   >>> RECALL LIVE +390471280078 Thai - Oriental -> btcal_5501ktrt1hmdf7av3q8sptw5e0na
+[15:05:46]   QUEUE recall +390471975642 (Parkhotel Luna Mondschein) -> 17:03
+[15:11:57]   QUEUE recall +390471251669 (Garnì Tezzele Bed e Breakfas) -> 17:08
+[15:11:57]   QUEUE recall +390471665854 (Hotel Ristorante Ansitz Rung) -> 17:10
+[15:24:18]   QUEUE recall +393479351174 (Ristorante Argentieri) -> 18:00
+[15:30:33]   QUEUE recall +393737646563 (Bar Ristorante Vecchia Persi) -> 17:29
+[17:04:47]   >>> RECALL LIVE +390471975642 Parkhotel Luna Mondschein -> btcal_1401kts110btevsahjh0dbg6aydd
+[17:10:57]   >>> RECALL LIVE +390471251669 Garnì Tezzele Bed e Breakfas -> btcal_6501kts1ca6zecxbtx2rm6tyfyf4
+[17:10:58]   >>> RECALL LIVE +390471665854 Hotel Ristorante Ansitz Rung -> btcal_9201kts1carff6vrv1ykbtf78nve
+[17:29:35]   >>> RECALL LIVE +393737646563 Bar Ristorante Vecchia Persi -> btcal_7501kts2ee0ke72sk4zsyrhk1ccj
+[18:00:55]   >>> RECALL LIVE +390471917021 Passione Pizza da Angelo (Do -> btcal_9601kts47sncexpvhr6ywqs0ygb6
+[18:00:56]   >>> RECALL LIVE +393479351174 Ristorante Argentieri -> btcal_8801kts47tdbe7e95ggjk3yjd5pw
+[19:31:54] recall daemon: fine giornata

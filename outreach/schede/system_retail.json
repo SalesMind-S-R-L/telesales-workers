@@ -1,0 +1,20 @@
+{
+  "riassunto": "System Retail (Ancona, gruppo Custom) e' specializzata nella gestione dei dati di cassa e degli incassi per GDO, retail e Ho.Re.Ca., con oltre 30.000 installazioni in Italia. Offre software come OneStore GDO e Suite EVO, hardware di cassa e app mobile, distribuiti tramite una rete dealer nazionale.",
+  "pain_point": "La vendita passa in gran parte da una rete dealer distribuita: alimentare i dealer e la forza diretta con lead e appuntamenti qualificati su GDO e catene retail e' probabilmente un fronte dove un flusso outbound costante farebbe la differenza.",
+  "hook": "ho visto che con oltre 30.000 installazioni e soluzioni come OneStore GDO e Suite EVO siete il riferimento italiano per la gestione dei dati di cassa",
+  "variante_email": "B",
+  "motivo_variante": "Azienda leader con rete dealer consolidata, nessun pain outbound dichiarato: meglio aprire con il questionario di valutazione commerciale.",
+  "da_verificare": "Email claudio.garbini@systemretail.it e' un pattern non verificato; capire come si divide la vendita tra rete dealer e commerciale diretto prima della call.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "System Retail",
+  "nome_decisore": "Claudio Garbini",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "claudio.garbini@systemretail.it",
+  "telefono": "",
+  "citta": "Ancona",
+  "settore": "IT / Software",
+  "website": "systemretail.it",
+  "pagine_lette": ["https://www.systemretail.it"],
+  "slug": "system_retail"
+}

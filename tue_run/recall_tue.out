@@ -1,0 +1,21 @@
+recall PID 5710 Tue Jun  9 08:28:53 CEST 2026
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.6). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[08:29:00] recall daemon avviato. foglio: 900 numeri
+[10:31:58]   QUEUE recall +390471917021 (Passione Pizza da Angelo (Do) -> 18:00
+[10:41:02]   QUEUE recall +390471280078 (Thai - Oriental) -> 15:00
+[10:44:05]   QUEUE recall +390471052788 (Real Frabe S.r.l.) -> 12:41
+[12:42:15]   >>> RECALL LIVE +390471052788 Real Frabe S.r.l. -> btcal_9101ktnzkk4ae5gtjz2rm8gnk0nw
+[12:45:16]   QUEUE recall +390471052788 (Real Frabe S.r.l.) -> 14:42
+[14:43:46]   >>> RECALL LIVE +390471052788 Real Frabe S.r.l. -> btcal_4601ktp6j360f2b8yygvm5hsg4pw
+[15:02:01]   >>> RECALL LIVE +390471280078 Thai - Oriental -> btcal_8901ktp7kgmaesnbf66fdt8gzzhb
+[15:05:03]   QUEUE recall +390471251669 (Garnì Tezzele Bed e Breakfas) -> 17:02
+[15:17:17]   QUEUE recall +390471266648 (Un Melograno Ristorante) -> 17:15
+[17:02:12]   >>> RECALL LIVE +390471251669 Garnì Tezzele Bed e Breakfas -> btcal_8201ktpefjg8fe4r3w1vwc1afpfe
+[17:17:32]   >>> RECALL LIVE +390471266648 Un Melograno Ristorante -> btcal_5301ktpfbmdne9dtwwd2js53s2dy

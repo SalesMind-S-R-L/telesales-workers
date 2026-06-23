@@ -1,0 +1,19 @@
+{
+  "riassunto": "NetConsulting cube e' una societa' milanese di consulenza e analisi sul mercato digitale italiano che unisce ricerche di mercato, supporto all'innovazione e al change management, demand generation e comunicazione digitale. Si posiziona come punto di osservazione autorevole sul mercato digitale, con studi di settore e osservatori periodici.",
+  "pain_point": "Offrono demand generation ai clienti, ma per una societa' di analisi e ricerche il flusso di nuovi clienti dipende spesso da reputazione e osservatori; e' plausibile che la conversione dei contatti generati dagli studi in appuntamenti commerciali sia un collo di bottiglia.",
+  "hook": "ho visto che vi posizionate come osservatorio autorevole sul mercato digitale italiano, con studi di settore e servizi di demand generation",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale non evidente dal sito, meglio la valutazione tramite questionario.",
+  "da_verificare": "Email e' un pattern non verificato. Verificare che Annamaria Di Ruscio sia ancora CEO e che il pattern usi 'ruscio' e non 'diruscio'.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Netconsulting Cube",
+  "nome_decisore": "Annamaria Di Ruscio",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "annamaria.ruscio@netconsultingcube.com",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "netconsultingcube.com",
+  "pagine_lette": ["https://netconsultingcube.com"]
+}

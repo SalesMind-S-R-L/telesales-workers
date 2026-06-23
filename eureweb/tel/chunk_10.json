@@ -1,0 +1,205 @@
+[
+{
+"n": 262,
+"azienda": "Brunello Cucinelli",
+"settore": "Fashion & Lifestyle",
+"sede": "Solomeo (PG)",
+"sito": "brunellocucinelli.com"
+},
+{
+"n": 263,
+"azienda": "Bvlgari",
+"settore": "Fashion & Lifestyle",
+"sede": "Roma",
+"sito": "bulgari.com"
+},
+{
+"n": 264,
+"azienda": "Diesel (OTB Group)",
+"settore": "Fashion & Lifestyle",
+"sede": "Breganze (VI)",
+"sito": "diesel.com"
+},
+{
+"n": 265,
+"azienda": "Loro Piana",
+"settore": "Fashion & Lifestyle",
+"sede": "Quarona (VC)",
+"sito": "loropiana.com"
+},
+{
+"n": 266,
+"azienda": "Marcolin",
+"settore": "Fashion & Lifestyle",
+"sede": "Longarone (BL)",
+"sito": "marcolin.com"
+},
+{
+"n": 267,
+"azienda": "Pomellato",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "pomellato.com"
+},
+{
+"n": 268,
+"azienda": "Safilo Group",
+"settore": "Fashion & Lifestyle",
+"sede": "Padova",
+"sito": "safilogroup.com"
+},
+{
+"n": 269,
+"azienda": "Tezenis (Oniverse)",
+"settore": "Fashion & Lifestyle",
+"sede": "Verona",
+"sito": "tezenis.com"
+},
+{
+"n": 270,
+"azienda": "Audi Italia",
+"settore": "Automotive",
+"sede": "Verona",
+"sito": "audi.it"
+},
+{
+"n": 271,
+"azienda": "BMW Italia",
+"settore": "Automotive",
+"sede": "San Donato Milanese (MI)",
+"sito": "bmw.it"
+},
+{
+"n": 272,
+"azienda": "Ford Italia",
+"settore": "Automotive",
+"sede": "Roma",
+"sito": "ford.it"
+},
+{
+"n": 273,
+"azienda": "Mercedes-Benz Italia",
+"settore": "Automotive",
+"sede": "Roma",
+"sito": "mercedes-benz.it"
+},
+{
+"n": 274,
+"azienda": "Birra Peroni",
+"settore": "Food & Beverage",
+"sede": "Roma",
+"sito": "peroniitalia.com"
+},
+{
+"n": 275,
+"azienda": "Coca-Cola HBC Italia",
+"settore": "Food & Beverage",
+"sede": "Sesto San Giovanni (MI)",
+"sito": "it.coca-colahellenic.com"
+},
+{
+"n": 276,
+"azienda": "Galbani (Lactalis Italia)",
+"settore": "Food & Beverage",
+"sede": "Milano",
+"sito": "galbani.it"
+},
+{
+"n": 277,
+"azienda": "Nestle Italia",
+"settore": "Food & Beverage",
+"sede": "Assago (MI)",
+"sito": "nestle.it"
+},
+{
+"n": 278,
+"azienda": "Sanpellegrino",
+"settore": "Food & Beverage",
+"sede": "Milano",
+"sito": "sanpellegrino-corporate.it"
+},
+{
+"n": 279,
+"azienda": "Star (GB Foods Italia)",
+"settore": "Food & Beverage",
+"sede": "Agrate Brianza (MB)",
+"sito": "staralimentare.it"
+},
+{
+"n": 280,
+"azienda": "Calzedonia Group",
+"settore": "Retail & GDO",
+"sede": "Verona",
+"sito": "calzedonia.com"
+},
+{
+"n": 281,
+"azienda": "Carrefour Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "carrefour.it"
+},
+{
+"n": 282,
+"azienda": "Conad",
+"settore": "Retail & GDO",
+"sede": "Bologna",
+"sito": "conad.it"
+},
+{
+"n": 283,
+"azienda": "Decathlon Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "decathlon.it"
+},
+{
+"n": 284,
+"azienda": "Douglas Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "douglas.it"
+},
+{
+"n": 285,
+"azienda": "Esselunga",
+"settore": "Retail & GDO",
+"sede": "Pioltello (MI)",
+"sito": "esselunga.it"
+},
+{
+"n": 286,
+"azienda": "IKEA Italia",
+"settore": "Retail & GDO",
+"sede": "Carugate (MI)",
+"sito": "ikea.com"
+},
+{
+"n": 287,
+"azienda": "La Rinascente",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "rinascente.it"
+},
+{
+"n": 288,
+"azienda": "Leroy Merlin Italia",
+"settore": "Retail & GDO",
+"sede": "Rozzano (MI)",
+"sito": "leroymerlin.it"
+},
+{
+"n": 289,
+"azienda": "Lidl Italia",
+"settore": "Retail & GDO",
+"sede": "Arcole (VR)",
+"sito": "lidl.it"
+},
+{
+"n": 290,
+"azienda": "OVS",
+"settore": "Retail & GDO",
+"sede": "Venezia-Mestre",
+"sito": "ovs.it"
+}
+]

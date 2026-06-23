@@ -1,0 +1,205 @@
+[
+{
+"n": 59,
+"azienda": "Trussardi",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "trussardi.com"
+},
+{
+"n": 60,
+"azienda": "Automobili Lamborghini",
+"settore": "Automotive",
+"sede": "Sant'Agata Bolognese (BO)",
+"sito": "lamborghini.com"
+},
+{
+"n": 61,
+"azienda": "Ducati Motor Holding",
+"settore": "Automotive",
+"sede": "Bologna",
+"sito": "ducati.com"
+},
+{
+"n": 62,
+"azienda": "Ferrari",
+"settore": "Automotive",
+"sede": "Maranello (MO)",
+"sito": "ferrari.com"
+},
+{
+"n": 63,
+"azienda": "Acqua Minerale San Benedetto",
+"settore": "Food & Beverage",
+"sede": "Scorze (VE)",
+"sito": "sanbenedetto.it"
+},
+{
+"n": 64,
+"azienda": "Caviro (Tavernello)",
+"settore": "Food & Beverage",
+"sede": "Faenza (Ravenna)",
+"sito": "caviro.com"
+},
+{
+"n": 65,
+"azienda": "Colussi",
+"settore": "Food & Beverage",
+"sede": "Milano / Petrignano (Perugia)",
+"sito": "colussigroup.it"
+},
+{
+"n": 66,
+"azienda": "Fratelli Branca Distillerie",
+"settore": "Food & Beverage",
+"sede": "Milano",
+"sito": "branca.it"
+},
+{
+"n": 67,
+"azienda": "Gruppo Casalasco (Pomi / De Rica)",
+"settore": "Food & Beverage",
+"sede": "Rivarolo del Re (Cremona)",
+"sito": "casalasco.com"
+},
+{
+"n": 68,
+"azienda": "Illva Saronno (Disaronno)",
+"settore": "Food & Beverage",
+"sede": "Saronno (VA)",
+"sito": "illva.it"
+},
+{
+"n": 69,
+"azienda": "Negroni Salumi",
+"settore": "Food & Beverage",
+"sede": "Cremona",
+"sito": "negronisalumi.it"
+},
+{
+"n": 70,
+"azienda": "Orogel",
+"settore": "Food & Beverage",
+"sede": "Cesena",
+"sito": "orogel.it"
+},
+{
+"n": 71,
+"azienda": "Parmalat",
+"settore": "Food & Beverage",
+"sede": "Collecchio (Parma)",
+"sito": "parmalat.it"
+},
+{
+"n": 72,
+"azienda": "Pastificio Rana",
+"settore": "Food & Beverage",
+"sede": "San Giovanni Lupatoto (VR)",
+"sito": "giovannirana.it"
+},
+{
+"n": 73,
+"azienda": "San Carlo (Unichips)",
+"settore": "Food & Beverage",
+"sede": "Milano",
+"sito": "sancarlo.it"
+},
+{
+"n": 74,
+"azienda": "Penny Market Italia",
+"settore": "Retail & GDO",
+"sede": "Cesano Boscone (MI)",
+"sito": "penny.it"
+},
+{
+"n": 75,
+"azienda": "Selex Gruppo Commerciale",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "selexgc.it"
+},
+{
+"n": 76,
+"azienda": "Eni Plenitude",
+"settore": "Telco / Energia-Utility",
+"sede": "San Donato Milanese (MI)",
+"sito": "plenitude.com"
+},
+{
+"n": 77,
+"azienda": "Octopus Energy Italia",
+"settore": "Telco / Energia-Utility",
+"sede": "Milano",
+"sito": "octopusenergy.it"
+},
+{
+"n": 78,
+"azienda": "Pulsee Luce e Gas (Axpo Italia)",
+"settore": "Telco / Energia-Utility",
+"sede": "Genova",
+"sito": "pulsee.it"
+},
+{
+"n": 79,
+"azienda": "Cairo Communication",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "cairocommunication.it"
+},
+{
+"n": 80,
+"azienda": "Mediaset / Mediaset Infinity (MFE)",
+"settore": "Telecomunicazioni",
+"sede": "Cologno Monzese (MI)",
+"sito": "mediaset.it"
+},
+{
+"n": 81,
+"azienda": "Optima Italia",
+"settore": "Telecomunicazioni",
+"sede": "Napoli",
+"sito": "optimaitalia.com"
+},
+{
+"n": 82,
+"azienda": "RTL 102.5",
+"settore": "Telecomunicazioni",
+"sede": "Cologno Monzese (MI)",
+"sito": "rtl.it"
+},
+{
+"n": 83,
+"azienda": "RadioMediaset (R101 / Radio 105 / Virgin / Radio Monte Carlo)",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "radiomediaset.it"
+},
+{
+"n": 84,
+"azienda": "Warner Bros. Discovery Italia",
+"settore": "Telecomunicazioni",
+"sede": "Roma",
+"sito": "wbd.com"
+},
+{
+"n": 85,
+"azienda": "Allianz Direct",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "allianzdirect.it"
+},
+{
+"n": 86,
+"azienda": "Azimut Holding",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "azimut.it"
+},
+{
+"n": 87,
+"azienda": "BANCOMAT",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "bancomat.it"
+}
+]

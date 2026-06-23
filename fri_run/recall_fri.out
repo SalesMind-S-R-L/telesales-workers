@@ -1,0 +1,80 @@
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.6). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[09:32:39] recall daemon avviato. foglio: 900 numeri
+[09:32:40]   >>> RECALL LIVE +390471885114 Naomi Pub Bistro -> btcal_8201ktxbyky6e8xtdkgqkykdejaz
+[09:32:41]   >>> RECALL LIVE +390471976183 Franziskanerstuben -> btcal_5901ktxbymhtfzevsndxzy5bvteh
+[09:32:41]   >>> RECALL LIVE +390471889020 Hotel Buchholz (Albergo Salo -> btcal_9301ktxbyn25fnbvxazx5m1mh8rz
+[10:05:58]   QUEUE recall +390471665152 (Garni Blumenhof Gaiser Rudol) -> 12:05
+[10:21:07]   QUEUE recall +393336321067 (Sportbar) -> 12:18
+[10:24:10]   QUEUE recall +390471664360 (Garni Penegalblick) -> 12:22
+[10:27:12]   QUEUE recall +390471664360 (Garni Penegalblick) -> 12:25
+[10:30:15]   QUEUE recall +390471669522 (Hotel Masatsch) -> 11:00
+[10:54:37]   QUEUE recall +393397820460 (B&B Unterhabsbergerhof) -> 12:51
+[11:00:45]   >>> RECALL LIVE +390471669522 Hotel Masatsch -> btcal_7101ktxgzwq9emsvjxz71hn9skgc
+[12:05:10]   >>> RECALL LIVE +390471665152 Garni Blumenhof Gaiser Rudol -> btcal_1701ktxmnvgmfj9t35dk7xhyj5c5
+[12:11:19]   QUEUE recall +390471500295 (Caffetteria da Libero) -> 14:08
+[12:17:30]   QUEUE recall +390471501846 (Bar Romagnolo) -> 15:00
+[12:20:39]   >>> RECALL LIVE +393336321067 Sportbar -> btcal_6001ktxnj680f1krf3saxk1btsf0
+[12:26:50]   >>> RECALL LIVE +390471664360 Garni Penegalblick -> btcal_3001ktxnxgg6fjdv1rh4h1hcnj37
+[12:29:51]   QUEUE recall +390471664360 (Garni Penegalblick) -> 14:27
+[12:51:40]   >>> RECALL LIVE +393397820460 B&B Unterhabsbergerhof -> btcal_6401ktxqazvqf8d9j5vsq9s39661
+[14:10:26]   >>> RECALL LIVE +390471500295 Caffetteria da Libero -> btcal_6401ktxvv76gft9r5x2vjsnfgah7
+[14:29:20]   >>> RECALL LIVE +390471664360 Garni Penegalblick -> btcal_4601ktxwxtgjfa1bcv7sh7myc5ct
+[14:45:29]   QUEUE recall +393312511189 (Bambus) -> 17:30
+[15:01:08]   QUEUE recall +393275625009 (Stuzzicheria La Casa di Jo) -> 16:59
+[15:01:15]   >>> RECALL LIVE +390471501846 Bar Romagnolo -> btcal_2301ktxyr8xbfat98s1mhewwbh79
+[15:04:16]   QUEUE recall +390471501846 (Bar Romagnolo) -> 18:00
+[17:06:22]   >>> RECALL LIVE +393275625009 Stuzzicheria La Casa di Jo -> btcal_8401kty5xb7dfcg8s30wztpxtshd
+Traceback (most recent call last):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1257, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1303, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1252, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1012, in _send_output
+    self.send(msg)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 952, in send
+    self.connect()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1419, in connect
+    super().connect()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 923, in connect
+    self.sock = self._create_connection(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 822, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 953, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/simocors/Desktop/telesales/fri_run/culligan_recall_daemon.py", line 102, in <module>
+    if __name__=="__main__": main()
+  File "/Users/simocors/Desktop/telesales/fri_run/culligan_recall_daemon.py", line 65, in main
+    for bid in todays_batches():
+  File "/Users/simocors/Desktop/telesales/fri_run/culligan_recall_daemon.py", line 50, in todays_batches
+    d=api("/convai/batch-calling/workspace?limit=60")
+  File "/Users/simocors/Desktop/telesales/fri_run/culligan_recall_daemon.py", line 11, in api
+    def api(p): return json.load(urllib.request.urlopen(urllib.request.Request("https://api.elevenlabs.io/v1"+p, headers={"xi-api-key":KEY})))
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 517, in open
+    response = self._open(req, data)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>

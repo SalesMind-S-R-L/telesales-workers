@@ -1,0 +1,205 @@
+[
+{
+"n": 1,
+"azienda": "Braccialini",
+"settore": "Fashion & Lifestyle",
+"sede": "Firenze (Scandicci)",
+"sito": "braccialini.it"
+},
+{
+"n": 2,
+"azienda": "CMP - F.lli Campagnolo",
+"settore": "Fashion & Lifestyle",
+"sede": "Bassano del Grappa (VI)",
+"sito": "cmpsport.com"
+},
+{
+"n": 3,
+"azienda": "Collistar",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "collistar.it"
+},
+{
+"n": 4,
+"azienda": "Cycle Jeans",
+"settore": "Fashion & Lifestyle",
+"sede": "Vicenza",
+"sito": "cyclejeans.com"
+},
+{
+"n": 5,
+"azienda": "Davines",
+"settore": "Fashion & Lifestyle",
+"sede": "Parma",
+"sito": "davines.com"
+},
+{
+"n": 6,
+"azienda": "Elisabetta Franchi",
+"settore": "Fashion & Lifestyle",
+"sede": "Bologna",
+"sito": "elisabettafranchi.com"
+},
+{
+"n": 7,
+"azienda": "Freddy",
+"settore": "Fashion & Lifestyle",
+"sede": "Vimercate (MB)",
+"sito": "freddy.com"
+},
+{
+"n": 8,
+"azienda": "K-Way (BasicNet)",
+"settore": "Fashion & Lifestyle",
+"sede": "Torino",
+"sito": "k-way.com"
+},
+{
+"n": 9,
+"azienda": "Marco Bicego",
+"settore": "Fashion & Lifestyle",
+"sede": "Trissino (VI)",
+"sito": "marcobicego.com"
+},
+{
+"n": 10,
+"azienda": "Morellato Group",
+"settore": "Fashion & Lifestyle",
+"sede": "Santa Giustina in Colle (PD)",
+"sito": "morellato.com"
+},
+{
+"n": 11,
+"azienda": "Peuterey",
+"settore": "Fashion & Lifestyle",
+"sede": "Altavilla Vicentina (VI)",
+"sito": "peuterey.com"
+},
+{
+"n": 12,
+"azienda": "Rinascimento (Gruppo Teddy)",
+"settore": "Fashion & Lifestyle",
+"sede": "Rimini",
+"sito": "rinascimento.com"
+},
+{
+"n": 13,
+"azienda": "Roncato",
+"settore": "Fashion & Lifestyle",
+"sede": "Campodarsego (PD)",
+"sito": "roncato.com"
+},
+{
+"n": 14,
+"azienda": "SUN68",
+"settore": "Fashion & Lifestyle",
+"sede": "San Vendemiano (TV)",
+"sito": "sun68.com"
+},
+{
+"n": 15,
+"azienda": "Save The Duck",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "savetheduck.it"
+},
+{
+"n": 16,
+"azienda": "Twinset",
+"settore": "Fashion & Lifestyle",
+"sede": "Carpi (MO)",
+"sito": "twinset.com"
+},
+{
+"n": 17,
+"azienda": "Yamamay (Inticom)",
+"settore": "Fashion & Lifestyle",
+"sede": "Gallarate (VA)",
+"sito": "yamamay.com"
+},
+{
+"n": 18,
+"azienda": "Aixam Mega Italia",
+"settore": "Automotive",
+"sede": "Milano",
+"sito": "aixam.com"
+},
+{
+"n": 19,
+"azienda": "Ferretti Group",
+"settore": "Automotive",
+"sede": "Forli",
+"sito": "ferrettigroup.com"
+},
+{
+"n": 20,
+"azienda": "Pagani Automobili",
+"settore": "Automotive",
+"sede": "San Cesario sul Panaro (MO)",
+"sito": "pagani.com"
+},
+{
+"n": 21,
+"azienda": "Sanlorenzo",
+"settore": "Automotive",
+"sede": "Ameglia (SP)",
+"sito": "sanlorenzoyacht.com"
+},
+{
+"n": 22,
+"azienda": "Acqua Lete",
+"settore": "Food & Beverage",
+"sede": "Pratella (CE)",
+"sito": "acqualete.it"
+},
+{
+"n": 23,
+"azienda": "Auricchio",
+"settore": "Food & Beverage",
+"sede": "Cremona",
+"sito": "auricchio.it"
+},
+{
+"n": 24,
+"azienda": "Birra Forst",
+"settore": "Food & Beverage",
+"sede": "Lagundo (Bolzano)",
+"sito": "forst.it"
+},
+{
+"n": 25,
+"azienda": "Caffe Borbone",
+"settore": "Food & Beverage",
+"sede": "Caivano (NA)",
+"sito": "caffeborbone.com"
+},
+{
+"n": 26,
+"azienda": "Caffe Vergnano",
+"settore": "Food & Beverage",
+"sede": "Santena (TO)",
+"sito": "caffevergnano.com"
+},
+{
+"n": 27,
+"azienda": "Divella",
+"settore": "Food & Beverage",
+"sede": "Rutigliano (Bari)",
+"sito": "divella.it"
+},
+{
+"n": 28,
+"azienda": "Ferrarelle",
+"settore": "Food & Beverage",
+"sede": "Riardo (CE)",
+"sito": "ferrarelle.it"
+},
+{
+"n": 29,
+"azienda": "Galbusera",
+"settore": "Food & Beverage",
+"sede": "Cosio Valtellino (Sondrio)",
+"sito": "galbusera.it"
+}
+]

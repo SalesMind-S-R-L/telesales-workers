@@ -1,0 +1,44 @@
+[
+  {
+    "az": "Cycle Jeans",
+    "sito": "cyclejeans.com",
+    "sede": "Vicenza",
+    "prio": "A"
+  },
+  {
+    "az": "Satispay",
+    "sito": "satispay.com",
+    "sede": "Milano",
+    "prio": "A"
+  },
+  {
+    "az": "Scalapay",
+    "sito": "scalapay.com",
+    "sede": "Milano",
+    "prio": "A"
+  },
+  {
+    "az": "Revolut Italia",
+    "sito": "revolut.com",
+    "sede": "Milano",
+    "prio": "A"
+  },
+  {
+    "az": "BYD Italia",
+    "sito": "byd.com",
+    "sede": "Milano",
+    "prio": "A"
+  },
+  {
+    "az": "MG Motor Italia",
+    "sito": "mgmotor.it",
+    "sede": "Milano",
+    "prio": "A"
+  },
+  {
+    "az": "Iliad Italia",
+    "sito": "iliad.it",
+    "sede": "Milano",
+    "prio": "A"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "riassunto": "Societa' milanese fondata nel 2014 che offre servizi di data strategy, data engineering, machine learning e AI e gestione di piattaforme dati per organizzazioni enterprise. Ha sviluppato la piattaforma Witboost ed e' partner di AWS, Azure, Google Cloud, Snowflake e Databricks.",
+  "pain_point": "Vendere servizi data a clienti enterprise significa cicli lunghi e pochi interlocutori giusti: senza un flusso costante di primi appuntamenti con decisori, la crescita resta legata ai clienti storici e al passaparola tecnico.",
+  "hook": "ho visto che con Witboost e le partnership con Snowflake e Databricks lavorate sulle piattaforme dati di aziende enterprise",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sulle pagine lette, quindi approccio istituzionale.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://www.agilelab.it/",
+  "nome_azienda": "Agile Lab",
+  "nome_decisore": "",
+  "ruolo_decisore": "",
+  "email": "",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "agilelab.it",
+  "pagine_lette": ["https://www.agilelab.it/"]
+}

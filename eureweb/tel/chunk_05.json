@@ -1,0 +1,205 @@
+[
+{
+"n": 117,
+"azienda": "Volkswagen Group Italia",
+"settore": "Automotive",
+"sede": "Verona",
+"sito": "volkswagen.it"
+},
+{
+"n": 118,
+"azienda": "Amadori",
+"settore": "Food & Beverage",
+"sede": "San Vittore di Cesena (FC)",
+"sito": "amadori.it"
+},
+{
+"n": 119,
+"azienda": "Barilla",
+"settore": "Food & Beverage",
+"sede": "Parma",
+"sito": "barilla.com"
+},
+{
+"n": 120,
+"azienda": "Bauli",
+"settore": "Food & Beverage",
+"sede": "Castel d'Azzano (VR)",
+"sito": "bauli.it"
+},
+{
+"n": 121,
+"azienda": "Conserve Italia (Cirio, Valfrutta, Yoga)",
+"settore": "Food & Beverage",
+"sede": "San Lazzaro di Savena (BO)",
+"sito": "conserveitalia.it"
+},
+{
+"n": 122,
+"azienda": "De Cecco",
+"settore": "Food & Beverage",
+"sede": "Fara San Martino (CH)",
+"sito": "dececco.com"
+},
+{
+"n": 123,
+"azienda": "Ferrero",
+"settore": "Food & Beverage",
+"sede": "Alba (CN)",
+"sito": "ferrero.it"
+},
+{
+"n": 124,
+"azienda": "Findus Italia",
+"settore": "Food & Beverage",
+"sede": "Roma",
+"sito": "findus.it"
+},
+{
+"n": 125,
+"azienda": "Granarolo",
+"settore": "Food & Beverage",
+"sede": "Bologna",
+"sito": "granarolo.it"
+},
+{
+"n": 126,
+"azienda": "Gruppo Campari",
+"settore": "Food & Beverage",
+"sede": "Sesto San Giovanni (MI)",
+"sito": "camparigroup.com"
+},
+{
+"n": 127,
+"azienda": "Gruppo Veronesi (AIA)",
+"settore": "Food & Beverage",
+"sede": "San Martino Buon Albergo (VR)",
+"sito": "aia-food.com"
+},
+{
+"n": 128,
+"azienda": "Heineken Italia",
+"settore": "Food & Beverage",
+"sede": "Pollein (AO)",
+"sito": "heineken.it"
+},
+{
+"n": 129,
+"azienda": "Lavazza",
+"settore": "Food & Beverage",
+"sede": "Torino",
+"sito": "lavazza.it"
+},
+{
+"n": 130,
+"azienda": "Muller Italia",
+"settore": "Food & Beverage",
+"sede": "Verona",
+"sito": "mueller.it"
+},
+{
+"n": 131,
+"azienda": "Rio Mare (Bolton Food)",
+"settore": "Food & Beverage",
+"sede": "Cermenate (CO)",
+"sito": "riomare.it"
+},
+{
+"n": 132,
+"azienda": "illycaffe",
+"settore": "Food & Beverage",
+"sede": "Trieste",
+"sito": "illy.com"
+},
+{
+"n": 133,
+"azienda": "Despar Italia",
+"settore": "Retail & GDO",
+"sede": "Casalecchio di Reno (BO)",
+"sito": "desparitalia.it"
+},
+{
+"n": 134,
+"azienda": "Eurospin",
+"settore": "Retail & GDO",
+"sede": "San Martino Buon Albergo (VR)",
+"sito": "eurospin.it"
+},
+{
+"n": 135,
+"azienda": "Iren (Iren Luce Gas e Servizi)",
+"settore": "Telco / Energia-Utility",
+"sede": "Reggio Emilia/Torino",
+"sito": "irenlucegas.it"
+},
+{
+"n": 136,
+"azienda": "DAZN Italia",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "dazn.com"
+},
+{
+"n": 137,
+"azienda": "Fastweb",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "fastweb.it"
+},
+{
+"n": 138,
+"azienda": "Iliad Italia",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "iliad.it"
+},
+{
+"n": 139,
+"azienda": "Open Fiber",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "openfiber.it"
+},
+{
+"n": 140,
+"azienda": "Vodafone Italia",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "vodafone.it"
+},
+{
+"n": 141,
+"azienda": "WindTre",
+"settore": "Telecomunicazioni",
+"sede": "Rho (MI)",
+"sito": "windtre.it"
+},
+{
+"n": 142,
+"azienda": "Agos (Agos Ducato)",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "agos.it"
+},
+{
+"n": 143,
+"azienda": "American Express Italia",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "americanexpress.it"
+},
+{
+"n": 144,
+"azienda": "Banca Mediolanum",
+"settore": "Finance & Insurance",
+"sede": "Basiglio (MI)",
+"sito": "bancamediolanum.it"
+},
+{
+"n": 145,
+"azienda": "Banco BPM",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "bancobpm.it"
+}
+]

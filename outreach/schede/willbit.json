@@ -1,0 +1,20 @@
+{
+  "riassunto": "WillBit (Collegno, Torino, dal 2006) sviluppa soluzioni tecnologiche su misura in tre aree: editoria e pubblicita', soluzioni enterprise per marketing e vendite, e smart manufacturing 4.0/5.0. In portafoglio clienti come Ferrero, Lavazza, UniCredit e numerosi editori italiani, con partnership AWS, Oracle e SAP.",
+  "pain_point": "Con quasi vent'anni di storia e grandi clienti storici, il rischio tipico e' che il new business arrivi quasi solo da referenze: aprire sistematicamente nuovi account enterprise richiede un'attivita' outbound dedicata che il team tecnico difficilmente presidia.",
+  "hook": "ho visto che dal 2006 lavorate con realta' come Ferrero, Lavazza e UniCredit su editoria digitale, soluzioni enterprise e smart manufacturing",
+  "variante_email": "B",
+  "motivo_variante": "Nessun segnale esplicito di pain commerciale sul sito: il questionario di valutazione commerciale Sales Six e' il primo passo piu' prudente.",
+  "da_verificare": "Email raffaella.piazzo@willbit.com e' un pattern non verificato; la citta' nel chunk e' generica (Piedmont), sede reale a Collegno (TO).",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Willbit",
+  "nome_decisore": "Raffaella Piazzo",
+  "ruolo_decisore": "Amministratore delegato",
+  "email": "raffaella.piazzo@willbit.com",
+  "telefono": "",
+  "citta": "Piedmont",
+  "settore": "IT / Software",
+  "website": "willbit.com",
+  "pagine_lette": ["https://willbit.com"],
+  "slug": "willbit"
+}

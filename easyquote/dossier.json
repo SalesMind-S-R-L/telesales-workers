@@ -1,0 +1,154 @@
+{
+ "titolo": "DOSSIER DI MERCATO",
+ "sottotitolo": "Settore traslochi in Italia (focus Toscana) e opportunita del configuratore di preventivi istantanei IsyQuote",
+ "nota_metodo": "Nota: dati incrociati su piu fonti pubbliche (aggiornamento giugno 2026). Dove un numero non e verificabile su fonte ufficiale, e indicato come stima qualitativa.",
+ "sezioni": [
+   {
+     "titolo": "1. Dimensione del mercato traslochi in Italia",
+     "paragrafi": [
+       "Il comparto traslochi italiano (codice ATECO 49.42.00 - Servizi di trasloco) e un mercato maturo e in contrazione strutturale. Secondo i dati riportati da AITI (Associazione Imprese Traslocatori Italiani, aderente a CONFETRA), dal 2011 a oggi il settore ha perso circa 400 milioni di euro di giro d'affari, con gli occupati scesi da 67.000 a 53.000 unita: un calo di circa il 21% della forza lavoro in poco piu di un decennio.",
+       "A livello globale il mercato dei servizi di trasloco e imballaggio e stimato in 116,71 miliardi di dollari nel 2026, con un CAGR del 5,17% atteso fino al 2031. L'Italia partecipa con un tessuto di imprese molto frammentato: i database camerali (Infocamere/registro imprese) censiscono circa 1.485 societa strutturate con ATECO 49.42, per un fatturato aggregato di queste sole societa di capitali pari a circa 178,4 milioni di euro. Il numero reale di operatori e molto piu alto considerando ditte individuali e artigiani non inclusi in quel conteggio.",
+       "Il fatturato per impresa e fortemente polarizzato: una micro-impresa fattura tipicamente tra 10.000 e 100.000 euro/anno, una piccola impresa (1-3 mezzi, 2-5 addetti) tra 120.000 e 250.000 euro, una media (4-10 mezzi) tra 350.000 e 900.000 euro, e solo le strutturate (oltre 10 mezzi) superano stabilmente 1,2 milioni."
+     ],
+     "bullet": [
+       "Take operativo: il settore ha perso 14.000 posti di lavoro e 400 milioni di fatturato in un decennio: chi non innova viene schiacciato, chi digitalizza prende le quote di chi chiude.",
+       "Take operativo: e un percorso di crescita reale e possibile: L&C e passata negli anni da circa 60.000 a quasi 500.000 euro grazie a un insieme di fattori (un lavoro di marketing continuativo e, nell'ultimo periodo, anche il configuratore IsyQuote)."
+     ],
+     "tabella": {
+       "headers": ["Segmento impresa", "Mezzi / addetti", "Fatturato annuo stimato"],
+       "rows": [
+         ["Micro / ditta individuale", "1 mezzo, 1-2 addetti", "10.000 - 100.000 euro"],
+         ["Piccola", "1-3 mezzi, 2-5 addetti", "120.000 - 250.000 euro"],
+         ["Media", "4-10 mezzi, 6-15 addetti", "350.000 - 900.000 euro"],
+         ["Strutturata", "oltre 10 mezzi, 15+ addetti", "oltre 1,2 milioni di euro"]
+       ]
+     }
+   },
+   {
+     "titolo": "2. Struttura del settore: micro-imprese e frammentazione estrema",
+     "paragrafi": [
+       "Il settore traslochi e uno dei piu frammentati dell'economia italiana. Il dato di sistema e netto: in Italia il 95% delle imprese attive conta meno di 10 addetti (ISTAT). Nel comparto trasporti e magazzinaggio la dimensione media e di circa 10 addetti, ma il valore e gonfiato dalle grandi aziende di logistica: la stragrande maggioranza dei traslocatori e composta da ditte individuali, SNC e piccole SRL a conduzione familiare.",
+       "L'associazione di categoria AITI rappresenta solo circa 70-80 imprese strutturate, a fronte di un universo di migliaia di operatori. Il segmento e dominato da titolari-operativi: il titolare guida il furgone, fa i sopralluoghi, scrive i preventivi a mano e gestisce il telefono. Non esiste un reparto marketing ne un reparto IT. Questa e la radice del ritardo digitale e l'opportunita per IsyQuote."
+     ],
+     "bullet": [
+       "Take operativo: 95% delle imprese italiane ha meno di 10 addetti. Il decisore e il titolare, che fa tutto da solo: chi automatizza il preventivo si libera ore e batte la concorrenza sul tempo."
+     ]
+   },
+   {
+     "titolo": "3. Ritardo digitale delle PMI tradizionali: il settore abbandonato",
+     "paragrafi": [
+       "I dati ISTAT 2025 (report Imprese e ICT) confermano un forte divario digitale tra grandi imprese e PMI. Solo il 14,3% delle PMI italiane realizza vendite online per almeno l'1% del fatturato, quota stabile o in lieve calo rispetto al 2024 (14,7%). La quota di fatturato realizzata online dalle PMI e scesa dal 14,0% al 11,7%.",
+       "Le vendite online sono concentrate in commercio (19,1%) e turismo/ristorazione (34,6%): logistica e servizi tradizionali come i traslochi restano marginali. Il divario sull'adozione di tecnologie avanzate (IA) tra grandi imprese e PMI si e ampliato fino a 37 punti percentuali nel 2025. Per i siti web, stime di settore indicano che circa il 72% delle PMI ha un sito ma solo il 45% lo ha aggiornato e mobile-responsive: nel trasloco la quota di chi ha un sito capace di acquisire e gestire richieste online e plausibilmente molto inferiore (stima qualitativa, non disponibile dato puntuale ISTAT per ATECO 49.42).",
+       "Conclusione: il settore traslochi e digitalmente trascurato. Il cliente cerca online ma trova siti vetrina senza prezzo, senza prenotazione, spesso solo un numero di telefono. E un vuoto competitivo enorme."
+     ],
+     "bullet": [
+       "Take operativo: solo il 14% delle PMI vende online e nei servizi tradizionali e ancora meno. Il sito oggi e una vetrina: il cliente lo guarda e va via. Con IsyQuote diventa una macchina che prende prenotazioni 24 ore su 24."
+     ],
+     "tabella": {
+       "headers": ["Indicatore digitale PMI (ISTAT 2025)", "Valore"],
+       "rows": [
+         ["PMI con vendite online >=1% fatturato", "14,3%"],
+         ["Vendite online nel commercio", "19,1%"],
+         ["Vendite online in turismo/ristorazione", "34,6%"],
+         ["Divario IA grandi imprese vs PMI", "37 punti percentuali"]
+       ]
+     }
+   },
+   {
+     "titolo": "4. Comportamento del cliente finale: il prezzo subito vince",
+     "paragrafi": [
+       "Il cliente che cerca un trasloco lo fa con intento urgente e quasi sempre da smartphone. La ricerca tipica e 'ditta traslochi vicino a me' o 'preventivo trasloco [citta]', in un momento di necessita concreta. Il prezzo medio di un trasloco in Italia oscilla tra 350 e 1.700 euro a seconda di distanza, volume e servizi: una cifra che il cliente vuole conoscere subito, non tra giorni.",
+       "Il comportamento dominante oggi e: il cliente richiede il preventivo su un portale (Trasloco.com, traslochi.it, PreventivoFacile) che inoltra la stessa richiesta a 5-6 aziende contemporaneamente. Si scatena una gara al ribasso e vince chi risponde per primo. I dati sul lead response time sono inequivocabili: il 78% dei clienti acquista dalla prima azienda che risponde, le conversioni sono del 391% piu alte se si risponde entro il primo minuto, e rispondere entro 5 minuti rende 21 volte piu probabile qualificare il contatto rispetto a rispondere dopo 30 minuti.",
+       "E il cuore del valore di IsyQuote: il configuratore da il prezzo istantaneo sul sito dell'azienda, senza intermediari e senza gara, catturando il cliente nel momento di massimo intento. Il preventivo non arriva 'tra qualche giorno': appare immediato, appena il cliente finisce di configurare, e la prenotazione si sincronizza subito a calendario."
+     ],
+     "bullet": [
+       "Take operativo: il 78% dei clienti compra dalla prima azienda che risponde. Oggi se mandi il preventivo dopo due giorni hai gia perso: con IsyQuote il prezzo lo vede subito, appena configura, anche di notte."
+     ],
+     "tabella": {
+       "headers": ["Metrica speed-to-lead", "Dato"],
+       "rows": [
+         ["Clienti che comprano dalla prima azienda che risponde", "78%"],
+         ["Aumento conversioni se si risponde entro 1 minuto", "+391%"],
+         ["Probabilita di qualificare il lead entro 5 min vs 30 min", "21 volte superiore"],
+         ["Costo medio trasloco in Italia", "350 - 1.700 euro"]
+       ]
+     }
+   },
+   {
+     "titolo": "5. Driver di domanda in Toscana e a Firenze",
+     "paragrafi": [
+       "La Toscana e un mercato ad altissima rotazione abitativa, quindi ad alta domanda di traslochi. Nel 2025 le compravendite residenziali in regione sono state 51.566 (NTN), in crescita del +9,4% sul 2024, per un giro d'affari stimato di circa 10,15 miliardi di euro, pari all'8,2% del totale nazionale. Ogni compravendita genera in media uno o piu traslochi.",
+       "Il driver studentesco e strutturale: l'Universita di Firenze conta oltre 40.000 iscritti con circa 11.000 nuove immatricolazioni nel 2024-25, il dato piu alto degli ultimi vent'anni; l'Universita di Pisa supera anch'essa i 40.000 iscritti. Firenze e tra le 5 citta che concentrano i circa 67.400 posti letto per studenti in Italia. Questa popolazione si sposta ogni anno.",
+       "La mobilita in entrata e fortissima: nel primo semestre 2025 il 37,8% dei contratti di locazione e stato stipulato da inquilini provenienti da fuori citta. Firenze e l'unica grande citta italiana con compravendite in calo nel 2025 (-3,8%), spinta verso l'affitto e gli affitti brevi: significa piu turnover locativo, piu traslochi piccoli e ricorrenti, esattamente il target del preventivo istantaneo."
+     ],
+     "bullet": [
+       "Take operativo: in Toscana si fanno oltre 51.000 compravendite l'anno e Firenze ha 40.000 studenti che si spostano. La domanda c'e: il problema e intercettarla per primo, ed e esattamente quello che fa il configuratore."
+     ],
+     "tabella": {
+       "headers": ["Driver domanda Toscana/Firenze", "Dato 2025"],
+       "rows": [
+         ["Compravendite residenziali Toscana (NTN)", "51.566 (+9,4%)"],
+         ["Giro d'affari compravendite Toscana", "circa 10,15 miliardi di euro"],
+         ["Iscritti Universita di Firenze", "oltre 40.000"],
+         ["Posti letto studenti nelle 5 citta principali", "circa 67.400"],
+         ["Contratti locazione da fuori citta (1 sem. 2025)", "37,8%"]
+       ]
+     }
+   },
+   {
+     "titolo": "6. Concorrenza software: il segmento configuratore cliente-finale e scoperto",
+     "paragrafi": [
+       "Esistono software per traslocatori, ma quasi tutti sono gestionali/CRM interni, non configuratori self-service pubblici per il cliente finale. In Italia il principale e SuperMover, gestionale per traslocatori (aggregazione lead, preventivi PDF via email/SMS, calendario, app sopralluogo): e uno strumento per l'operatore, non un configuratore che il cliente compila da solo sul sito per ottenere un prezzo immediato.",
+       "All'estero le soluzioni piu avanzate sono americane. SmartMoving e un CRM all-in-one per moving companies. Yembo si avvicina di piu al modello IsyQuote: offre survey self-service browser-based dal sito dell'azienda, 24/7, con inventario AI e preventivo. Ma sono prodotti pensati per il mercato USA, in inglese, con pricing e logiche enterprise non calibrate sulla micro-impresa italiana.",
+       "Conclusione: il segmento specifico 'configuratore di preventivo istantaneo per il cliente finale, in italiano, pensato per la micro-impresa di trasloco' e di fatto scoperto. I gestionali italiani non lo fanno, gli strumenti che lo fanno sono esteri ed enterprise. IsyQuote occupa uno spazio competitivo quasi vuoto, con un caso pilota italiano reale (L&C), che lo usa all'interno di una strategia di crescita piu ampia."
+     ],
+     "bullet": [
+       "Take operativo: i gestionali italiani gestiscono i lead che arrivano; IsyQuote li crea e li chiude da solo sul tuo sito. E la differenza tra aspettare il cliente e prenderlo prima della concorrenza."
+     ],
+     "tabella": {
+       "headers": ["Soluzione", "Tipo", "Configuratore cliente-finale sul sito"],
+       "rows": [
+         ["SuperMover (IT)", "Gestionale/CRM interno", "No (preventivo lo fa l'operatore)"],
+         ["SmartMoving (USA)", "CRM all-in-one", "No (orientato all'operatore)"],
+         ["Yembo (USA)", "Survey AI self-service", "Si, ma enterprise e in inglese"],
+         ["IsyQuote (Easyquote)", "Configuratore preventivo istantaneo", "Si, in italiano, per micro-impresa"]
+       ]
+     }
+   }
+ ],
+ "takeaway": [
+   ["Il settore perde occupati e fatturato da 10 anni", "\"Il vostro settore ha perso 14.000 posti di lavoro e 400 milioni in dieci anni. Le aziende che restano sono quelle che hanno smesso di lavorare come vent'anni fa. Le faccio vedere in 15 minuti come.\""],
+   ["95% imprese sotto 10 addetti, titolare fa tutto", "\"So che probabilmente i preventivi li scrive ancora a mano la sera. Quanto tempo le porta via a settimana? Con il configuratore quel lavoro lo fa il sito al posto suo.\""],
+   ["Solo il 14% delle PMI vende online, traslochi ancora meno", "\"Oggi il suo sito e una vetrina: il cliente lo guarda e se ne va. Solo il 14% delle piccole imprese in Italia vende online, e nei traslochi e un deserto. Chi entra adesso prende tutto.\""],
+   ["Il 78% compra dalla prima azienda che risponde", "\"Lo sa che 8 clienti su 10 comprano dalla prima azienda che risponde? Se manda il preventivo dopo due giorni ha gia perso. Col configuratore il cliente vede il prezzo subito, appena finisce di configurare, anche alle 23 di sera.\""],
+   ["Il cliente vuole il prezzo subito, da mobile, in urgenza", "\"Quando uno cerca un trasloco lo fa dal telefono e ha fretta. Vuole il prezzo subito. Se non glielo da lei, va sul portale e si ritrova in gara con altre 5 ditte al ribasso.\""],
+   ["I portali mettono in gara 5-6 aziende sullo stesso lead", "\"Sui portali lei paga per finire in una gara al ribasso con 5 concorrenti. Con il configuratore sul suo sito il cliente e solo suo, senza intermediari e senza tagliarsi il prezzo.\""],
+   ["Toscana: 51.000 compravendite e 40.000 studenti a Firenze", "\"Qui in Toscana si fanno oltre 51.000 compravendite l'anno e solo Firenze ha 40.000 universitari che si spostano. La domanda c'e tutta: serve solo intercettarla per primi.\""],
+   ["Il segmento del configuratore italiano e scoperto", "\"I gestionali che girano in Italia gestiscono i lead che arrivano. Nessuno fa quello che facciamo noi: far generare il preventivo al cliente direttamente sul suo sito. E uno spazio ancora libero.\""],
+   ["Caso pilota L&C: cresciuta molto negli anni, oggi usa anche IsyQuote", "\"Le racconto un caso reale: L&C Traslochi, un'azienda che seguiamo da anni, e cresciuta tantissimo, da circa 60.000 a quasi 500.000 di fatturato. E un percorso fatto di piu cose, e tra gli strumenti che usa oggi c'e anche il nostro configuratore.\""],
+   ["Il valore e il tempo recuperato e la velocita di risposta", "\"Non le vendo un sito. Le vendo le ore che recupera ogni settimana e i clienti che oggi perde perche risponde troppo tardi. Le va se le mostro come funziona in una demo veloce?\""]
+ ],
+ "fonti": [
+   ["Registroaziende.it - ATECO 49.42 servizi di trasloco", "https://registroaziende.it/ateco/49.42"],
+   ["Fatturatoitalia.it - ATECO 49.42 servizi di trasloco", "https://www.fatturatoitalia.it/ateco/49_42"],
+   ["Codiciateco.net - 49.42.00 Servizi di trasloco", "https://codiciateco.net/categoria-49.42.00-servizi-di-trasloco.html"],
+   ["Bsness.com - Analisi di mercato impresa traslochi 2026", "https://www.bsness.com/analisi-di-mercato/analisi-mercato-impresa-traslochi/"],
+   ["Partitaiva.it - Quanto guadagna un'impresa di traslochi (dati AITI)", "https://www.partitaiva.it/quanto-guadagna-impresa-traslochi/"],
+   ["AITI - Associazione Imprese Traslocatori Italiani (CONFETRA)", "https://www.associazionetraslocatori.it/lassociazione/"],
+   ["ISTAT - Censimento permanente delle imprese (95% sotto 10 addetti)", "https://www.istat.it/it/files/2023/11/REPORTCensimprese.pdf"],
+   ["ISTAT - Imprese e ICT, Anno 2025 (vendite online PMI 14,3%)", "https://www.istat.it/wp-content/uploads/2025/12/Statreport_ICT2025.pdf"],
+   ["ISTAT - Imprese e ICT, Anno 2024", "https://www.istat.it/wp-content/uploads/2025/01/Statreport_ICT2024-1.pdf"],
+   ["SEOZEN - SEO per ditte di traslochi (ricerca mobile, intento urgente)", "https://www.seozen.net/seo-per-ditte-di-traslochi/"],
+   ["Trasloco.com - portale preventivi (modello inoltro a 5-6 aziende)", "https://www.trasloco.com/"],
+   ["Kixie - Speed to Lead Response Time Statistics (78%, +391%)", "https://www.kixie.com/sales-blog/speed-to-lead-response-time-statistics-that-drive-conversions/"],
+   ["ImageBuildingMedia - Respond to Leads Immediately", "https://imagebuildingmedia.com/marketing-edu/lead-generation/lead-response/respond-to-leads-immediately-or-conversions-drop-sharply"],
+   ["FirenzeToday - Compravendite immobiliari Toscana 2025 (51.566 NTN)", "https://www.firenzetoday.it/economia/compravendite-toscana-2025.html"],
+   ["T24 Economia - Mercato residenziale Toscana 2025 (Firenze -3,8%)", "https://www.t24economia.it/territori/mercato-residenziale-in-toscana-compravendite-94-nel-2025-ma-firenze-va-controcorrente"],
+   ["Universita di Firenze - Immatricolazioni A.A. 2024-2025", "https://www.unifi.it/it/news/immatricolazioni-allanno-accademico-2024-2025"],
+   ["HomStudent - Mercato affitti studenti (67.400 posti letto)", "https://www.homstudent.com/en/mercato-degli-affitti-per-studenti-2024-2025/"],
+   ["QuiFinanza - Mercato affitti 2025 (37,8% da fuori citta)", "https://quifinanza.it/mercato-immobiliare/mercato-affitti-2025/936634/"],
+   ["SuperMover - Gestionale per traslocatori (Italia)", "https://supermover.it/"],
+   ["SmartMoving - Moving company software/CRM (USA)", "https://www.smartmoving.com/"],
+   ["Yembo - AI virtual moving surveys (USA)", "https://yembo.ai/moving"]
+ ]
+}

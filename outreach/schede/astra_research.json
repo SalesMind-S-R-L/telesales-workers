@@ -1,0 +1,20 @@
+{
+  "riassunto": "Astra Research e' una societa' di consulenza ingegneristica meccanica di Modena che offre analisi CAE (FEM, CFD, crash), test sperimentali nel laboratorio ASTRALab, progettazione, prototipazione e digital twin. Collabora con l'Universita' di Modena e Reggio Emilia e serve clienti come Ferrari, Lamborghini, Stellantis, Brembo e Ducati in settori da automotive ad aerospazio e biomedicale.",
+  "pain_point": "In una societa' di ingegneria il business development e' spesso in mano agli stessi tecnici e ai rapporti storici con i grandi clienti: e' plausibile che l'apertura di nuovi clienti fuori dal distretto motoristico emiliano proceda senza un'attivita' commerciale outbound dedicata.",
+  "hook": "ho visto che con ASTRALab affiancate alle analisi CAE anche i test sperimentali, lavorando con realta' come Ferrari, Brembo e Ducati",
+  "variante_email": "B",
+  "motivo_variante": "Nessun segnale esplicito di pain commerciale sul sito: variante questionario di default.",
+  "da_verificare": "Email e' un pattern non verificato; confermare che Simone Pazzaglia sia chief marketing officer e che il settore corretto sia ingegneria (il chunk riporta consulenza gestionale).",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Astra Research",
+  "nome_decisore": "Simone Pazzaglia",
+  "ruolo_decisore": "Chief marketing officer",
+  "email": "simone.pazzaglia@astraresearch.it",
+  "telefono": "",
+  "citta": "Modena",
+  "settore": "Consulenza gestionale",
+  "website": "astraresearch.it",
+  "slug": "astra_research",
+  "pagine_lette": ["https://astraresearch.it"]
+}

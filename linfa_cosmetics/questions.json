@@ -1,0 +1,55 @@
+{
+  "titolo": "Onboarding Linfa Cosmetics",
+  "come_usare": "Questo documento serve da agenda per chiudere i requisiti della campagna telesales. Parte 1: insight di mercato (contesto). Parte 2-3: domande da rispondere a voce in call o via email. Le domande sono ordinate per priorita.",
+  "insight_settore": [
+    {"titolo": "1. Il canale beauty professionale cresce", "testo": "Il mercato cosmetico italiano vale oltre 15 miliardi e cresce a doppia cifra, trainato da cosmesi naturale e canale professionale: c'e spazio per una linea premium differenziante."},
+    {"titolo": "2. Made in Italy come leva di vendita", "testo": "L'Italia e leader europeo nella produzione cosmetica: il made in Italy e un argomento forte verso rivenditori e verso il cliente finale."},
+    {"titolo": "3. Founder-led = decisore raggiungibile", "testo": "Centri estetici, erboristerie e parafarmacie sono a conduzione del titolare: il decisore si raggiunge in fretta, ottimo per fissare appuntamenti rapidi."},
+    {"titolo": "4. I distributori danno volume ma tempi lunghi", "testo": "Grossisti e distributori fanno ordini grandi ma hanno cicli di acquisto piu lunghi: si seminano in parallelo mentre i piccoli canali generano cassa subito."},
+    {"titolo": "5. Differenziarsi con prodotti che hanno in pochi", "testo": "Fango osmotico anticellulite, cellule staminali vegetali e linea intima sono leve di novita: in un mercato affollato l'aggancio e proprio cio che gli altri non hanno."},
+    {"titolo": "6. Il reso riduce il rischio del rivenditore", "testo": "La garanzia di reso entro 14 giorni e un argomento che il mercato premia: abbatte la barriera di chi non conosce ancora il brand."}
+  ],
+  "macro_aree": [
+    {
+      "nome": "MACRO A - Requisiti del target ed esclusioni",
+      "intro": "",
+      "domande": [
+        {"titolo": "Obiettivo e regole", "testo": "Quanti appuntamenti al mese vogliamo come obiettivo? Ci sono regole o vincoli sul tipo di appuntamento (in presenza, call, demo prodotto)?", "prio": 1},
+        {"titolo": "Esclusioni distributori gia contattati", "testo": "Puoi inviarci la lista dei 30 distributori/grossisti gia contattati da te e di eventuali trattative gia aperte, cosi li escludiamo e non ci sovrapponiamo?", "prio": 1},
+        {"titolo": "Priorita canali", "testo": "Confermi di partire dai canali ad alta conversione (centri estetici, erboristerie, parafarmacie) seminando in parallelo i distributori, oppure vuoi un ordine diverso?", "prio": 3},
+        {"titolo": "Aree geografiche", "testo": "Ci sono aree da privilegiare (es. Toscana per i contatti caldi) o da escludere? Per ora restiamo solo Italia, giusto?", "prio": 6},
+        {"titolo": "Tipo di partner", "testo": "Solo indipendenti o anche piccole catene locali? Ci sono insegne da evitare?", "prio": 8}
+      ]
+    },
+    {
+      "nome": "MACRO B - Lista, messaggio e materiali",
+      "intro": "",
+      "domande": [
+        {"titolo": "Link calendario booking", "testo": "Qual e il link del calendario per fissare gli appuntamenti, da mettere in chiusura chiamata e nella mail?", "prio": 2},
+        {"titolo": "Company profile e materiali", "testo": "Hai pronto (o entro quando) il company profile in PDF, le schede tecniche e i materiali POS da inviare ai prospect interessati?", "prio": 4},
+        {"titolo": "Certificazioni e claim", "testo": "Quali certificazioni/dati (INCI, test, enti terzi) possiamo citare per sostenere i claim di 'performance superiori', cellule staminali vegetali, ecc.?", "prio": 5},
+        {"titolo": "Super mail", "testo": "Usiamo come base la tua mail di presentazione ai distributori o ne prepariamo una nuova ottimizzata (oggetto corto, social proof, CTA)? Ce la fai avere?", "prio": 5},
+        {"titolo": "Casi citabili", "testo": "Possiamo nominare in chiamata il multimarca/rivenditore gia chiuso o altri riferimenti come prova sociale?", "prio": 7}
+      ]
+    },
+    {
+      "nome": "MACRO C - Decisore, offerta e differenziale",
+      "intro": "",
+      "domande": [
+        {"titolo": "Condizioni partner comunicabili", "testo": "Cosa possiamo anticipare al telefono senza fare prezzi (es. sconto dedicato ai primi partner, esclusiva territoriale, reso 14 giorni, ordine minimo flessibile)?", "prio": 2},
+        {"titolo": "Leva di valore principale", "testo": "Qual e l'aggancio numero uno da usare in apertura per ciascun canale (estetici, erboristerie, parafarmacie, distributori)?", "prio": 4},
+        {"titolo": "Linea intima: canali", "testo": "Su quali canali spingiamo la linea intima e come la presentiamo (per evitare il confronto con i sexy shop a leva prezzo)?", "prio": 6},
+        {"titolo": "Obiezioni piu temute", "testo": "Quali obiezioni hai gia ricevuto dai rivenditori (prezzo, brand nuovo, gia fornito)? Cosi prepariamo le risposte.", "prio": 7},
+        {"titolo": "Chi chiude dopo l'appuntamento", "testo": "Dopo l'appuntamento fissato, chi gestisce la trattativa e la chiusura: tu, un tuo commerciale o il nostro closer?", "prio": 8}
+      ]
+    },
+    {
+      "nome": "MACRO D - KPI e ritorno",
+      "intro": "",
+      "domande": [
+        {"titolo": "Soglia di ripagamento", "testo": "Quanti ordini/che fatturato consideri sufficiente per ritenere il servizio ripagato nel primo/secondo mese?", "prio": 6},
+        {"titolo": "Reportistica", "testo": "Con che frequenza vuoi il report (settimanale) e quali metriche ti interessano di piu (appuntamenti, decisori raggiunti, interessati)?", "prio": 9}
+      ]
+    }
+  ]
+}

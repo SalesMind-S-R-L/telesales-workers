@@ -1,0 +1,19 @@
+{
+  "riassunto": "Future Drive e' una societa' di consulenza attiva dal 2004 che unisce strategia e implementazione, specializzata in reti distributive automotive, retail e accompagnamento di startup e PMI. Si distingue per la disponibilita' a legarsi ai clienti con success fee su risultati misurabili e per le partnership con SAA dell'Universita' di Torino e IULM.",
+  "pain_point": "Una consulenza che accetta success fee su risultati misurabili ha bisogno di un flusso costante di nuovi clienti su cui applicare il modello; e' plausibile che lo sviluppo commerciale dipenda da referenze nel settore automotive e che manchi una pipeline proattiva su altri settori.",
+  "hook": "ho visto che vi legate ai clienti anche con success fee su risultati misurabili, un posizionamento raro nella consulenza",
+  "variante_email": "B",
+  "motivo_variante": "Nessun pain commerciale esplicito sul sito, quindi il questionario di valutazione commerciale e' l'approccio piu' adatto.",
+  "da_verificare": "Email e' un pattern non verificato. Verificare che Antonio Benvenuti sia ancora presidente e AD; il sito ha anche la business unit Future Drive Selection con sito separato.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Futuredrive",
+  "nome_decisore": "Antonio Benvenuti",
+  "ruolo_decisore": "Presidente e amministratore delegato",
+  "email": "antonio.benvenuti@futuredrive.it",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "futuredrive.it",
+  "pagine_lette": ["https://futuredrive.it"]
+}

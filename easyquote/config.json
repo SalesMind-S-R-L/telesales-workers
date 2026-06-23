@@ -1,0 +1,43 @@
+{
+  "cliente": "Easyquote",
+  "titolo_master": "MASTER EASYQUOTE - IsyQuote",
+  "sottotitolo": "Strumento di lavoro Telesales per Easyquote (configuratore IsyQuote) - aggiornato 18 giugno 2026",
+  "obiettivo": "Fissare demo (videocall a giugno, dal vivo da luglio) con i titolari di aziende di traslochi in Toscana per presentare il configuratore di preventivi IsyQuote.",
+  "servizio": "IsyQuote: configuratore di preventivi istantanei da integrare sul sito delle aziende di traslochi (il cliente finale fa il preventivo da solo e prenota online).",
+  "modalita_lista": "db_esistente",
+  "calendario_cliente": "DA INSERIRE: link calendario (Cal.com) di Nabil - richiederlo al cliente prima dell'avvio",
+  "data": "18 giugno 2026",
+  "ultimo_sync": "18 giugno 2026",
+  "obiettivo_appuntamenti": "Da concordare col cliente (avvio campagna 23 giugno)",
+  "regole_oro": [
+    "L'obiettivo della chiamata e fissare la DEMO con il titolare (referente lato cliente: Nabil).",
+    "Ci si presenta a nome EASYQUOTE (es. 'Sono [Nome] della parte commerciale di Easyquote'), mai come Telesales.",
+    "In chiamata NON si fanno prezzi: il prezzo si vede in demo e lo decide l'azienda.",
+    "NON contattare la lista rossa (zona Lucca, competitor del cliente pilota) ne il pilota L&C Traslochi e Servizi.",
+    "Fase iniziale (giugno): priorita ai prospect FUORI Firenze (demo in videocall). Firenze da luglio, dal vivo.",
+    "Si vendono solo aziende di TRASLOCHI: escludere le aziende di soli trasporti."
+  ],
+  "settori_weight": {
+    "Pisa e area pisana": 6,
+    "Livorno e costa": 6,
+    "Prato-Pistoia": 6,
+    "Arezzo-Siena-Grosseto": 5,
+    "Lucca-Versilia-Massa": 2,
+    "Firenze e provincia": 1
+  },
+  "icp": [
+    ["Aree (settore = macro-area)", "Tutta la Toscana. Priorita FUORI Firenze in fase iniziale; Firenze (mercato top) da luglio dal vivo."],
+    ["Profilo", "PMI di traslochi: ditte individuali, SNC, piccole/medie SRL a conduzione familiare. Decisore = titolare."],
+    ["Segnale di fit (Investimento)", "Ha gia un sito web proprio = gia investe nel digitale, adozione piu rapida del configuratore (= verde/giallo)."],
+    ["Dimensione", "Sia micro (anche 2 persone) sia aziende strutturate: il software serve a entrambe."],
+    ["Decisore", "Titolare; per le SRL strutturate anche amministratore o responsabile preventivi."],
+    ["Escludere", "Aziende di soli trasporti (non traslochi); lista rossa zona Lucca (competitor del pilota); pilota L&C Traslochi e Servizi."]
+  ],
+  "insight": [
+    ["Velocita di risposta", "Il 78% dei clienti compra dalla prima azienda che risponde; +391% conversioni rispondendo entro 1 minuto (Kixie/ISTAT speed-to-lead).", "\"8 clienti su 10 comprano dalla prima azienda che risponde: col configuratore il cliente vede il prezzo subito, appena finisce di configurare, anche di notte.\""],
+    ["Ritardo digitale", "Solo il 14% delle PMI italiane vende online; nei servizi tradizionali come i traslochi e ancora meno (ISTAT 2025).", "\"Il suo sito oggi e una vetrina: il cliente lo guarda e va via. Glielo trasformo in una macchina che prende prenotazioni h24.\""],
+    ["Caso pilota", "L&C Traslochi e Servizi e cresciuta molto negli anni (da circa 60.000 a quasi 500.000 euro): un percorso fatto di piu fattori, tra cui un marketing continuativo e, nell'ultimo periodo, anche il configuratore IsyQuote. NON attribuire tutta la crescita al solo configuratore.", "\"E un'azienda reale che oggi usa lo stesso strumento che propongo a lei.\""],
+    ["Domanda in Toscana", "51.566 compravendite residenziali 2025 (+9,4%) e oltre 40.000 studenti universitari a Firenze.", "\"La domanda c'e tutta: il problema e intercettarla per primi, ed e quello che fa il configuratore.\""],
+    ["Segmento scoperto", "Nessun configuratore self-service in italiano pensato per la micro-impresa di trasloco; i gestionali gestiscono solo i lead in arrivo.", "\"Nessuno fa quello che facciamo noi: portare il preventivo dentro al suo sito. E uno spazio ancora libero.\""]
+  ]
+}

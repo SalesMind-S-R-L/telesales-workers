@@ -1,0 +1,23 @@
+{
+  "riassunto": "Apes progetta e costruisce sistemi di automazione industriale e macchine speciali, con saldatura, finitura superfici e robotica. Serve principalmente l'industria dell'elettrodomestico, come lavelli, scaldabagni, forni, lavastoviglie e cappe.",
+  "pain_point": "Costruttore specializzato sull'elettrodomestico fondato nel 1984: la concentrazione su un comparto rende strategico intercettare nuovi clienti e settori adiacenti con un flusso costante di appuntamenti.",
+  "hook": "ho visto che dal 1984 costruite automazioni e macchine speciali di saldatura e finitura per l'elettrodomestico",
+  "variante_email": "B",
+  "motivo_variante": "Azienda legata al fondatore con focus verticale: aggancio sul comparto servito, variante B.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.apes.it/en/company/",
+  "nome_azienda": "Apes",
+  "nome_decisore": "Luciano Rossi",
+  "ruolo_decisore": "Fondatore",
+  "email": "luciano.rossi@apes.it",
+  "telefono": "",
+  "citta": "Limena",
+  "settore": "Automazione e macchinari",
+  "website": "apes.it",
+  "pagine_lette": [
+    "https://www.apes.it/en/company/",
+    "https://www.apes.it/it/"
+  ]
+}

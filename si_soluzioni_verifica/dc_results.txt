@@ -1,0 +1,82 @@
+r888 | CONFERMATO | +390564494720 | centrorevisionigrosseto.it | DB 056445621 troncato, forma completa
+r785 | CONFERMATO | +390583403577 | tipografiatommasi.com | mobili erano rumore
+r741 | CORRETTO | +39057142710 | savitar.it | 0571419883 e il FAX; DB 0571460127 non confermato
+r814 | CONFERMATO | +390578716092 | vecchiacantinadimontepulciano.com |
+r788 | CORRETTO | +390583357525 | toscanamiele.it | DB FI errato, sede LU
+r7 | CORRETTO | +390575617417 | agrisalotto.it | DB 0575638026 errato
+r48 | CONFERMATO | +390577741178 | ilvillinofarmhouse.com |
+r44 | CONFERMATO | +390575614251 | ilmaggese.com |
+r14 | CONFERMATO | +390577898272 | agriturismobagnaia.it |
+r53 | CONFERMATO | +390575649660 | lalodola.com |
+r4 | CORRETTO | +393923657338 | lastagionedellarte.it | fisso DB era rumore portale
+r77 | CORRETTO | +39337458860 | saturnia.toscana.it | fisso DB rumore portale, sito solo mobile
+r2 | CONFERMATO | +393396844682 | atservizi.eu |
+r164 | CONFERMATO | +393402870576 | fattoriamarena.it |
+r27 | CORRETTO | +393294436054 | agriturismocavallindelbufalo.com | sito solo mobile
+r172 | CORRETTO | +393356893537 | agriturismolafrateriadisanbenedetto.it | sito solo mobile
+r253 | CONFERMATO | +390575194054 | poggioapoppi.it |
+r228 | CORRETTO | +393471593790 | agriturismoortidicapalbio.it |
+r358 | CORRETTO | +393287494762 | campinfiore.it |
+r360 | CORRETTO | +390586793060 | dottorpescia.com | sede LI non PI
+r246 | CORRETTO | +393388593160 | poderelamberto.com |
+r393 | CORRETTO | +393284006810 | aziendagricolamassaro.it |
+r389 | CORRETTO | +390414568840 | agricolacorradi.it | ATT: azienda in Veneto non LI, provincia DB errata
+r391 | CORRETTO | +393791270440 | aziendalamagia.it |
+r406 | CORRETTO | +393298939948 | fermentobirra/beverfood | sede Capolona AR
+r409 | CORRETTO | +390584793384 | birrificiodelforte.it |
+r423 | CORRETTO | +390573544156 | campanellacm.com |
+r455 | CORRETTO | +390578748695 | pecorinotoscanodop.it |
+r485 | CORRETTO | +393393086659 | cliviodegliulivi.it | sito solo mobile
+r499 | CORRETTO | +393384269250 | divitavivai.it | 0572451287 e il fax
+r489 | CORRETTO | +390564633002 | caseificiosorano.it | DB errato di una cifra
+r525 | CORRETTO | +390577849277 | francopacenti.it |
+r533 | CORRETTO | +393889988961 | frantoioselvanera.com | sito solo mobile
+r534 | CORRETTO | +393889988961 | frantoioselvanera.com | DUPLICATO di r533
+r535 | CORRETTO | +390584976034 | frantoiodimassarosa.it |
+r529 | CORRETTO | +390564405249 | frantoiomaremma.com |
+r531 | CORRETTO | +390558555091 | pruneti.it |
+r571 | CORRETTO | +39050643739 | j63.it |
+r537 | CORRETTO | +3905771607416 | frantoiodisangimignano.it | DB 0577941055 errato
+r579 | CORRETTO | +390565775568 | lacipriana.com |
+r588 | CORRETTO | +390577944832 | laroccaiawine.it |
+r596 | CONFERMATO | +390574300041 | lanificiozanieri.eu | 0574 31785 e fax
+r597 | CORRETTO | +390585758093 | lardogiannarelli.it |
+r600 | CORRETTO | +393291922327 | lebontadipaola.it | solo mobili
+r599 | CORRETTO | +393357898205 | latteriariccianico.com | solo mobile
+r587 | CORRETTO | +39058360355 | lapetrognola.it |
+r618 | CORRETTO | +393391553383 | mieleriatoscana.it | solo mobili
+r574 | CONFERMATO | +3905713621 | lmfbiokimica.it |
+r462 | CORRETTO | +39055821053 | castellogabbiano.it | 0376 era sede legale MN
+r725 | CORRETTO | +390577306724 | salcis.it |
+r727 | CORRETTO | +39055583436 | salumificioanzuini.it | azienda FI non PT
+r662 | CORRETTO | +39058752532 | pastacaponi.it |
+r603 | CORRETTO | +390575550085 | leselvedivallolmo.it |
+r736 | CORRETTO | +390577989212 | salumificioviani.com | sede SI non PI
+r742 | CORRETTO | +39057164938 | paginebianche selektia | Castelfiorentino FI non PI
+r732 | CORRETTO | +390574811537 | salumificiomannori.it |
+r619 | CORRETTO | +390564890721 | monteverro.com |
+r789 | CORRETTO | +393383083932 | toscodoro.it | solo mobile
+r822 | CORRETTO | +39055856161 | oleariadelchianti.com | DB era vuoto
+r637 | CORRETTO | +393923060433 | orzobruno.it | solo mobile
+r411 | CONFERMATO | +39057151403 | paginegialle bitossi |
+r427 | CONFERMATO | +393394565239 | cantinacanaio.it |
+r436 | CORRETTO | +390571607545 | guidi1929.com |
+r407 | CORRETTO | +393385406317 | birrabvs.it | solo mobile
+r359 | CORRETTO | +39057268069 | apicolturacompa.com |
+r450 | CORRETTO | +39056651349 | caseificiomaremma |
+r456 | CORRETTO | +390578767192 | paginebianche sanguineto |
+r449 | CORRETTO | +390564989059 | caseificioilfiorino.it |
+r459 | CORRETTO | +390575572642 | casentinosalumi.it |
+r448 | CORRETTO | +390566584409 | caseificiofollonica.it |
+r461 | CORRETTO | +390577735771 | mazzei.it | DB era centralino wine tour
+r607 | CORRETTO | +390577844040 | lisini.com | DB 0577864040 errato
+r629 | CONFERMATO | +390558662055 | gagliardogagliardi.it |
+r564 | NON_TROVATO | - | sito e azienda di Avellino, record SI non verificabile |
+r632 | CORRETTO | +390187673184 | oliomoro.it | sede MS prefisso 0187, DB LU errato
+r649 | CORRETTO | +390558402103 | palagiaccio.com |
+r663 | CORRETTO | +39055858013 | pastafabbri.it |
+r692 | CORRETTO | +3905641768163 | poderemontale.it |
+r673 | CONFERMATO | +390558705401 | piaggia.com | piaggia.it era una scuola (rumore)
+r669 | CORRETTO | +390571459032 | pastamorelli.it |
+r724 | CORRETTO | +390571366737 | sdfmascagni.it | DB mobile assente
+r723 | CORRETTO | +39055721023 | sapafatelier1954.com |

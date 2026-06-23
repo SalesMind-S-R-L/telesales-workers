@@ -1,0 +1,370 @@
+{
+ "slot_1630": [
+  {
+   "nome": "Borgo Nuovo Trento",
+   "tel": "+390461261375",
+   "kind": "ristorante",
+   "ind": "Prima Androna di Borgo Nuovo 20",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Blue Sax",
+   "tel": "+390461910076",
+   "kind": "ristorante",
+   "ind": "Viale Verona 73",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Ai Vicoli",
+   "tel": "+390461260673",
+   "kind": "ristorante",
+   "ind": "Piazza Santa Teresa Verzeri 1",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Union Casa del Caffè",
+   "tel": "+390461985104",
+   "kind": "bar",
+   "ind": "Via San Pietro 38",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Bouganville",
+   "tel": "+390461236666",
+   "kind": "ristorante",
+   "ind": "Via Francesco Petrarca 1/4",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Sushi otto",
+   "tel": "+390461415386",
+   "kind": "ristorante",
+   "ind": "Via del Brennero 260c",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Forsterbräu Trento",
+   "tel": "+390461235590",
+   "kind": "ristorante",
+   "ind": "Via Paolo Oss Mazzurana 38",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Bella 'mbriana",
+   "tel": "+390461985653",
+   "kind": "ristorante",
+   "ind": "Via Livio Marchetti 11",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Da Bruno",
+   "tel": "+393886313684;3298012714",
+   "kind": "ristorante",
+   "ind": "Via Soprasasso 32/2",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "La Talpa 3.0",
+   "tel": "+393761247423",
+   "kind": "ristorante",
+   "ind": "Corso del Lavoro e della Scienza 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "MUSE Cafè",
+   "tel": "+390461270311",
+   "kind": "bar",
+   "ind": "Corso del Lavoro e della Scienza 3",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Pappare' Trento",
+   "tel": "+390461439362",
+   "kind": "bar",
+   "ind": "Via Don Giovanni Battista Zanella 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Twist - Pizza 'n More",
+   "tel": "+393489333639",
+   "kind": "ristorante",
+   "ind": "Via Giacomo Matteotti 36",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Maso Finisterre",
+   "tel": "+390461825752",
+   "kind": "ristorante",
+   "ind": "Via Santi Cosma e Damiano 6",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Locanda Le Due Travi",
+   "tel": "+390461096502",
+   "kind": "ristorante",
+   "ind": "Via del Suffragio 20",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Al Casello",
+   "tel": "+3904611919055",
+   "kind": "bar",
+   "ind": "Via dei Marinai d'Italia 6",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Acqua Blu",
+   "tel": "+390461917260",
+   "kind": "ristorante",
+   "ind": "Via Herrsching 7",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "SkylineBar",
+   "tel": "+393491445152",
+   "kind": "bar",
+   "ind": "Via di Coltura 9a",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Loacker Café Trento",
+   "tel": "+3904611975898",
+   "kind": "bar",
+   "ind": "Piazza di Fiera 13",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Contro Break",
+   "tel": "+390461525950",
+   "kind": "ristorante",
+   "ind": "Via Fersina 21",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Stube del Galletto",
+   "tel": "+3904611740474",
+   "kind": "ristorante",
+   "ind": "Strada di Cadine 13",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Mister Pizza Caffè",
+   "tel": "+390461091605",
+   "kind": "ristorante",
+   "ind": "Via Fratelli Perini 6",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Tony's pub",
+   "tel": "+393274551739",
+   "kind": "bar",
+   "ind": "Via del Brennero 260l",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "RUF - Cocktail Bar",
+   "tel": "+393282646034",
+   "kind": "bar",
+   "ind": "Via Santissima Trinitá 11",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Già contattati: riprendere il filo, chiedere il titolare e proporre il confronto gratuito."
+  },
+  {
+   "nome": "Alla Mostra",
+   "tel": "+3904611823484",
+   "kind": "ristorante",
+   "ind": "Piazza della Mostra 13",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Fujiyama",
+   "tel": "+3904611822050",
+   "kind": "ristorante",
+   "ind": "Corso Tre Novembre 29",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Bar Tre Torri",
+   "tel": "+390461822447",
+   "kind": "bar",
+   "ind": "Via Romano Guardini 54",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Cacio & Pepe",
+   "tel": "+390461262764",
+   "kind": "ristorante",
+   "ind": "Via Ponte Alto 79",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Saporoso",
+   "tel": "+390461391118",
+   "kind": "ristorante",
+   "ind": "Via dei Mille 1",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Il Libertino",
+   "tel": "+390461260085",
+   "kind": "ristorante",
+   "ind": "Piazza di Piedicastello 4",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Pizza Planet",
+   "tel": "+390461390836",
+   "kind": "ristorante",
+   "ind": "Via Padre Eusebio Chini 33",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Sopra la Panca",
+   "tel": "+390461420112",
+   "kind": "ristorante",
+   "ind": "Via dei Solteri 16a",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Italiana caffè",
+   "tel": "+390461093140",
+   "kind": "bar",
+   "ind": "Via San Francesco d'Assisi 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Caracolito",
+   "tel": "+390461230201",
+   "kind": "bar",
+   "ind": "Via del Suffragio 36",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Dolce Mondo",
+   "tel": "+390461830683",
+   "kind": "bar",
+   "ind": "Via Padre Emilio Chiocchetti 48",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Ichiban Ramen",
+   "tel": "+390461521924",
+   "kind": "ristorante",
+   "ind": "Via Santa Croce 88",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Sushiland",
+   "tel": "+3904611580027",
+   "kind": "ristorante",
+   "ind": "Via del Brennero 111",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  },
+  {
+   "nome": "Caffetteria Perghem 1835",
+   "tel": "+390461982991",
+   "kind": "bar",
+   "ind": "Piazza di Fiera 22",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "riassunto": "Minerva Group Service e' una societa' di consulenza milanese specializzata in compliance, GRC e audit, con servizi su privacy, information security, business continuity, qualita', sicurezza sul lavoro e anticorruzione secondo numerosi standard ISO (27001, 9001, 37001 e altri). Serve clienti che vanno dalle PMI alle multinazionali con un network multidisciplinare di professionisti.",
+  "pain_point": "La consulenza compliance e' un mercato affollato dove i clienti arrivano spesso per referral: senza un'attivita' commerciale outbound strutturata, riempire l'agenda dei consulenti con nuove PMI e mid-market puo' essere lento e poco prevedibile.",
+  "hook": "ho visto che coprite tutto lo spettro compliance, dalla privacy alla business continuity, su standard come ISO 27001 e 37001, dalle PMI alle multinazionali.",
+  "variante_email": "B",
+  "motivo_variante": "Il sito non evidenzia un pain commerciale esplicito, quindi il questionario di valutazione commerciale e' l'apertura piu' prudente.",
+  "da_verificare": "Email e' un pattern non verificato; il sito indica info@minervagroupservice.it (dominio .it) mentre il pattern usa .com, verificare il dominio corretto; confermare il ruolo CFO di Andrea Leonardi come interlocutore.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Minerva Group Service",
+  "nome_decisore": "Andrea Leonardi",
+  "ruolo_decisore": "Chief financial officer",
+  "email": "andrea.leonardi@minervagroupservice.com",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "minervagroupservice.com",
+  "slug": "minerva_group_service",
+  "pagine_lette": ["https://www.minervagroupservice.com"]
+}

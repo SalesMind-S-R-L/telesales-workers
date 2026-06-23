@@ -1,0 +1,45 @@
+{
+  "cliente": "Farad SRL",
+  "titolo_master": "MASTER FARAD SRL",
+  "sottotitolo": "Strumento di lavoro Telesales per Farad SRL - 269 prospect verificati - aggiornato 17 giugno 2026",
+  "calendario_cristiano": "https://link.drewcompany.it/widget/booking/batKkqQzWt3Nssh5FGGV",
+  "calendario_cliente": "https://link.drewcompany.it/widget/booking/batKkqQzWt3Nssh5FGGV",
+  "obiettivo": "Fissare appuntamenti qualificati in videochiamata (lun-mer) con professionisti tecnici interessati a strumenti di rilievo laser, per vendita o noleggio.",
+  "servizio": "Strumenti di misura e rilievo laser per l'edilizia (misuratori laser, laser scanner mobili/SLAM). Vendita e noleggio. Anche assistenza e taratura.",
+  "modalita_lista": "scouting",
+  "data": "17 giugno 2026",
+  "ultimo_sync": "17 giugno 2026",
+  "obiettivo_appuntamenti": "20/mese (4-5 a settimana)",
+  "regole_oro": [
+    "L'obiettivo della chiamata e' l'APPUNTAMENTO in videochiamata con Cristiano (decisore = il professionista o chi fa i rilievi). Fissare sul calendario di Cristiano: https://link.drewcompany.it/widget/booking/batKkqQzWt3Nssh5FGGV",
+    "In chiamata NON si fanno prezzi: smontare il preconcetto dei 20.000 euro rimandando alla demo.",
+    "Appuntamenti SOLO da lunedi a mercoledi (giovedi-venerdi Cristiano e' in trasferta).",
+    "Escludere geograficamente Marche, Puglia e Trentino-Alto Adige. Sicilia ed Emilia-Romagna ammesse.",
+    "Target impegnato: mettere in conto 2-3 tentativi di richiamo, tono collaborativo non invadente.",
+    "Note brevi e professionali, mai menzionare prezzi o dettagli tecnici interni."
+  ],
+  "settori_weight": {
+    "Rilievi, topografia, droni e BIM": 5,
+    "Studi di geometri": 5,
+    "Studi e societa di ingegneria": 4,
+    "Imprese edili e restauro": 3,
+    "Studi di architettura": 3,
+    "Nicchie (allestimenti, beni culturali, immobiliare tecnico)": 2
+  },
+  "icp": [
+    ["Target primario", "Geometri, architetti, ingegneri (liberi professionisti e societa) e imprese edili che fanno rilievi/misure"],
+    ["Profilo ideale", "Chi fa rilievi sul campo come attivita ricorrente (topografia, catasto, ristrutturazione, restauro, BIM)"],
+    ["Decisore", "Il professionista stesso; nelle societa strutturate chi si occupa concretamente di rilievi/misure (non il designer)"],
+    ["Leva noleggio", "Il noleggio e' propedeutico alla vendita: spesso dopo 1-2 noleggi si acquista"],
+    ["Geografia", "Tutta Italia ESCLUSO Marche, Puglia, Trentino-Alto Adige. Sicilia/Emilia-Romagna con coordinamento"],
+    ["Escludere", "Profili a fine carriera (vicini alla pensione, poco propensi a investire); enti pubblici (bassa priorita per questa attivita)"]
+  ],
+  "insight": [
+    ["Platea enorme", "Oltre 250.000 ingegneri, ~154.000 architetti, ~76.000 geometri liberi professionisti in Italia", "'Lavoriamo con geometri, architetti e ingegneri: il rilievo e' il vostro pane quotidiano.'"],
+    ["Mercato in crescita", "Il mercato del rilievo 3D e del gemello digitale cresce a doppia cifra ogni anno", "'Chi si attrezza ora arriva prima dei colleghi di studio.'"],
+    ["Preconcetto prezzo", "Molti pensano che un laser scanner costi 20.000 euro: in realta si parte da ~1.700", "'Lo so che fa pensare a cifre alte, ma si parte da molto meno: per questo la chiamo.'"],
+    ["Obbligo BIM", "Dal 2025 il BIM e' obbligatorio sugli appalti pubblici sopra i 2 milioni di euro", "'Se lavora col pubblico, il rilievo digitale e' la porta d'ingresso al BIM.'"],
+    ["Ritorno in tempo", "Lo strumento fa risparmiare ore su ogni rilievo: un rilievo complesso in mezz'ora", "'Il punto non e' il costo, e' quante ore le fa risparmiare: si ripaga in fretta.'"],
+    ["Noleggio = prova", "Il noleggio abbassa la barriera: si prova sul lavoro reale prima di comprare", "'Se non vuole comprare subito, lo prova in noleggio sul suo prossimo lavoro.'"]
+  ]
+}

@@ -1,0 +1,205 @@
+[
+{
+"n": 88,
+"azienda": "BNL Gruppo BNP Paribas",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "bnl.it"
+},
+{
+"n": 89,
+"azienda": "BPER Banca",
+"settore": "Finance & Insurance",
+"sede": "Modena",
+"sito": "bper.it"
+},
+{
+"n": 90,
+"azienda": "Cattolica Assicurazioni (Gruppo Generali)",
+"settore": "Finance & Insurance",
+"sede": "Verona",
+"sito": "cattolica.it"
+},
+{
+"n": 91,
+"azienda": "Fideuram - Intesa Sanpaolo Private Banking",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "fideuram.it"
+},
+{
+"n": 92,
+"azienda": "Findomestic Banca",
+"settore": "Finance & Insurance",
+"sede": "Firenze",
+"sito": "findomestic.it"
+},
+{
+"n": 93,
+"azienda": "Monte dei Paschi di Siena (MPS)",
+"settore": "Finance & Insurance",
+"sede": "Siena",
+"sito": "gruppomps.it"
+},
+{
+"n": 94,
+"azienda": "Poste Italiane",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "poste.it"
+},
+{
+"n": 95,
+"azienda": "Revolut Italia",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "revolut.com"
+},
+{
+"n": 96,
+"azienda": "Verti Assicurazioni (Gruppo MAPFRE)",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "verti.it"
+},
+{
+"n": 97,
+"azienda": "Benetton Group",
+"settore": "Fashion & Lifestyle",
+"sede": "Ponzano Veneto (TV)",
+"sito": "benetton.com"
+},
+{
+"n": 98,
+"azienda": "Bottega Veneta",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "bottegaveneta.com"
+},
+{
+"n": 99,
+"azienda": "EssilorLuxottica",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "essilorluxottica.com"
+},
+{
+"n": 100,
+"azienda": "Geox",
+"settore": "Fashion & Lifestyle",
+"sede": "Montebelluna (TV)",
+"sito": "geox.com"
+},
+{
+"n": 101,
+"azienda": "Intimissimi (Oniverse)",
+"settore": "Fashion & Lifestyle",
+"sede": "Verona",
+"sito": "intimissimi.com"
+},
+{
+"n": 102,
+"azienda": "Moncler",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "moncler.com"
+},
+{
+"n": 103,
+"azienda": "Stone Island",
+"settore": "Fashion & Lifestyle",
+"sede": "Ravarino (MO)",
+"sito": "stoneisland.com"
+},
+{
+"n": 104,
+"azienda": "Valentino",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "valentino.com"
+},
+{
+"n": 105,
+"azienda": "Versace",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "versace.com"
+},
+{
+"n": 106,
+"azienda": "Alfa Romeo",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "alfaromeo.it"
+},
+{
+"n": 107,
+"azienda": "BYD Italia",
+"settore": "Automotive",
+"sede": "Milano",
+"sito": "byd.com"
+},
+{
+"n": 108,
+"azienda": "Brembo",
+"settore": "Automotive",
+"sede": "Curno (BG)",
+"sito": "brembo.com"
+},
+{
+"n": 109,
+"azienda": "Cupra Italia",
+"settore": "Automotive",
+"sede": "Verona",
+"sito": "cupraofficial.it"
+},
+{
+"n": 110,
+"azienda": "Hyundai Italia",
+"settore": "Automotive",
+"sede": "Milano",
+"sito": "hyundai.it"
+},
+{
+"n": 111,
+"azienda": "Jaguar Land Rover Italia",
+"settore": "Automotive",
+"sede": "Roma",
+"sito": "landrover.it"
+},
+{
+"n": 112,
+"azienda": "Jeep Italia",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "jeep.it"
+},
+{
+"n": 113,
+"azienda": "Lancia",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "lancia.it"
+},
+{
+"n": 114,
+"azienda": "MG Motor Italia",
+"settore": "Automotive",
+"sede": "Milano",
+"sito": "mgmotor.it"
+},
+{
+"n": 115,
+"azienda": "Renault Italia",
+"settore": "Automotive",
+"sede": "Roma",
+"sito": "renault.it"
+},
+{
+"n": 116,
+"azienda": "Stellantis Italia (Fiat)",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "stellantis.com"
+}
+]

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--navy:#0b1740;--navy2:#15296b;--gold:#c19a4d;--gold2:#d4af6a;--cream:#f8f4ea;--ink:#1b2a52;--soft:#46557d}
+  @page{size:A4;margin:0}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Manrope',sans-serif;color:var(--ink);font-size:13px;line-height:1.55}
+  .page{width:210mm;min-height:297mm;padding:20mm 18mm;position:relative;page-break-after:always;background:#fff}
+  .page:last-child{page-break-after:auto}
+  .display{font-family:'Fraunces',serif}
+  h1{font-family:'Fraunces',serif;font-weight:700;font-size:34px;line-height:1.1;color:var(--navy)}
+  h3{font-size:15px;font-weight:800;color:var(--ink);margin:16px 0 6px}
+  p{margin:7px 0}
+  ul,ol{margin:7px 0 7px 20px}
+  li{margin:4px 0}
+  b,strong{color:var(--navy)}
+  em{color:var(--gold)}
+  .eyebrow{font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold);font-weight:800}
+  .rule{height:2px;background:linear-gradient(90deg,var(--gold2),transparent);margin:10px 0 18px;border:none}
+  .lead{font-size:14px;color:var(--soft)}
+  .box{background:var(--cream);border-left:3px solid var(--gold2);border-radius:0 10px 10px 0;padding:12px 16px;margin:12px 0}
+  table{width:100%;border-collapse:collapse;margin:10px 0;font-size:12px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid #e7dec9;vertical-align:top}
+  th{background:var(--navy);color:#fff;font-size:11px;letter-spacing:.5px}
+  tr:nth-child(even) td{background:var(--cream)}
+  .foot{position:absolute;bottom:12mm;left:18mm;right:18mm;display:flex;justify-content:space-between;font-size:10px;color:#9aa3bd;letter-spacing:1px}
+  .cover{background:radial-gradient(120% 80% at 85% 12%,#1d367f,#15296b 42%,#0b1740);color:var(--cream);display:flex;flex-direction:column;justify-content:space-between}
+  .cover .logo{height:30px}
+  .cover h1{color:#fff;font-size:46px}
+  .cover h1 em{color:var(--gold2)}
+  .cover .sub{font-size:16px;color:#d4ddf2;max-width:130mm;margin-top:14px}
+  .cover .tags{margin-top:22px;display:flex;gap:8px;flex-wrap:wrap}
+  .cover .tag{border:1px solid rgba(212,175,106,.5);color:var(--gold2);font-size:11px;padding:5px 12px;border-radius:20px}
+  .cover .ded{border-top:1px solid rgba(212,175,106,.4);padding-top:14px;font-size:12px;color:#aeb9d6}
+  .cover .ded b{color:#fff}
+  .idx{display:flex;gap:10px;align-items:baseline;margin:6px 0}
+  .idx .n{font-family:'Fraunces',serif;color:var(--gold);font-weight:700;font-size:15px;min-width:22px}
+</style></head>
+<body>
+
+<!-- COVER -->
+<section class="page cover">
+  <img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png">
+  <div>
+    <div class="eyebrow" style="color:var(--gold2)">Documento 1 di 2 · Leggi una volta</div>
+    <h1 class="display" style="margin-top:10px">Guida<br>Content &amp; Brand.</h1>
+    <p class="sub">Il tuo ruolo, le regole e tutto quello che devi sapere su Telesales. Si legge una volta. Per lavorare userai l'altro documento: <em>Prompt &amp; Strumenti</em>.</p>
+    <div class="tags"><span class="tag">Il tuo ruolo</span><span class="tag">Regole</span><span class="tag">Brand Brief</span></div>
+  </div>
+  <div class="ded">Preparato per <b>Asia</b> · Telesales — Infrastrutture AI · Made in Italy</div>
+</section>
+
+<!-- INDICE + RUOLO -->
+<section class="page">
+  <div class="eyebrow">In breve</div>
+  <h1>Cosa farai</h1>
+  <hr class="rule">
+  <div class="idx"><span class="n">A</span><div><b>Social 360°</b> — Instagram, Facebook e LinkedIn. Scrivi i contenuti e crei i visual.</div></div>
+  <div class="idx"><span class="n">B</span><div><b>Presentazione aziendale</b> — le slide eleganti oro e navy, con le tue foto e i nostri contenuti.</div></div>
+
+  <div class="box">
+    <b>La regola d'oro: non far bloccare Claude.</b> Il piano da 20€ ha un limite che si ricarica ogni poche ore. Per non bloccarlo:
+    <ul>
+      <li><b>Crea un Project</b> in Claude chiamato “Telesales — Social &amp; Brand”. Carica dentro UNA volta il Brand Brief (pagina seguente): da lì Claude sa tutto di noi senza che tu glielo reincolli.</li>
+      <li><b>Una chat = una cosa.</b> Un contenuto = una chat. Finito? Ne apri una nuova.</li>
+      <li><b>Parti dai template</b>, non da zero: Claude riempie, non ridisegna.</li>
+      <li><b>Prima il copy, poi l'immagine.</b> Il testo è leggero; la grafica pesante solo quando il contenuto è ok.</li>
+      <li><b>Niente foto AI inventate.</b> Le foto vere le metti tu. Claude fa copy e grafiche.</li>
+    </ul>
+  </div>
+
+  <h3>Come pubblichi: 3 contenuti a settimana</h3>
+  <p>Ogni contenuto in <b>2 versioni</b>:</p>
+  <ul>
+    <li><b>Instagram + Facebook</b> — stessa identica versione. La pubblichi su Instagram e <b>Meta la ripubblica in automatico su Facebook</b>. Visual-first, hook fortissimo nella prima riga.</li>
+    <li><b>LinkedIn</b> — versione diversa, più professionale e da “founder”. Post più lungo, pochi hashtag, CTA verso commento o DM.</li>
+  </ul>
+
+  <h3>Regole brand (sempre)</h3>
+  <p>Mai emoji. Tono deciso e anti-fuffa, frasi corte, numeri e prove. Colori oro/champagne + navy, niente nero. Mai inventare numeri.</p>
+
+  <div class="box"><b>Fase 2 (più avanti).</b> Quando sei a regime, il ruolo cresce: networking LinkedIn dalla pagina aziendale per partnership, startup program e bandi. Per ora: contenuti + presentazione.</div>
+  <div class="foot"><span>TELESALES — GUIDA ASIA</span><span>1 · IL TUO RUOLO</span></div>
+</section>
+
+<!-- BRAND BRIEF 1 -->
+<section class="page">
+  <div class="eyebrow">Brand Brief</div>
+  <h1>Chi siamo</h1>
+  <hr class="rule">
+  <div class="box"><b>Da fare una volta:</b> questo Brand Brief va caricato nel Project come “knowledge”. È la memoria di Claude su di noi: non serve reincollarlo nelle chat.</div>
+
+  <p>Telesales costruisce <b>infrastrutture AI su misura per le aziende</b>. Posizionamento: <em>“Sostituiamo interi reparti aziendali con AI.”</em> Manifesto: <em>“Non vendiamo software. Costruiamo infrastrutture.”</em> Made in Italy.</p>
+
+  <h3>I 9 prodotti</h3>
+  <table>
+    <tr><th>#</th><th>Prodotto</th><th>In una riga</th></tr>
+    <tr><td>01</td><td><b>AI Voice</b> (flagship)</td><td>Voci indistinguibili: chiama, qualifica, chiude. ~780ms, italiano nativo.</td></tr>
+    <tr><td>02</td><td>Outreach omnicanale</td><td>7 canali da una sola interfaccia, sequenze AI.</td></tr>
+    <tr><td>03</td><td>CRM intelligente</td><td>Contatti arricchiti da 47 fonti, scoring live, nulla si perde.</td></tr>
+    <tr><td>04</td><td>HR AI</td><td>Trova, chiama e filtra candidati. Arrivano già scremati.</td></tr>
+    <tr><td>05</td><td>Scraping mondiale</td><td>127k record/giorno, 194 paesi, accuracy 98,4%.</td></tr>
+    <tr><td>06</td><td>Eventi end-to-end</td><td>Ticketing, sponsor, networking AI, follow-up.</td></tr>
+    <tr><td>07</td><td>Prodotti digitali</td><td>Corsi e membership: landing, checkout, delivery.</td></tr>
+    <tr><td>08</td><td>Marketing AI</td><td>Contenuti e adv: una sola voce brand su tutti i canali.</td></tr>
+    <tr><td>09</td><td>Trova investitori</td><td>Fondi screenati, solo warm intro, pitch personalizzati.</td></tr>
+  </table>
+
+  <h3>Numeri (usa solo questi)</h3>
+  <p>1.033 chiamate reali/settimana · 780ms latenza · 98,4% accuracy dati · 194 paesi · recensioni Trustpilot.</p>
+
+  <h3>A chi parliamo</h3>
+  <p>Imprenditori e manager di PMI/aziende italiane con un reparto lento o costoso (commerciale, HR, customer care, marketing). Anche startup in cerca di investitori.</p>
+  <div class="foot"><span>TELESALES — GUIDA ASIA</span><span>2 · BRAND BRIEF</span></div>
+</section>
+
+<!-- BRAND BRIEF 2 -->
+<section class="page">
+  <div class="eyebrow">Brand Brief</div>
+  <h1>Pain point, desideri e tono</h1>
+  <hr class="rule">
+  <div style="display:flex;gap:16px">
+    <div style="flex:1"><h3>Pain point (i problemi che togliamo)</h3><ul>
+      <li>Reparti lenti e costosi, personale che pesa.</li><li>Lead persi, follow-up mai fatti.</li><li>Cold calling con pochi appuntamenti.</li><li>Recruiting lento, candidati non filtrati.</li><li>Liste e dati scadenti.</li><li>Marketing incoerente.</li><li>SaaS generici inutili.</li></ul></div>
+    <div style="flex:1"><h3>Desideri (quello che vogliono)</h3><ul>
+      <li>Un reparto che gira 24/7 senza costi fissi.</li><li>Più appuntamenti e vendite, meno sforzo.</li><li>Risultati misurabili, non promesse.</li><li>Soluzione su misura.</li><li>Voci AI indistinguibili, in italiano.</li><li>Scalare in fretta, essere innovativi.</li></ul></div>
+  </div>
+
+  <h3>Tono di voce</h3>
+  <p>Deciso, sicuro, anti-fuffa. Frasi corte. Tecnico ma chiaro. Premium. Prove e numeri, mai hype. <b>Mai emoji.</b></p>
+  <div style="display:flex;gap:16px">
+    <div style="flex:1"><h3 style="color:#2e7d52">Esempi SÌ</h3><ul>
+      <li>“Il tuo reparto vendite non dorme mai. Il nostro nemmeno.”</li>
+      <li>“Non un software in più. Un reparto in meno da gestire.”</li>
+      <li>“1.033 chiamate reali a settimana. Zero stipendi in più.”</li></ul></div>
+    <div style="flex:1"><h3 style="color:#b3402f">Esempi NO</h3><ul>
+      <li>“Scopri la rivoluzione dell'AI!” (hype/emoji)</li>
+      <li>“La soluzione perfetta per ogni esigenza.” (vago)</li>
+      <li>“Siamo i migliori sul mercato.” (senza prove)</li></ul></div>
+  </div>
+
+  <h3>Identità visiva</h3>
+  <p>Colori: oro/champagne <b>#d4af6a</b>, navy profondo <b>#0b1740</b>, crema <b>#f8f4ea</b>. <b>Niente nero.</b> Font: Fraunces (titoli) + Manrope (testo). Stile premium e pulito, tanto respiro.</p>
+  <div class="box">Pronta? Ora apri il documento <b>“Prompt &amp; Strumenti”</b>: lì trovi i testi già pronti da copiare in Claude.</div>
+  <div class="foot"><span>TELESALES — GUIDA ASIA</span><span>2 · BRAND BRIEF</span></div>
+</section>
+
+</body></html>

@@ -1,0 +1,21 @@
+{
+  "riassunto": "Boutique di consulenza dati con sede a Milano specializzata in data science, business intelligence, predictive analytics e AI applicata, con soluzioni proprie come DeepRAG, Ticket Analyzer e Order Automation. Dal 2022 fa parte del gruppo Excellence e ha clienti come Decathlon, Sky, Fastweb e Aruba.",
+  "pain_point": "Una boutique entrata in un gruppo di consulenza ha pressione a crescere su nuovi clienti oltre il parco esistente. Senza un flusso strutturato di appuntamenti, lo sviluppo commerciale resta agganciato a referral e cross-selling di gruppo.",
+  "hook": "ho visto che oltre alla consulenza BI avete soluzioni come DeepRAG e Ticket Analyzer e lavorate con clienti come Decathlon e Sky",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sulle pagine lette, quindi approccio istituzionale.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://www.dataskills.it/",
+  "nome_azienda": "Dataskills",
+  "nome_decisore": "",
+  "ruolo_decisore": "",
+  "email": "",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "dataskills.it",
+  "pagine_lette": ["https://www.dataskills.it/", "https://www.dataskills.ai/company/"]
+}

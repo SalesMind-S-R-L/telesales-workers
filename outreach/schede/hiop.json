@@ -1,0 +1,18 @@
+{
+  "riassunto": "Hiop e' una piattaforma di data infrastructure serverless: l'utente descrive il modello dati in YAML e la piattaforma lo trasforma in pipeline pronte per la produzione, senza ETL ne' competenze di data engineering. Tra i clienti citati sul sito ci sono Unilever, Dompe' Pharma, Cigierre e La Piadineria.",
+  "pain_point": "Vendere infrastruttura dati a mid-market ed enterprise richiede arrivare a CTO e responsabili dati: per una startup il collo di bottiglia probabile e' generare abbastanza primi incontri qualificati senza distrarre i founder dalla parte tecnica.",
+  "hook": "ho visto che con Hiop trasformate la logica di business in pipeline dati serverless partendo da YAML, e che lavorate gia' con realta' come Unilever e Dompe' Pharma",
+  "variante_email": "A",
+  "motivo_variante": "Startup B2B SaaS con prodotto tecnico complesso: il pain di riempire l'agenda commerciale con decisori giusti e' chiaro, ha senso la proposta diretta.",
+  "da_verificare": "Su LinkedIn di Giacomo Barone: se in Hiop esiste gia' un team sales o se vende lui in prima persona, e dimensione attuale del team.",
+  "scheda_completa": true,
+  "nome_azienda": "Hiop",
+  "nome_decisore": "Giacomo Barone",
+  "ruolo_decisore": "Chief executive officer & co-founder",
+  "email": "giacomo.barone@hiop.io",
+  "telefono": "+393151112179",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "hiop.io",
+  "pagine_lette": ["https://hiop.io"]
+}

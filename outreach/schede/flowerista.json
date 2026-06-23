@@ -1,0 +1,20 @@
+{
+  "riassunto": "Flowerista e' un hub di formazione bolognese, Societa' Benefit fondata da Sara Malaguti, che accompagna le imprese in percorsi di trasformazione su tre aree: AI adoption, change management ed eventi e comunicazione. L'approccio e' esperienziale e pratico, centrato su persone, processi e cultura, con una community attiva di changemaker.",
+  "pain_point": "Il mercato della formazione su AI e change management e' affollato e i percorsi si vendono con incontri consulenziali: e' plausibile che la pipeline dipenda da community, blog e newsletter, canali inbound lenti per riempire l'agenda di nuovi clienti corporate.",
+  "hook": "ho visto che accompagnate le imprese su AI adoption e change management partendo dall'idea che il vero ostacolo al cambiamento e' cognitivo, non tecnologico",
+  "variante_email": "B",
+  "motivo_variante": "Nessun pain commerciale esplicito sul sito: variante questionario di default del pool.",
+  "da_verificare": "Email e' un pattern non verificato; Anna Iorio e' co-founder e CTO, valutare se sia il decisore giusto per un tema commerciale o se puntare alla fondatrice Sara Malaguti citata sul sito.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Flowerista",
+  "nome_decisore": "Anna Iorio",
+  "ruolo_decisore": "Co-founder & chief technology officer",
+  "email": "anna.iorio@flowerista.it",
+  "telefono": "",
+  "citta": "Bologna",
+  "settore": "Consulenza gestionale",
+  "website": "flowerista.it",
+  "slug": "flowerista",
+  "pagine_lette": ["https://flowerista.it"]
+}

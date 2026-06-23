@@ -1,0 +1,20 @@
+{
+  "riassunto": "4Dem e' una piattaforma italiana di email marketing del gruppo Positive con oltre 20.000 attivazioni: editor drag-and-drop, SMS, marketing automation, form e landing page, CRM e integrazioni e-commerce, con server in Europa GDPR compliant. Tra i clienti figurano Lonely Planet, Breil, Grom e Natuzzi.",
+  "pain_point": "Nel mercato dell'email marketing dominato da player internazionali, la crescita di un SaaS con piano gratuito passa dal convertire account free e PMI in clienti seguiti dalla consulenza: e' plausibile che manchino abbastanza conversazioni commerciali dirette con aziende strutturate per alzare il ticket medio.",
+  "hook": "ho visto che 4Dem ha superato le 20.000 attivazioni con clienti come Lonely Planet e Natuzzi, puntando su server europei GDPR compliant",
+  "variante_email": "B",
+  "motivo_variante": "SaaS self-service maturo senza pain commerciale esplicito sul sito; il questionario qualifica meglio la parte vendita diretta.",
+  "da_verificare": "Email paolo.errico@4dem.it e' un pattern non verificato. Il ruolo nel chunk indica CEO di 4marketing.it: verificare che Paolo Errico sia il decisore giusto per 4Dem/Positive Group.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "4Dem By Positive",
+  "nome_decisore": "Paolo Errico",
+  "ruolo_decisore": "Chief executive officer - 4marketing.it",
+  "email": "paolo.errico@4dem.it",
+  "telefono": "",
+  "citta": "Piedmont",
+  "settore": "IT / Software",
+  "website": "4dem.it",
+  "slug": "4dem_by_positive",
+  "pagine_lette": ["https://4dem.it"]
+}

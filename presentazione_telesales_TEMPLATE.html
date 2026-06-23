@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Presentazione Telesales — TEMPLATE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy-deep:#0b1740;--navy:#15296b;--navy-mid:#2f4f9c;
+    --gold:#d4af6a;--gold-deep:#c19a4d;--gold-light:#f1e3b8;
+    --cream:#f8f4ea;--cream-2:#f2ece0;--ink:#13234f;--ink-soft:#3a4a73;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#cdd2dd;font-family:'Manrope',sans-serif}
+  .slide{width:1280px;height:720px;position:relative;overflow:hidden;margin:0 auto 26px;color:var(--ink)}
+  .display{font-family:'Fraunces',serif;font-weight:600;letter-spacing:-.5px}
+  .logo{height:34px}
+  .logobox{background:var(--navy-deep);border-radius:10px;padding:9px 16px;display:inline-flex}
+  .logobox .logo{height:26px}
+  .topbar{display:flex;justify-content:space-between;align-items:center}
+  .pagenum{font-size:12px;letter-spacing:2px;color:var(--gold-deep);font-weight:700}
+  .light{background:linear-gradient(160deg,var(--cream) 0%, var(--cream-2) 100%)}
+  .dark{background:radial-gradient(120% 100% at 85% 12%, #1d367f 0%, var(--navy) 40%, var(--navy-deep) 100%);color:var(--cream)}
+  .dark .pagenum{color:var(--gold)}
+  .pad{padding:60px 72px;height:100%;display:flex;flex-direction:column;position:relative;z-index:2}
+  .mono{font-variant-numeric:tabular-nums;letter-spacing:1px}
+
+  /* COVER */
+  .cover .rings{position:absolute;right:-160px;top:-140px;width:620px;height:620px;border-radius:50%;border:1.5px solid rgba(212,175,106,.35)}
+  .cover .rings::after{content:"";position:absolute;inset:130px;border-radius:50%;border:1.5px solid rgba(212,175,106,.22)}
+  .cover h1{font-size:60px;line-height:1.05;color:#fff;margin-top:auto;max-width:820px}
+  .cover h1 em{font-style:italic;color:var(--gold)}
+  .cover .sub{margin-top:22px;font-size:18px;color:#d9e0f0;max-width:560px}
+  .cover .foot{margin-top:auto;border-top:1px solid rgba(212,175,106,.4);padding-top:18px;font-size:13px;color:var(--gold);letter-spacing:2px;text-transform:uppercase;font-weight:700}
+
+  /* HEADLINE LIGHT */
+  h2{font-size:46px;line-height:1.08;margin-top:38px;max-width:780px}
+  h2 span{color:var(--gold-deep)}
+  .lead{margin-top:20px;font-size:17.5px;line-height:1.6;max-width:680px;color:var(--ink-soft)}
+  .lead b{color:var(--ink)}
+
+  /* STATS */
+  .stats{margin-top:auto;display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+  .stat{background:#fff;border:1px solid #e7dec9;border-radius:18px;padding:26px 24px;box-shadow:0 18px 40px -28px rgba(21,41,107,.45)}
+  .dark .stat{background:rgba(255,255,255,.05);border:1px solid rgba(212,175,106,.3);box-shadow:none}
+  .stat .n{font-family:'Fraunces',serif;font-size:44px;font-weight:600;color:var(--navy);line-height:1}
+  .dark .stat .n{color:var(--gold-light)}
+  .stat .n small{font-size:22px;color:var(--gold-deep)}
+  .stat .t{margin-top:10px;font-size:14px;line-height:1.45;color:var(--ink-soft);font-weight:500}
+  .dark .stat .t{color:#b9c4e0}
+
+  /* PRODUCTS GRID */
+  .grid{margin-top:34px;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .prod{background:#fff;border:1px solid #e7dec9;border-radius:14px;padding:18px 20px;box-shadow:0 14px 34px -28px rgba(21,41,107,.5)}
+  .prod .pn{font-size:11px;letter-spacing:1px;color:var(--gold-deep);font-weight:700}
+  .prod h3{font-size:18px;color:var(--ink);margin-top:6px;font-weight:700}
+  .prod.flag{background:linear-gradient(135deg,var(--navy) 0%,var(--navy-deep) 100%);border-color:var(--gold)}
+  .prod.flag .pn{color:var(--gold)}
+  .prod.flag h3{color:#fff}
+
+  /* PHOTO SPLIT */
+  .split{display:grid;grid-template-columns:1fr 1fr;height:100%}
+  .split .txt{padding:60px 56px;display:flex;flex-direction:column;justify-content:center}
+  .photo-ph{background:repeating-linear-gradient(45deg,#dfe4ee,#dfe4ee 14px,#e9edf4 14px,#e9edf4 28px);
+    display:flex;align-items:center;justify-content:center;color:#6b7aa0;font-weight:700;font-size:15px;letter-spacing:1px;text-align:center;padding:20px}
+
+  /* CONTACT */
+  .contact .big{font-size:50px;color:#fff;margin-top:auto}
+  .contact .big em{font-style:italic;color:var(--gold)}
+  .contact .info{margin-top:auto;border-top:1px solid rgba(212,175,106,.35);padding-top:20px;display:flex;gap:40px;font-size:15px;color:#cfd6ea}
+  .contact .info b{color:var(--gold-light)}
+</style>
+</head>
+<body>
+<!--
+  TEMPLATE PRESENTAZIONE TELESALES
+  Logo: sostituisci LOGO con il path del logo oro.
+  Foto: i riquadri ".photo-ph" sono segnaposto: metti lì le tue foto.
+  Esporta: Stampa (Cmd+P) -> Salva come PDF, oppure passa il file a Simone.
+-->
+
+<!-- 1. COVER -->
+<section class="slide dark cover">
+  <div class="rings"></div>
+  <div class="pad">
+    <img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales">
+    <h1 class="display">Sostituiamo interi<br><em>reparti aziendali</em><br>con l'AI.</h1>
+    <p class="sub">Nove prodotti AI che lavorano insieme, 24 ore su 24. Senza ferie, senza stanchezza, senza lead dimenticati.</p>
+    <div class="foot">Telesales — Infrastrutture AI · Made in Italy</div>
+  </div>
+</section>
+
+<!-- 2. CHI SIAMO -->
+<section class="slide light">
+  <div class="pad">
+    <div class="topbar"><span class="logobox"><img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales"></span><span class="pagenum">CHI SIAMO</span></div>
+    <h2 class="display">Non vendiamo software.<br><span>Costruiamo infrastrutture.</span></h2>
+    <p class="lead">Telesales è un'<b>infrastruttura AI su misura</b> per la tua azienda. Ogni prodotto vale da solo, ma insieme formano un sistema che pensa, parla, scrive, cerca e vende al posto di un reparto. Niente SaaS generico. Parliamo, progettiamo, costruiamo. Poi il sistema gira.</p>
+    <div class="stats">
+      <div class="stat"><div class="n">1.033</div><div class="t">chiamate reali a settimana</div></div>
+      <div class="stat"><div class="n">98,4<small>%</small></div><div class="t">accuracy sui dati arricchiti</div></div>
+      <div class="stat"><div class="n">194</div><div class="t">paesi coperti</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 3. I 9 PRODOTTI -->
+<section class="slide light">
+  <div class="pad">
+    <div class="topbar"><span class="logobox"><img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales"></span><span class="pagenum">L'ECOSISTEMA</span></div>
+    <h2 class="display">Un ecosistema. <span>Team interi dentro.</span></h2>
+    <div class="grid">
+      <div class="prod flag"><div class="pn">01 · FLAGSHIP</div><h3>AI Voice</h3></div>
+      <div class="prod"><div class="pn">02</div><h3>Outreach omnicanale</h3></div>
+      <div class="prod"><div class="pn">03</div><h3>CRM intelligente</h3></div>
+      <div class="prod"><div class="pn">04</div><h3>HR AI</h3></div>
+      <div class="prod"><div class="pn">05</div><h3>Scraping mondiale</h3></div>
+      <div class="prod"><div class="pn">06</div><h3>Eventi end-to-end</h3></div>
+      <div class="prod"><div class="pn">07</div><h3>Prodotti digitali</h3></div>
+      <div class="prod"><div class="pn">08</div><h3>Marketing AI</h3></div>
+      <div class="prod"><div class="pn">09</div><h3>Trova investitori</h3></div>
+    </div>
+  </div>
+</section>
+
+<!-- 4. SLIDE CON FOTO (come lavoriamo / eventi) -->
+<section class="slide light">
+  <div class="split">
+    <div class="txt">
+      <span class="pagenum">COME LAVORIAMO</span>
+      <h2 class="display" style="margin-top:18px">Parliamo. Progettiamo. <span>Costruiamo.</span></h2>
+      <p class="lead">Poi il sistema gira. Un solo referente, risultati misurabili, niente abbonamenti inutili.</p>
+    </div>
+    <div class="photo-ph">FOTO: team / evento Telesales</div>
+  </div>
+</section>
+
+<!-- 5. CONTATTI -->
+<section class="slide dark contact">
+  <div class="pad">
+    <img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales">
+    <div class="big display">Costruiamo la tua<br><em>infrastruttura AI.</em></div>
+    <div class="info">
+      <div><b>Web</b><br>telesales.it</div>
+      <div><b>Email</b><br>hello@telesales.it</div>
+      <div><b>Demo</b><br>Parla con Marco, il nostro AI commerciale</div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>

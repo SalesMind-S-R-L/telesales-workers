@@ -4,8 +4,11 @@ service.log
 __pycache__/
 *.pyc
 .env
+.env.*
 .env.local
 .env.production
+service-account.json
+patente_*.pdf
 node_modules/
 dist/
 .wrangler/

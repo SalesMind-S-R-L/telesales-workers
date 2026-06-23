@@ -1,0 +1,205 @@
+[
+{
+"n": 30,
+"azienda": "Gruppo Montenegro",
+"settore": "Food & Beverage",
+"sede": "Zola Predosa (BO)",
+"sito": "gruppomontenegro.com"
+},
+{
+"n": 31,
+"azienda": "Kimbo",
+"settore": "Food & Beverage",
+"sede": "Melito di Napoli (NA)",
+"sito": "kimbo.it"
+},
+{
+"n": 32,
+"azienda": "Levoni",
+"settore": "Food & Beverage",
+"sede": "Castellucchio (Mantova)",
+"sito": "levoni.it"
+},
+{
+"n": 33,
+"azienda": "Misura (Gruppo Colussi)",
+"settore": "Food & Beverage",
+"sede": "Milano",
+"sito": "misura.it"
+},
+{
+"n": 34,
+"azienda": "Monini",
+"settore": "Food & Beverage",
+"sede": "Spoleto (Perugia)",
+"sito": "monini.com"
+},
+{
+"n": 35,
+"azienda": "Riso Gallo",
+"settore": "Food & Beverage",
+"sede": "Robbio (Pavia)",
+"sito": "risogallo.it"
+},
+{
+"n": 36,
+"azienda": "Riso Scotti",
+"settore": "Food & Beverage",
+"sede": "Pavia",
+"sito": "risoscotti.it"
+},
+{
+"n": 37,
+"azienda": "Tre Marie (Sammontana Italia / Vivenda)",
+"settore": "Food & Beverage",
+"sede": "Milano",
+"sito": "tremarie.it"
+},
+{
+"n": 38,
+"azienda": "Valsoia",
+"settore": "Food & Beverage",
+"sede": "Bologna",
+"sito": "valsoia.it"
+},
+{
+"n": 39,
+"azienda": "Veroni",
+"settore": "Food & Beverage",
+"sede": "Correggio (Reggio Emilia)",
+"sito": "veroni.it"
+},
+{
+"n": 40,
+"azienda": "Arcaplanet",
+"settore": "Retail & GDO",
+"sede": "Carasco (GE)",
+"sito": "arcaplanet.it"
+},
+{
+"n": 41,
+"azienda": "Iperceramica",
+"settore": "Retail & GDO",
+"sede": "Anzola dell'Emilia (BO)",
+"sito": "iperceramica.it"
+},
+{
+"n": 42,
+"azienda": "Original Marines",
+"settore": "Retail & GDO",
+"sede": "Napoli",
+"sito": "originalmarines.com"
+},
+{
+"n": 43,
+"azienda": "Tigota (Gottardo)",
+"settore": "Retail & GDO",
+"sede": "Vigonza (PD)",
+"sito": "tigota.it"
+},
+{
+"n": 44,
+"azienda": "dm Italia",
+"settore": "Retail & GDO",
+"sede": "Verona",
+"sito": "dm-drogeriemarkt.it"
+},
+{
+"n": 45,
+"azienda": "Alperia",
+"settore": "Telco / Energia-Utility",
+"sede": "Bolzano",
+"sito": "alperia.eu"
+},
+{
+"n": 46,
+"azienda": "Estra",
+"settore": "Telco / Energia-Utility",
+"sede": "Prato",
+"sito": "estraenergie.it"
+},
+{
+"n": 47,
+"azienda": "Magis Energia (ex AGSM AIM)",
+"settore": "Telco / Energia-Utility",
+"sede": "Verona",
+"sito": "magisenergia.it"
+},
+{
+"n": 48,
+"azienda": "Sorgenia",
+"settore": "Telco / Energia-Utility",
+"sede": "Milano",
+"sito": "sorgenia.it"
+},
+{
+"n": 49,
+"azienda": "Aruba",
+"settore": "Telecomunicazioni",
+"sede": "Ponte San Pietro (BG)",
+"sito": "aruba.it"
+},
+{
+"n": 50,
+"azienda": "Banca Ifis",
+"settore": "Finance & Insurance",
+"sede": "Venezia-Mestre",
+"sito": "bancaifis.it"
+},
+{
+"n": 51,
+"azienda": "ITAS Mutua",
+"settore": "Finance & Insurance",
+"sede": "Trento",
+"sito": "gruppoitas.it"
+},
+{
+"n": 52,
+"azienda": "Prima Assicurazioni",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "prima.it"
+},
+{
+"n": 53,
+"azienda": "Satispay",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "satispay.com"
+},
+{
+"n": 54,
+"azienda": "Scalapay",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "scalapay.com"
+},
+{
+"n": 55,
+"azienda": "Aeffe / Alberta Ferretti",
+"settore": "Fashion & Lifestyle",
+"sede": "San Giovanni in Marignano (RN)",
+"sito": "aeffe.com"
+},
+{
+"n": 56,
+"azienda": "BioNike",
+"settore": "Fashion & Lifestyle",
+"sede": "Milano",
+"sito": "bionike.it"
+},
+{
+"n": 57,
+"azienda": "Boggi Milano",
+"settore": "Fashion & Lifestyle",
+"sede": "Cantu (CO)",
+"sito": "boggi.com"
+},
+{
+"n": 58,
+"azienda": "Equilibra",
+"settore": "Fashion & Lifestyle",
+"sede": "Torino",
+"sito": "equilibra.it"
+}
+]

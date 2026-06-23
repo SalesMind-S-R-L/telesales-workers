@@ -1,0 +1,37 @@
+{
+  "cliente": "Linfa Cosmetics",
+  "titolo_master": "MASTER LINFA COSMETICS",
+  "sottotitolo": "Strumento di lavoro Telesales per Linfa Cosmetics (B Cosmetics S.r.l.) - aggiornato 22 giugno 2026",
+  "obiettivo": "Fissare appuntamenti qualificati col decisore/titolare di canali B2B beauty (distributori, centri estetici, erboristerie, parafarmacie, farmacie, profumerie) per la distribuzione della linea Linfa Cosmetics.",
+  "servizio": "Linea cosmetica naturale premium made in Italy: skincare (anti-age H24, scrub semi di mirtillo rosso, fango osmotico anticellulite, cellule staminali vegetali) e linea intima (lubrificante con arginina, stimolante, crema schiarente, deodorante intimo). Condizioni partner ~ meta del prezzo retail, esclusivita territoriale, reso entro 14 giorni, evasione fino a 5000 pezzi/referenza in una settimana.",
+  "modalita_lista": "scouting",
+  "calendario_cliente": "DA INSERIRE - link booking del setter/closer",
+  "data": "22 giugno 2026",
+  "ultimo_sync": "22 giugno 2026",
+  "obiettivo_appuntamenti": "15/mese (da confermare col cliente)",
+  "regole_oro": [
+    "L'obiettivo della chiamata e l'APPUNTAMENTO col decisore/titolare, non vendere al telefono.",
+    "In chiamata NON si fanno prezzi: si rimanda alla proposta riservata.",
+    "Si parla col decisore: titolare per estetici/erboristerie/parafarmacie, responsabile acquisti per distributori/farmacie.",
+    "Aggancio sul differenziale: prodotti che fanno in pochissimi (fango osmotico, cellule staminali vegetali, linea intima), made in Italy, reso 14 giorni.",
+    "Note brevi e professionali, mai menzionare strumenti interni."
+  ],
+  "settori_weight": {
+    "Distributori / Grossisti cosmetica ed estetica": 5,
+    "Centri estetici": 5,
+    "Erboristerie": 4,
+    "Parafarmacie": 4,
+    "Farmacie": 3,
+    "Profumerie / Concept store beauty": 3
+  },
+  "icp": [
+    ["Canali", "Distributori/grossisti cosmetica-estetica, centri estetici, erboristerie, parafarmacie, farmacie, profumerie indipendenti."],
+    ["Profilo migliore", "Realta founder-led (titolare raggiungibile) attive e ben presenti online, gia attente a naturale/made in Italy e a marchi premium."],
+    ["Leva alta conversione", "Prodotti differenzianti (fango osmotico, cellule staminali vegetali, linea intima) + margine partner + esclusiva territoriale + reso 14 giorni."],
+    ["Escludere", "Sexy shop e canali a sola leva prezzo; grande GDO; i 30 distributori gia contattati da Jacopo; trattative gia aperte dal consulente."]
+  ],
+  "insight": [
+    ["Mercato cosmetico Italia", "Il mercato cosmetico italiano vale oltre 15 miliardi di euro e cresce a doppia cifra, trainato dal canale professionale e dalla cosmesi naturale.", "\"Il canale beauty professionale e in forte crescita: e il momento giusto per inserire una linea premium differenziante.\""],
+    ["Naturale e made in Italy", "L'Italia e leader europeo nella produzione cosmetica conto terzi: il 'made in Italy' e una leva di vendita forte verso i rivenditori.", "\"E' cosmetica naturale made in Italy: per il vostro cliente finale e una garanzia che vende.\""]
+  ]
+}

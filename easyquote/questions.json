@@ -1,0 +1,40 @@
+{
+  "titolo": "Onboarding Easyquote - IsyQuote",
+  "come_usare": "Questo documento e l'agenda per chiudere i requisiti e partire il 23 giugno. In alto gli insight di mercato gia trovati (da usare in chiamata), poi le domande in ordine di priorita. Rispondi a voce in call o via WhatsApp.",
+  "insight_settore": [
+    {"titolo": "1. Il settore traslochi e digitalmente abbandonato", "testo": "Solo il 14% delle PMI italiane vende online e nei servizi tradizionali e ancora meno (ISTAT 2025): il configuratore entra in uno spazio quasi vuoto."},
+    {"titolo": "2. Vince chi risponde per primo", "testo": "Il 78% dei clienti compra dalla prima azienda che risponde, +391% di conversioni entro 1 minuto. IsyQuote da il prezzo subito, appena il cliente finisce di configurare: e la leva di vendita piu forte."},
+    {"titolo": "3. Caso pilota", "testo": "L&C Traslochi e cresciuta molto negli anni (circa 60.000 -> quasi 500.000), ma per un insieme di fattori (marketing continuativo + di recente IsyQuote), non per il solo configuratore. Caso reale da raccontare senza attribuire tutta la crescita allo strumento."},
+    {"titolo": "4. Domanda toscana solida", "testo": "51.566 compravendite 2025 (+9,4%) e oltre 40.000 studenti a Firenze: la domanda c'e, serve intercettarla."},
+    {"titolo": "5. Concorrenza software scoperta", "testo": "I gestionali italiani (es. SuperMover) gestiscono i lead in arrivo; le soluzioni self-service sono USA ed enterprise. Nessuno fa il configuratore in italiano per micro-imprese."},
+    {"titolo": "6. La lista (ampliata)", "testo": "309 prospect: 190 ripuliti dalla tua lista Toscana (esclusi 12 competitor della lista rossa Lucca, il pilota L&C e i duplicati) PIU 119 nuove aziende di traslochi trovate da noi in tutta la regione, tutte con telefono verificato. 304 su 309 con centralino, 138 con nome del titolare. Ordinati per area, priorita fuori Firenze."}
+  ],
+  "macro_aree": [
+    {"nome": "MACRO A - Avvio e strumenti", "intro": "Servono per partire il 23 giugno.", "domande": [
+      {"titolo": "Calendario demo", "testo": "Qual e il link del calendario (Cal.com) di Nabil su cui far fissare le demo ai setter?", "prio": 1},
+      {"titolo": "Email commerciale", "testo": "Da quale indirizzo email Easyquote inviamo le mail ai prospect? Filippo la crea dedicata o usiamo info@?", "prio": 1},
+      {"titolo": "Obiettivo e capienza", "testo": "Quante demo a settimana puo reggere Nabil (videocall a giugno, dal vivo da luglio) e qual e l'obiettivo demo/mese?", "prio": 2},
+      {"titolo": "Priorita geografica", "testo": "Confermi: partiamo da FUORI Firenze in videocall e teniamo Firenze per le demo dal vivo da luglio? Oppure apriamo subito anche Firenze in videocall?", "prio": 2}
+    ]},
+    {"nome": "MACRO B - Lista, esclusioni e messaggio", "intro": "", "domande": [
+      {"titolo": "Altre esclusioni", "testo": "Oltre alla lista rossa Lucca e al pilota L&C, ci sono altre aziende da NON contattare (clienti, conoscenti, gia in trattativa)?", "prio": 3},
+      {"titolo": "Lista rossa nel tempo", "testo": "I competitor di Lucca restano esclusi solo 'per ora': quando potremo aprirli e con quali criteri?", "prio": 4},
+      {"titolo": "Materiali da inviare", "testo": "Confermi quali link possiamo mandare dopo la demo: landing IsyQuote, landing pilota L&C, video testimonianza?", "prio": 4},
+      {"titolo": "Email integrativa", "testo": "Ok a mandare una breve email a chi non risponde al telefono? Con quale oggetto e taglio (tempo risparmiato? caso L&C?)?", "prio": 3}
+    ]},
+    {"nome": "MACRO C - Decisore e obiezioni (non ovvie)", "intro": "", "domande": [
+      {"titolo": "Obiezione 'ho gia un sito/gestionale'", "testo": "Qual e la frase che chiude meglio quando il titolare dice che ha gia un sito o un gestionale? Il vostro vero differenziale tecnico?", "prio": 2},
+      {"titolo": "Caso L&C citabile", "testo": "Come vuoi che raccontiamo L&C (crescita pluriennale da piu fattori, oggi usa anche IsyQuote, senza attribuirgli tutto)? Possiamo mostrare la video testimonianza e ci sono altri numeri/risultati citabili?", "prio": 3},
+      {"titolo": "Chi e il decisore", "testo": "Nelle aziende strutturate decide il titolare o il responsabile preventivi? E per le ditte da 2 persone partiamo lo stesso o sono troppo piccole?", "prio": 3},
+      {"titolo": "Referente in chiamata", "testo": "Confermi come presentare l'appuntamento: 'fissiamo una demo con Nabil'? Nome e ruolo esatti da usare.", "prio": 4}
+    ]},
+    {"nome": "MACRO D - Operativita demo", "intro": "", "domande": [
+      {"titolo": "Promemoria pre-demo", "testo": "Il promemoria 2 giorni prima lo mandiamo noi via email o WhatsApp? Con quale messaggio?", "prio": 4},
+      {"titolo": "Slot preferiti", "testo": "Giorni/orari preferiti per le demo in videocall nelle prossime 3 settimane?", "prio": 5}
+    ]}
+  ],
+  "kpi": [
+    {"titolo": "Accordo di collaborazione", "testo": "Confermi il modello a scambio di servizi (telesales <-> marketing/sito) e con chi lo finalizziamo (Nicolo/Filippo)?", "prio": 5}
+  ],
+  "chiusura": "Con queste risposte chiudiamo i requisiti e partiamo il 23 giugno. Grazie."
+}

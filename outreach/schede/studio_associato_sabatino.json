@@ -1,0 +1,20 @@
+{
+  "riassunto": "Studio Associato Sabatino e' uno studio professionale con quattro sedi tra Torino, Collegno e Sestri Levante, attivo da oltre quarant'anni con un team di 43 membri. Offre consulenza fiscale, legale e societaria, consulenza del lavoro, finanza d'impresa e fondi europei, controllo di gestione e crisi d'impresa, seguendo circa 800 clienti.",
+  "pain_point": "Uno studio strutturato che segue 800 clienti aziendali su piu' sedi deve alimentare costantemente la pipeline per sostenere la crescita; appuntamenti qualificati con imprese target ridurrebbero la dipendenza dal passaparola sui servizi a maggior valore come finanza d'impresa e controllo di gestione.",
+  "hook": "ho visto che con quattro sedi e un team di 43 persone seguite circa 800 clienti tra consulenza fiscale, del lavoro e finanza d'impresa",
+  "variante_email": "B",
+  "motivo_variante": "Il sito non espone i nomi dei soci in chiaro nella pagina letta, quindi serve un'apertura sul posizionamento dello studio piuttosto che sul singolo decisore.",
+  "da_verificare": "email pattern non verificata, decisore da confermare su LinkedIn",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.sabatinotax-work.com/",
+  "nome_azienda": "Studio Associato Sabatino",
+  "nome_decisore": "Pasquale Sabatino",
+  "ruolo_decisore": "Socio fondatore",
+  "email": "pasquale.sabatino@sabatinotax-work.com",
+  "telefono": "",
+  "citta": "Torino",
+  "settore": "Studi professionali",
+  "website": "sabatinotax-work.com",
+  "pagine_lette": ["https://www.sabatinotax-work.com/"]
+}

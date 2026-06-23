@@ -1,0 +1,20 @@
+{
+  "riassunto": "",
+  "pain_point": "",
+  "hook": "",
+  "variante_email": "B",
+  "motivo_variante": "",
+  "da_verificare": "Sito non raggiungibile (certificato SSL scaduto su easystaff.it e www.easystaff.it); email fabio.cesco@easystaff.it e' un pattern non verificato.",
+  "scheda_completa": false,
+  "pool": "email_cold",
+  "nome_azienda": "Easystaff Zucchetti",
+  "nome_decisore": "Fabio De Cesco",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "fabio.cesco@easystaff.it",
+  "telefono": "",
+  "citta": "Udine",
+  "settore": "IT / Software",
+  "website": "easystaff.it",
+  "pagine_lette": [],
+  "slug": "easystaff_zucchetti"
+}

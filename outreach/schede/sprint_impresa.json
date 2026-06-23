@@ -1,0 +1,21 @@
+{
+  "riassunto": "Sprint Impresa e uno studio di consulenza aziendale integrata con base nell'area Milano-Monza Brianza, network di oltre 20 collaboratori. Supporta PMI e startup su controllo di gestione, strategia, organizzazione, lean management, marketing digitale e internazionalizzazione.",
+  "pain_point": "Uno studio multidisciplinare con tanti servizi vive di passaparola e i professionisti senior sono assorbiti dai progetti dei clienti. L'agenda di primi appuntamenti con nuove PMI rischia di restare vuota nei periodi di piena erogazione.",
+  "hook": "ho visto che siete un network di oltre 20 collaboratori e coprite controllo di gestione, lean e internazionalizzazione per PMI e startup tra Milano e Monza",
+  "variante_email": "A",
+  "motivo_variante": "Decisore identificato sul sito, messaggio diretto al professionista di riferimento.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Leonardo",
+  "fonte": "https://sprintimpresa.it/",
+  "nome_azienda": "Sprint Impresa",
+  "nome_decisore": "Luca Ghezzi",
+  "ruolo_decisore": "Commercialista, team di direzione",
+  "email": "luca.ghezzi@sprintimpresa.it",
+  "telefono": "",
+  "citta": "Milano / Monza",
+  "settore": "Consulenza gestionale",
+  "website": "sprintimpresa.it",
+  "pagine_lette": ["https://sprintimpresa.it/", "https://sprintimpresa.it/studio-di-consulenza-aziendale/"]
+}

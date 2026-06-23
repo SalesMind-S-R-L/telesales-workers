@@ -1,0 +1,412 @@
+[
+ {
+  "city": "bolzano",
+  "cat": "altro",
+  "tot": 237,
+  "called": 199,
+  "eng": 46,
+  "app": 2,
+  "nonint": 11,
+  "esausti": 0
+ },
+ {
+  "city": "bolzano",
+  "cat": "bar/caffe",
+  "tot": 86,
+  "called": 86,
+  "eng": 24,
+  "app": 1,
+  "nonint": 7,
+  "esausti": 0
+ },
+ {
+  "city": "bolzano",
+  "cat": "hotel/bb",
+  "tot": 65,
+  "called": 64,
+  "eng": 38,
+  "app": 1,
+  "nonint": 5,
+  "esausti": 1
+ },
+ {
+  "city": "bolzano",
+  "cat": "ristorante",
+  "tot": 57,
+  "called": 55,
+  "eng": 19,
+  "app": 1,
+  "nonint": 2,
+  "esausti": 1
+ },
+ {
+  "city": "merano",
+  "cat": "hotel/bb",
+  "tot": 214,
+  "called": 47,
+  "eng": 17,
+  "app": 0,
+  "nonint": 1,
+  "esausti": 0
+ },
+ {
+  "city": "caldaro",
+  "cat": "hotel/bb",
+  "tot": 46,
+  "called": 43,
+  "eng": 23,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "appiano",
+  "cat": "hotel/bb",
+  "tot": 44,
+  "called": 41,
+  "eng": 21,
+  "app": 0,
+  "nonint": 4,
+  "esausti": 0
+ },
+ {
+  "city": "bolzano",
+  "cat": "pizzeria",
+  "tot": 30,
+  "called": 29,
+  "eng": 3,
+  "app": 0,
+  "nonint": 1,
+  "esausti": 2
+ },
+ {
+  "city": "appiano",
+  "cat": "altro",
+  "tot": 47,
+  "called": 21,
+  "eng": 7,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "merano",
+  "cat": "altro",
+  "tot": 99,
+  "called": 20,
+  "eng": 3,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "caldaro",
+  "cat": "altro",
+  "tot": 31,
+  "called": 18,
+  "eng": 9,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "bolzano",
+  "cat": "gelateria",
+  "tot": 16,
+  "called": 16,
+  "eng": 3,
+  "app": 0,
+  "nonint": 2,
+  "esausti": 1
+ },
+ {
+  "city": "bolzano",
+  "cat": "pasticceria",
+  "tot": 14,
+  "called": 14,
+  "eng": 6,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "appiano",
+  "cat": "bar/caffe",
+  "tot": 16,
+  "called": 14,
+  "eng": 3,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "laives",
+  "cat": "hotel/bb",
+  "tot": 14,
+  "called": 13,
+  "eng": 7,
+  "app": 0,
+  "nonint": 1,
+  "esausti": 0
+ },
+ {
+  "city": "bolzano",
+  "cat": "agriturismo",
+  "tot": 13,
+  "called": 10,
+  "eng": 5,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "laives",
+  "cat": "bar/caffe",
+  "tot": 14,
+  "called": 10,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "caldaro",
+  "cat": "ristorante",
+  "tot": 11,
+  "called": 10,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "appiano",
+  "cat": "pizzeria",
+  "tot": 10,
+  "called": 9,
+  "eng": 3,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "egna",
+  "cat": "bar/caffe",
+  "tot": 11,
+  "called": 9,
+  "eng": 2,
+  "app": 0,
+  "nonint": 1,
+  "esausti": 0
+ },
+ {
+  "city": "laives",
+  "cat": "pizzeria",
+  "tot": 8,
+  "called": 8,
+  "eng": 3,
+  "app": 0,
+  "nonint": 2,
+  "esausti": 0
+ },
+ {
+  "city": "egna",
+  "cat": "hotel/bb",
+  "tot": 12,
+  "called": 7,
+  "eng": 2,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "appiano",
+  "cat": "agriturismo",
+  "tot": 12,
+  "called": 6,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "caldaro",
+  "cat": "pizzeria",
+  "tot": 6,
+  "called": 6,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "merano",
+  "cat": "pizzeria",
+  "tot": 11,
+  "called": 6,
+  "eng": 2,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "merano",
+  "cat": "ristorante",
+  "tot": 23,
+  "called": 6,
+  "eng": 0,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "merano",
+  "cat": "agriturismo",
+  "tot": 26,
+  "called": 6,
+  "eng": 2,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "laives",
+  "cat": "altro",
+  "tot": 11,
+  "called": 4,
+  "eng": 2,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "salorno",
+  "cat": "pizzeria",
+  "tot": 5,
+  "called": 4,
+  "eng": 0,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "salorno",
+  "cat": "hotel/bb",
+  "tot": 5,
+  "called": 4,
+  "eng": 3,
+  "app": 0,
+  "nonint": 1,
+  "esausti": 0
+ },
+ {
+  "city": "mezzocorona",
+  "cat": "hotel/bb",
+  "tot": 11,
+  "called": 4,
+  "eng": 1,
+  "app": 0,
+  "nonint": 2,
+  "esausti": 0
+ },
+ {
+  "city": "mezzocorona",
+  "cat": "ristorante",
+  "tot": 6,
+  "called": 4,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "merano",
+  "cat": "bar/caffe",
+  "tot": 13,
+  "called": 4,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "laives",
+  "cat": "gelateria",
+  "tot": 3,
+  "called": 3,
+  "eng": 2,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "appiano",
+  "cat": "ristorante",
+  "tot": 10,
+  "called": 3,
+  "eng": 1,
+  "app": 0,
+  "nonint": 1,
+  "esausti": 0
+ },
+ {
+  "city": "appiano",
+  "cat": "pasticceria",
+  "tot": 3,
+  "called": 3,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "caldaro",
+  "cat": "bar/caffe",
+  "tot": 4,
+  "called": 3,
+  "eng": 2,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "egna",
+  "cat": "ristorante",
+  "tot": 4,
+  "called": 3,
+  "eng": 0,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "salorno",
+  "cat": "bar/caffe",
+  "tot": 6,
+  "called": 3,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "mezzolombardo",
+  "cat": "pizzeria",
+  "tot": 5,
+  "called": 3,
+  "eng": 1,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ },
+ {
+  "city": "mezzolombardo",
+  "cat": "ristorante",
+  "tot": 4,
+  "called": 3,
+  "eng": 0,
+  "app": 0,
+  "nonint": 0,
+  "esausti": 0
+ }
+]

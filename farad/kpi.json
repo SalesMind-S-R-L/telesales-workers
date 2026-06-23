@@ -1,0 +1,22 @@
+{
+  "intro": "Obiettivo appuntamenti/mese: 20 (4-5 a settimana). Conversione attesa ~1 su 4 -> 4-5 vendite/mese. Partenza venerdi 19 giugno 2026. Review settimanale.",
+  "target": [
+    ["Appuntamenti in target fissati (videochiamata lun-mer)", "20/mese (4-5/sett.)", 0, "Setter su lista"],
+    ["Professionisti raggiunti", "-", 0, "Mettere in conto 2-3 tentativi"],
+    ["Interessati", "-", 0, ""],
+    ["Vendite/noleggi chiusi (Cristiano)", "4-5/mese", 0, "Conversione ~25%"]
+  ],
+  "review_settimane": [
+    ["W1", "19-21 giu (partenza)"],
+    ["W2", "23-27 giu"],
+    ["W3", "30 giu-4 lug"],
+    ["W4", "7-11 lug"]
+  ],
+  "prossimi_passi": [
+    "1. Inviare la lista al cliente (Cristiano) per validazione target ed esclusioni.",
+    "2. Ricevere il link del calendario di Cristiano (regola lun-mer) e il gruppo WhatsApp operativo.",
+    "3. Avviare le chiamate dai quick win: segmento Rilievi/topografia/droni-BIM e studi gia tecnologici.",
+    "4. Tracciare KPI (tentativi per contatto, interessati, appuntamenti, show rate).",
+    "5. Primo checkpoint performance: 26 giugno 2026; confronto con il fornitore del Nord (2-4 app/sett.)."
+  ]
+}

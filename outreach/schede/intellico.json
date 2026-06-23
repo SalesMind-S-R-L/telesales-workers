@@ -1,0 +1,21 @@
+{
+  "riassunto": "Azienda milanese specializzata in Explainable AI per il settore industriale: progetta e implementa soluzioni AI verticali come Matilde (previsione di proprieta' chimico-fisiche e ottimizzazione formulazioni) e Grapho (gare d'appalto e progetti engineer-to-order) per cosmetica, chimica, food e manifattura ETO/MTO.",
+  "pain_point": "Vendere AI a chimica, cosmetica e food richiede di raggiungere direttori tecnici e operations di aziende molto specifiche: senza un flusso strutturato di appuntamenti, il ciclo commerciale resta lungo e legato al network dei due co-founder.",
+  "hook": "ho visto che con Matilde e Grapho portate la Explainable AI in settori come chimica, cosmetica e food",
+  "variante_email": "A",
+  "motivo_variante": "C'e' un decisore nominato sul sito (CEO e co-founder), quindi approccio diretto e personale.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://intellico.ai/who-we-are/",
+  "nome_azienda": "Intellico",
+  "nome_decisore": "Francesca Saraceni",
+  "ruolo_decisore": "CEO e Co-founder",
+  "email": "francesca.saraceni@intellico.ai",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "intellico.ai",
+  "pagine_lette": ["https://intellico.ai/who-we-are/"]
+}

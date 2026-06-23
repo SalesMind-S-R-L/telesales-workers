@@ -1,0 +1,205 @@
+[
+{
+"n": 175,
+"azienda": "Pinarello",
+"settore": "Automotive",
+"sede": "Treviso",
+"sito": "pinarello.com"
+},
+{
+"n": 176,
+"azienda": "Selle Royal",
+"settore": "Automotive",
+"sede": "Pozzoleone (VI)",
+"sito": "selleroyal.com"
+},
+{
+"n": 177,
+"azienda": "Sparco",
+"settore": "Automotive",
+"sede": "Volpiano (TO)",
+"sito": "sparco.it"
+},
+{
+"n": 178,
+"azienda": "Wilier Triestina",
+"settore": "Automotive",
+"sede": "Rossano Veneto (VI)",
+"sito": "wilier.com"
+},
+{
+"n": 179,
+"azienda": "Acqua Maniva",
+"settore": "Food & Beverage",
+"sede": "Brescia",
+"sito": "manivaspa.it"
+},
+{
+"n": 180,
+"azienda": "Enervit",
+"settore": "Food & Beverage",
+"sede": "Zelbio (Como)",
+"sito": "enervit.com"
+},
+{
+"n": 181,
+"azienda": "Latteria Soresina",
+"settore": "Food & Beverage",
+"sede": "Soresina (Cremona)",
+"sito": "latteriasoresina.it"
+},
+{
+"n": 182,
+"azienda": "Maina Panettoni",
+"settore": "Food & Beverage",
+"sede": "Fossano (Cuneo)",
+"sito": "maina.it"
+},
+{
+"n": 183,
+"azienda": "Pasqua Vigneti e Cantine",
+"settore": "Food & Beverage",
+"sede": "Verona",
+"sito": "pasqua.it"
+},
+{
+"n": 184,
+"azienda": "Pedon",
+"settore": "Food & Beverage",
+"sede": "Molvena (Vicenza)",
+"sito": "pedon.it"
+},
+{
+"n": 185,
+"azienda": "Beauty Star (Gruppo DMO)",
+"settore": "Retail & GDO",
+"sede": "Mestre (VE)",
+"sito": "beautystar.it"
+},
+{
+"n": 186,
+"azienda": "Caddy's (Gruppo DMO)",
+"settore": "Retail & GDO",
+"sede": "Mestre (VE)",
+"sito": "caddys.it"
+},
+{
+"n": 187,
+"azienda": "Cortilia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "cortilia.it"
+},
+{
+"n": 188,
+"azienda": "Pepco Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "pepco.it"
+},
+{
+"n": 189,
+"azienda": "PittaRosso",
+"settore": "Retail & GDO",
+"sede": "Padova",
+"sito": "pittarosso.com"
+},
+{
+"n": 190,
+"azienda": "Sole 365",
+"settore": "Retail & GDO",
+"sede": "Volla (NA)",
+"sito": "sole365.it"
+},
+{
+"n": 191,
+"azienda": "Tannico",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "tannico.it"
+},
+{
+"n": 192,
+"azienda": "Toys Center (Prenatal Retail Group)",
+"settore": "Retail & GDO",
+"sede": "Agrate Brianza (MB)",
+"sito": "toyscenter.it"
+},
+{
+"n": 193,
+"azienda": "Trony",
+"settore": "Retail & GDO",
+"sede": "Bologna",
+"sito": "trony.it"
+},
+{
+"n": 194,
+"azienda": "Velasca",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "velasca.com"
+},
+{
+"n": 195,
+"azienda": "Yves Rocher Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "yves-rocher.it"
+},
+{
+"n": 196,
+"azienda": "Convergenze S.p.A. SB",
+"settore": "Telco / Energia-Utility",
+"sede": "Capaccio Paestum (SA)",
+"sito": "convergenze.it"
+},
+{
+"n": 197,
+"azienda": "Dolomiti Energia",
+"settore": "Telco / Energia-Utility",
+"sede": "Trento",
+"sito": "dolomitienergia.it"
+},
+{
+"n": 198,
+"azienda": "Eolo",
+"settore": "Telecomunicazioni",
+"sede": "Busto Arsizio (VA)",
+"sito": "eolo.it"
+},
+{
+"n": 199,
+"azienda": "Unidata S.p.A.",
+"settore": "Telecomunicazioni",
+"sede": "Roma",
+"sito": "unidata.it"
+},
+{
+"n": 200,
+"azienda": "Arca Fondi SGR",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "arcafondi.it"
+},
+{
+"n": 201,
+"azienda": "Banca AideXa",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "aidexa.it"
+},
+{
+"n": 202,
+"azienda": "Banca Etica",
+"settore": "Finance & Insurance",
+"sede": "Padova",
+"sito": "bancaetica.it"
+},
+{
+"n": 203,
+"azienda": "Banca Popolare Pugliese",
+"settore": "Finance & Insurance",
+"sede": "Matino (LE)",
+"sito": "bpp.it"
+}
+]

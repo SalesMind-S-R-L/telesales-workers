@@ -1,0 +1,20 @@
+{
+  "riassunto": "Dataexpert e' una societa' italiana specializzata in Customer Communication Management e digital communication, con sedi a Roma e Marnate. Serve banking, assicurazioni, PA, telco e corporate con soluzioni di gestione documentale, accessibilita' PDF/UA, cloud e cyber security, ed e' certificata ISO 9001, 27001, 14001 e 45001.",
+  "pain_point": "Vendono soluzioni enterprise a banche, PA e telco, mercati con cicli di vendita lunghi e decisori difficili da raggiungere. E' plausibile che il flusso di nuovi appuntamenti qualificati dipenda molto da relazioni esistenti e gare, piu' che da una pipeline outbound costante.",
+  "hook": "ho visto che lavorate con Gartner sulla strategia di Customer Communication Management e che servite banking, PA e telco con soluzioni certificate ISO",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale non esplicito sul sito, quindi resta valida la variante questionario di default del pool.",
+  "da_verificare": "Email e' un pattern non verificato; confermare che Alberto Redigolo sia ancora chief sales & marketing officer e che la sede di riferimento sia Marnate.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Dataexpert",
+  "nome_decisore": "Alberto Redigolo",
+  "ruolo_decisore": "Chief sales & marketing officer",
+  "email": "alberto.redigolo@dataexpert.it",
+  "telefono": "",
+  "citta": "Marnate",
+  "settore": "IT / Software",
+  "website": "dataexpert.it",
+  "slug": "dataexpert",
+  "pagine_lette": ["https://dataexpert.it"]
+}

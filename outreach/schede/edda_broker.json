@@ -1,0 +1,20 @@
+{
+  "riassunto": "Broker assicurativo di Milano specializzato nella gestione dei rischi aziendali e nei sinistri, con soluzioni assicurative personalizzate per clienti corporate. Opera su piu' aree: corporate, automotive, retail, affinity e financial institute.",
+  "pain_point": "Un broker focalizzato sul corporate cresce acquisendo nuove aziende clienti; senza un flusso costante di appuntamenti con imprenditori e responsabili, lo sviluppo resta legato alla rete e al passaparola.",
+  "hook": "ho visto che vi occupate di gestione dei rischi aziendali con soluzioni assicurative personalizzate per i clienti corporate",
+  "variante_email": "B",
+  "motivo_variante": "Broker corporate strutturato: registro professionale, focus sulla gestione rischi d'impresa.",
+  "da_verificare": "email pattern non verificata, decisore da confermare su LinkedIn",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.eddabroker.it/",
+  "nome_azienda": "Edda Broker",
+  "nome_decisore": "Davide Pone",
+  "ruolo_decisore": "CEO e fondatore",
+  "email": "davide.pone@eddabroker.it",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Servizi finanziari B2B",
+  "website": "eddabroker.it",
+  "pagine_lette": ["https://www.eddabroker.it/"]
+}

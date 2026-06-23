@@ -1,0 +1,21 @@
+{
+  "riassunto": "Azienda milanese nata nel 2018 dalla prima community italiana dedicata al Deep Learning (2016): offre oltre 70 corsi online di data science e AI, consulenza nello sviluppo di modelli di deep learning, workshop e job placement. Partner scientifico la Fondazione Bruno Kessler.",
+  "pain_point": "Tra piattaforma corsi, community e consulenza, una realta' guidata dal fondatore ha poco tempo per il prospecting verso le aziende. Gli incontri commerciali con imprese che vogliono adottare l'AI rischiano di arrivare solo in modo reattivo.",
+  "hook": "ho visto che avete costruito la prima community italiana di Deep Learning e oltre 70 corsi online accanto alla consulenza sui modelli",
+  "variante_email": "A",
+  "motivo_variante": "C'e' un decisore nominato sul sito (CEO e fondatore), quindi approccio diretto e personale.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://deeplearningitalia.com/perche-noi/",
+  "nome_azienda": "Deep Learning Italia",
+  "nome_decisore": "Matteo Testi",
+  "ruolo_decisore": "CEO e Fondatore",
+  "email": "matteo.testi@deeplearningitalia.com",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "deeplearningitalia.com",
+  "pagine_lette": ["https://deeplearningitalia.com/perche-noi/"]
+}

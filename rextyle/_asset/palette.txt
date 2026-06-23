@@ -1,0 +1,25 @@
+REXTYLE — Palette Colori v1.0
+
+PRIMARI
+Teal Notte     #0B4F5C   rgb(11, 79, 92)     60% — sfondo dominante
+Oro Rextyle    #E5AC4A   rgb(229, 172, 74)   10% — accent, CTA, numeri chiave
+
+NEUTRI
+Bianco Crema   #F7F4EC   rgb(247, 244, 236)  testo su sfondo teal
+Carbone        #1A1A1A   rgb(26, 26, 26)     testo su sfondo chiaro
+Grigio Pietra  #7C7C7C   rgb(124, 124, 124)  testo secondario
+
+ACCENT (parsimonioso, max 1 elemento per slide)
+Terracotta     #C76E3A   rgb(199, 110, 58)   highlight ROI positivo
+
+REGOLE
+- Distribuzione 60-30-10: Teal 60%, Bianco/Carbone 30%, Oro 10%
+- Oro: mai come sfondo, solo CTA/numeri/corona
+- Terracotta: max 1 elemento per creatività
+- Contrasto: Bianco Crema su Teal = 7.2:1 (AAA OK)
+- Vietato: Oro su Crema (illeggibile, ratio 2.1)
+
+DA CONFERMARE
+HEX precisi dal designer originale del logo Rextyle.
+Se diversi da #0B4F5C e #E5AC4A, sostituire e aggiornare anche
+brand_kit_rextyle.md / .pdf e tutti i template.

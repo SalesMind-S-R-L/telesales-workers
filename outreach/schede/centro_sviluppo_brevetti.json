@@ -1,0 +1,20 @@
+{
+  "riassunto": "CSB Centro Sviluppo Brevetti, fondata nel 2011 con sedi a Milano e Sesto San Giovanni, e' una societa' specializzata in finanza agevolata, consulenza di direzione (certificazioni, sostenibilita', strategia commerciale, HR) e supporto a brevetti e innovazione. E' certificata ISO 9001:2015 e opera su tutto il territorio italiano.",
+  "pain_point": "La finanza agevolata e' un mercato molto competitivo e legato alle scadenze dei bandi: per saturare i consulenti serve un flusso continuo di imprenditori da contattare al momento giusto, attivita' che richiede prospecting telefonico costante difficile da presidiare internamente.",
+  "hook": "ho visto che dal 2011 affiancate le imprese su finanza agevolata e brevetti con un supporto continuativo certificato ISO 9001",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale non dichiarato sul sito: meglio entrare con il questionario di valutazione, coerente col loro posizionamento consulenziale.",
+  "da_verificare": "Email diego.girelli@centrosviluppobrevetti.eu e' un pattern non verificato; confermare che Diego Girelli sia ancora CEO e responsabile commerciale.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Centro Sviluppo Brevetti",
+  "nome_decisore": "Diego Girelli",
+  "ruolo_decisore": "Chief executive officer and commercial manager",
+  "email": "diego.girelli@centrosviluppobrevetti.eu",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "centrosviluppobrevetti.eu",
+  "slug": "centro_sviluppo_brevetti",
+  "pagine_lette": ["https://centrosviluppobrevetti.eu"]
+}

@@ -1,0 +1,20 @@
+{
+  "riassunto": "Pay Consulting e' una societa' di consulenza manageriale milanese verticale sui sistemi di pagamento elettronico: assessment di processo e normativo, efficientamento del business, business transformation e analisi di nuove opportunita' per istituzioni finanziarie, corporate e retailer. Conta oltre 20 professionisti con esperienza pluriennale nei pagamenti.",
+  "pain_point": "In un verticale ristretto come i pagamenti, i clienti potenziali (banche, istituti, grandi retailer) sono pochi e ben identificabili: il rischio e' che la pipeline dipenda dal network personale dei partner, senza un'attivita' sistematica di apertura di nuove relazioni.",
+  "hook": "ho visto che siete oltre 20 professionisti verticali sui pagamenti elettronici, dall'assessment normativo alla business transformation",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale non esplicito sul sito: meglio il questionario di valutazione, adatto a una boutique consulenziale.",
+  "da_verificare": "Email marco.rizzoli@payconsulting.it e' un pattern non verificato; il sito non riporta indirizzo fisico, confermare sede a Milano.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Pay Consulting",
+  "nome_decisore": "Marco Rizzoli",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "marco.rizzoli@payconsulting.it",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "payconsulting.it",
+  "slug": "pay_consulting",
+  "pagine_lette": ["https://payconsulting.it"]
+}

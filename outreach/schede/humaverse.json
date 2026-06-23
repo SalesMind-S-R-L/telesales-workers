@@ -1,0 +1,20 @@
+{
+  "riassunto": "Humaverse e' una societa' milanese di ricerca e selezione del personale specializzata in profili tech e digital, con servizi di talent strategy, assessment e hunting e la promessa di una shortlist in 8 giorni tramite la piattaforma H-Lab. Tra i clienti citati ci sono Vodafone, Sky, NTT Data e Hype.",
+  "pain_point": "Nel recruiting tech la concorrenza tra agenzie e' alta e il sito punta su blog e CTA inbound: mantenere un flusso costante di nuove aziende clienti oltre ai grandi nomi gia' in portafoglio potrebbe richiedere piu' attivita' outbound strutturata.",
+  "hook": "ho visto che con H-Lab promettete una shortlist di candidati tech in 8 giorni, un tempo di risposta che merita di arrivare davanti a piu' aziende.",
+  "variante_email": "B",
+  "motivo_variante": "Il sito non rende evidente un pain commerciale specifico, quindi il questionario di valutazione e' la porta d'ingresso piu' adatta.",
+  "da_verificare": "Email e' un pattern non verificato; verificare che il dominio email sia humaverse.ai e non una variante .it, e che Marco Franco sia il referente giusto per la parte commerciale.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Humaverse",
+  "nome_decisore": "Marco Franco",
+  "ruolo_decisore": "Founder, chief executive officer & culture builder",
+  "email": "marco.franco@humaverse.ai",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "humaverse.ai",
+  "slug": "humaverse",
+  "pagine_lette": ["https://humaverse.ai"]
+}

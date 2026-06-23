@@ -1,0 +1,20 @@
+{
+  "riassunto": "Agenzia di Roma specializzata in pianificazione, gestione e organizzazione di eventi: corporate, congressi, conferenze e programmi incentive. Offre anche allestimenti, ufficio stampa, eventi in streaming e piattaforme digitali per gaming ed e-poster.",
+  "pain_point": "Pur certificata e presente sul MEPA, l acquisizione di nuovi clienti privati potrebbe poggiare su gare e contatti istituzionali piu che su un canale outbound proattivo.",
+  "hook": "ho visto che a Roma organizzate congressi ed eventi corporate con allestimenti, streaming e piattaforme per e-poster, con certificazione ISO 9001",
+  "variante_email": "B",
+  "motivo_variante": "Struttura operativa concreta e certificata: meglio un messaggio diretto sul generare nuove richieste di clienti aziendali.",
+  "da_verificare": "profilo LinkedIn decisore; email e' pattern non verificato",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.be-events.it/",
+  "nome_azienda": "BE Events",
+  "nome_decisore": "",
+  "ruolo_decisore": "Direzione",
+  "email": "",
+  "telefono": "",
+  "citta": "Roma",
+  "settore": "Comunicazione ed eventi",
+  "website": "be-events.it",
+  "pagine_lette": ["https://www.be-events.it/"]
+}

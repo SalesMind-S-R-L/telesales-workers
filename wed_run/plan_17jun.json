@@ -1,0 +1,1066 @@
+{
+ "slot_1000": [
+  {
+   "nome": "Dal Boccia",
+   "tel": "+390461437903",
+   "kind": "ristorante",
+   "ind": "Via degli Alberti Poja 13",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Borgo Nuovo Trento",
+   "tel": "+390461261375",
+   "kind": "ristorante",
+   "ind": "Prima Androna di Borgo Nuovo 20",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Al Vesuvio",
+   "tel": "+390461987303",
+   "kind": "ristorante",
+   "ind": "Via della Malvasia 103",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizzeria OroStube",
+   "tel": "+390461816073",
+   "kind": "ristorante",
+   "ind": "Via Sommarive 10",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Niky's",
+   "tel": "+390461390828",
+   "kind": "ristorante",
+   "ind": "Via Enrico Fermi 7",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffè Excelsior",
+   "tel": "+390461261304",
+   "kind": "bar",
+   "ind": "Via Giannantonio Manci 86",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizzeria da Albert",
+   "tel": "+390461231712",
+   "kind": "ristorante",
+   "ind": "Via Giuseppe Verdi 15b",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ristorante Pizzeria Doc",
+   "tel": "+390461262022",
+   "kind": "ristorante",
+   "ind": "Via Milano 148",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Milli Eat & drink",
+   "tel": "+393883440317",
+   "kind": "ristorante",
+   "ind": "Via del Suffragio 2",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza Cavour",
+   "tel": "+390461233753",
+   "kind": "altro",
+   "ind": "Via Camillo Benso Cavour 22",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Ateneo",
+   "tel": "+390461261197",
+   "kind": "bar",
+   "ind": "Via Don Giovanni Battista Zanella 3",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "La Perla d'Oriente",
+   "tel": "+390461981300",
+   "kind": "altro",
+   "ind": "Largo Nazario Sauro 12",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ca' dei Gobj - Ristorante Birreria",
+   "tel": "+390461262730",
+   "kind": "ristorante",
+   "ind": "Via del Simonino 14",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Union Casa del Caffè",
+   "tel": "+390461985104",
+   "kind": "bar",
+   "ind": "Via San Pietro 38",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pasticceria Lott",
+   "tel": "+390461916789",
+   "kind": "bar",
+   "ind": "Corso Tre Novembre 56",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bouganville",
+   "tel": "+390461236666",
+   "kind": "ristorante",
+   "ind": "Via Francesco Petrarca 1/4",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ristorante Pizzeria Anfiteatro",
+   "tel": "+3904611485703",
+   "kind": "ristorante",
+   "ind": "Piazzetta Anfiteatro 10",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Tre Torri",
+   "tel": "+390461822447",
+   "kind": "bar",
+   "ind": "Via Romano Guardini 54",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Willy's Caffè Pub",
+   "tel": "+390461090741",
+   "kind": "bar",
+   "ind": "Via Antonio Pranzelores 46",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ibris Pizzeria e Drink",
+   "tel": "+3904611482485",
+   "kind": "ristorante",
+   "ind": "Via Camillo Benso Cavour 32",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Welcome India",
+   "tel": "+390461984255",
+   "kind": "ristorante",
+   "ind": "Corso Michelangelo Buonarroti 56A",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Epico Caffè",
+   "tel": "+393494949774",
+   "kind": "bar",
+   "ind": "Via Francesco Petrarca 32/1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "La Quinta del Sordo",
+   "tel": "+3904611594748",
+   "kind": "bar",
+   "ind": "Via del Suffragio 86",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizzeria Dell'Orso",
+   "tel": "+3904611821448",
+   "kind": "altro",
+   "ind": "Via del Suffragio 81",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "La Maison de Filip",
+   "tel": "+3904611415530",
+   "kind": "ristorante",
+   "ind": "Piazzetta Nicolò Rasmo 7",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Café de la Paix",
+   "tel": "+390461982520",
+   "kind": "bar",
+   "ind": "Passaggio Teatro Osele 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Trattoria Piedicastello",
+   "tel": "+390461439859",
+   "kind": "ristorante",
+   "ind": "Piazza di Piedicastello 12",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Da Bruno",
+   "tel": "+393886313684;3298012714",
+   "kind": "ristorante",
+   "ind": "Via Soprasasso 32/2",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pappare' Trento",
+   "tel": "+390461439362",
+   "kind": "bar",
+   "ind": "Via Don Giovanni Battista Zanella 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Wok For You",
+   "tel": "+3904611596994",
+   "kind": "ristorante",
+   "ind": "Via Luigi Brugnara 4",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Filippone",
+   "tel": "+390461924565",
+   "kind": "ristorante",
+   "ind": "Via Anna Frank 7",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bici Grill Trento",
+   "tel": "+3904611740223",
+   "kind": "altro",
+   "ind": "Via Lidorno 2",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Contro Break",
+   "tel": "+390461525950",
+   "kind": "ristorante",
+   "ind": "Via Fersina 21",
+   "citta": "Trento",
+   "titolare": "titolare"
+  }
+ ],
+ "slot_1130": [
+  {
+   "nome": "Caffè Portici",
+   "tel": "+390461092622",
+   "kind": "bar",
+   "ind": "Piazza del Duomo 40",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Uva & Menta Café",
+   "tel": "+390461231801",
+   "kind": "bar",
+   "ind": "Piazza Giovanni Battista Garzetti 5",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Birreria Pizzeria Pedavena",
+   "tel": "+390461986255",
+   "kind": "ristorante",
+   "ind": "Piazza di Fiera 13",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza Rio",
+   "tel": "+390461811555",
+   "kind": "altro",
+   "ind": "Via della Resistenza 9a",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Loto 1997",
+   "tel": "+3904611863052",
+   "kind": "ristorante",
+   "ind": "Via Gocciadoro 62",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "La Terrazza",
+   "tel": "+390461390060",
+   "kind": "ristorante",
+   "ind": "Piazzale Europa 16",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizzeria Tetley's",
+   "tel": "+390461233477",
+   "kind": "ristorante",
+   "ind": "Via degli Orti 1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ai Vicoli",
+   "tel": "+390461260673",
+   "kind": "ristorante",
+   "ind": "Piazza Santa Teresa Verzeri 1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ristorante Pizzeria Green Tower",
+   "tel": "+390461231545",
+   "kind": "ristorante",
+   "ind": "Via Torre Verde 29",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Osteria della Mal'Ombra",
+   "tel": "+390461390696",
+   "kind": "bar",
+   "ind": "Corso Tre Novembre 43",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Orient",
+   "tel": "+390461234435",
+   "kind": "ristorante",
+   "ind": "Via Don Giovanni Battista Zanella 11/1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Roby",
+   "tel": "+390461231868",
+   "kind": "bar",
+   "ind": "Via del Travai 34",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizzeria Bella Italia",
+   "tel": "+390461931663",
+   "kind": "altro",
+   "ind": "Via Gorizia 5",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Le due spade",
+   "tel": "+390461234343",
+   "kind": "ristorante",
+   "ind": "Via Don Arcangelo Rizzi 11",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffè al Corso",
+   "tel": "+390461913600",
+   "kind": "bar",
+   "ind": "Corso Tre Novembre 40",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Teatro",
+   "tel": "+390461230070",
+   "kind": "bar",
+   "ind": "Via Paolo Oss Mazzurana 15",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Trittico",
+   "tel": "+390461822287",
+   "kind": "ristorante",
+   "ind": "Piazza del \"Tridente\" 19",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Tartufo",
+   "tel": "+390461822233",
+   "kind": "ristorante",
+   "ind": "Via Padre Emilio Chiocchetti 42",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza Roby",
+   "tel": "+390461391530",
+   "kind": "altro",
+   "ind": "Via Monsignor Celestino Endrici 9",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffè Tridente",
+   "tel": "+390461260114",
+   "kind": "bar",
+   "ind": "Piazza del Duomo 31",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Forsterbräu Trento",
+   "tel": "+390461235590",
+   "kind": "ristorante",
+   "ind": "Via Paolo Oss Mazzurana 38",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Da Andrea",
+   "tel": "+390461828282",
+   "kind": "altro",
+   "ind": "Via Antonio Pranzelores 80",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Piadimania",
+   "tel": "+393298597519",
+   "kind": "altro",
+   "ind": "Vicolo delle Rogge 1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Sushi Zen",
+   "tel": "+390461262109",
+   "kind": "ristorante",
+   "ind": "Via Malpaga 14",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Mair Fast Food",
+   "tel": "+390461260137",
+   "kind": "altro",
+   "ind": "Via della Prepositura 6",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Baita Montesel",
+   "tel": "+393762180614",
+   "kind": "ristorante",
+   "ind": "Strada del Norge 93",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Cavalleggeri",
+   "tel": "+3904611592422",
+   "kind": "altro",
+   "ind": "Viale Verona 3",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "La Talpa 3.0",
+   "tel": "+393761247423",
+   "kind": "ristorante",
+   "ind": "Corso del Lavoro e della Scienza 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Twist - Pizza 'n More",
+   "tel": "+393489333639",
+   "kind": "ristorante",
+   "ind": "Via Giacomo Matteotti 36",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Locanda Le Due Travi",
+   "tel": "+390461096502",
+   "kind": "ristorante",
+   "ind": "Via del Suffragio 20",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Creme",
+   "tel": "+390461916189",
+   "kind": "bar",
+   "ind": "Via Piave 74",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza Planet",
+   "tel": "+390461390836",
+   "kind": "ristorante",
+   "ind": "Via Padre Eusebio Chini 33",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Sopra la Panca",
+   "tel": "+390461420112",
+   "kind": "ristorante",
+   "ind": "Via dei Solteri 16a",
+   "citta": "Trento",
+   "titolare": "titolare"
+  }
+ ],
+ "slot_1430": [
+  {
+   "nome": "Bar Pasi",
+   "tel": "+390461982301",
+   "kind": "bar",
+   "ind": "Piazza Mario Pasi 1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffè Venezia",
+   "tel": "+390461262938",
+   "kind": "bar",
+   "ind": "Largo Porta Nuova 11",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Trattoria al Volt",
+   "tel": "+390461983776",
+   "kind": "ristorante",
+   "ind": "Via Santa Croce 16",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizzeria Quattro Stagioni",
+   "tel": "+390461987031",
+   "kind": "ristorante",
+   "ind": "Via San Vito 36",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Blue Sax",
+   "tel": "+390461910076",
+   "kind": "ristorante",
+   "ind": "Viale Verona 73",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Cristallo",
+   "tel": "+390461830732",
+   "kind": "bar",
+   "ind": "Via Fratelli Fontana 30",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Orso Grigio",
+   "tel": "+390461984400",
+   "kind": "ristorante",
+   "ind": "Via degli Orti 19",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ristorante Pizzeria Nuova Castelli",
+   "tel": "+390461827079",
+   "kind": "ristorante",
+   "ind": "",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza Pazza",
+   "tel": "+390461263756",
+   "kind": "altro",
+   "ind": "Via Brescia 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Cafè Nettuno",
+   "tel": "+390461262826",
+   "kind": "bar",
+   "ind": "Piazza del Duomo 34",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Duomo",
+   "tel": "+390461981199",
+   "kind": "bar",
+   "ind": "Via Giuseppe Verdi 40",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Alla Grotta",
+   "tel": "+390461987197",
+   "kind": "ristorante",
+   "ind": "Vicolo San Marco 6",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Osteria San Rocco",
+   "tel": "+390461983917",
+   "kind": "ristorante",
+   "ind": "Via Lodovico de Balzani 2",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Top Rice",
+   "tel": "+39046119119971",
+   "kind": "altro",
+   "ind": "Via Andrea Pozzo 1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Fujiyama",
+   "tel": "+3904611822050",
+   "kind": "ristorante",
+   "ind": "Corso Tre Novembre 29",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Osteria il Cappello",
+   "tel": "+390461235850",
+   "kind": "ristorante",
+   "ind": "Piazzetta Bruno Lunelli 5",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Sushi otto",
+   "tel": "+390461415386",
+   "kind": "ristorante",
+   "ind": "Via del Brennero 260c",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Cacio & Pepe",
+   "tel": "+390461262764",
+   "kind": "ristorante",
+   "ind": "Via Ponte Alto 79",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Speakeasy'28",
+   "tel": "+390461081636",
+   "kind": "bar",
+   "ind": "Via Carlo Dordi 21",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ramen House",
+   "tel": "+393463112740",
+   "kind": "altro",
+   "ind": "Via Senatore Carlo Esterle 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pasticceria San Vigilio",
+   "tel": "+390461230096",
+   "kind": "bar",
+   "ind": "Via San Vigilio 10",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza & Pizza",
+   "tel": "+390461262095",
+   "kind": "altro",
+   "ind": "Via San Bernardino 24",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bella 'mbriana",
+   "tel": "+390461985653",
+   "kind": "ristorante",
+   "ind": "Via Livio Marchetti 11",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Aroma",
+   "tel": "+390461092843",
+   "kind": "ristorante",
+   "ind": "Via San Pio Decimo 29",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Break Point",
+   "tel": "+390461093321",
+   "kind": "altro",
+   "ind": "Via della Prepositura 7",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Eldorado",
+   "tel": "+393429246782",
+   "kind": "bar",
+   "ind": "Via Stella 9h",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Fuori Orario",
+   "tel": "+390461961160",
+   "kind": "altro",
+   "ind": "",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "MUSE Cafè",
+   "tel": "+390461270311",
+   "kind": "bar",
+   "ind": "Corso del Lavoro e della Scienza 3",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Maso Finisterre",
+   "tel": "+390461825752",
+   "kind": "ristorante",
+   "ind": "Via Santi Cosma e Damiano 6",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Red Rose Cafè",
+   "tel": "+390461828844",
+   "kind": "bar",
+   "ind": "Via Giovanni Battista Trener 16",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Acqua Blu",
+   "tel": "+390461917260",
+   "kind": "ristorante",
+   "ind": "Via Herrsching 7",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "SkylineBar",
+   "tel": "+393491445152",
+   "kind": "bar",
+   "ind": "Via di Coltura 9a",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Stube del Galletto",
+   "tel": "+3904611740474",
+   "kind": "ristorante",
+   "ind": "Strada di Cadine 13",
+   "citta": "Trento",
+   "titolare": "titolare"
+  }
+ ],
+ "slot_1630": [
+  {
+   "nome": "Dalla Sora Giovanna",
+   "tel": "+390461095967",
+   "kind": "ristorante",
+   "ind": "Via Roggia Grande 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffé Randrè",
+   "tel": "+390461234701",
+   "kind": "bar",
+   "ind": "Largo Giosuè Carducci 18",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizzeria Primavera",
+   "tel": "+390461239840",
+   "kind": "ristorante",
+   "ind": "Via del Suffragio 92",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ristorante Ai Canopi",
+   "tel": "+390461823663",
+   "kind": "ristorante",
+   "ind": "Via ai Bolleri 12/6",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffè Città",
+   "tel": "+390461230265",
+   "kind": "bar",
+   "ind": "Piazza Cesare Battisti 10",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Sapori Mediterranei",
+   "tel": "+390461984360",
+   "kind": "ristorante",
+   "ind": "Via Roberto da Sanseverino 39/4",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Florida",
+   "tel": "+390461913258",
+   "kind": "bar",
+   "ind": "Via Vittorio Veneto 134",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "H/àkka/",
+   "tel": "+393497152966",
+   "kind": "bar",
+   "ind": "Via dei Ventuno 1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ristorante Pizzeria Chistè",
+   "tel": "+390461262979",
+   "kind": "ristorante",
+   "ind": "Via delle Orne 4",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Rosa d'Oro",
+   "tel": "+390461261792",
+   "kind": "ristorante",
+   "ind": "Piazza Santa Maria Maggiore 21",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Al Duomo",
+   "tel": "+390461237209",
+   "kind": "ristorante",
+   "ind": "Via Giuseppe Verdi 77",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Alla Mostra",
+   "tel": "+3904611823484",
+   "kind": "ristorante",
+   "ind": "Piazza della Mostra 13",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Ristorante al Vò",
+   "tel": "+390461985374",
+   "kind": "ristorante",
+   "ind": "Vicolo del Vò 11",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar Trento-Malé",
+   "tel": "+390461239398",
+   "kind": "bar",
+   "ind": "Via Dogana 2",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Capatoast",
+   "tel": "+390461985263",
+   "kind": "altro",
+   "ind": "Via Santa Croce 42",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Antico Pozzo",
+   "tel": "+390461262943",
+   "kind": "ristorante",
+   "ind": "Vicolo della S.A.T. 6",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza Snack",
+   "tel": "+390461391849",
+   "kind": "altro",
+   "ind": "Via Aosta 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffè Onda",
+   "tel": "+393346507023",
+   "kind": "bar",
+   "ind": "Via Renato Lunelli 54",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Perla Bar",
+   "tel": "+3904611410166",
+   "kind": "bar",
+   "ind": "Via Rodolfo Belenzani 60",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Top Bar Hilary",
+   "tel": "+3904611943181",
+   "kind": "bar",
+   "ind": "Via del Brennero 320",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Duà Pizza & Drink",
+   "tel": "+390461425895",
+   "kind": "ristorante",
+   "ind": "Via 24 Maggio 1915 2/1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Caffè Verdi",
+   "tel": "+390461984465",
+   "kind": "bar",
+   "ind": "Via Giuseppe Verdi 31",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Bar La vie en rose",
+   "tel": "+390461090624",
+   "kind": "bar",
+   "ind": "Via San Marco 8",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Saporoso",
+   "tel": "+390461391118",
+   "kind": "ristorante",
+   "ind": "Via dei Mille 1",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Gatizole Cat Cafè",
+   "tel": "+390461083540",
+   "kind": "bar",
+   "ind": "Via del Travai 15",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Il Libertino",
+   "tel": "+390461260085",
+   "kind": "ristorante",
+   "ind": "Piazza di Piedicastello 4",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Pizza Gardolo",
+   "tel": "+390461090885",
+   "kind": "altro",
+   "ind": "",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Magna Laude",
+   "tel": "+390461238480",
+   "kind": "bar",
+   "ind": "Via Don Giovanni Battista Zanella 11",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Hi Poke",
+   "tel": "+390461415952",
+   "kind": "ristorante",
+   "ind": "Viale Adriano Olivetti 2",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Al Casello",
+   "tel": "+3904611919055",
+   "kind": "bar",
+   "ind": "Via dei Marinai d'Italia 6",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Lo Sfizio",
+   "tel": "+390461390944",
+   "kind": "altro",
+   "ind": "Via Herrsching 5",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Loacker Café Trento",
+   "tel": "+3904611975898",
+   "kind": "bar",
+   "ind": "Piazza di Fiera 13",
+   "citta": "Trento",
+   "titolare": "titolare"
+  },
+  {
+   "nome": "Mister Pizza Caffè",
+   "tel": "+390461091605",
+   "kind": "ristorante",
+   "ind": "Via Fratelli Perini 6",
+   "citta": "Trento",
+   "titolare": "titolare"
+  }
+ ]
+}

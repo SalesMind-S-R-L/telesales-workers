@@ -1,0 +1,41 @@
+{
+  "intro": "Come chiamare i prospect di Farad SRL (geometri, architetti, ingegneri, imprese, societa di rilievo) e fissare un appuntamento in videochiamata con Cristiano. La demo e la vendita le gestisce Cristiano; noi qualifichiamo l'interesse e fissiamo l'appuntamento.",
+  "chi_chiami": [
+    "Professionisti tecnici e aziende che fanno rilievi/misure sul campo. Obiettivo: capire se hanno l'esigenza, suscitare interesse sul rilievo digitale e fissare un appuntamento conoscitivo in videochiamata (lun-mer) con Cristiano.",
+    "Si parla sia di vendita sia di noleggio (il noleggio e' propedeutico alla vendita). Nelle aziende strutturate chiedere di chi si occupa dei rilievi/misure, non del titolare generico o del designer."
+  ],
+  "script": {
+    "regola": "In chiamata NON si fanno prezzi. Se chiedono il costo, rimandare alla demo e smontare il preconcetto: 'Non parliamo per forza di cifre alte, si parte da molto meno di quello che immagina: glielo fa vedere direttamente Cristiano.'",
+    "apertura": "'Buongiorno, sono [NOME] di Farad. Parlo con [il geometra/architetto/ingegnere X] o con chi si occupa dei rilievi?'",
+    "sviluppo": "Aggancia sull'esigenza reale: 'Mi occupo di strumenti di rilievo laser per l'edilizia. Oggi come fate i rilievi degli edifici, ancora con metodi tradizionali? Noi diamo uno strumento che restituisce un rilievo digitale completo, un gemello digitale, in una frazione del tempo.' Suscita curiosita sul risparmio di tempo e sul noleggio di prova.",
+    "chiusura": "Proponi due slot lunedi-mercoledi in videochiamata e fissa direttamente sul calendario di Cristiano (https://link.drewcompany.it/widget/booking/batKkqQzWt3Nssh5FGGV): 'Le fisso una breve videochiamata con Cristiano che glielo mostra dal vivo: meglio lunedi mattina o mercoledi pomeriggio?'"
+  },
+  "scenari": [
+    ["A. Centralino/segretaria filtra", "Chiedi nome del professionista che fa i rilievi e un recapito; richiama mirato."],
+    ["B. Parli col professionista", "Aggancia sull'esigenza di rilievo, suscita curiosita, fissa la videochiamata lun-mer."],
+    ["C. 'Costa troppo / sono 20.000 euro'", "Smonta il preconcetto: si parte da molto meno, e c'e il noleggio. Rimanda alla demo senza fare prezzi."],
+    ["D. 'Uso gia metodi tradizionali / non ho tempo'", "Leva sul tempo risparmiato: un rilievo complesso in mezz'ora; basta una breve videochiamata per capire se fa al caso suo."],
+    ["E. 'Siamo gia vostri clienti'", "Va benissimo: l'appuntamento e' utile lo stesso (prodotti nuovi/diversi). Fissa comunque la videochiamata."],
+    ["F. Azienda strutturata", "Chiedi di chi si occupa concretamente dei rilievi/misure e fissa con quella persona."]
+  ],
+  "obiezioni": [
+    ["'Quanto costa?'", "'In chiamata non le faccio prezzi perche dipende da cosa le serve; le dico solo che si parte da molto meno di quello che si immagina. Glielo mostra Cristiano in 20 minuti.'"],
+    ["'Costera 20.000 euro'", "'E' il preconcetto piu comune: in realta la fascia di ingresso e' molto piu bassa, e c'e anche il noleggio per provarlo prima.'"],
+    ["'Uso gia rotella/strumenti tradizionali'", "'Proprio per questo vale la pena vederlo: lo stesso rilievo che oggi le porta via mezza giornata si fa in mezz'ora, con il modello digitale gia pronto.'"],
+    ["'Mandatemi una mail'", "'Volentieri, le mando due righe e la richiamo io tra qualche giorno per fissare la videochiamata.'"],
+    ["'Non ho tempo'", "'Bastano 20 minuti in videochiamata, lun-mer, quando le e' piu comodo: se non fa per lei lo capisce subito.'"]
+  ],
+  "esiti": [
+    ["Da contattare", "Stato iniziale."],
+    ["Non risposto", "Nessuno ha risposto."],
+    ["Da richiamare", "Segreteria/centralino o non era il momento (mettere in conto 2-3 tentativi)."],
+    ["Referente individuato", "Hai nome/contatto di chi fa i rilievi."],
+    ["Interessato", "Apertura positiva, esigenza confermata."],
+    ["Appuntamento fissato", "Win: videochiamata lun-mer con Cristiano."],
+    ["Da ricontattare piu avanti", "Esigenza futura, non ora."],
+    ["Non in target", "Non fa rilievi / a fine carriera / non idoneo."],
+    ["Non interessato", "Chiuso."],
+    ["Numero/contatto errato", "Recapito sbagliato."]
+  ],
+  "mini_report": "Esempio: '30 chiamate, 10 professionisti raggiunti, 4 interessati, 3 videochiamate fissate per lunedi-mercoledi.'"
+}

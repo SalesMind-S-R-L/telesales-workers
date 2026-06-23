@@ -1,0 +1,121 @@
+{
+ "titolo": "DOSSIER DI MERCATO",
+ "sottotitolo": "Strumenti di rilievo digitale per professionisti tecnici dell'edilizia",
+ "nota_metodo": "Nota: dati incrociati su piu fonti pubbliche (aggiornamento giugno 2026).",
+ "sezioni": [
+  {
+   "titolo": "1. Il bacino professionale in Italia: oltre mezzo milione di tecnici",
+   "paragrafi": [
+    "Il pubblico potenziale di FARAD e' enorme e ben censito. Gli ingegneri iscritti all'Albo hanno superato la soglia dei 250.000 a inizio 2024 (sezione A 237.196, sezione B 13.150), in lieve aumento (+0,5%). Gli architetti iscritti all'Ordine sono circa 154.000 secondo il Rapporto CNAPPC 2025 (Albo Unico). I geometri liberi professionisti iscritti alla Cassa (CIPAG) sono circa 76.000.",
+    "Sul fronte previdenziale, Inarcassa (la Cassa di ingegneri e architetti liberi professionisti) contava 172.916 iscritti a fine 2025 (-0,8% sul 2024). Da notare un dato strutturale: cresce la componente societaria, con 12.022 societa di ingegneria (+4,3%) e oltre 1.000 Societa tra Professionisti (STP). Significa che accanto al singolo professionista esiste un segmento di studi strutturati con maggiore capacita di spesa in tecnologia.",
+    "Take per i setter: non si vende a una nicchia, ma a una platea di centinaia di migliaia di tecnici che fanno rilievi come attivita quotidiana. Ogni geometra, architetto o ingegnere che misura un edificio e' un cliente potenziale."
+   ],
+   "bullet": [
+    "Take operativo: aprire la chiamata posizionando FARAD come fornitore di una categoria intera (geometri, architetti, ingegneri, imprese), non come venditore di un singolo strumento.",
+    "Take operativo: per gli studi strutturati e le societa di ingegneria (in crescita) puntare su noleggio e parco strumenti; per il singolo professionista sull'entry level e sul ritorno in tempo risparmiato."
+   ],
+   "tabella": {
+    "headers": ["Categoria", "Numero iscritti", "Fonte/anno"],
+    "rows": [
+     ["Ingegneri (Albo)", "oltre 250.000", "CNI, inizio 2024"],
+     ["Architetti (Albo Unico)", "circa 154.000", "CNAPPC 2025"],
+     ["Geometri liberi professionisti (Cassa)", "circa 76.000", "CIPAG, set. 2024"],
+     ["Iscritti Inarcassa (ing.+arch. lib. prof.)", "172.916", "Inarcassa, fine 2025"],
+     ["Societa di ingegneria", "12.022 (+4,3%)", "Inarcassa, 2025"]
+    ]
+   }
+  },
+  {
+   "titolo": "2. Il mercato del rilievo digitale (reality capture) e' in forte crescita",
+   "paragrafi": [
+    "Il rilievo laser 3D non e' una moda di nicchia: e' un mercato globale in espansione strutturale. Il mercato dei 3D laser scanner e' stimato in crescita da circa 3,9 miliardi di dollari nel 2024 a circa 5,9 miliardi nel 2030 (CAGR 6,9%), mentre il piu ampio mercato 3D scanning passa da circa 4,28 miliardi (2024) a 7,51 miliardi (2030), CAGR 10,1%. Sono stime globali, ma indicano una direzione netta del settore.",
+    "Il traino e' il digital twin (gemello digitale): il mercato globale potrebbe superare i 100 miliardi di dollari entro il 2030 con tassi di crescita annui sopra il 30%. In Italia il mercato delle soluzioni digitali per edifici e infrastrutture ha superato i 2 miliardi di euro.",
+    "Take per i setter: il professionista che oggi non fa rilievo digitale sta restando indietro rispetto a un mercato che cresce a doppia cifra. Lo strumento FARAD e' il modo di entrare in quel mercato senza aspettare."
+   ],
+   "bullet": [
+    "Take operativo: usare il dato di crescita come leva di urgenza, non di paura. 'Il rilievo digitale sta diventando standard, conviene attrezzarsi prima dei concorrenti di studio.'",
+    "Take operativo: collegare lo strumento al risultato vendibile (la nuvola di punti / il gemello digitale), non alle specifiche tecniche."
+   ],
+   "tabella": {
+    "headers": ["Segmento di mercato", "Valore 2024", "Proiezione 2030", "CAGR"],
+    "rows": [
+     ["3D laser scanner (hardware)", "~3,9 mld USD", "~5,9 mld USD", "6,9%"],
+     ["3D scanning (mercato ampio)", "~4,28 mld USD", "~7,51 mld USD", "10,1%"],
+     ["Servizi 3D laser scanning", "n.d.", "~12,85 mld USD", "7,5%"],
+     ["Digital twin (globale)", "n.d.", "oltre 100 mld USD", "oltre 30%"]
+    ]
+   }
+  },
+  {
+   "titolo": "3. L'obbligo BIM negli appalti pubblici spinge la domanda di rilievo digitale",
+   "paragrafi": [
+    "La normativa italiana sta rendendo il rilievo digitale praticamente obbligatorio per chi lavora su opere pubbliche. Il percorso parte dal DM 560/2017 (decreto BIM Baratono), modificato dal DM 312/2021, ed e' oggi inquadrato nell'art. 43 del nuovo Codice dei contratti pubblici (D.Lgs. 36/2023). Le soglie sono scese gradualmente: 100 milioni di euro nel 2019, 50 nel 2020, 15 nel 2022, 5,35 nel 2023.",
+    "Dal 1 gennaio 2025 l'obbligo BIM e' scattato per le opere pubbliche sopra soglia: il decreto correttivo (D.Lgs. 209/2024) ha fissato la soglia a 2 milioni di euro, con soglia distinta di 5,5 milioni per i beni culturali. Il BIM presuppone un modello digitale dell'edificio, e il modo piu rapido e accurato di ottenerlo sull'esistente e' proprio il rilievo laser a nuvola di punti.",
+    "Take per i setter: per qualunque tecnico che partecipa ad appalti pubblici, il rilievo digitale non e' piu opzionale. FARAD vende lo strumento che mette in regola con il flusso BIM."
+   ],
+   "bullet": [
+    "Take operativo: chiedere subito in chiamata se il professionista lavora (anche) con la pubblica amministrazione: se si', l'argomento BIM diventa centrale e urgente.",
+    "Take operativo: posizionare il laser scanner come 'porta d'ingresso al BIM sull'esistente', non come gadget tecnologico."
+   ]
+  },
+  {
+   "titolo": "4. Come comprano i professionisti tecnici: barriere e leve reali",
+   "paragrafi": [
+    "Il reddito medio di questi professionisti rende lo strumento sostenibile, ma il prezzo resta un tema percepito. Il reddito medio dei geometri iscritti alla Cassa e' circa 38.000 euro, con volume d'affari medio intorno a 53.000 euro e una crescita dei redditi del 72% nel triennio precedente al 2024. Per gli iscritti Inarcassa il reddito medio 2023 e' stato di 49.289 euro. Sono redditi compatibili con un investimento entry-level da circa 1.700 euro, ammortizzabile in poco tempo.",
+    "La barriera principale e' culturale e di percezione del prezzo: molti tecnici associano il laser scanner a cifre da 20.000 euro e continuano a rilevare con metodi tradizionali (rotella, distanziometro a punto singolo, disegno su carta). Il preconcetto di prezzo va smontato subito mostrando la fascia di ingresso. Il secondo freno e' il tempo di decisione: l'acquisto di uno strumento tecnico raramente si chiude in chiamata, quindi l'obiettivo realistico e' fissare una demo o una prova sul campo.",
+    "Take per i setter: l'obiezione 'costa troppo' nasce dall'aver in mente solo gli SLAM di fascia alta. La leva e' far vedere che si parte molto piu in basso e che il ritorno e' in ore di lavoro risparmiate."
+   ],
+   "bullet": [
+    "Take operativo: anticipare e disinnescare il preconcetto di prezzo nei primi 60 secondi ('non parliamo per forza di 20.000 euro, si parte da molto meno').",
+    "Take operativo: l'obiettivo della chiamata e' la demo/prova, non la vendita; il noleggio e' l'arma per abbassare la barriera d'ingresso."
+   ],
+   "tabella": {
+    "headers": ["Indicatore economico", "Valore", "Fonte"],
+    "rows": [
+     ["Reddito medio geometra", "~38.000 euro", "CIPAG 2024"],
+     ["Volume d'affari medio geometra", "~53.000 euro", "CIPAG 2024"],
+     ["Reddito medio iscritti Inarcassa (2023)", "49.289 euro", "Inarcassa"],
+     ["Prezzo entry-level strumento FARAD", "da ~1.700 euro", "Cliente FARAD"]
+    ]
+   }
+  },
+  {
+   "titolo": "5. Digitalizzazione degli studi e onda lunga di Superbonus e PNRR",
+   "paragrafi": [
+    "Il contesto edilizio sta cambiando rapidamente. Nel 2024 gli investimenti in costruzioni sono calati del 5,3% (residenziale -5,2%, recupero abitativo -22%), mentre le opere pubbliche sono cresciute del 21% grazie al PNRR; per il 2025 ANCE stima un'ulteriore flessione, trainata in negativo dal -30% della manutenzione straordinaria. La manutenzione straordinaria vale comunque circa il 40% del totale investimenti: e' qui che il rilievo dell'esistente conta di piu.",
+    "Superbonus e PNRR hanno lasciato in eredita una enorme mole di pratiche e la consapevolezza che gli archivi cartacei tradizionali non reggono, spingendo verso la digitalizzazione. Gli studi tecnici sono ora in una fase di passaggio: chiusa la spinta dei volumi, devono recuperare produttivita ed efficienza, e gli strumenti digitali (BIM, rilievo a nuvola di punti) sono la via indicata.",
+    "Take per i setter: dopo il boom dei bonus, lo studio tecnico che vuole restare competitivo deve digitalizzare il rilievo. FARAD entra esattamente in questa transizione."
+   ],
+   "bullet": [
+    "Take operativo: sul tema 'meno lavoro rispetto agli anni del Superbonus' rispondere con efficienza: lo strumento fa risparmiare ore su ogni rilievo, quindi conta di piu proprio quando i margini si stringono.",
+    "Take operativo: la manutenzione/ristrutturazione dell'esistente (40% del mercato) richiede rilievo accurato dell'esistente: e' il terreno naturale del laser scanner."
+   ]
+  }
+ ],
+ "takeaway": [
+  ["Platea enorme e censita", "'Parlo con geometri, architetti e ingegneri: in Italia sono oltre mezzo milione di tecnici, e il rilievo e' il loro pane quotidiano.'"],
+  ["Mercato in crescita a doppia cifra", "'Il mercato del rilievo 3D e del gemello digitale cresce ogni anno: chi si attrezza ora arriva prima dei colleghi di studio.'"],
+  ["Smontare il preconcetto di prezzo", "'Lo so che il laser scanner fa pensare a 20.000 euro, ma in realta si parte da circa 1.700: per questo la chiamo.'"],
+  ["BIM obbligatorio sugli appalti", "'Se lavora anche con il pubblico, dal 2025 il BIM e' obbligatorio sopra i 2 milioni: il rilievo digitale e' la porta d'ingresso.'"],
+  ["Ritorno in tempo risparmiato", "'Il punto non e' il costo dello strumento, e' quante ore le fa risparmiare su ogni rilievo: si ripaga in fretta.'"],
+  ["Noleggio per abbassare la barriera", "'Se non vuole comprare subito, c'e' il noleggio: prova sul lavoro reale prima di decidere.'"],
+  ["Reddito compatibile con l'investimento", "'Con il volume d'affari medio della categoria, uno strumento entry-level si ammortizza in poco tempo.'"],
+  ["Onda lunga del Superbonus", "'Dopo il Superbonus c'e' una montagna di pratiche e di esistente da rilevare: il rilievo digitale e' diventato uno standard.'"],
+  ["Efficienza quando i margini calano", "'Adesso che il settore rallenta, conta ancora di piu fare il rilievo in meta tempo: serve a recuperare margine.'"],
+  ["Obiettivo demo, non vendita al telefono", "'Non le chiedo di decidere adesso: le propongo una prova sul campo cosi vede con i suoi occhi cosa fa.'"]
+ ],
+ "fonti": [
+  ["CNI - Centro Studi, ingegneri iscritti all'Albo 2024", "https://www.cni.it/media-ing/news/282-2024/4696-centro-studi-cni-ancora-in-aumento-il-numero-di-ingegneri-iscritti-all-albo-professionale"],
+  ["CNAPPC 2025 - architetti iscritti (via Ingenio)", "https://www.ingenio-web.it/articoli/pari-opportunita-nell-architettura-italiana-il-rapporto-cnappc-fotografa-il-gender-gap-e-offre-strumenti-operativi/"],
+  ["ANSA - 76.000 iscritti a Cassa Geometri, redditi +72%", "https://www.ansa.it/sito/notizie/economia/pmi/2024/09/26/76.000-iscritti-a-cassa-geometri-redditi-su-del-72-in-tre-anni_c6257035-34bc-4c56-a2cf-c2e2f5c74c79.html"],
+  ["ANSA - Inarcassa 172.916 iscritti nel 2025", "https://www.ansa.it/sito/notizie/economia/pmi/2026/04/29/inarcassa-172.916-ingegneri-e-architetti-iscritti-nel-2025-08_e350fc7e-61c2-41e1-8fc0-f6f6a945fd5b.html"],
+  ["Inarcassa in Cifre 2025 (reddito medio)", "https://www.inarcassa.it/sites/default/files/legacy/documents/2025-06/Inarcassa_in_Cifre_2025.pdf"],
+  ["Grand View Research - 3D Scanning Market 2030", "https://www.grandviewresearch.com/industry-analysis/3d-scanning-industry"],
+  ["Valuates Reports - 3D Laser Scanning Services Market", "https://reports.valuates.com/market-reports/QYRE-Auto-34N5790/global-3d-laser-scanning-services"],
+  ["Smart Building Italia - Digital Twin e mercato Italia", "https://www.smartbuildingitalia.it/news/anie/digital-twin-per-infrastrutture-e-impianti-il-gemello-digitale-che-accelera-la-transizione-energetica/"],
+  ["TeamSystem - Obbligo BIM, DM 560/2017 e scaglioni", "https://www.teamsystem.com/magazine/construction/bim-obbligatorio-per-le-opere-pubbliche-oltre-il-milione-di-euro/"],
+  ["LavoriPubblici - Soglia BIM da 1 a 2 milioni (D.Lgs 209/2024)", "https://www.lavoripubblici.it/news/obbligo-bim-soglia-sale-1-2-milioni-euro-ecco-perche-34289"],
+  ["ANCE / Ripartelitalia - investimenti costruzioni 2024-2025", "https://www.ripartelitalia.it/il-settore-costruzioni-in-calo-del-53-nel-2024-per-il-2025-atteso-un-7-il-report-dellance/"],
+  ["Edilportale - digitalizzazione pratiche edilizie post-Superbonus", "https://www.edilportale.com/news/2025/03/focus/digitalizzazione-delle-pratiche-edilizie-vantaggi-criticita-e-migliorie_104263_67.html"]
+ ]
+}

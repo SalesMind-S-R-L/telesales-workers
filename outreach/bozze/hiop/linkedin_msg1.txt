@@ -1,0 +1,2 @@
+Grazie per il collegamento, Giacomo. ho visto che con Hiop trasformate la logica di business in pipeline dati serverless partendo da YAML, e che lavorate gia' con realta' come Unilever e Dompe' Pharma. Una curiosita': oggi gli appuntamenti
+per i vostri commerciali chi li fissa?

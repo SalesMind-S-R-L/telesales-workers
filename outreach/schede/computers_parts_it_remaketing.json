@@ -1,0 +1,20 @@
+{
+  "riassunto": "Computers Parts ricondiziona prodotti informatici (stampanti, notebook, desktop, server) provenienti da fine leasing e rollout aziendali, con circa 120.000 prodotti rigenerati l'anno. Vende a PMI e rivenditori B2B, principalmente tramite l'e-commerce Messoanuovo.it, ed e' Lenovo 360 Gold Partner.",
+  "pain_point": "La vendita passa soprattutto dall'e-commerce e da richieste di preventivo inbound: sul fronte B2B (PMI, rivenditori, rollout aziendali) manca probabilmente un'attivita' proattiva e costante di sviluppo commerciale outbound per riempire l'agenda di trattative.",
+  "hook": "ho visto che ricondizionate circa 120.000 prodotti l'anno e che siete Lenovo 360 Gold Partner, con vendita B2B verso PMI e rivenditori tramite Messoanuovo.it",
+  "variante_email": "B",
+  "motivo_variante": "Il sito mostra un modello prevalentemente e-commerce/inbound, senza un pain outbound dichiarato: il questionario di valutazione commerciale e' l'aggancio piu' prudente.",
+  "da_verificare": "Email antonino.onofaro@computersparts.it e' un pattern non verificato; verificare se hanno gia' una rete commerciale B2B attiva oltre all'e-commerce Messoanuovo.it.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Computers Parts It Remaketing",
+  "nome_decisore": "Antonino Onofaro",
+  "ruolo_decisore": "Chief executive officer and founder",
+  "email": "antonino.onofaro@computersparts.it",
+  "telefono": "",
+  "citta": "Capo D'Orlando",
+  "settore": "IT / Software",
+  "website": "computersparts.it",
+  "pagine_lette": ["https://computersparts.it"],
+  "slug": "computers_parts_it_remaketing"
+}

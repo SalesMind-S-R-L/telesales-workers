@@ -1,0 +1,20 @@
+{
+  "riassunto": "Edgemony e' un hub tecnologico siciliano che forma professionisti digitali con master e bootcamp (coding, digital marketing, AI engineering) e fa da ponte tra talenti e aziende con servizi di recruiting e creazione di team tech. Tra i programmi distintivi ci sono Coding Women Sicily e una Cloud Academy con 25 borse di studio.",
+  "pain_point": "Il modello a due lati (studenti da una parte, aziende che assumono dall'altra) richiede un flusso continuo di aziende clienti per recruiting e tech hub: e' plausibile che la parte B2B, fuori dalla rete di partner esistente, manchi di un'attivita' outbound costante per fissare incontri con HR e founder.",
+  "hook": "ho visto che con il Tech Hub e programmi come Coding Women Sicily fate da ponte tra talenti siciliani e aziende come Deliveroo e Shopify",
+  "variante_email": "B",
+  "motivo_variante": "Nessun pain commerciale esplicito sul sito; il questionario consente di capire come acquisiscono le aziende partner.",
+  "da_verificare": "Email daniele.rotolo@edgemony.com e' un pattern non verificato. Verificare che Daniele Rotolo sia co-CEO attivo e quale dei due co-founder segua la parte commerciale B2B.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Edgemony",
+  "nome_decisore": "Daniele Rotolo",
+  "ruolo_decisore": "Co-founder & co chief executive officer",
+  "email": "daniele.rotolo@edgemony.com",
+  "telefono": "",
+  "citta": "Palermo",
+  "settore": "IT / Software",
+  "website": "edgemony.com",
+  "slug": "edgemony",
+  "pagine_lette": ["https://edgemony.com"]
+}

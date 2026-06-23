@@ -1,0 +1,205 @@
+[
+{
+"n": 349,
+"azienda": "Beta Motor",
+"settore": "Automotive",
+"sede": "Rignano sull'Arno (FI)",
+"sito": "betamotor.com"
+},
+{
+"n": 350,
+"azienda": "Magneti Marelli (Mopar/Aftermarket)",
+"settore": "Automotive",
+"sede": "Corbetta (MI)",
+"sito": "magnetimarelli-checkstar.it"
+},
+{
+"n": 351,
+"azienda": "Moto Guzzi",
+"settore": "Automotive",
+"sede": "Mandello del Lario (LC)",
+"sito": "motoguzzi.com"
+},
+{
+"n": 352,
+"azienda": "OMP Racing",
+"settore": "Automotive",
+"sede": "Genova",
+"sito": "ompracing.com"
+},
+{
+"n": 353,
+"azienda": "Polaris Italia",
+"settore": "Automotive",
+"sede": "Cassola (VI)",
+"sito": "polaris.com"
+},
+{
+"n": 354,
+"azienda": "Tecnomat / Norauto Italia",
+"settore": "Automotive",
+"sede": "Milano",
+"sito": "norauto.it"
+},
+{
+"n": 355,
+"azienda": "Volvo Car Italia",
+"settore": "Automotive",
+"sede": "Garbagnate Milanese (MI)",
+"sito": "volvocars.it"
+},
+{
+"n": 356,
+"azienda": "Yamaha Motor Italia",
+"settore": "Automotive",
+"sede": "Lesmo (MB)",
+"sito": "yamaha-motor.it"
+},
+{
+"n": 357,
+"azienda": "Acetaia Ponti",
+"settore": "Food & Beverage",
+"sede": "Ghemme (NO)",
+"sito": "ponti.com"
+},
+{
+"n": 358,
+"azienda": "Acque Minerali d'Italia (Norda, Sangemini)",
+"settore": "Food & Beverage",
+"sede": "Primaluna (LC)",
+"sito": "acqueminerali.it"
+},
+{
+"n": 359,
+"azienda": "Caffe Trombetta",
+"settore": "Food & Beverage",
+"sede": "Roma",
+"sito": "caffetrombetta.com"
+},
+{
+"n": 360,
+"azienda": "Cantine Riunite & CIV (Riunite, Cevico)",
+"settore": "Food & Beverage",
+"sede": "Campegine (RE)",
+"sito": "riunite.it"
+},
+{
+"n": 361,
+"azienda": "Fratelli Beretta",
+"settore": "Food & Beverage",
+"sede": "Trezzo sull Adda (MI)",
+"sito": "fratelliberetta.com"
+},
+{
+"n": 362,
+"azienda": "Galup",
+"settore": "Food & Beverage",
+"sede": "Pinerolo (TO)",
+"sito": "galup.it"
+},
+{
+"n": 363,
+"azienda": "Loison",
+"settore": "Food & Beverage",
+"sede": "Costabissara (VI)",
+"sito": "loison.com"
+},
+{
+"n": 364,
+"azienda": "Lurisia (Gruppo Lunelli)",
+"settore": "Food & Beverage",
+"sede": "Roccaforte Mondovi (CN)",
+"sito": "lurisia.it"
+},
+{
+"n": 365,
+"azienda": "Marchesi Antinori",
+"settore": "Food & Beverage",
+"sede": "Firenze",
+"sito": "antinori.it"
+},
+{
+"n": 366,
+"azienda": "Matilde Vicenzi",
+"settore": "Food & Beverage",
+"sede": "San Giovanni Lupatoto (VR)",
+"sito": "vicenzi.it"
+},
+{
+"n": 367,
+"azienda": "Pasta Armando (De Matteis)",
+"settore": "Food & Beverage",
+"sede": "Flumeri (AV)",
+"sito": "pastaarmando.it"
+},
+{
+"n": 368,
+"azienda": "Pastificio Rummo",
+"settore": "Food & Beverage",
+"sede": "Benevento",
+"sito": "pastarummo.it"
+},
+{
+"n": 369,
+"azienda": "Santa Margherita Gruppo Vinicolo",
+"settore": "Food & Beverage",
+"sede": "Fossalta di Portogruaro (VE)",
+"sito": "santamargherita.com"
+},
+{
+"n": 370,
+"azienda": "Segafredo Zanetti",
+"settore": "Food & Beverage",
+"sede": "Bologna",
+"sito": "segafredo.it"
+},
+{
+"n": 371,
+"azienda": "Sterilgarda",
+"settore": "Food & Beverage",
+"sede": "Castiglione delle Stiviere (MN)",
+"sito": "sterilgarda.it"
+},
+{
+"n": 372,
+"azienda": "Zonin1821",
+"settore": "Food & Beverage",
+"sede": "Gambellara (VI)",
+"sito": "zonin1821.it"
+},
+{
+"n": 373,
+"azienda": "Brico OK / Self / bricolage di insegna",
+"settore": "Retail & GDO",
+"sede": "San Giovanni Lupatoto (VR)",
+"sito": "bricook.it"
+},
+{
+"n": 374,
+"azienda": "CRAI",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "craiweb.it"
+},
+{
+"n": 375,
+"azienda": "Coin",
+"settore": "Retail & GDO",
+"sede": "Venezia",
+"sito": "coin.it"
+},
+{
+"n": 376,
+"azienda": "Comet",
+"settore": "Retail & GDO",
+"sede": "Spinea (VE)",
+"sito": "comet.it"
+},
+{
+"n": 377,
+"azienda": "Expert Italia",
+"settore": "Retail & GDO",
+"sede": "Roma",
+"sito": "expert.it"
+}
+]

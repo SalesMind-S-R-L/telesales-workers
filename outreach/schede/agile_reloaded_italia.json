@@ -1,0 +1,20 @@
+{
+  "riassunto": "Agile Reloaded e' una societa' italiana con sede a Milano specializzata in agile coaching, formazione e trasformazione organizzativa per settori come banking, assicurazioni, telco e manifatturiero. In oltre 10 anni ha servito piu' di 100 clienti e formato oltre 1000 persone, con coach che hanno background operativo da developer, PM e imprenditori.",
+  "pain_point": "I servizi di coaching e transformation hanno cicli di vendita lunghi e dipendono spesso da referenze e visibilita' a conferenze: e' plausibile che manchi un flusso outbound costante di conversazioni con HR e direzioni IT/operations per alimentare la pipeline tra un grande progetto e l'altro.",
+  "hook": "ho visto che in oltre 10 anni avete affiancato piu' di 100 clienti e formato oltre 1000 persone con coach che vengono dal campo, non solo dalla teoria",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale non evidente dal sito (forte visibilita' con 100+ conferenze): il questionario di valutazione e' l'approccio piu' prudente.",
+  "da_verificare": "Email marco.calzolari@agilereloaded.it e' un pattern non verificato; citta' nel chunk e' Verona ma la sede sul sito e' Milano, via Cusani 10.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Agile Reloaded Italia",
+  "nome_decisore": "Marco Calzolari",
+  "ruolo_decisore": "Chief executive officer and co-founder",
+  "email": "marco.calzolari@agilereloaded.it",
+  "telefono": "",
+  "citta": "Verona",
+  "settore": "Consulenza gestionale",
+  "website": "agilereloaded.it",
+  "slug": "agile_reloaded_italia",
+  "pagine_lette": ["https://agilereloaded.it"]
+}

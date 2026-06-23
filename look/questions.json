@@ -1,0 +1,36 @@
+{
+  "titolo": "Onboarding Look SRLS",
+  "come_usare": "Questo documento serve da agenda: (1) i punti chiave della nostra ricerca sul mercato dei numeri verde; (2) le domande operative per chiudere i requisiti e approvare la lista; (3) KPI e cadenza. Puoi rispondere a voce in call o via email: sotto ogni domanda trovi lo spazio 'Risposta:'.",
+  "insight_settore": [
+    {"titolo": "1. Continuità del numero", "testo": "Il numero verde 800 è portabile mantenendo la stessa numerazione (AGCOM/PNN): la pratica la apre il nuovo operatore in ~20-25 giorni, senza interruzioni. È la prima obiezione da disinnescare in apertura."},
+    {"titolo": "2. Il mobile è la voce pesante", "testo": "Sui listini ricaricabili il minuto da cellulare può arrivare a 0,21-0,65€ con scatto alla risposta, contro 0,04€ da fisso: lì si fa o si perde il margine per il cliente."},
+    {"titolo": "3. Deducibilità fiscale", "testo": "Il numero verde è un costo aziendale deducibile (circa 80%) con IVA detraibile: leva utile per ridurre la sensibilità al prezzo."},
+    {"titolo": "4. PA: obbligo ma cicli lunghi", "testo": "Comuni e gestori rifiuti hanno l'obbligo di numero verde per la TARI (ARERA 15/2022), ma le gare durano ~4 anni e Fastweb è forte: canale a medio termine, non priorità immediata."},
+    {"titolo": "5. Dove c'è più traffico", "testo": "I settori a più alto volume di chiamate sono autospurgo/pronto intervento h24, assistenza caldaie/climatizzazione, disinfestazione: target ideali perché il numero verde è operativo, non d'immagine."},
+    {"titolo": "6. Lista già pronta", "testo": "Abbiamo verificato oltre 300 PMI italiane che pubblicano un numero verde 800 reale online, con fonte URL per ciascuna, su 15 settori, e arricchito centralino e numero diretto dove pubblicati. È la base da cui partire."}
+  ],
+  "macro_aree": [
+    {"nome": "MACRO A - Target e approvazione lista", "intro": "Abbiamo costruito oltre 300 prospect verificati su 15 settori. Ci serve la tua approvazione per partire mirati.", "domande": [
+      {"titolo": "Priorità sui settori", "testo": "Dei 15 settori in lista (autospurgo, pronto intervento/idraulici/fabbri, assistenza caldaie, disinfestazione, traslochi, pompe funebri, sanità privata, noleggio, food, investigative, finanziarie, assicurazioni, vendita diretta/e-commerce, edilizia, cantine) quali vuoi attaccare per primi e quali scartare?", "prio": 1},
+      {"titolo": "Aziende da togliere", "testo": "Ci sono aziende in lista che sono già tue clienti, già contattate o in conflitto, da escludere per non sovrapporci?", "prio": 2},
+      {"titolo": "Esclusione PA e grandi SpA", "testo": "Confermi che in questa prima fase escludiamo pubblica amministrazione/comuni e le SpA molto grandi (gare, cicli lunghi), concentrandoci sulle PMI?", "prio": 3},
+      {"titolo": "Altri settori da aggiungere", "testo": "Vuoi che allarghiamo ad altri settori ad alto uso di numero verde (es. poliambulatori/sanità privata, e-commerce, reti agenziali assicurative)?", "prio": 6}
+    ]},
+    {"nome": "MACRO B - Offerta e messaggio in chiamata", "intro": "Il setter non fa prezzi: deve sapere quali leve può promettere e come agganciare.", "domande": [
+      {"titolo": "Leve concedibili senza prezzi", "testo": "Cosa può promettere il setter senza dare cifre? Possiamo citare i servizi aggiuntivi (centralino virtuale/IVR, registrazione chiamate) come valore, oltre alla verifica gratuita della fattura?", "prio": 4},
+      {"titolo": "Dove sei più competitivo", "testo": "Su quali gestori attuali del cliente hai più margine (ci dicevi soprattutto TIM)? Così quando chiediamo 'con chi avete il numero?' sappiamo dove spingere.", "prio": 5},
+      {"titolo": "Brand da usare", "testo": "Con quale nome ci presentiamo in chiamata e nelle mail: 'Look', 'Look SRLS' o altro? (Nel materiale comparivano anche Looker e LUC: confermiamo quello ufficiale.)", "prio": 7},
+      {"titolo": "Pagamento telefonico come teaser", "testo": "Vuoi che il setter accenni già al futuro servizio di pagamento con carta durante la chiamata come gancio, o lo teniamo per la fase di vendita?", "prio": 8}
+    ]},
+    {"nome": "MACRO C - Operatività e accordi", "intro": "Servono accessi e regole per partire e per gestire i contratti.", "domande": [
+      {"titolo": "Accessi e listino", "testo": "Ci dai accesso a numeroverdebusiness@gmail.com e il listino completo dei servizi aggiuntivi (es. registrazione a +2 cent/min) da usare in fase di proposta?", "prio": 9},
+      {"titolo": "Provvigioni e referral", "testo": "Come gestiamo le provvigioni: contratti grandi (dicevi 50/50) e i piccoli ricorrenti (anche 10€/mese)? Definiamo la regola.", "prio": 10},
+      {"titolo": "Template email", "testo": "Vuoi che sistemiamo noi il template della mail di presentazione (logo, formattazione) prima di avviare le sequenze di warm-up?", "prio": 12}
+    ]}
+  ],
+  "kpi": [
+    {"titolo": "Obiettivo appuntamenti/mese", "testo": "Confermi 8-10 appuntamenti qualificati al mese come obiettivo iniziale, con priorità alla qualità (decisore + fattura)?", "prio": 11},
+    {"titolo": "Cadenza review e report", "testo": "Che cadenza vuoi per la review (call settimanale?) e cosa vuoi vedere nel report: chiamate, decisori raggiunti, fatture, appuntamenti?", "prio": 13}
+  ],
+  "chiusura": "Le risposte ci permettono di chiudere i requisiti, mandarti la lista definitiva da approvare e partire con le chiamate dai settori a più alto traffico. Grazie."
+}

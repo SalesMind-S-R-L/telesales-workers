@@ -1,0 +1,20 @@
+{
+  "riassunto": "Humantek e' una societa' di consulenza e formazione aziendale fondata nel 2008, specializzata in executive coaching, formazione umana e strategia d'impresa. Fondata da Walter Ferrero e Marta Residori, lavora con dirigenti e manager di clienti come BMW, Volvo, Samsung, Coca-Cola e Generali.",
+  "pain_point": "Una boutique di coaching con clienti enterprise di questo livello tende a crescere per passaparola e relazioni dei fondatori: e' plausibile che manchi un flusso strutturato di nuovi primi incontri con aziende fuori dalla rete esistente.",
+  "hook": "ho visto che fate executive coaching dal 2008 e che tra i vostri clienti ci sono realta' come BMW, Samsung e Generali",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale solo ipotizzato, non evidente dal sito: variante questionario di default.",
+  "da_verificare": "Email e' un pattern non verificato; confermare che Marta Residori sia il contatto giusto per decisioni commerciali e la sede operativa (Castelvetro Piacentino).",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Humantek",
+  "nome_decisore": "Marta Residori",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "marta.residori@humantek.it",
+  "telefono": "",
+  "citta": "Castelvetro Piacentino",
+  "settore": "Consulenza gestionale",
+  "website": "humantek.it",
+  "slug": "humantek",
+  "pagine_lette": ["https://humantek.it"]
+}

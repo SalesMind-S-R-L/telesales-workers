@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>OSM Eventi — Selezione del Personale + Delega | Firenze 06/07</title>
+
+    <meta name="description"
+        content="Una serata di networking dedicata agli imprenditori che vogliono costruire un'azienda più autonoma, organizzata e produttiva, partendo da due temi chiave: selezione del personale e delega.">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="SELEZIONE DEL PERSONALE + DELEGA">
+    <meta property="og:description"
+        content="Una serata di networking dedicata agli imprenditori che vogliono costruire un'azienda più autonoma, organizzata e produttiva, partendo da due temi chiave: selezione del personale e delega.">
+    <meta property="og:image" content="assets/cover.jpg">
+    <meta property="og:type" content="article">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Nunito', 'sans-serif'] },
+                    colors: {
+                        pink: { 300: '#f9a8d4', 500: '#ec4899', 600: '#db2777', 700: '#be185d' }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        html { scroll-behavior: smooth; }
+        body { font-family: 'Nunito', sans-serif; }
+        .event-gradient { background-image: linear-gradient(135deg, #f97794 10%, #623aa2); }
+        .sidebar-bg { background-color: #fff5eb; }
+        .desc p { margin-bottom: 0.35rem; }
+        .desc p:empty { margin-bottom: 0.6rem; }
+        .label { display: block; margin-bottom: 0.25rem; font-size: 0.8rem; font-weight: 700; color: #374151; }
+        .field {
+            width: 100%; padding: 0.55rem 0.75rem; border: 1px solid #e5e7eb;
+            border-radius: 0.6rem; font-size: 0.9rem; outline: none; background: #fff;
+            transition: border-color .15s, box-shadow .15s;
+        }
+        .field:focus { border-color: #db2777; box-shadow: 0 0 0 3px rgba(219,39,119,.12); }
+        .field.invalid { border-color: #ef4444; }
+        .err { display: none; color: #dc2626; font-size: 0.72rem; margin-top: 0.2rem; }
+        .err.show { display: block; }
+        .spin { width: 18px; height: 18px; border: 2px solid rgba(255,255,255,.5); border-top-color: #fff; border-radius: 50%; animation: r .7s linear infinite; }
+        @keyframes r { to { transform: rotate(360deg); } }
+    </style>
+</head>
+
+<body class="bg-gray-100 text-gray-800">
+
+    <!-- gradient backdrop -->
+    <div class="fixed top-0 w-full event-gradient" style="height: 460px; z-index: -1;"></div>
+
+    <!-- Navbar -->
+    <nav class="w-full">
+        <div class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
+            <a href="#" class="flex items-center gap-2">
+                <span class="inline-flex items-center justify-center w-9 h-9 rounded-lg bg-white text-pink-600 font-black text-lg shadow">O</span>
+                <span class="text-white font-extrabold tracking-wide text-lg">OSM&nbsp;Eventi</span>
+            </a>
+            <a href="#iscriviti"
+                class="hidden sm:inline-block px-4 py-2 text-sm font-bold text-pink-600 bg-white rounded-full shadow hover:shadow-lg transition">
+                Iscriviti gratuitamente
+            </a>
+        </div>
+    </nav>
+
+    <main class="max-w-6xl mx-auto px-4 pt-4 pb-16">
+
+        <!-- HERO -->
+        <div class="relative rounded-3xl overflow-hidden shadow-2xl">
+            <img src="assets/cover.jpg" alt="Selezione del Personale + Delega" class="w-full h-64 sm:h-80 md:h-96 object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 to-transparent"></div>
+            <div class="absolute bottom-0 left-0 p-5 sm:p-8">
+                <span class="inline-block px-2.5 py-0.5 mb-3 text-xs font-bold text-white bg-green-600 rounded-full">Gratuito</span>
+                <h1 class="text-2xl sm:text-3xl md:text-4xl font-extrabold text-white uppercase leading-tight max-w-2xl">
+                    Selezione del Personale + Delega
+                </h1>
+                <p class="mt-2 text-sm sm:text-base font-semibold text-white">
+                    06/07/2026 <span class="text-pink-300 mx-1">·</span> ore 18:00 – 19:30
+                </p>
+                <p class="mt-1 text-xs sm:text-sm font-semibold text-white/90 uppercase">
+                    Firenze, Villa Neroli
+                </p>
+            </div>
+        </div>
+
+        <!-- BODY: 2 columns -->
+        <div class="flex flex-col md:flex-row gap-6 mt-6">
+
+            <!-- LEFT: description + speakers -->
+            <div class="w-full md:w-8/12 order-2 md:order-1">
+                <div class="bg-white rounded-3xl shadow-xl p-6 sm:p-8">
+                    <div class="flex flex-wrap gap-2 mb-5">
+                        <span class="px-3 py-1 text-xs font-bold text-pink-700 bg-pink-50 rounded-full">Selezione del Personale</span>
+                        <span class="px-3 py-1 text-xs font-bold text-pink-700 bg-pink-50 rounded-full">Gestione del personale</span>
+                        <span class="px-3 py-1 text-xs font-bold text-pink-700 bg-pink-50 rounded-full">Time Management e Delega</span>
+                    </div>
+
+                    <div class="desc text-[15px] leading-relaxed text-gray-700">
+                        <p class="text-lg font-extrabold text-gray-900">06 Luglio – Firenze</p>
+                        <p class="text-lg font-extrabold text-gray-900 mb-3">Selezione del personale + Delega</p>
+
+                        <p>Due temi che oggi fanno la differenza tra un'azienda che cresce…</p>
+                        <p class="mb-3">e un imprenditore che continua a portarsi tutto sulle spalle.</p>
+
+                        <p class="mb-3">Una serata esclusiva di confronto, networking e formazione dedicata
+                            agli imprenditori che vogliono costruire un team forte, autonomo e produttivo.</p>
+
+                        <p class="font-bold text-gray-900">Parleremo di:</p>
+                        <ul class="list-none space-y-1 mb-3">
+                            <li class="flex gap-2"><span class="text-pink-600 font-bold">•</span> come selezionare collaboratori affidabili</li>
+                            <li class="flex gap-2"><span class="text-pink-600 font-bold">•</span> come delegare senza perdere controllo</li>
+                            <li class="flex gap-2"><span class="text-pink-600 font-bold">•</span> come creare una struttura che funziona davvero</li>
+                        </ul>
+
+                        <p class="font-bold text-gray-900">Interverranno:</p>
+                        <ul class="list-none space-y-1 mb-3">
+                            <li class="flex gap-2"><span class="text-pink-600 font-bold">•</span> Luca Torcivia – CEO OSM Master Centro Italia</li>
+                            <li class="flex gap-2"><span class="text-pink-600 font-bold">•</span> Cecilia Civelli – HR Specialist OSM Partner Firenze</li>
+                        </ul>
+
+                        <p class="mb-3">Insieme a loro, due imprenditori del territorio racconteranno come
+                            hanno applicato questi sistemi nelle loro aziende, migliorando organizzazione,
+                            delega e crescita del team.</p>
+
+                        <p class="mb-3">A conclusione dell'evento ci sarà una cena networking tra imprenditori,
+                            manager e professionisti del territorio.</p>
+
+                        <div class="my-4 p-4 rounded-2xl bg-pink-50 border border-pink-100">
+                            <p class="font-bold text-gray-900">🍽 Cena networking: 45€ IVA compresa</p>
+                            <p class="text-sm text-gray-600">Per prenotare il tuo posto a cena rivolgiti al tuo consulente di riferimento.</p>
+                        </div>
+
+                        <p class="font-semibold">📍 Villa Neroli – Firenze</p>
+                        <p class="font-semibold text-pink-600">👉 Iscrizioni aperte</p>
+                    </div>
+                </div>
+
+                <!-- Speakers -->
+                <div class="bg-white rounded-3xl shadow-xl p-6 sm:p-8 mt-6">
+                    <h2 class="text-xl font-extrabold text-gray-900 mb-5 flex items-center gap-2">
+                        <svg class="w-5 h-5 text-pink-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0z" />
+                        </svg>
+                        Gli Speaker
+                    </h2>
+
+                    <div class="flex flex-col sm:flex-row gap-5 mb-6">
+                        <div class="w-24 h-24 flex-shrink-0 rounded-full event-gradient flex items-center justify-center text-white text-2xl font-black shadow-lg mx-auto sm:mx-0">LT</div>
+                        <div>
+                            <h3 class="text-lg font-extrabold text-gray-900">Luca Torcivia</h3>
+                            <p class="text-sm font-semibold text-pink-600 mb-2">CEO OSM Partner Firenze · Responsabile OSM Centro Italia</p>
+                            <p class="text-sm text-gray-600 italic mb-2">"L'azienda deve essere il mezzo per vivere la vita che hai sempre desiderato."</p>
+                            <p class="text-sm text-gray-700">Con un Master in General Management e anni di esperienza nel commerciale e
+                                marketing per gruppi internazionali, Luca è autore di "Delega Tutto!", un libro che insegna
+                                l'arte della delega, vera chiave del successo imprenditoriale. Come formatore è impegnato a
+                                formare i leader di domani, accompagnandoli verso conquiste straordinarie.</p>
+                        </div>
+                    </div>
+
+                    <div class="flex flex-col sm:flex-row gap-5 pt-5 border-t border-gray-100">
+                        <img src="assets/cecilia.jpg" alt="Cecilia Civelli"
+                            class="w-24 h-24 flex-shrink-0 rounded-full object-cover shadow-lg mx-auto sm:mx-0">
+                        <div>
+                            <h3 class="text-lg font-extrabold text-gray-900">Cecilia Cyril Civelli</h3>
+                            <p class="text-sm font-semibold text-pink-600 mb-2">HR Specialist OSM Partner Firenze</p>
+                            <p class="text-sm text-gray-700">Human Resources Specialist presso OSM Partner Firenze.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- RIGHT: registration form -->
+            <div class="w-full md:w-4/12 order-1 md:order-2" id="iscriviti">
+                <div class="sidebar-bg rounded-3xl shadow-xl p-5 md:sticky md:top-4">
+                    <div class="text-center mb-4">
+                        <p class="text-xs font-bold uppercase tracking-wide text-green-600">Evento gratuito</p>
+                        <h2 class="text-xl font-extrabold text-gray-900 mt-1">Iscriviti all'evento</h2>
+                        <p class="text-xs text-gray-500 mt-1">Compila il modulo per riservare il tuo posto. Posti limitati.</p>
+                    </div>
+
+                    <form id="reg-form" novalidate>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                            <div>
+                                <label class="label" for="name">Nome *</label>
+                                <input id="name" name="name" class="field" autocomplete="given-name">
+                                <p class="err">Campo obbligatorio</p>
+                            </div>
+                            <div>
+                                <label class="label" for="last_name">Cognome *</label>
+                                <input id="last_name" name="last_name" class="field" autocomplete="family-name">
+                                <p class="err">Campo obbligatorio</p>
+                            </div>
+                        </div>
+
+                        <div class="mt-3">
+                            <label class="label" for="email">Email *</label>
+                            <input id="email" name="email" type="email" class="field" autocomplete="email">
+                            <p class="err">Inserisci un'email valida</p>
+                        </div>
+
+                        <div class="mt-3">
+                            <label class="label" for="phone">Telefono *</label>
+                            <div class="flex gap-2">
+                                <select id="prefix" name="prefix" class="field" style="width:auto;">
+                                    <option value="+39" selected>🇮🇹 +39</option>
+                                    <option value="+41">🇨🇭 +41</option>
+                                    <option value="+33">🇫🇷 +33</option>
+                                    <option value="+49">🇩🇪 +49</option>
+                                    <option value="+44">🇬🇧 +44</option>
+                                </select>
+                                <input id="phone" name="phone" inputmode="numeric" class="field" autocomplete="tel">
+                            </div>
+                            <p class="err">Inserisci un numero valido</p>
+                        </div>
+
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mt-3">
+                            <div>
+                                <label class="label" for="city">Città *</label>
+                                <input id="city" name="city" class="field">
+                                <p class="err">Campo obbligatorio</p>
+                            </div>
+                            <div>
+                                <label class="label" for="province">Provincia *</label>
+                                <select id="province" name="province" class="field">
+                                    <option value="">Seleziona</option>
+                                </select>
+                                <p class="err">Campo obbligatorio</p>
+                            </div>
+                        </div>
+
+                        <div class="mt-3">
+                            <label class="label" for="company">Azienda *</label>
+                            <input id="company" name="company" class="field" autocomplete="organization">
+                            <p class="err">Campo obbligatorio</p>
+                        </div>
+
+                        <div class="mt-3">
+                            <label class="label" for="role">Ruolo *</label>
+                            <select id="role" name="role" class="field">
+                                <option value="">Seleziona ruolo</option>
+                                <option value="Titolare">Titolare</option>
+                                <option value="Manager">Manager</option>
+                                <option value="Dipendente">Dipendente</option>
+                                <option value="Socio">Socio</option>
+                            </select>
+                            <p class="err">Campo obbligatorio</p>
+                        </div>
+
+                        <!-- Privacy -->
+                        <fieldset class="mt-4 p-3 border border-gray-200 rounded-xl bg-white">
+                            <label class="flex items-start gap-2 cursor-pointer">
+                                <input type="checkbox" id="privacy" name="privacy" class="mt-0.5">
+                                <span class="text-xs text-gray-600">
+                                    Dichiaro di aver ricevuto, letto e compreso l'<a
+                                        href="https://eventiosm.it/privacy-policy" target="_blank"
+                                        class="font-semibold text-pink-600 hover:underline">informativa</a>
+                                    ai sensi del Reg. UE 2016/679 (Art. 13) e presto il consenso al trattamento dei miei
+                                    dati personali. *
+                                </span>
+                            </label>
+                            <p class="err mt-1">Devi accettare l'informativa privacy</p>
+                        </fieldset>
+
+                        <!-- Consent 3.1 -->
+                        <div class="mt-3">
+                            <p class="text-xs text-gray-600 mb-1">Esprimo in modo consapevole e libero il consenso per le seguenti finalità:</p>
+                            <fieldset class="p-3 border border-gray-200 rounded-xl bg-white">
+                                <legend class="px-1 text-xs font-semibold text-gray-700">Finalità 3.1 (condivisione con i partner)</legend>
+                                <div class="flex gap-6 mt-1">
+                                    <label class="inline-flex items-center gap-1.5 text-xs cursor-pointer"><input type="radio" name="consent31" value="Sì"> Sì</label>
+                                    <label class="inline-flex items-center gap-1.5 text-xs cursor-pointer"><input type="radio" name="consent31" value="No"> No</label>
+                                </div>
+                            </fieldset>
+                            <p class="err mt-1">Seleziona un'opzione</p>
+                        </div>
+
+                        <!-- Consent 3.2 -->
+                        <div class="mt-3">
+                            <fieldset class="p-3 border border-gray-200 rounded-xl bg-white">
+                                <legend class="px-1 text-xs font-semibold text-gray-700">Finalità 3.2 (comunicazioni marketing)</legend>
+                                <div class="flex gap-6 mt-1">
+                                    <label class="inline-flex items-center gap-1.5 text-xs cursor-pointer"><input type="radio" name="consent32" value="Sì"> Sì</label>
+                                    <label class="inline-flex items-center gap-1.5 text-xs cursor-pointer"><input type="radio" name="consent32" value="No"> No</label>
+                                </div>
+                            </fieldset>
+                            <p class="err mt-1">Seleziona un'opzione</p>
+                        </div>
+
+                        <button type="submit" id="submit-btn"
+                            class="w-full mt-5 py-3 font-bold text-white event-gradient rounded-xl shadow-lg hover:opacity-95 transition flex items-center justify-center gap-2">
+                            <span id="btn-label">Conferma iscrizione</span>
+                        </button>
+                        <p class="mt-2 text-[11px] text-center text-gray-400">Iscrizione gratuita · Nessun pagamento richiesto online</p>
+                    </form>
+
+                    <!-- Success -->
+                    <div id="success" class="hidden text-center py-8">
+                        <div class="w-16 h-16 mx-auto rounded-full bg-green-100 flex items-center justify-center mb-4">
+                            <svg class="w-8 h-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg>
+                        </div>
+                        <h3 class="text-xl font-extrabold text-gray-900">Iscrizione confermata!</h3>
+                        <p class="text-sm text-gray-600 mt-2">Grazie, ti aspettiamo il <strong>6 luglio</strong> a Villa Neroli, Firenze.
+                            A breve riceverai una conferma. Per la cena networking contatta il tuo consulente di riferimento.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="event-gradient text-white">
+        <div class="max-w-6xl mx-auto px-4 py-8 text-center">
+            <p class="font-extrabold text-lg">OSM Eventi</p>
+            <p class="text-sm text-white/80 mt-1">Selezione del Personale + Delega — 6 luglio 2026, Villa Neroli, Firenze</p>
+            <p class="text-xs text-white/60 mt-3">
+                <a href="https://eventiosm.it/privacy-policy" target="_blank" class="hover:underline">Privacy Policy</a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

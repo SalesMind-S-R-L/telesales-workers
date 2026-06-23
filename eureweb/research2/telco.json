@@ -1,0 +1,159 @@
+{
+  "settore": "Telecomunicazioni",
+  "nuovi_lead": [
+    {
+      "azienda": "Optima Italia",
+      "settore": "Telecomunicazioni",
+      "sede": "Napoli",
+      "sito": "optimaitalia.com",
+      "dimensione": "Grande nazionale",
+      "investimento": "Alto",
+      "evidenza": "Multiservizi luce/gas/telefono. Spot 'Tutto-In-Uno' su reti Mediaset con testimonial Alessia Mancini, budget 6,5 mln (ADC Group). Nuovo spot 'Super Mobile' su Mediaset e DAZN nel rush finale Serie A, on air dal 9-11 maggio 2025 (Publitalia/Carat).",
+      "nuovo_investimento": "si - nuova campagna mobile maggio 2025 su Mediaset+DAZN, lancio offerta 5G",
+      "prio": "A"
+    },
+    {
+      "azienda": "Pulsee Luce e Gas (Axpo Italia)",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Genova",
+      "sito": "pulsee.it",
+      "dimensione": "Grande nazionale",
+      "investimento": "Alto",
+      "evidenza": "Brand energy retail di Axpo. Stefano De Martino nuovo testimonial ufficiale, campagna 'Con l'energia giusta puoi fare qualsiasi cosa', tre spot firmati GB22, on air dal 20 dicembre 2025 via Rai Pubblicita. Precedente campagna nazionale con Rinascente (2025).",
+      "nuovo_investimento": "si - nuovo testimonial De Martino e nuova campagna dic 2025",
+      "prio": "A"
+    },
+    {
+      "azienda": "Magis Energia (ex AGSM AIM)",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Verona",
+      "sito": "magisenergia.it",
+      "dimensione": "Mid-large",
+      "investimento": "Alto",
+      "evidenza": "Multiutility Verona-Vicenza. Campagna 'Altri cent'anni e avanti!' on air apr-giu 2025 (StoryFactory/OFF Media) su stampa, radio, digital, affissione. Rebrand AGSM AIM -> Magis con nuova brand identity e campagna nazionale 'Piu Energia' firmata Paolo Iabichino presentata a KEY 2026 (TV, radio, digital, affissioni grandi citta).",
+      "nuovo_investimento": "si - rebrand completo in Magis + campagna nazionale di lancio 2026",
+      "prio": "A"
+    },
+    {
+      "azienda": "Estra",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Prato",
+      "sito": "estraenergie.it",
+      "dimensione": "Mid-large",
+      "investimento": "Alto",
+      "evidenza": "Multiutility Centro Italia. Nuova campagna 'Scelta Pura' su TV, radio e digital (creativita Jam Area) che segna la trasformazione green della strategia commerciale. Campagna 'M'illumino di Meno' con Rai Pubblicita su Radio e TV Rai, Radio Italia, Radio Kiss Kiss (2024).",
+      "nuovo_investimento": "si - riposizionamento green offerte 'Scelta Pura' con nuova campagna",
+      "prio": "A"
+    },
+    {
+      "azienda": "Alperia",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Bolzano",
+      "sito": "alperia.eu",
+      "dimensione": "Mid-large",
+      "investimento": "Alto",
+      "evidenza": "Tra i maggiori produttori di energia rinnovabile in Italia. Top sponsor delle nazionali della Federazione Italiana Rugby; campagna in concomitanza con il Sei Nazioni con due spot firmati White, Red & Green, on air fino a meta marzo 2025.",
+      "nuovo_investimento": "si - nuova sponsorship FIR rugby + spot dedicati 2025",
+      "prio": "B"
+    },
+    {
+      "azienda": "Octopus Energy Italia",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Milano",
+      "sito": "octopusenergy.it",
+      "dimensione": "Grande nazionale",
+      "investimento": "Alto",
+      "evidenza": "Prima campagna TV del brand in Italia, basata su testimonianze di clienti reali (spot da 20'' senza copione/attori). Prima fase on air su La7 e Sky dal 19 ott all'8 nov 2025: oltre 550 passaggi sui canali Sky e 80 su La7.",
+      "nuovo_investimento": "si - primo ingresso in TV del brand (ott 2025)",
+      "prio": "A"
+    },
+    {
+      "azienda": "Dolomiti Energia",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Trento",
+      "sito": "dolomitienergia.it",
+      "dimensione": "Mid-large",
+      "investimento": "Medio",
+      "evidenza": "Multiutility del Trentino (oltre 1.300 dipendenti, tra i primi produttori idroelettrici italiani). Campagna 'Mitica 36' firmata Videonaria con Zeus come testimonial per l'offerta Mitica Luce e Gas 36 (prezzo bloccato 3 anni).",
+      "nuovo_investimento": "si - nuova campagna 'Mitica 36' con testimonial",
+      "prio": "B"
+    },
+    {
+      "azienda": "Ascopiave",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Pieve di Soligo (TV)",
+      "sito": "gruppoascopiave.it",
+      "dimensione": "Mid-large",
+      "investimento": "Medio",
+      "evidenza": "Tra i maggiori operatori del mercato energetico nazionale (distribuzione e vendita gas/luce in Veneto, FVG, Lombardia, Piemonte, Emilia, Liguria, Foggia). Socio (48%) di EstEnergy, leader nazionale nella vendita con oltre 1 mln di clienti; presenza commerciale e promozionale multi-regionale.",
+      "nuovo_investimento": "no",
+      "prio": "B"
+    },
+    {
+      "azienda": "Convergenze S.p.A. SB",
+      "settore": "Telco / Energia-Utility",
+      "sede": "Capaccio Paestum (SA)",
+      "sito": "convergenze.it",
+      "dimensione": "Mid-large",
+      "investimento": "Medio",
+      "evidenza": "Operatore integrato TLC + Energia, Societa Benefit quotata su Euronext Growth Milan da dic 2020. Rete in fibra ottica proprietaria in espansione; lancio nel 2025 della nuova offerta mobile SIMON con strategia di convergenza fibra-TV-telefonia-energia comunicata su web e canali del brand.",
+      "nuovo_investimento": "si - lancio offerta mobile SIMON 2025",
+      "prio": "B"
+    },
+    {
+      "azienda": "Planetel S.p.A.",
+      "settore": "Telecomunicazioni",
+      "sede": "Treviolo (BG)",
+      "sito": "planetel.it",
+      "dimensione": "Mid-large",
+      "investimento": "Medio",
+      "evidenza": "ISP bergamasco con rete in fibra proprietaria (oltre 3.200 km in BG, BS, MN, VR), quotato su Euronext Growth Milan. Pubblicita attiva sulle offerte fibra (citato dall'AGCM tra gli operatori con campagne fibra rivedute nel 2022); comunicazione locale continuativa su offerte casa/business.",
+      "nuovo_investimento": "no",
+      "prio": "B"
+    },
+    {
+      "azienda": "Unidata S.p.A.",
+      "settore": "Telecomunicazioni",
+      "sede": "Roma",
+      "sito": "unidata.it",
+      "dimensione": "Mid-large",
+      "investimento": "Medio",
+      "evidenza": "Operatore TLC/cloud/IoT quotato su Euronext Milan - segmento STAR. Rete fibra ~7.600 km. Forte attivita di comunicazione corporate per i 40 anni (2025), cavo sottomarino Unitirreno, riorganizzazione Unifiber; citato dall'AGCM tra gli operatori con pubblicita fibra rivedute (2022).",
+      "nuovo_investimento": "si - 40 anni 2025 e nuova fase corporate (Unifiber, cavo Unitirreno)",
+      "prio": "C"
+    },
+    {
+      "azienda": "Cairo Communication",
+      "settore": "Media & Editoria",
+      "sede": "Milano",
+      "sito": "cairocommunication.it",
+      "dimensione": "Grande nazionale",
+      "investimento": "Alto",
+      "evidenza": "Gruppo media (La7, La7d, RCS, periodici Cairo Editore). Raccolta pubblicitaria La7/La7d in crescita (74,6 mln nel primo semestre 2025; +5% raccolta). La7 in crescita di ascolti (2024 +9% prime time): forte attivita di comunicazione su nuovi programmi e palinsesto.",
+      "nuovo_investimento": "si - nuovi programmi e crescita investimenti comunicazione La7 2025",
+      "prio": "B"
+    },
+    {
+      "azienda": "Caltagirone Editore",
+      "settore": "Media & Editoria",
+      "sede": "Roma",
+      "sito": "caltagironeeditore.com",
+      "dimensione": "Grande nazionale",
+      "investimento": "Medio",
+      "evidenza": "Gruppo editoriale quotato, editore di Il Messaggero, Il Mattino, Il Gazzettino, Corriere Adriatico, Quotidiano di Puglia, Leggo (free press). Attivita pubblicitaria e promozionale continuativa sulle testate del gruppo e sul free press Leggo.",
+      "nuovo_investimento": "no",
+      "prio": "C"
+    },
+    {
+      "azienda": "RadioMediaset (R101 / Radio 105 / Virgin / Radio Monte Carlo)",
+      "settore": "Media & Editoria",
+      "sede": "Milano",
+      "sito": "radiomediaset.it",
+      "dimensione": "Grande nazionale",
+      "investimento": "Alto",
+      "evidenza": "Polo radiofonico del gruppo MFE. Campagna di brand Radio 105 'Proud To Be Different' (spot 30'' + affissioni). Lancio di Radio 105 TV sul digitale terrestre con campagna multimediale; raccolta pubblicitaria in crescita; acquisizione Radionorba (2025).",
+      "nuovo_investimento": "si - lancio Radio 105 TV + acquisizione Radionorba, espansione",
+      "prio": "B"
+    }
+  ]
+}

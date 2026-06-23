@@ -1,0 +1,205 @@
+[
+{
+"n": 204,
+"azienda": "Banca Popolare di Sondrio",
+"settore": "Finance & Insurance",
+"sede": "Sondrio",
+"sito": "popso.it"
+},
+{
+"n": 205,
+"azienda": "Banca di Credito Popolare (BCP)",
+"settore": "Finance & Insurance",
+"sede": "Torre del Greco (NA)",
+"sito": "bcp.it"
+},
+{
+"n": 206,
+"azienda": "Bene Assicurazioni",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "beneassicurazioni.it"
+},
+{
+"n": 207,
+"azienda": "Europ Assistance Italia",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "europassistance.it"
+},
+{
+"n": 208,
+"azienda": "HDI Assicurazioni",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "hdiassicurazioni.it"
+},
+{
+"n": 209,
+"azienda": "Net Insurance (Gruppo Poste Italiane)",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "netinsurance.it"
+},
+{
+"n": 210,
+"azienda": "Yolo Group (Yolo Insurance)",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "yolo-insurance.com"
+},
+{
+"n": 211,
+"azienda": "De Rigo",
+"settore": "Fashion & Lifestyle",
+"sede": "Longarone (BL)",
+"sito": "derigo.com"
+},
+{
+"n": 212,
+"azienda": "Desmos",
+"settore": "Fashion & Lifestyle",
+"sede": "Italia",
+"sito": "desmos.net"
+},
+{
+"n": 213,
+"azienda": "Fantic Motor",
+"settore": "Automotive",
+"sede": "Treviso",
+"sito": "fanticmotor.it"
+},
+{
+"n": 214,
+"azienda": "Bottega Verde",
+"settore": "Fashion & Lifestyle",
+"sede": "Pienza (SI)",
+"sito": "bottegaverde.it"
+},
+{
+"n": 215,
+"azienda": "Dainese",
+"settore": "Fashion & Lifestyle",
+"sede": "Vicenza",
+"sito": "dainese.com"
+},
+{
+"n": 216,
+"azienda": "Replay (Fashion Box)",
+"settore": "Fashion & Lifestyle",
+"sede": "Asolo (TV)",
+"sito": "replay.it"
+},
+{
+"n": 217,
+"azienda": "Balocco",
+"settore": "Food & Beverage",
+"sede": "Fossano (CN)",
+"sito": "balocco.it"
+},
+{
+"n": 218,
+"azienda": "Guido Berlucchi",
+"settore": "Food & Beverage",
+"sede": "Corte Franca (BS)",
+"sito": "berlucchi.it"
+},
+{
+"n": 219,
+"azienda": "Pastificio Granoro",
+"settore": "Food & Beverage",
+"sede": "Corato (BA)",
+"sito": "granoro.it"
+},
+{
+"n": 220,
+"azienda": "Famila (Selex/Unicomm)",
+"settore": "Retail & GDO",
+"sede": "Vicenza",
+"sito": "famila.it"
+},
+{
+"n": 221,
+"azienda": "Primark Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "primark.com"
+},
+{
+"n": 222,
+"azienda": "Alpinestars",
+"settore": "Automotive",
+"sede": "Asolo (TV)",
+"sito": "alpinestars.com"
+},
+{
+"n": 223,
+"azienda": "Ferrari Trento (Cantine Ferrari - Gruppo Lunelli)",
+"settore": "Food & Beverage",
+"sede": "Trento",
+"sito": "ferraritrento.com"
+},
+{
+"n": 224,
+"azienda": "Acqua e Sapone",
+"settore": "Retail & GDO",
+"sede": "Spoltore (PE)",
+"sito": "acquaesapone.it"
+},
+{
+"n": 225,
+"azienda": "CoopVoce",
+"settore": "Telecomunicazioni",
+"sede": "Firenze",
+"sito": "coopvoce.it"
+},
+{
+"n": 226,
+"azienda": "PosteMobile",
+"settore": "Telecomunicazioni",
+"sede": "Roma",
+"sito": "postemobile.it"
+},
+{
+"n": 227,
+"azienda": "ho. Mobile (Vodafone)",
+"settore": "Telecomunicazioni",
+"sede": "Milano",
+"sito": "ho-mobile.it"
+},
+{
+"n": 228,
+"azienda": "Amundi SGR Italia",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "amundi.it"
+},
+{
+"n": 229,
+"azienda": "Groupama Assicurazioni",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "groupama.it"
+},
+{
+"n": 230,
+"azienda": "Gruppo BCC Iccrea",
+"settore": "Finance & Insurance",
+"sede": "Roma",
+"sito": "gruppobcciccrea.it"
+},
+{
+"n": 231,
+"azienda": "Mooney",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "mooney.it"
+},
+{
+"n": 232,
+"azienda": "Vittoria Assicurazioni",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "vittoriaassicurazioni.com"
+}
+]

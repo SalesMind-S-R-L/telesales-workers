@@ -1,0 +1,21 @@
+{
+  "riassunto": "Studio Barale e una societa di consulenza di direzione attiva dal 1946, con sede storica a Torino e uffici in altre otto citta italiane. Affianca le PMI su marketing, organizzazione, controllo di gestione, sviluppo commerciale e temporary management.",
+  "pain_point": "Con un pool di consulenti distribuito su nove sedi, alimentare in modo costante il flusso di nuovi incontri con imprenditori in ogni territorio e oneroso. Un'agenda di appuntamenti qualificati ridurrebbe la dipendenza da referenze locali.",
+  "hook": "ho visto che fate consulenza di direzione per le PMI dal 1946, con la sede storica a Torino e uffici da Bergamo a Catania",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sul sito, serve un approccio piu istituzionale.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Leonardo",
+  "fonte": "https://www.studiobarale.it/",
+  "nome_azienda": "Studio Barale",
+  "nome_decisore": "",
+  "ruolo_decisore": "",
+  "email": "",
+  "telefono": "",
+  "citta": "Torino",
+  "settore": "Consulenza gestionale",
+  "website": "studiobarale.it",
+  "pagine_lette": ["https://www.studiobarale.it/", "https://www.studiobarale.it/Chisiamo.html"]
+}

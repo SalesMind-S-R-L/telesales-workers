@@ -1,0 +1,20 @@
+{
+  "riassunto": "Plino e' una piattaforma SaaS con AI per la gestione contabile e finanziaria delle PMI: monitora saldi e flussi di cassa da tutte le banche italiane, categorizza costi e ricavi e riconcilia movimenti e fatture. Dichiara oltre 100 PMI clienti e un risparmio di 10+ ore a settimana, con la demo gratuita come leva di acquisizione.",
+  "pain_point": "Vendendo a PMI con ticket SaaS contenuto, il volume di demo prenotate e' la metrica chiave: per una startup il flusso costante di demo qualificate con titolari e CFO e' probabilmente il collo di bottiglia della crescita.",
+  "hook": "ho visto che con Plino oltre 100 PMI gestiscono cassa e riconciliazioni risparmiando piu' di 10 ore a settimana, con la demo gratuita come porta d'ingresso",
+  "variante_email": "B",
+  "motivo_variante": "Funnel a demo gia' attivo e nessun pain outbound esplicito sul sito: il questionario di valutazione commerciale e' l'aggancio piu' adatto.",
+  "da_verificare": "Email viola.bonesu@plino.ai e' un pattern non verificato; la citta' nel chunk e' generica (Piedmont), verificare la sede effettiva.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Plino",
+  "nome_decisore": "Viola Bonesu",
+  "ruolo_decisore": "Co-founder & chief executive officer / chief product officer",
+  "email": "viola.bonesu@plino.ai",
+  "telefono": "",
+  "citta": "Piedmont",
+  "settore": "IT / Software",
+  "website": "plino.ai",
+  "pagine_lette": ["https://plino.ai"],
+  "slug": "plino"
+}

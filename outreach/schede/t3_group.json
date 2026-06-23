@@ -1,0 +1,20 @@
+{
+  "riassunto": "T3 Group e' una societa' di consulenza strategica di Roma che unisce marketing, IT consulting ed event management per accompagnare le aziende nella digitalizzazione. Lavora con corporate come Decathlon e FinEco Bank oltre a PMI italiane in vari settori, con un team di 13 professionisti.",
+  "pain_point": "Con un team focalizzato su marketing, design e delivery e un Sales Director che presidia da solo il commerciale, la generazione costante di nuovi appuntamenti qualificati potrebbe dipendere troppo dal form di contatto e dal passaparola.",
+  "hook": "ho visto che sul sito proponete la consulenza su misura tramite form di contatto, con Riccardo Petrecca a guidare la parte sales su un team di 13 persone.",
+  "variante_email": "B",
+  "motivo_variante": "Il sito mostra un modello lead-gen inbound ma nessun pain commerciale esplicito, quindi il questionario di valutazione e' l'approccio piu' prudente.",
+  "da_verificare": "Email e' un pattern non verificato; confermare che Andrea Schiroso sia ancora CEO e che il team sia ancora di 13 persone.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "T3 Group",
+  "nome_decisore": "Andrea Schiroso",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "andrea.schiroso@t3-group.it",
+  "telefono": "",
+  "citta": "Rome",
+  "settore": "Consulenza gestionale",
+  "website": "t3-group.it",
+  "slug": "t3_group",
+  "pagine_lette": ["https://t3-group.it"]
+}

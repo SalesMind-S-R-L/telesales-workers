@@ -1,0 +1,189 @@
+[
+  {
+    "azienda": "Arezzo Recupera",
+    "sede": "Arezzo",
+    "sito": "https://www.arezzorecupera.it/",
+    "telefono_centralino": "333 2201067",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/toscana/arezzo/traslochi.html",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Valdambrini Trasporti",
+    "sede": "Arezzo",
+    "sito": "https://www.valdambrinitrasporti.com/",
+    "telefono_centralino": "0575 371358",
+    "telefono_diretto": "335 5311888",
+    "fonte_telefono": "https://www.paginegialle.it/valdambrinitrasporti",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Multilogistica Soc. Coop.",
+    "sede": "Arezzo",
+    "sito": "https://www.multilogistica.it/",
+    "telefono_centralino": "335 1312753",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginebianche.it/arezzo/multilogistica-societa-cooperativa_11870599",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Franchi Giorgio Traslochi",
+    "sede": "Arezzo",
+    "sito": "",
+    "telefono_centralino": "333 3963229",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/arezzo-ar/traslochi/franchi-giorgio_3",
+    "nome_decisore": "Giorgio Franchi",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/arezzo-ar/traslochi/franchi-giorgio_3"
+  },
+  {
+    "azienda": "Progetto Verde Ecologia S.r.l.",
+    "sede": "Arezzo",
+    "sito": "",
+    "telefono_centralino": "0575 360122",
+    "telefono_diretto": "",
+    "fonte_telefono": "http://www.trasloco-traslochi.it/dettagli_traslochi.php?id=1788",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Euroffice di Pastonchi Gianluca",
+    "sede": "Camucia (Cortona)",
+    "sito": "",
+    "telefono_centralino": "335 5310108",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/cortona-ar/euroffice-pastonchi-gianluca",
+    "nome_decisore": "Gianluca Pastonchi",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/cortona-ar/euroffice-pastonchi-gianluca"
+  },
+  {
+    "azienda": "Toscana Traslochi e Trasporti S.r.l.s.",
+    "sede": "Sansepolcro",
+    "sito": "https://www.toscanatraslochi.com/",
+    "telefono_centralino": "338 7885625",
+    "telefono_diretto": "339 2054966",
+    "fonte_telefono": "https://www.paginegialle.it/sansepolcro-ar/traslochi/toscana-traslochi-e-trasporti-srls",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Traslochi Nuova Sartini S.r.l.",
+    "sede": "Siena",
+    "sito": "https://www.traslochisartini.com/",
+    "telefono_centralino": "0577 223233",
+    "telefono_diretto": "335 1019814",
+    "fonte_telefono": "https://www.paginebianche.it/siena/traslochi-nuova-sartini-s-r-l_13049640",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "AMG Trasporti di Ancuta George",
+    "sede": "Siena",
+    "sito": "",
+    "telefono_centralino": "331 9963008",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/toscana/siena/traslochi.html",
+    "nome_decisore": "George Ancuta",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginebianche.it/toscana/siena/logistica.html"
+  },
+  {
+    "azienda": "Consorzio Taxi Merci Siena",
+    "sede": "Siena",
+    "sito": "https://www.taximercisiena.it/",
+    "telefono_centralino": "0577 289044",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/siena-si/autotrasporti/taxi-merci-siena-s-r-l",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Autotrasporto Taximerci 12",
+    "sede": "Siena",
+    "sito": "https://www.taximerci12.it/",
+    "telefono_centralino": "338 6640440",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/toscana/siena/traslochi.html",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Traslochi Capitani Claudio",
+    "sede": "Monteroni d'Arbia",
+    "sito": "",
+    "telefono_centralino": "345 1527527",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginebianche.it/toscana/siena/capitani.html",
+    "nome_decisore": "Claudio Capitani",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/toscana/si/traslochi.html"
+  },
+  {
+    "azienda": "Millennium Traslochi S.n.c. di Pezzella Marco & C.",
+    "sede": "Rapolano Terme",
+    "sito": "",
+    "telefono_centralino": "0577 724164",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginebianche.it/rapolano-terme/millennium-traslochi-pezzella-marco-c.11762441",
+    "nome_decisore": "Marco Pezzella",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginebianche.it/rapolano-terme/millennium-traslochi-pezzella-marco-c.11762441"
+  },
+  {
+    "azienda": "P e P di Pagnanelli Simone e C. S.a.s.",
+    "sede": "Casole d'Elsa",
+    "sito": "",
+    "telefono_centralino": "0577 345357",
+    "telefono_diretto": "335 223999",
+    "fonte_telefono": "https://www.paginegialle.it/pepdipagnanellieliocasoledelsa",
+    "nome_decisore": "Simone Pagnanelli",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/pepdipagnanellieliocasoledelsa"
+  },
+  {
+    "azienda": "Rimicci S.r.l.",
+    "sede": "Ulignano (San Gimignano)",
+    "sito": "",
+    "telefono_centralino": "0577 950336",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.reteimprese.it/traslochi/san-gimignano/azienda/171616",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Olyvya di Berta Albert",
+    "sede": "Sovicille",
+    "sito": "",
+    "telefono_centralino": "0577 347281",
+    "telefono_diretto": "327 2021770",
+    "fonte_telefono": "https://www.paginegialle.it/toscana/si/traslochi.html",
+    "nome_decisore": "Albert Berta",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/toscana/si/traslochi.html"
+  },
+  {
+    "azienda": "Samir Jlassi Traslochi",
+    "sede": "Torrita di Siena",
+    "sito": "",
+    "telefono_centralino": "320 0208159",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/toscana/si/traslochi.html",
+    "nome_decisore": "Samir Jlassi",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/toscana/si/traslochi.html"
+  }
+]

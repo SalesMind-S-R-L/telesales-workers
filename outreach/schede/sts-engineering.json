@@ -1,0 +1,22 @@
+{
+  "riassunto": "STS Engineering progetta e realizza impianti di carico e scarico per diversi campi dell'automazione e produce sistemi di trasporto per la movimentazione industriale. Opera in settori come legno, metalli e poliuretano.",
+  "pain_point": "Costruttore di impianti di movimentazione su commessa fondato negli anni 80: la generazione di nuove opportunita' dipende da contatti consolidati e manca un canale che porti appuntamenti nuovi e qualificati.",
+  "hook": "ho visto che realizzate impianti di carico e scarico e sistemi di trasporto per legno, metalli e poliuretano",
+  "variante_email": "B",
+  "motivo_variante": "Azienda fondata da soci tuttora riferimento: aggancio specifico ai settori serviti, variante B.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://stsautomazioni.it/",
+  "nome_azienda": "STS Engineering",
+  "nome_decisore": "Alberto Vigano",
+  "ruolo_decisore": "Fondatore",
+  "email": "alberto.vigano@stsautomazioni.it",
+  "telefono": "",
+  "citta": "Besana in Brianza",
+  "settore": "Automazione e macchinari",
+  "website": "stsautomazioni.it",
+  "pagine_lette": [
+    "https://stsautomazioni.it/"
+  ]
+}

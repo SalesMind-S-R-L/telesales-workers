@@ -1,0 +1,302 @@
+[
+ {
+  "nome": "L'Insolito",
+  "city": "mezzolombardo",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Misù - Laboratorio del Dolce",
+  "city": "mezzolombardo",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Casa da Carmen",
+  "city": "mezzolombardo",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "La Mediterranea",
+  "city": "mezzolombardo",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Locanda Camorz",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Pizza al Taglio Quadrifoglio",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Il Pizzicagnolo",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Centrale Marfrutta",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Cadino",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "L'aquila nera",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Al turista",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Pingu",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Corte delle Rondini",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Le Rodelle",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "La Ferrata",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "La Vigna",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Rupe Disco Club",
+  "city": "mezzocorona",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Culinaria living",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Kaffee Konrad",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Ressmair",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Morenfeld",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Königbauer",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Rossini",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Lalessandra",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Eisdiele Anny",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "An der Linde",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Meraner Inn",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Happm Pappm",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Meisters Irma",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Haus Platzer Stricker",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Laubenkeller",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Festival",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Augustiner",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Napul'é",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Sissi - Andrea Fenoglio",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Anny",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Sonnbichl",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Unterweger",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Margreth",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Villa Gang",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Anita",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Pichler",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Pöhl",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Juval",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Kofler",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Mühlanger",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Oberanger",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Stübele",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Ehrenfried",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Ortswies 36",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Fernblick im Weinberg",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Prantl-Pixner",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Elsler",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Enzian",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Berggütl",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Haus Freienfeld",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Prunner",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Hahnenkamm",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Almonia",
+  "city": "merano",
+  "cat_attuale": "altro"
+ },
+ {
+  "nome": "Haus Sonnwend",
+  "city": "merano",
+  "cat_attuale": "altro"
+ }
+]

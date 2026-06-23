@@ -1,0 +1,112 @@
+[
+  {
+    "az": "Braccialini",
+    "sito": "braccialini.it",
+    "prio": "A"
+  },
+  {
+    "az": "Freddy",
+    "sito": "freddy.com",
+    "prio": "A"
+  },
+  {
+    "az": "Cattolica Assicurazioni (Gruppo Generali)",
+    "sito": "cattolica.it",
+    "prio": "A"
+  },
+  {
+    "az": "Sergio Tacchini",
+    "sito": "sergiotacchini.com",
+    "prio": "B"
+  },
+  {
+    "az": "Valleverde",
+    "sito": "valleverde.it",
+    "prio": "B"
+  },
+  {
+    "az": "Pepco Italia",
+    "sito": "pepco.it",
+    "prio": "B"
+  },
+  {
+    "az": "Desmos",
+    "sito": "desmos.net",
+    "prio": "B"
+  },
+  {
+    "az": "Primark Italia",
+    "sito": "primark.com",
+    "prio": "B"
+  },
+  {
+    "az": "Cameo (Dr. Oetker Italia)",
+    "sito": "cameo.it",
+    "prio": "B"
+  },
+  {
+    "az": "Pull&Bear / Bershka / Stradivarius (Inditex Italia)",
+    "sito": "inditex.com",
+    "prio": "B"
+  },
+  {
+    "az": "Sephora Italia",
+    "sito": "sephora.it",
+    "prio": "B"
+  },
+  {
+    "az": "Bata Italia",
+    "sito": "bata.it",
+    "prio": "B"
+  },
+  {
+    "az": "Magneti Marelli (Mopar/Aftermarket)",
+    "sito": "magnetimarelli-checkstar.it",
+    "prio": "C"
+  },
+  {
+    "az": "Polaris Italia",
+    "sito": "polaris.com",
+    "prio": "C"
+  },
+  {
+    "az": "Caffe Trombetta",
+    "sito": "caffetrombetta.com",
+    "prio": "C"
+  },
+  {
+    "az": "Brico OK / Self / bricolage di insegna",
+    "sito": "bricook.it",
+    "prio": "C"
+  },
+  {
+    "az": "Comet",
+    "sito": "comet.it",
+    "prio": "C"
+  },
+  {
+    "az": "Globo (Globo abbigliamento)",
+    "sito": "globofashion.com",
+    "prio": "C"
+  },
+  {
+    "az": "Maxi Zoo Italia",
+    "sito": "maxizoo.it",
+    "prio": "C"
+  },
+  {
+    "az": "Bridgestone Italia",
+    "sito": "bridgestone.it",
+    "prio": "C"
+  },
+  {
+    "az": "Continental Italia",
+    "sito": "continental.it",
+    "prio": "C"
+  },
+  {
+    "az": "Goodyear Italia",
+    "sito": "goodyear.it",
+    "prio": "C"
+  }
+]

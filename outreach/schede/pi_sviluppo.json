@@ -1,0 +1,20 @@
+{
+  "riassunto": "Piu' Sviluppo e' una societa' torinese (con sedi a Genova, Roma e Palermo) specializzata in trasformazione digitale Industry 4.0, impiantistica energetica e gestione di agevolazioni e bandi (Iperammortamento, PNRR, Conto Termico). E' una ESCO certificata che si propone come partner unico su hardware, software, impianti e finanziamenti per PMI industriali di food, automotive e manifatturiero.",
+  "pain_point": "Un'offerta cosi' ampia (IoT industriale, impianti, consulenza ISO, bandi) richiede di raggiungere direttamente i titolari di PMI manifatturiere, un target difficile da intercettare con il solo inbound. E' plausibile che la crescita oltre i 50 clienti attuali dipenda da un flusso costante di primi appuntamenti che oggi nessuno presidia in modo strutturato.",
+  "hook": "ho visto che vi proponete come partner unico Industry 4.0, dagli impianti fotovoltaici alla rendicontazione di Iperammortamento e PNRR, con oltre 50 clienti tra cui un Tier one automotive come Insit",
+  "variante_email": "B",
+  "motivo_variante": "Il sito mostra un'offerta solida ma nessun segnale esplicito di difficolta' commerciale, quindi meglio il questionario di valutazione.",
+  "da_verificare": "Email francesco.marchis@piusviluppo.it e' un pattern non verificato. Verificare la sede esatta (chunk indica solo Piedmont) e che Francesco Marchis sia il founder/CEO attuale.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Più Sviluppo",
+  "nome_decisore": "Francesco Marchis",
+  "ruolo_decisore": "Founder - chief executive officer",
+  "email": "francesco.marchis@piusviluppo.it",
+  "telefono": "",
+  "citta": "Piedmont",
+  "settore": "IT / Software",
+  "website": "piusviluppo.it",
+  "slug": "pi_sviluppo",
+  "pagine_lette": ["https://piusviluppo.it"]
+}

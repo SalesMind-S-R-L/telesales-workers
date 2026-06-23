@@ -1,0 +1,21 @@
+{
+  "riassunto": "Sales Line e' una societa' di executive search di Milano specializzata nella ricerca di senior manager per ruoli Sales & Marketing: direttori commerciali, direttori marketing, export director e CCO. Fondata da Benedetto Caramanna, autorizzata dal Ministero del Lavoro, lavora sia con PMI sia con filiali di multinazionali.",
+  "pain_point": "Una boutique verticale sul recruiting di profili commerciali vive di un flusso continuo di aziende che cercano figure sales: quando i mandati arrivano solo da passaparola la pipeline e' discontinua. Appuntamenti qualificati con HR e direzioni generali stabilizzerebbero il funnel.",
+  "hook": "ho visto che siete una boutique di executive search dedicata esclusivamente a direttori commerciali e marketing, dai sales director ai CCO",
+  "variante_email": "A",
+  "motivo_variante": "Fondatore identificato dal sito, target perfetto per un messaggio diretto tra chi vende e chi recluta chi vende.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Leonardo",
+  "fonte": "https://salesline.it/executive-search",
+  "nome_azienda": "Sales Line",
+  "nome_decisore": "Benedetto Caramanna",
+  "ruolo_decisore": "Fondatore e Amministratore",
+  "email": "benedetto.caramanna@salesline.it",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "salesline.it",
+  "pagine_lette": ["https://salesline.it/executive-search"]
+}

@@ -1,0 +1,930 @@
+{
+ "slot_1000": [
+  {
+   "nome": "Dal Boccia",
+   "tel": "+390461437903",
+   "kind": "ristorante",
+   "ind": "Via degli Alberti Poja 13",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto ha indicato che il titolare non è presente e ha suggerito di richiamare oggi alle 17:30 o domani mattina, fornendo i nomi Massimo o Enrico."
+  },
+  {
+   "nome": "Bar Cristallo",
+   "tel": "+390461830732",
+   "kind": "bar",
+   "ind": "Via Fratelli Fontana 30",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il chiamante si è presentato come Marco di Calligan e ha chiesto di parlare con il titolare."
+  },
+  {
+   "nome": "Ca' dei Gobj - Ristorante Birreria",
+   "tel": "+390461262730",
+   "kind": "ristorante",
+   "ind": "Via del Simonino 14",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il ristorante Ca' dei Gobi è attualmente chiuso. Le prenotazioni si effettuano via email a info@cadeigobi.it con 24 ore di anticipo."
+  },
+  {
+   "nome": "Bar Trento-Malé",
+   "tel": "+390461239398",
+   "kind": "bar",
+   "ind": "Via Dogana 2",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Un rappresentante di Calligan ha presentato un servizio per sostituire le casse d'acqua con un sistema di erogazione alla spina, eliminando bottiglie e plastica, e ha chiesto informazioni sul consumo…"
+  },
+  {
+   "nome": "Caffè Tridente",
+   "tel": "+390461260114",
+   "kind": "bar",
+   "ind": "Piazza del Duomo 31",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il chiamante ha contattato il Caffè Presidente per parlare con la titolare, Silvia, che non era presente."
+  },
+  {
+   "nome": "Eldorado",
+   "tel": "+393429246782",
+   "kind": "bar",
+   "ind": "Via Stella 9h",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Marco di Calligan ha chiamato e ha chiesto di parlare con il titolare."
+  },
+  {
+   "nome": "Pappare' Trento",
+   "tel": "+390461439362",
+   "kind": "bar",
+   "ind": "Via Don Giovanni Battista Zanella 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'utente ha iniziato la conversazione salutando e identificandosi come 'Trento', e l'interlocutore si è presentato come Marco di Calligan."
+  },
+  {
+   "nome": "SkylineBar",
+   "tel": "+393491445152",
+   "kind": "bar",
+   "ind": "Via di Coltura 9a",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto ha dichiarato di non essere più il titolare di SkylineBar e ha espresso frustrazione, credendo che la chiamata fosse una registrazione simile a una ricevuta il giorno precedente."
+  },
+  {
+   "nome": "Mani Al Cielo",
+   "tel": "+393405998774",
+   "kind": "bar",
+   "ind": "Piazza Malfatti 27 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'agente si è presentato come Marco di Calligan e ha chiesto l'identità dell'interlocutore."
+  },
+  {
+   "nome": "Caffé Randrè",
+   "tel": "+390461234701",
+   "kind": "bar",
+   "ind": "Largo Giosuè Carducci 18",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Osteria San Rocco",
+   "tel": "+390461983917",
+   "kind": "ristorante",
+   "ind": "Via Lodovico de Balzani 2",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Sushi otto",
+   "tel": "+390461415386",
+   "kind": "ristorante",
+   "ind": "Via del Brennero 260c",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Sushi Zen",
+   "tel": "+390461262109",
+   "kind": "ristorante",
+   "ind": "Via Malpaga 14",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "La Talpa 3.0",
+   "tel": "+393761247423",
+   "kind": "ristorante",
+   "ind": "Corso del Lavoro e della Scienza 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Pizza Planet",
+   "tel": "+390461390836",
+   "kind": "ristorante",
+   "ind": "Via Padre Eusebio Chini 33",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Caracolito",
+   "tel": "+390461230201",
+   "kind": "bar",
+   "ind": "Via del Suffragio 36",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Caffetteria Perghem 1835",
+   "tel": "+390461982991",
+   "kind": "bar",
+   "ind": "Piazza di Fiera 22",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Sushiko",
+   "tel": "+390461524880",
+   "kind": "ristorante",
+   "ind": "",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "RUF - Cocktail Bar",
+   "tel": "+393282646034",
+   "kind": "bar",
+   "ind": "Via Santissima Trinitá 11",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Trattoria bar Grotta di Bort Nadia",
+   "tel": "+390461922134",
+   "kind": "ristorante",
+   "ind": "Via del Bomport 27",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Ristorante alla Staffa",
+   "tel": "+390464431339",
+   "kind": "ristorante",
+   "ind": "Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "To New York",
+   "tel": "+390464433213",
+   "kind": "ristorante",
+   "ind": "Via Alla scuola 3",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Trattoria Bar Christian",
+   "tel": "+390464431948",
+   "kind": "ristorante",
+   "ind": "Via Orefici 17 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  }
+ ],
+ "slot_1130": [
+  {
+   "nome": "Caffè Portici",
+   "tel": "+390461092622",
+   "kind": "bar",
+   "ind": "Piazza del Duomo 40",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto si è presentato come Marco di Calligan, leader nel trattamento dell'acqua, offrendo un servizio per eliminare le casse d'acqua, riducendo l'uso di bottiglie e plastica, e fornendo acqua na…"
+  },
+  {
+   "nome": "H/àkka/",
+   "tel": "+393497152966",
+   "kind": "bar",
+   "ind": "Via dei Ventuno 1",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'interlocutore si è presentato come Marco di Calligan e ha chiesto di parlare con il titolare."
+  },
+  {
+   "nome": "Ristorante al Vò",
+   "tel": "+390461985374",
+   "kind": "ristorante",
+   "ind": "Vicolo del Vò 11",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Un rappresentante di Calligan si è presentato al titolare per proporre un servizio di eliminazione delle casse d'acqua e delle relative incombenze."
+  },
+  {
+   "nome": "Bouganville",
+   "tel": "+390461236666",
+   "kind": "ristorante",
+   "ind": "Via Francesco Petrarca 1/4",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Un operatore di Calligan ha tentato di contattare il titolare di Bouganville."
+  },
+  {
+   "nome": "Forsterbräu Trento",
+   "tel": "+390461235590",
+   "kind": "ristorante",
+   "ind": "Via Paolo Oss Mazzurana 38",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: La chiamata ha raggiunto un sistema automatico con un menu di selezione, portando alla sua terminazione."
+  },
+  {
+   "nome": "Da Bruno",
+   "tel": "+393886313684;3298012714",
+   "kind": "ristorante",
+   "ind": "Via Soprasasso 32/2",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Un operatore di Calligan, azienda leader nel trattamento dell'acqua, ha contattato l'utente chiedendo del titolare. L'utente ha chiesto chiarimenti sull'identità di Calligan."
+  },
+  {
+   "nome": "Maso Finisterre",
+   "tel": "+390461825752",
+   "kind": "ristorante",
+   "ind": "Via Santi Cosma e Damiano 6",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il chiamante ha tentato di parlare con il titolare, ma la persona che ha risposto non era il titolare."
+  },
+  {
+   "nome": "Loacker Café Trento",
+   "tel": "+3904611975898",
+   "kind": "bar",
+   "ind": "Piazza di Fiera 13",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il titolare non è presente al momento della chiamata."
+  },
+  {
+   "nome": "Loco's",
+   "tel": "+393497296496",
+   "kind": "bar",
+   "ind": "Via Valbusa Grande 7 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: È stata effettuata una chiamata per parlare con il titolare di Loco's a Rovereto."
+  },
+  {
+   "nome": "Caffè Città",
+   "tel": "+390461230265",
+   "kind": "bar",
+   "ind": "Piazza Cesare Battisti 10",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Caffè al Corso",
+   "tel": "+390461913600",
+   "kind": "bar",
+   "ind": "Corso Tre Novembre 40",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Cacio & Pepe",
+   "tel": "+390461262764",
+   "kind": "ristorante",
+   "ind": "Via Ponte Alto 79",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Aroma",
+   "tel": "+390461092843",
+   "kind": "ristorante",
+   "ind": "Via San Pio Decimo 29",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Twist - Pizza 'n More",
+   "tel": "+393489333639",
+   "kind": "ristorante",
+   "ind": "Via Giacomo Matteotti 36",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Stube del Galletto",
+   "tel": "+3904611740474",
+   "kind": "ristorante",
+   "ind": "Strada di Cadine 13",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Tony's pub",
+   "tel": "+393274551739",
+   "kind": "bar",
+   "ind": "Via del Brennero 260l",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Terramia",
+   "tel": "+390461262666",
+   "kind": "ristorante",
+   "ind": "Via San Marco 64",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Il Dopolavoro",
+   "tel": "+390461990065",
+   "kind": "ristorante",
+   "ind": "Via delle Scuole 1",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "El Merendero",
+   "tel": "+390461992581",
+   "kind": "ristorante",
+   "ind": "Via Martino Aichner 21",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Mas dela Fam",
+   "tel": "+39046134911",
+   "kind": "ristorante",
+   "ind": "Via Stella 18",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Pasticceria Dario",
+   "tel": "+390461411426",
+   "kind": "pasticceria",
+   "ind": "Via Europa 2a Volano",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Ciro Caffè",
+   "tel": "+390464490383",
+   "kind": "bar",
+   "ind": "Via Salisburgo 17 Villa Lagarina",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Osteria del Pettirosso",
+   "tel": "+390464422463",
+   "kind": "ristorante",
+   "ind": "Corso Bettini 24 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  }
+ ],
+ "slot_1430": [
+  {
+   "nome": "Niky's",
+   "tel": "+390461390828",
+   "kind": "ristorante",
+   "ind": "Via Enrico Fermi 7",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto è stato avviato con un saluto, seguito da un tentativo di stabilire la connessione audio."
+  },
+  {
+   "nome": "Milli Eat & drink",
+   "tel": "+393883440317",
+   "kind": "ristorante",
+   "ind": "Via del Suffragio 2",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto di Calligan ha cercato di parlare con il titolare per proporre soluzioni di trattamento acqua. Il titolare non era presente e l'interlocutore non poteva fissare appuntamenti."
+  },
+  {
+   "nome": "Union Casa del Caffè",
+   "tel": "+390461985104",
+   "kind": "bar",
+   "ind": "Via San Pietro 38",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Contatto da Calligan per proporre servizi di risparmio su acqua in bottiglia. Il titolare, Signor Torta, non è presente ma disponibile dopo le 19:30."
+  },
+  {
+   "nome": "Trittico",
+   "tel": "+390461822287",
+   "kind": "ristorante",
+   "ind": "Piazza del \"Tridente\" 19",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Un contatto ha tentato di parlare con il titolare di Triciclon per proporre un taglio costi sull'acqua. Il titolare non è disponibile fino alla prossima settimana, solitamente la mattina."
+  },
+  {
+   "nome": "Pasticceria San Vigilio",
+   "tel": "+390461230096",
+   "kind": "pasticceria",
+   "ind": "Via San Vigilio 10",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'operatore si è presentato come Marco di Calligan e ha chiesto di parlare con il titolare. Non avendo ricevuto risposta, ha verificato se l'interlocutore lo sentisse."
+  },
+  {
+   "nome": "MUSE Cafè",
+   "tel": "+390461270311",
+   "kind": "bar",
+   "ind": "Corso del Lavoro e della Scienza 3",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'utente ha chiamato il numero sbagliato pensando fosse un bar/ristorante, ma era il MUSE, un museo."
+  },
+  {
+   "nome": "Wok For You",
+   "tel": "+3904611596994",
+   "kind": "ristorante",
+   "ind": "Via Luigi Brugnara 4",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Titolare interessato, riprendere per confermare orario."
+  },
+  {
+   "nome": "Contro Break",
+   "tel": "+390461525950",
+   "kind": "ristorante",
+   "ind": "Via Fersina 21",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'utente ha cercato di contattare Breck, ma ha parlato con Marco di Calligan."
+  },
+  {
+   "nome": "Dalla Sora Giovanna",
+   "tel": "+390461095967",
+   "kind": "ristorante",
+   "ind": "Via Roggia Grande 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "La Terrazza",
+   "tel": "+390461390060",
+   "kind": "ristorante",
+   "ind": "Piazzale Europa 16",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Fujiyama",
+   "tel": "+3904611822050",
+   "kind": "ristorante",
+   "ind": "Corso Tre Novembre 29",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Willy's Caffè Pub",
+   "tel": "+390461090741",
+   "kind": "bar",
+   "ind": "Via Antonio Pranzelores 46",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Baita Montesel",
+   "tel": "+393762180614",
+   "kind": "ristorante",
+   "ind": "Strada del Norge 93",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Al Casello",
+   "tel": "+3904611919055",
+   "kind": "bar",
+   "ind": "Via dei Marinai d'Italia 6",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Mister Pizza Caffè",
+   "tel": "+390461091605",
+   "kind": "ristorante",
+   "ind": "Via Fratelli Perini 6",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Ichiban Ramen",
+   "tel": "+390461521924",
+   "kind": "ristorante",
+   "ind": "Via Santa Croce 88",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Waikiki Poké Trento",
+   "tel": "+3904611417506",
+   "kind": "ristorante",
+   "ind": "Via Giuseppe Verdi 19",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Goodfellas",
+   "tel": "+3904611432326",
+   "kind": "ristorante",
+   "ind": "Via Ezio Maccani 94B",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Mas dei Chini",
+   "tel": "+390461821513",
+   "kind": "ristorante",
+   "ind": "Via Bassano 3",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Le Strie",
+   "tel": "+3904641982718",
+   "kind": "ristorante",
+   "ind": "Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Piazzetta",
+   "tel": "+393342928972",
+   "kind": "bar",
+   "ind": "Via Roma 41 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Il Druido",
+   "tel": "+390464437724",
+   "kind": "bar",
+   "ind": "Piazza Sant'Antonio 17 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Locanda delle tre chiavi",
+   "tel": "+390464423721",
+   "kind": "ristorante",
+   "ind": "Via Clementino Vannetti 8",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  }
+ ],
+ "slot_1630": [
+  {
+   "nome": "Blue Sax",
+   "tel": "+390461910076",
+   "kind": "ristorante",
+   "ind": "Viale Verona 73",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto ha avuto problemi di audio, con la linea disturbata e risposte minime dall'utente. Si è deciso di terminare la chiamata e richiamare in un secondo momento per ristabilire la comunicazione."
+  },
+  {
+   "nome": "Bar Ateneo",
+   "tel": "+390461261197",
+   "kind": "bar",
+   "ind": "Via Don Giovanni Battista Zanella 3",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'interlocutore si è presentato come Marco di Calligan."
+  },
+  {
+   "nome": "Le due spade",
+   "tel": "+390461234343",
+   "kind": "ristorante",
+   "ind": "Via Don Arcangelo Rizzi 11",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Interruzione della chiamata per problemi di audio e mancata risposta dell'interlocutore. Previsto un nuovo contatto."
+  },
+  {
+   "nome": "Caffè Onda",
+   "tel": "+393346507023",
+   "kind": "bar",
+   "ind": "Via Renato Lunelli 54",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'interlocutore si è presentato come Marco."
+  },
+  {
+   "nome": "Bar La vie en rose",
+   "tel": "+390461090624",
+   "kind": "bar",
+   "ind": "Via San Marco 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto ha risposto con un saluto, ma poi è rimasto in silenzio. La linea è stata percepita come disturbata, portando alla decisione di terminare la chiamata per un successivo tentativo."
+  },
+  {
+   "nome": "Magna Laude",
+   "tel": "+390461238480",
+   "kind": "bar",
+   "ind": "Via Don Giovanni Battista Zanella 11",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto ha chiamato una rivendita dove il titolare non era presente."
+  },
+  {
+   "nome": "Locanda Le Due Travi",
+   "tel": "+390461096502",
+   "kind": "ristorante",
+   "ind": "Via del Suffragio 20",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: Il contatto si è presentato come Sandra di Fradi, confermando di essere la titolare della Locanda Le Due Travi."
+  },
+  {
+   "nome": "Dal Birbante",
+   "tel": "+393755499896",
+   "kind": "ristorante",
+   "ind": "Via Aeroporto 27/1",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "2",
+   "prev_note": "Chiamata precedente: L'interazione inizia con un saluto e una presentazione, seguita da una domanda sul ruolo dell'interlocutore."
+  },
+  {
+   "nome": "Borgo Nuovo Trento",
+   "tel": "+390461261375",
+   "kind": "ristorante",
+   "ind": "Prima Androna di Borgo Nuovo 20",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Ai Vicoli",
+   "tel": "+390461260673",
+   "kind": "ristorante",
+   "ind": "Piazza Santa Teresa Verzeri 1",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Osteria il Cappello",
+   "tel": "+390461235850",
+   "kind": "ristorante",
+   "ind": "Piazzetta Bruno Lunelli 5",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Bella 'mbriana",
+   "tel": "+390461985653",
+   "kind": "ristorante",
+   "ind": "Via Livio Marchetti 11",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Trattoria Piedicastello",
+   "tel": "+390461439859",
+   "kind": "ristorante",
+   "ind": "Piazza di Piedicastello 12",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Acqua Blu",
+   "tel": "+390461917260",
+   "kind": "ristorante",
+   "ind": "Via Herrsching 7",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Italiana caffè",
+   "tel": "+390461093140",
+   "kind": "bar",
+   "ind": "Via San Francesco d'Assisi 8",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Sushiland",
+   "tel": "+3904611580027",
+   "kind": "ristorante",
+   "ind": "Via del Brennero 111",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Pizzikotto",
+   "tel": "+390461218300",
+   "kind": "ristorante",
+   "ind": "",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Pizza Chef Trento",
+   "tel": "+3904611823984",
+   "kind": "ristorante",
+   "ind": "Via Antonio Gramsci 2/6",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Terrazza Tridente",
+   "tel": "+3904611823397",
+   "kind": "bar",
+   "ind": "",
+   "citta": "Trento",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "La Brace",
+   "tel": "+390464874210",
+   "kind": "ristorante",
+   "ind": "Viale del Lavoro 18 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "La Casa del Vino",
+   "tel": "+390464486057",
+   "kind": "ristorante",
+   "ind": "Piazza S. Vincenzo 1",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Stella d'Italia",
+   "tel": "+393489228542",
+   "kind": "bar",
+   "ind": "Piazza delle Erbe 10 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  },
+  {
+   "nome": "Caffè Excelsior",
+   "tel": "+393355342495",
+   "kind": "bar",
+   "ind": "Via della Croce 7 Rovereto",
+   "citta": "Rovereto",
+   "titolare": "titolare",
+   "call_attempt": "1",
+   "prev_note": ""
+  }
+ ]
+}

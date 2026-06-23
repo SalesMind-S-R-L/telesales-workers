@@ -1,0 +1,20 @@
+{
+  "riassunto": "SAM4MEC e' un software gestionale per officine meccaniche e aziende del settore metalmeccanico prodotto da Alfa Service srl, azienda toscana di servizi informatici e consulenza gestionale da oltre 25 anni. Gestisce flussi materiali, processi di produzione, conto terzi, magazzino multi-deposito e portali fornitori/clienti.",
+  "pain_point": "Vendere un gestionale di produzione alle officine richiede di intercettare aziende in un settore tradizionale e poco digitalizzato. Probabilmente i nuovi clienti arrivano soprattutto da referral locali e poco da prospezione strutturata.",
+  "hook": "ho visto che SAM4MEC gestisce produzione, conto terzi e magazzino multi-deposito per le officine meccaniche, sviluppato da Alfa Service in Toscana da oltre 25 anni",
+  "variante_email": "B",
+  "motivo_variante": "Settore di nicchia tecnico, meglio un approccio consulenziale che mostra di aver capito il verticale.",
+  "da_verificare": "email pattern non verificata, decisore da confermare su LinkedIn",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://sam4mec.it/",
+  "nome_azienda": "Alfa Service",
+  "nome_decisore": "Giuseppe Matarrese",
+  "ruolo_decisore": "Amministratore",
+  "email": "giuseppe.matarrese@alfaservice.net",
+  "telefono": "",
+  "citta": "Capannori",
+  "settore": "IT / Software",
+  "website": "alfaservice.net",
+  "pagine_lette": ["https://sam4mec.it/"]
+}

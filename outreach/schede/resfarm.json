@@ -1,0 +1,20 @@
+{
+  "riassunto": "ResFarm, con sede a Milano, si presenta come la prima societa' di ingegneria in Italia specializzata in agrivoltaico: accompagna investitori, produttori di energia e agricoltori dall'autorizzazione al finanziamento fino a costruzione, monitoraggio e gestione agricola integrata. Collabora con partner come 3Bee, XFarm e MadreTerra.",
+  "pain_point": "In un mercato emergente come l'agrivoltaico il problema e' raggiungere sistematicamente investitori, fondi e proprietari di terreni prima dei concorrenti: senza un'attivita' outbound dedicata, la pipeline rischia di dipendere dal network personale del fondatore.",
+  "hook": "ho visto che vi presentate come la prima societa' di ingegneria italiana specializzata in agrivoltaico, con oltre 3GW di progetti alle spalle del fondatore",
+  "variante_email": "B",
+  "motivo_variante": "Azienda giovane in mercato di nicchia, pain commerciale solo ipotizzabile: il questionario di valutazione e' l'approccio piu' prudente.",
+  "da_verificare": "Email alessio.pinzone@resfarm.it e' un pattern non verificato; verificare dimensione del team commerciale, l'azienda potrebbe essere molto piccola.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Resfarm",
+  "nome_decisore": "Alessio Pinzone",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "alessio.pinzone@resfarm.it",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "resfarm.it",
+  "slug": "resfarm",
+  "pagine_lette": ["https://resfarm.it"]
+}

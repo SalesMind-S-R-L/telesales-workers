@@ -1,0 +1,22 @@
+{
+  "riassunto": "PMS produce macchinari automatici di confezionamento e produzione per i settori cosmetico, farmaceutico, chimico e alimentare. Fornisce soluzioni personalizzate come riempitrici, tappatrici e linee complete di confezionamento con supporto tecnico.",
+  "pain_point": "Costruttore di linee custom per farma e cosmetica con vendita tecnica complessa; il fondatore ha bisogno di intercettare nuovi clienti che stanno valutando una nuova linea prima che scelgano un concorrente.",
+  "hook": "ho visto che costruite linee di confezionamento su misura per farmaceutico e cosmetico",
+  "variante_email": "B",
+  "motivo_variante": "Vendita a ciclo lungo e tecnica: la variante B con aggancio specifico al settore servito e' piu' credibile.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.pmsmachinery.com/en/who-we-are",
+  "nome_azienda": "PMS - Packaging Machinery Solutions",
+  "nome_decisore": "Ivano Malferrari",
+  "ruolo_decisore": "Fondatore",
+  "email": "ivano.malferrari@pmsmachinery.com",
+  "telefono": "",
+  "citta": "Bologna",
+  "settore": "Automazione e macchinari",
+  "website": "pmsmachinery.com",
+  "pagine_lette": [
+    "https://www.pmsmachinery.com/en/who-we-are"
+  ]
+}

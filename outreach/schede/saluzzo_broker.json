@@ -1,0 +1,20 @@
+{
+  "riassunto": "Broker assicurativo fondato nel 1994 con sedi a Saluzzo e Cuneo, specializzato nella gestione dei rischi d'impresa per imprese, PMI e professionisti. Offre analisi dei rischi, gestione del portafoglio assicurativo, insurance management, risk consulting e claims management.",
+  "pain_point": "Un broker territoriale cresce acquisendo nuove aziende clienti, ma la prospezione verso nuove PMI del territorio assorbe tempo che i broker dedicano alla gestione del portafoglio esistente.",
+  "hook": "ho visto che dal 1994 siete specializzati nella gestione dei rischi d'impresa per PMI e professionisti tra Saluzzo e Cuneo",
+  "variante_email": "B",
+  "motivo_variante": "PMI di servizi con CEO socio unico: decide una persona sola, tono diretto e relazionale.",
+  "da_verificare": "profilo LinkedIn decisore; email e' pattern non verificato",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://saluzzobroker.com/chi-siamo/",
+  "nome_azienda": "Saluzzo Broker",
+  "nome_decisore": "Domenico Andreis",
+  "ruolo_decisore": "Socio unico e CEO",
+  "email": "domenico.andreis@saluzzobroker.com",
+  "telefono": "",
+  "citta": "Saluzzo",
+  "settore": "Servizi finanziari B2B",
+  "website": "saluzzobroker.com",
+  "pagine_lette": ["https://saluzzobroker.com/chi-siamo/"]
+}

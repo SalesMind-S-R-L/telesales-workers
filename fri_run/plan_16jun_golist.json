@@ -1,0 +1,1274 @@
+{
+ "slot_1000": [
+  {
+   "nome": "Mario's Pizza Appiano",
+   "tel": "+390471058330",
+   "ind": "Via Caldaro 6 - Appiano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Gretl am See Caldaro",
+   "tel": "+390471960273",
+   "ind": "Via St. Josef am See 18 - Caldaro",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Seeperle Caldaro",
+   "tel": "+390471960158",
+   "ind": "Località San Giuseppe 28 - Caldaro",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Dolci Roma",
+   "tel": "+390471982002",
+   "ind": "Via del Macello, 23/BIS - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Icream",
+   "tel": "+390471502145",
+   "ind": "Via Galilei, 20 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Pepper Lounge & Suite",
+   "tel": "+390471375844",
+   "ind": "Piazza Domenicani 38 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Youth Hostel Bolzano",
+   "tel": "+390471300865",
+   "ind": "Via Renon, 23 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Marechiaro",
+   "tel": "+390471402319",
+   "ind": "Via Vicenza, 14 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Muflone Rosa",
+   "tel": "+390471300867",
+   "ind": "Via della Roggia, 22 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Al Volo",
+   "tel": "+390471245125",
+   "ind": "Via Galvani, 29 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Alma9",
+   "tel": "+3904711532189",
+   "ind": "Via del Macello, 9/A - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Amade'",
+   "tel": "+390471300105",
+   "ind": "Vicolo Ca' De Bezzi, 8 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Bella Napoli",
+   "tel": "+390471278646",
+   "ind": "Piazzetta Anne Frank, 13 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Blaues Schiff",
+   "tel": "+390471909799",
+   "ind": "Via Marie Curie 13 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Cascade",
+   "tel": "+390471970593",
+   "ind": "Via Campiglio, 11 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Chez Frederic",
+   "tel": "+390471287158",
+   "ind": "Via Diaz Armando, 12 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Chicken Hut",
+   "tel": "+3904711812840",
+   "ind": "Via Rosmini Antonio, 83 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "ConDito",
+   "tel": "+390471050173",
+   "ind": "Via Crispi, 37 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Forst Season",
+   "tel": "+390471913315",
+   "ind": "Piazza Fiera 1 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Ganischger",
+   "tel": "+390471616504",
+   "ind": "Via del Macello 30/C - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Hofer (Hofer Andreas 24)",
+   "tel": "+390471347461",
+   "ind": "Via Hofer Andreas 24 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Il Palato Italiano",
+   "tel": "+390471028008",
+   "ind": "Via Innsbruck 31 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Il Tinello di Abitani Christian",
+   "tel": "+390471975700",
+   "ind": "Via Sant'Osvaldo 1 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Insushi (Orazio)",
+   "tel": "+390471379486",
+   "ind": "Via Orazio 42 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Insushi Walther",
+   "tel": "+390471236943",
+   "ind": "Via Mostra 3 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Kyo",
+   "tel": "+390471923424",
+   "ind": "Via Galvani 3 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Lo Stuzzichino",
+   "tel": "+3904711654187",
+   "ind": "Via San Quirino 3 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Loosmannhof",
+   "tel": "+390471365551",
+   "ind": "Signato 177 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Lotierzo",
+   "tel": "+390471366136",
+   "ind": "Via Rosmini Antonio 44 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Mogol Shambrat",
+   "tel": "+390471253539",
+   "ind": "Via dei Cappuccini, 8/A - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Mr.Ye",
+   "tel": "+3904711684410",
+   "ind": "Via Amba Alagi, 26/B - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Palermo Nord Sud Food",
+   "tel": "+390471279420",
+   "ind": "Via Kolping, 1/B - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Laboratorio Espresso",
+   "tel": "+390471912525",
+   "ind": "Via Milano - Mailandstraße 47",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Zundlhof",
+   "tel": "+390471978702",
+   "ind": "",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Chalet Grumer",
+   "tel": "+390471345064",
+   "ind": "Am Grummereck 4",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Stay Cooper - Capitol Rooms",
+   "tel": "+393271135751",
+   "ind": "Via Dr. Streiter 6",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Cibus",
+   "tel": "+393442469234",
+   "ind": "Zona Industriale",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "City Chicken",
+   "tel": "+393924088313",
+   "ind": "Via Firenze 9",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  }
+ ],
+ "slot_1130": [
+  {
+   "nome": "Restaurant Julia Appiano",
+   "tel": "+390471663143",
+   "ind": "Via Pigano 10 - Appiano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Oberon Restaurant",
+   "tel": "+390471538469",
+   "ind": "Via Doktor Joseph Streiter 7 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "East & West",
+   "tel": "+393889844400",
+   "ind": "Via del Ronco 19/B",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Fischbanke",
+   "tel": "+393405707468",
+   "ind": "Dr.-Streiter Gasse 28",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Food Clab",
+   "tel": "+393914670813",
+   "ind": "Via Innsbruck 29/A",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Good Day Cafè",
+   "tel": "+393270714000",
+   "ind": "Corso Libertà 14",
+   "citta": "Bolzano",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Gyros Atene Bar",
+   "tel": "+393455892824",
+   "ind": "Via Resia 49",
+   "citta": "Bolzano",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "New Pizza Kebab Service",
+   "tel": "+393897994714",
+   "ind": "Corso Libertà 76",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Noisteria",
+   "tel": "+393888228895",
+   "ind": "Via Volta 15",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Punjabi Tadka Indian Restaurant",
+   "tel": "+393490051312",
+   "ind": "Via Renon 14",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Ristorante Persiano Khatoon",
+   "tel": "+393513444296",
+   "ind": "Corso Italia 38",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Rockin Beets",
+   "tel": "+393883684746",
+   "ind": "Via Rovigo 24",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Saint Patrick",
+   "tel": "+393338849271",
+   "ind": "Via Fago 46/C",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Bar Pia di Shahzad",
+   "tel": "+393533812732",
+   "ind": "Via Claudia Augusta 27",
+   "citta": "Bolzano",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Bar Ristorante Circolo Tennis Gries",
+   "tel": "+393473964215",
+   "ind": "Via Knoller 8",
+   "citta": "Bolzano",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Ciao & Qiao di Yan Qiao",
+   "tel": "+393393523315",
+   "ind": "Via De Lai 4/B",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Jin Chang S.n.c. di Xu Feng",
+   "tel": "+393208596698",
+   "ind": "Viale Duca D'Aosta 91",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Cubana",
+   "tel": "+393408693849",
+   "ind": "Piazza Matteotti 11",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Garnì Petra",
+   "tel": "+393356684804",
+   "ind": "Via Gruppo Brenta 9",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Christl im Loch",
+   "tel": "+390471963294",
+   "ind": "Via Pianizza di Sotto 43",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Siegi's",
+   "tel": "+390471665721",
+   "ind": "Via Pianizza di Sopra 56/B",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Haus Gregori",
+   "tel": "+390471964804",
+   "ind": "Via Mendola 20",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Millenniumshof",
+   "tel": "+390471965431",
+   "ind": "Via Europa",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Weinhaus Punkt",
+   "tel": "+390471964965",
+   "ind": "",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Heisskeller",
+   "tel": "+3904711810437",
+   "ind": "Unterwinkel - Vicolo di Sotto 4",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Dolomiti",
+   "tel": "+390471632280",
+   "ind": "Mendola - Campi di Golf 52",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Der Remichhof",
+   "tel": "+390471960144",
+   "ind": "St. Josef am See 27",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Strickerhof",
+   "tel": "+390471965202",
+   "ind": "Marienweg - Via Santa Maria 6b",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Europa",
+   "tel": "+390471632275",
+   "ind": "Mendola - Campi di Golf 39",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Haus Werth",
+   "tel": "+390471963575",
+   "ind": "",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Rifugio Mezzavia - Halbweghütte",
+   "tel": "+390463636085",
+   "ind": "Mezzavia 1",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Fuchsleitenhof",
+   "tel": "+390471960554",
+   "ind": "18b",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Gass-Hof",
+   "tel": "+390471960002",
+   "ind": "12",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Leuchtenburg",
+   "tel": "+390471960093",
+   "ind": "14",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Kalterer Weinstube",
+   "tel": "+390471963198",
+   "ind": "Andreas-Hofer-Straße - Via Andreas Hofer 7",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Chalet 1897",
+   "tel": "+393280539830",
+   "ind": "Via Andreas Hofer 8, 39052 Caldaro (BZ)",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Grill Restaurant Spuntloch",
+   "tel": "+393357019725",
+   "ind": "Via dell’Oro 35, 39052 Caldaro (BZ)",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Ristorante Philiaz",
+   "tel": "+393384682590",
+   "ind": "Strada del Vino 9, 39052 Caldaro (BZ)",
+   "citta": "Caldaro",
+   "kind": "ristorante",
+   "mob": true
+  }
+ ],
+ "slot_1430": [
+  {
+   "nome": "Pippo's Mountain Lodge",
+   "tel": "+393801880023",
+   "ind": "Via Piramidi 1 - Soprabolzano (Renon)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Osteria Il Tinello",
+   "tel": "+393341017514",
+   "ind": "Via dei Conciapelli 38 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "L'Osteria",
+   "tel": "+393277950513",
+   "ind": "Via Torino 82/B - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Altro che pizza",
+   "tel": "+393395467722",
+   "ind": "Via Roma 53 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Pizza e Dintorni",
+   "tel": "+393920325025",
+   "ind": "Viale Amedeo Duca D'Aosta 28/A - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Shalla Pizza",
+   "tel": "+393661440409",
+   "ind": "Via Rovigo 24/A - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Al Papero Giallo",
+   "tel": "+393292062682",
+   "ind": "Via Dalmazia 105 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Alla Baita Drink Food e Sound",
+   "tel": "+393774120941",
+   "ind": "Via Maso della Pieve 11 - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Schenk",
+   "tel": "+393485408845",
+   "ind": "Via Enrico Fermi 20/B - 39100 Bolzano",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Bnb Bolzano Rooms",
+   "tel": "+393489351120",
+   "ind": "Via Brennero, 4 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Il Battente 1862",
+   "tel": "+393486101215",
+   "ind": "Via Hofer Andreas, 20 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Gambero",
+   "tel": "+393806581176",
+   "ind": "Via Thuille Ludwig, 5/A - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Teglia 2.0",
+   "tel": "+393459781975",
+   "ind": "Viale Puccini Giacomo, 36 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Anna & Roby",
+   "tel": "+393803736555",
+   "ind": "Via Galilei, 38 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Cantina dei Sapori",
+   "tel": "+393282814259",
+   "ind": "Piazzetta Frank Anne 19 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Gatta Matta",
+   "tel": "+393428583381",
+   "ind": "Via Leonardo da Vinci 1/H - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Lo-Locatelli",
+   "tel": "+393421082804",
+   "ind": "Via Antonio Locatelli 1 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Mana'",
+   "tel": "+393356726103",
+   "ind": "Via Innsbruck, 29 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Fortuna",
+   "tel": "+393336661939",
+   "ind": "Via San Quirino, 35 - 39100 Bolzano (BZ)",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Nuovo Antalya Pizza Kebab",
+   "tel": "+393801221617",
+   "ind": "Via della Rena - Raingasse 3/d",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Dips - French Tacos & Salads",
+   "tel": "+393515752373",
+   "ind": "Via Dr. Julius Perathoner - Dr.-Julius-Perathoner-Straße 29",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Mezopotamia Pizza & Kebab Rosticceria",
+   "tel": "+393276961666",
+   "ind": "Via Palermo - Palermostraße 72",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Mic Ramen",
+   "tel": "+393319998088",
+   "ind": "Viale Druso - Drususallee 91",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Bottega della Pizza",
+   "tel": "+393294935102",
+   "ind": "Via Brennero - Brennerstraße 29",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Architect's Lodge",
+   "tel": "+393204926698",
+   "ind": "Via Dr. Josef Streiter - Dr.-Josef-Streiter-Gasse 7",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Villa Jasmine",
+   "tel": "+393913518879",
+   "ind": "",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Mangio e Via",
+   "tel": "+393284863119",
+   "ind": "Piazza Giuseppe Verdi - Giuseppe-Verdi-Platz 5",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Pizza e Kebab Express",
+   "tel": "+393392515767",
+   "ind": "Via Milano - Mailandstraße 134",
+   "citta": "Bolzano",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Schloss Paschbach",
+   "tel": "+390471662588",
+   "ind": "Via Monte 33, 39057 Appiano sulla Strada del Vino BZ",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Mauracher Martin",
+   "tel": "+390471660627",
+   "ind": "Via Colterenzio 12, 39057 Cornaiano Appiano BZ",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Weinegg Wellviva Resort",
+   "tel": "+390471662511",
+   "ind": "Via Lamm 22, 39057 Cornaiano Appiano BZ",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Zum Mondschein",
+   "tel": "+390471664071",
+   "ind": "Piazza San Paolo 6-7, 39057 San Paolo Appiano BZ",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Kreuzstein",
+   "tel": "+390471664025",
+   "ind": "Via Monte 60, 39057 Appiano sulla Strada del Vino BZ",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Buchwald",
+   "tel": "+390471664306",
+   "ind": "Strada Castel Palù 3, 39057 Appiano sulla Strada del Vino BZ",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Weisshauser Hof",
+   "tel": "+390471663392",
+   "ind": "Via Weisshaus 2, 39057 Appiano sulla Strada del Vino BZ",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Osteria Acquarol",
+   "tel": "+390471362932",
+   "ind": "Via J.G. Plazer 10",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Osteria Platzegg",
+   "tel": "+390471058858",
+   "ind": "Piazza Municipio 1",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Ristorante Bar Lago",
+   "tel": "+390471663127",
+   "ind": "Via Monticolo 55",
+   "citta": "Appiano",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Ristorante al Cavaliere",
+   "tel": "+390471636092",
+   "ind": "Strada Castel Palù 11",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Osteria Ansitz Weger",
+   "tel": "+390471633097",
+   "ind": "Via Casa di Gesu 17",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Meral in Koerbelhof",
+   "tel": "+390471662058",
+   "ind": "Via Wartl 19",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Route 66",
+   "tel": "+390471663740",
+   "ind": "Via Lambrecht 15",
+   "citta": "Appiano",
+   "kind": "ristorante",
+   "mob": false
+  }
+ ],
+ "slot_1630": [
+  {
+   "nome": "H/àkka/",
+   "tel": "+393497152966",
+   "ind": "Via dei Ventuno 1",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Milli Eat & drink",
+   "tel": "+393883440317",
+   "ind": "Via del Suffragio 2",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Caffè Onda",
+   "tel": "+393346507023",
+   "ind": "Via Renato Lunelli 54",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Kikkys",
+   "tel": "+393515974088",
+   "ind": "Via Senatore Carlo Esterle 7",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Ramen House",
+   "tel": "+393463112740",
+   "ind": "Via Senatore Carlo Esterle 8",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Epico Caffè",
+   "tel": "+393494949774",
+   "ind": "Via Francesco Petrarca 32/1",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Piadimania",
+   "tel": "+393298597519",
+   "ind": "Vicolo delle Rogge 1",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Baita Montesel",
+   "tel": "+393762180614",
+   "ind": "Strada del Norge 93",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Eldorado",
+   "tel": "+393429246782",
+   "ind": "Via Stella 9h",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Da Bruno",
+   "tel": "+393886313684;3298012714",
+   "ind": "Via Soprasasso 32/2",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La Talpa 3.0",
+   "tel": "+393761247423",
+   "ind": "Corso del Lavoro e della Scienza 8",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Twist - Pizza 'n More",
+   "tel": "+393489333639",
+   "ind": "Via Giacomo Matteotti 36",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "SkylineBar",
+   "tel": "+393491445152",
+   "ind": "Via di Coltura 9a",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Tony's pub",
+   "tel": "+393274551739",
+   "ind": "Via del Brennero 260l",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Soul of Trento",
+   "tel": "+393277259937",
+   "ind": "Vicolo del Vò 27",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Alchimia del Gusto",
+   "tel": "+393514091945",
+   "ind": "Via alla Veduta 10",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Le Petit Jardin",
+   "tel": "+393273392268",
+   "ind": "Piazzetta Bruno Lunelli",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "RUF - Cocktail Bar",
+   "tel": "+393282646034",
+   "ind": "Via Santissima Trinitá 11",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Habesha Bar Ristorante",
+   "tel": "+393716661054",
+   "ind": "Via del Brennero 5/1",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": true
+  },
+  {
+   "nome": "Black sheep raw",
+   "tel": "+393517374943",
+   "ind": "Via Rodolfo Belenzani 52",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Doppio Malto",
+   "tel": "+393339561554",
+   "ind": "",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Ravioleria Zhang",
+   "tel": "+393286841226",
+   "ind": "Piazza Alessandro Vittoria",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Casa Vertigo",
+   "tel": "+393802375975",
+   "ind": "",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Dal Birbante",
+   "tel": "+393755499896",
+   "ind": "Via Aeroporto 27/1",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "La villa",
+   "tel": "+393898397522;0461986276",
+   "ind": "Salita della spalliera 3",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": true
+  },
+  {
+   "nome": "Agritur Maso Rover",
+   "tel": "+393487379367",
+   "ind": "Località Maso Rover 4",
+   "citta": "Lavis",
+   "kind": "agriturismo",
+   "mob": true
+  },
+  {
+   "nome": "Dal Boccia",
+   "tel": "+390461437903",
+   "ind": "Via degli Alberti Poja 13",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Caffè Portici",
+   "tel": "+390461092622",
+   "ind": "Piazza del Duomo 40",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Bar Pasi",
+   "tel": "+390461982301",
+   "ind": "Piazza Mario Pasi 1",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Dalla Sora Giovanna",
+   "tel": "+390461095967",
+   "ind": "Via Roggia Grande 8",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Borgo Nuovo Trento",
+   "tel": "+390461261375",
+   "ind": "Prima Androna di Borgo Nuovo 20",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Uva & Menta Café",
+   "tel": "+390461231801",
+   "ind": "Piazza Giovanni Battista Garzetti 5",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Caffè Venezia",
+   "tel": "+390461262938",
+   "ind": "Largo Porta Nuova 11",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Caffé Randrè",
+   "tel": "+390461234701",
+   "ind": "Largo Giosuè Carducci 18",
+   "citta": "Trento",
+   "kind": "bar",
+   "mob": false
+  },
+  {
+   "nome": "Al Vesuvio",
+   "tel": "+390461987303",
+   "ind": "Via della Malvasia 103",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Trattoria al Volt",
+   "tel": "+390461983776",
+   "ind": "Via Santa Croce 16",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Pizza Rio",
+   "tel": "+390461811555",
+   "ind": "Via della Resistenza 9a",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Ristorante Ai Canopi",
+   "tel": "+390461823663",
+   "ind": "Via ai Bolleri 12/6",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Niky's",
+   "tel": "+390461390828",
+   "ind": "Via Enrico Fermi 7",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  },
+  {
+   "nome": "Loto 1997",
+   "tel": "+3904611863052",
+   "ind": "Via Gocciadoro 62",
+   "citta": "Trento",
+   "kind": "ristorante",
+   "mob": false
+  }
+ ]
+}

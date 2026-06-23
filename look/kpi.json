@@ -1,0 +1,22 @@
+{
+  "intro": "Obiettivo appuntamenti/mese: da confermare con Riccardo (proposta 8-10/mese). Metriche chiave: decisori raggiunti, fatture raccolte, appuntamenti fissati. Review settimanale.",
+  "target": [
+    ["Appuntamenti qualificati fissati", "8-10/mese (da confermare)", 0, "Decisore + offerta migliorativa"],
+    ["Fatture numero verde raccolte", "-", 0, "Audit gratuito non vincolante"],
+    ["Decisori raggiunti", "-", 0, "Titolare/ufficio acquisti"],
+    ["Contratti firmati", "-", 0, "Anche piccoli (consumo/ricaricabile)"]
+  ],
+  "review_settimane": [
+    ["W1", "16-20 giu"],
+    ["W2", "23-27 giu"],
+    ["W3", "30 giu-4 lug"],
+    ["W4", "7-11 lug"]
+  ],
+  "prossimi_passi": [
+    "1. Inviare la lista a Riccardo per approvazione/scarto (settori e singole aziende).",
+    "2. Ricevere accesso a numeroverdebusiness@gmail.com e il listino completo dei servizi aggiuntivi.",
+    "3. Confermare l'obiettivo appuntamenti/mese e le regole sulle provvigioni/referral.",
+    "4. Avviare le chiamate dai VERDI/quick win (autospurgo e servizi tecnici: alto traffico, decisore raggiungibile).",
+    "5. Raccogliere le prime fatture, fissare i primi appuntamenti e fare review a fine W1."
+  ]
+}

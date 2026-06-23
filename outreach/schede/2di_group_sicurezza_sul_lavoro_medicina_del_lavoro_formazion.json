@@ -1,0 +1,19 @@
+{
+  "riassunto": "2Di Group e' una societa' di consulenza integrata in sicurezza sul lavoro, medicina del lavoro e formazione obbligatoria, con servizi RSPP, sorveglianza sanitaria tramite rete di oltre 400 medici e una Safety Academy. Conta oltre 1.300 clienti, 50 consulenti e presenza dichiarata in tutti i capoluoghi di provincia, con sedi a Milano e Roma.",
+  "pain_point": "I servizi di sicurezza e medicina del lavoro sono obblighi di legge percepiti come commodity: con oltre 1.300 clienti la sfida probabile e' alimentare la crescita con nuovi contratti in un mercato dove le aziende cambiano fornitore solo se contattate al momento giusto.",
+  "hook": "ho visto che seguite oltre 1.300 aziende su sicurezza, medicina del lavoro e formazione con una rete di piu' di 400 medici in tutta Italia",
+  "variante_email": "B",
+  "motivo_variante": "Il decisore e' anche direttore commerciale ma il sito non mostra un pain evidente, quindi questionario di valutazione.",
+  "da_verificare": "Email e' un pattern non verificato. Verificare che Davide Bistolfi sia CEO e direttore commerciale; essendo lui stesso responsabile commerciale, calibrare il tono da pari a pari.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "2Di Group Sicurezza Sul Lavoro Medicina Del Lavoro Formazione",
+  "nome_decisore": "Davide Bistolfi",
+  "ruolo_decisore": "Chief executive officer & direttore commerciale 2di group",
+  "email": "davide.bistolfi@2digroup.it",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "2digroup.it",
+  "pagine_lette": ["https://2digroup.it"]
+}

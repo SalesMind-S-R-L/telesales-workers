@@ -1,0 +1,19 @@
+{
+  "riassunto": "Operari e' una societa' benefit milanese, certificata B Corp, che offre consulenza alle imprese sulla buona governance: principi, pratiche e prodotti di impatto per promuovere una cultura di integrita', equita' e inclusione oltre i soli obblighi di legge.",
+  "pain_point": "La consulenza sulla governance etica e' un acquisto non urgente e difficile da vendere a freddo; e' plausibile che i nuovi clienti arrivino quasi solo da relazioni e che manchi un'attivita' sistematica per portare il tema sul tavolo dei consigli di amministrazione.",
+  "hook": "ho visto che siete una societa' benefit certificata B Corp e che impostate la consulenza sul chiedersi cosa sia giusto fare, non solo cosa sia obbligatorio",
+  "variante_email": "B",
+  "motivo_variante": "Homepage senza segnali di pain commerciale, il questionario di valutazione e' la scelta prudente.",
+  "da_verificare": "Email e' un pattern non verificato. Verificare che Vittorio Gennaro sia l'amministratore delegato attuale; la homepage e' essenziale, poche informazioni su clienti e casi.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Operàri",
+  "nome_decisore": "Vittorio Gennaro",
+  "ruolo_decisore": "Amministratore delegato",
+  "email": "vittorio.gennaro@operari.it",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "operari.it",
+  "pagine_lette": ["https://operari.it"]
+}

@@ -1,0 +1,11 @@
+{
+  "titolo": "DOSSIER DI MERCATO",
+  "sottotitolo": "Contenuti AI high-ticket per brand italiani",
+  "nota_metodo": "Nota: dati incrociati su piu fonti pubbliche (aggiornamento giugno 2026).",
+  "sezioni": [
+    {"titolo":"1. Mercato pubblicitario","paragrafi":["Il video pesa ~43% dell'advertising in Italia."],"bullet":["Take operativo: e il formato piu richiesto."],"tabella":{"headers":["Mezzo","Quota"],"rows":[["Video","43%"],["Altro","57%"]]}},
+    {"titolo":"2. AI nei contenuti","paragrafi":["Adozione GenAI in forte crescita nelle grandi imprese."],"bullet":["I grandi brand gia lo fanno."]}
+  ],
+  "takeaway": [["Video = 43% dell'adv","\"E' il formato su cui i brand spostano i budget.\""],["AI mainstream","\"I grandi gia lo fanno, vi mostriamo come farlo meglio.\""]],
+  "fonti": [["Mercato adv","https://esempio-fonte.it/adv"],["AI","https://esempio-fonte.it/ai"]]
+}

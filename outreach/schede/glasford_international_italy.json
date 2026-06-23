@@ -1,0 +1,20 @@
+{
+  "riassunto": "Glasford International Italy e' una societa' di consulenza con sedi a Milano e Padova, parte di un gruppo globale presente in 28 paesi con oltre 350 consulenti. Offre executive search, assessment e people metrics, talent strategy ed employer branding, oltre a servizi legati all'AI come la Diagnostic Artificial Intelligence e il percorso The Human M&A Path.",
+  "pain_point": "Nell'executive search il new business arriva spesso da passaparola e relazioni dei partner: e' plausibile che la generazione proattiva di incontri con nuove aziende clienti non sia strutturata. Il sito punta su blog e download di materiali, un canale lento per riempire l'agenda dei consulenti.",
+  "hook": "ho visto che oltre all'executive search avete sviluppato servizi AI come la Diagnostic Artificial Intelligence e il percorso The Human M&A Path",
+  "variante_email": "B",
+  "motivo_variante": "Nessun pain commerciale dichiarato sul sito, quindi variante questionario di default del pool.",
+  "da_verificare": "Email e' un pattern non verificato; il sito risponde solo su www.glasforditaly.com (certificato TLS errato sul dominio nudo), verificare il dominio email corretto e il ruolo attuale di Massimo Quizielvù.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Glasford International | Italy",
+  "nome_decisore": "Massimo Quizielvù",
+  "ruolo_decisore": "President & chief executive officer",
+  "email": "massimo.quizielvu@glasforditaly.com",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "glasforditaly.com",
+  "slug": "glasford_international_italy",
+  "pagine_lette": ["https://www.glasforditaly.com"]
+}

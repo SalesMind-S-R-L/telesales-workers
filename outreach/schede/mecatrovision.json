@@ -1,0 +1,22 @@
+{
+  "riassunto": "MecatroVision progetta e realizza soluzioni per l'automazione robotica industriale, incluse isole robotizzate e sistemi di visione. Offre consulenza tecnologica specializzata per la progettazione di macchine automatiche e sistemi di gestione.",
+  "pain_point": "Un'azienda di automazione su commessa vive di nuovi progetti, ma il fondatore-ingegnere e' assorbito da progettazione e cantieri e ha poco tempo per generare nuove richieste di preventivo costanti.",
+  "hook": "ho visto che progettate isole robotizzate e sistemi di visione su misura per ogni cliente",
+  "variante_email": "B",
+  "motivo_variante": "Realta' tecnica guidata dal fondatore, tono diretto e concreto funziona meglio del taglio istituzionale.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://mecatrovision.it/",
+  "nome_azienda": "MecatroVision",
+  "nome_decisore": "Luigi Mazzoni",
+  "ruolo_decisore": "Fondatore",
+  "email": "luigi.mazzoni@mecatrovision.it",
+  "telefono": "",
+  "citta": "Calcinato",
+  "settore": "Automazione e macchinari",
+  "website": "mecatrovision.it",
+  "pagine_lette": [
+    "https://mecatrovision.it/"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "riassunto": "Be.One Consulting e' una societa' di formazione e consulenza di Pordenone, attiva anche su Padova, Treviso e Verona, specializzata in sviluppo commerciale: formazione venditori, formazione telemarketing, direzione commerciale in outsourcing e internazionalizzazione.",
+  "pain_point": "Chi vende formazione commerciale alle PMI del Nordest deve dimostrare per primo una pipeline piena: un flusso esterno di appuntamenti qualificati libererebbe i consulenti dal primo contatto a freddo.",
+  "hook": "ho visto che affiancate le aziende del Nordest su formazione venditori e direzione commerciale in outsourcing",
+  "variante_email": "A",
+  "motivo_variante": "Decisore identificato e hook su servizi specifici del sito, adatta alla variante personalizzata.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://www.b1consulting.it/area-vendite/",
+  "nome_azienda": "Be.One Consulting",
+  "nome_decisore": "Simone Berti",
+  "ruolo_decisore": "Socio fondatore",
+  "email": "simone.berti@b1consulting.it",
+  "telefono": "",
+  "citta": "Pordenone",
+  "settore": "Consulenza gestionale",
+  "website": "b1consulting.it",
+  "pagine_lette": ["https://www.b1consulting.it/area-vendite/"]
+}

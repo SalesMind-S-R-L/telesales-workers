@@ -1,0 +1,11 @@
+Oggetto: ti ho scritto su LinkedIn
+
+Ciao Alessandro,
+
+ti ho scritto su LinkedIn ma immagino sia finito tra mille messaggi. Vado al
+punto: ho visto che il vostro streaming in tempo reale regge 500-600 mila aggiornamenti al secondo per clienti come eToro, IG e NASA, e crediamo ci sia spazio per riempire l'agenda dei vostri
+commerciali di appuntamenti qualificati.
+
+Se vuoi vederlo su Lightstreamer, 15 minuti qui: {CAL_LINK}
+
+{firma}

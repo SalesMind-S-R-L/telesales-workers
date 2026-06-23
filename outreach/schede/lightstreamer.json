@@ -1,0 +1,18 @@
+{
+  "riassunto": "Lightstreamer e' una societa' milanese che sviluppa una piattaforma di streaming dati in tempo reale per applicazioni web e mobile, con broker di eventi e connettori per Kafka, MQTT e JMS. Tra i clienti citati eToro, Morgan Stanley, NASA, Sony, IG e UBS, con capacita' dichiarata di 500-600 mila aggiornamenti al secondo.",
+  "pain_point": "Prodotto infrastrutturale con clienti globali di altissimo profilo: la crescita probabile passa dal raggiungere nuovi CTO ed engineering lead in finance, gaming e media, un'attivita' outbound che un'azienda guidata da profili tecnici raramente presidia in modo sistematico.",
+  "hook": "ho visto che il vostro streaming in tempo reale regge 500-600 mila aggiornamenti al secondo per clienti come eToro, IG e NASA",
+  "variante_email": "B",
+  "motivo_variante": "Azienda consolidata con clienti enterprise globali e nessun segnale di pain commerciale sul sito: meglio aprire con una valutazione.",
+  "da_verificare": "Su LinkedIn di Alessandro Alinone: confermare ruolo CEO, se la societa' e' ancora indipendente e dove e' concentrato il business oggi (Italia vs estero), oltre alla presenza di figure sales.",
+  "scheda_completa": true,
+  "nome_azienda": "Lightstreamer",
+  "nome_decisore": "Alessandro Alinone",
+  "ruolo_decisore": "Co-founder and chief executive officer",
+  "email": "alessandro.alinone@lightstreamer.com",
+  "telefono": "+3903585950102",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "lightstreamer.com",
+  "pagine_lette": ["https://lightstreamer.com"]
+}

@@ -1,0 +1,43 @@
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.6). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[06-11 09:10:42] === SCHEDULER GIOVEDI 11/06 armato (target 2026-06-11) ===
+[06-11 09:10:42] Attendo 0h49m per 10:00 (slot_1000)
+[06-11 10:27:35] === 11jun-1000: 40 submit (E.164 ok) ===
+[06-11 10:27:35]   batch btcal_3601kttwpekreckrzrhfed8tt8ta
+[06-11 10:52:44]   round 1: connesse=11 fail=7
+[06-11 10:53:44]   retry 1: 7 -> btcal_2401ktty6ar3enrb5gcsp0xn6g92
+[06-11 11:04:28]   round 2: connesse=2 fail=5
+[06-11 11:04:28]   1000 FINE: ~2 connesse
+[06-11 11:04:28] Attendo 0h25m per 11:30 (slot_1130)
+[06-11 12:56:52] === 11jun-1130: 40 submit (E.164 ok) ===
+[06-11 12:56:53]   batch btcal_4001ktv57tfgfdkvstyb928r6bxw
+[06-11 13:22:00]   round 1: connesse=4 fail=11
+[06-11 13:23:01]   retry 1: 11 -> btcal_3201ktv6qn69ezw8n0ncea9vtetg
+[06-11 13:37:16]   round 2: connesse=1 fail=10
+[06-11 13:37:16]   1130 FINE: ~1 connesse
+[06-11 13:37:16] Attendo 1h22m per 15:00 (slot_1500)
+[06-11 14:07:16] Attendo 0h52m per 15:00 (slot_1500)
+[06-11 14:37:16] Attendo 0h22m per 15:00 (slot_1500)
+[06-11 15:00:00] === 11jun-1500: 42 submit (E.164 ok) ===
+[06-11 15:00:01]   batch btcal_2801ktvc98vwfnjb888xz6sdah1v
+[06-11 15:25:10]   round 1: connesse=8 fail=12
+[06-11 15:26:10]   retry 1: 12 -> btcal_8501ktvds5sdfp09gkd755rhqnpa
+[06-11 15:46:11]   round 2: connesse=3 fail=9
+[06-11 15:46:11]   1500 FINE: ~3 connesse
+[06-11 15:46:11] Attendo 1h43m per 17:30 (slot_1730)
+[06-11 16:16:11] Attendo 1h13m per 17:30 (slot_1730)
+[06-11 16:46:11] Attendo 0h43m per 17:30 (slot_1730)
+[06-11 17:16:11] Attendo 0h13m per 17:30 (slot_1730)
+[06-11 19:03:24] === 11jun-1730: 43 submit (E.164 ok) ===
+[06-11 19:03:24]   batch btcal_7501ktvt6yd1eygbbbensd631wpz
+[06-11 19:28:32]   round 1: connesse=9 fail=9
+[06-11 19:29:33]   retry 1: 9 -> btcal_2101ktvvptm3f5xb2h723sjhemss
+[06-11 19:39:10]   round 2: connesse=0 fail=9
+[06-11 19:39:10]   1730 FINE: ~0 connesse
+[06-11 19:39:10] === GIOVEDI COMPLETO ===

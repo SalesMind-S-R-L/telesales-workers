@@ -1,0 +1,20 @@
+{
+  "riassunto": "Studio Sinergia e' uno studio associato di Torino e Carmagnola che riunisce commercialisti, consulenti del lavoro e consulenti finanziari, con sedi anche a Chivasso e Foglizzo. Offre consulenza fiscale, societaria, del lavoro, elaborazione paghe, controllo di gestione e consulenza legale e contabile alle aziende.",
+  "pain_point": "Uno studio multidisciplinare con piu' sedi cresce molto su passaparola; un flusso costante di appuntamenti con aziende in cerca di consulenza ridurrebbe la dipendenza dal referral e darebbe prevedibilita' allo sviluppo dei nuovi mandati.",
+  "hook": "ho visto che riunite commercialisti, consulenti del lavoro e consulenti finanziari su piu' sedi tra Torino, Carmagnola e Chivasso con un team di sette soci",
+  "variante_email": "B",
+  "motivo_variante": "Il decisore (socio e amministratore delegato) e' identificabile dalla pagina team, ma serve comunque taratura sul posizionamento multidisciplinare dello studio.",
+  "da_verificare": "profilo LinkedIn decisore; email e' pattern non verificato",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.studiosinergia.com/team/",
+  "nome_azienda": "Studio Sinergia",
+  "nome_decisore": "Franco Viarisio",
+  "ruolo_decisore": "Socio e Amministratore Delegato, Consulente del lavoro",
+  "email": "franco.viarisio@studiosinergia.com",
+  "telefono": "",
+  "citta": "Torino",
+  "settore": "Studi professionali",
+  "website": "studiosinergia.com",
+  "pagine_lette": ["https://www.studiosinergia.com/team/"]
+}

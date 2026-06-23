@@ -1,0 +1,21 @@
+{
+  "riassunto": "Direction e' una societa' di ricerca e selezione del personale di Bologna attiva dal 1989, specializzata in executive search e head hunting per aziende medio-grandi di industria e servizi specializzati in tutta Italia. Dichiara oltre 2000 candidati inseriti e divisioni dedicate Direction Energy e Direction IT.",
+  "pain_point": "Dopo 35 anni la base clienti e' consolidata ma il rinnovo della pipeline con aziende nuove resta affidato a reputazione e passaparola. Appuntamenti qualificati con direzioni HR di imprese manifatturiere aprirebbero mandati fuori dal network storico.",
+  "hook": "ho visto che dal 1989 avete inserito oltre 2000 candidati e create divisioni verticali dedicate come Direction Energy e Direction IT",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sul sito, serve apertura piu' generica verso la direzione.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Leonardo",
+  "fonte": "https://direction.it/",
+  "nome_azienda": "Direction",
+  "nome_decisore": "",
+  "ruolo_decisore": "",
+  "email": "",
+  "telefono": "",
+  "citta": "Bologna",
+  "settore": "Consulenza gestionale",
+  "website": "direction.it",
+  "pagine_lette": ["https://direction.it/", "https://direction.it/chi-siamo-societa-di-ricerca-e-selezione-del-personale/"]
+}

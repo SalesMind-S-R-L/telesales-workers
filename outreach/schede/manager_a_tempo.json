@@ -1,0 +1,20 @@
+{
+  "riassunto": "Manager A Tempo e' una societa' padovana specializzata in temporary e fractional management: fornisce alle PMI manager professionisti (CEO, CFO, direttore commerciale, HR) per incarichi a tempo determinato, full-time o part-time, con costi certi. Copre oltre 15 settori, opera in 10 regioni italiane e ha partnership con il Sole 24 Ore e Audi.",
+  "pain_point": "Vendere temporary management alle PMI richiede di intercettare l'imprenditore nel momento giusto (crescita, cambiamento o crisi): e' plausibile che generare con continuita' primi incontri qualificati con titolari di PMI sia il vincolo principale della crescita.",
+  "hook": "ho visto che fornite alle PMI temporary e fractional manager con costi certi, inclusi ruoli come direttore commerciale, in oltre 15 settori",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale plausibile ma non dichiarato sul sito: variante questionario di default del pool.",
+  "da_verificare": "Email e' un pattern non verificato e la local part 'marco.emba' sembra derivare dal titolo EMBA piu' che dal cognome Zampieri: alto rischio pattern errato, verificare prima dell'invio.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Manager A Tempo",
+  "nome_decisore": "Marco Zampieri Emba",
+  "ruolo_decisore": "Founder & chief executive officer di manager a tempo® srl | società di temporary & fractional manager professionisti",
+  "email": "marco.emba@manageratempo.com",
+  "telefono": "",
+  "citta": "Padua",
+  "settore": "Consulenza gestionale",
+  "website": "manageratempo.com",
+  "slug": "manager_a_tempo",
+  "pagine_lette": ["https://manageratempo.com"]
+}

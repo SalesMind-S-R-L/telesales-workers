@@ -1,0 +1,21 @@
+{
+  "riassunto": "WeHunt e' una societa' di head hunting specializzata nella ricerca e selezione di profili middle e senior management, con strumenti proprietari e approccio data-driven. Ha sede legale a Milano e 9 sedi in Italia (Milano, Torino, Brescia, Vicenza, Bologna, Firenze, Roma, Bari, Palermo).",
+  "pain_point": "Con 9 sedi e director divisi per practice, lo sviluppo commerciale rischia di poggiare su referral e network personale dei singoli director. Un flusso costante di appuntamenti qualificati con aziende che assumono libererebbe i consulenti dalla prospezione.",
+  "hook": "ho visto che avete 9 sedi in Italia e un management board con director specializzati per practice, da engineering a banking",
+  "variante_email": "A",
+  "motivo_variante": "Decisore identificato dal sito, quindi email personalizzata diretta al CEO.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Leonardo",
+  "fonte": "https://www.wehunt.eu/",
+  "nome_azienda": "WeHunt",
+  "nome_decisore": "Pietro Valdes",
+  "ruolo_decisore": "CEO & Founding Partner",
+  "email": "pietro.valdes@wehunt.eu",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "wehunt.eu",
+  "pagine_lette": ["https://www.wehunt.eu/", "https://www.wehunt.eu/management-board"]
+}

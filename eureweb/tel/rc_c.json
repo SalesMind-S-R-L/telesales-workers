@@ -1,0 +1,86 @@
+[
+  {
+    "az": "Pupa Milano",
+    "sito": "pupamilano.com",
+    "sede": "Trezzo sull Adda (MI)",
+    "prio": "C"
+  },
+  {
+    "az": "OMP Racing",
+    "sito": "ompracing.com",
+    "sede": "Genova",
+    "prio": "C"
+  },
+  {
+    "az": "Polaris Italia",
+    "sito": "polaris.com",
+    "sede": "Cassola (VI)",
+    "prio": "C"
+  },
+  {
+    "az": "Globo (Globo abbigliamento)",
+    "sito": "globofashion.com",
+    "sede": "Senigallia (AN)",
+    "prio": "C"
+  },
+  {
+    "az": "Primadonna Collection",
+    "sito": "primadonnacollection.com",
+    "sede": "Casamassima (BA)",
+    "prio": "C"
+  },
+  {
+    "az": "Kena Mobile (TIM)",
+    "sito": "kenamobile.it",
+    "sede": "Roma",
+    "prio": "C"
+  },
+  {
+    "az": "Very Mobile (WindTre)",
+    "sito": "verymobile.it",
+    "sede": "Milano",
+    "prio": "C"
+  },
+  {
+    "az": "Crédit Agricole Assicurazioni",
+    "sito": "credit-agricole.it",
+    "sede": "Milano",
+    "prio": "C"
+  },
+  {
+    "az": "Hype (Banca Sella / illimity)",
+    "sito": "hype.it",
+    "sede": "Milano",
+    "prio": "C"
+  },
+  {
+    "az": "DS Automobiles Italia",
+    "sito": "dsautomobiles.it",
+    "sede": "Torino",
+    "prio": "C"
+  },
+  {
+    "az": "KTM Italia",
+    "sito": "ktm.com",
+    "sede": "Milano",
+    "prio": "C"
+  },
+  {
+    "az": "Opel Italia",
+    "sito": "opel.it",
+    "sede": "Torino",
+    "prio": "C"
+  },
+  {
+    "az": "OBI Italia",
+    "sito": "obi-italia.it",
+    "sede": "Milano",
+    "prio": "C"
+  },
+  {
+    "az": "Mastercard Italia",
+    "sito": "mastercard.it",
+    "sede": "Milano",
+    "prio": "C"
+  }
+]

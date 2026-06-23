@@ -1,0 +1,19 @@
+{
+  "riassunto": "",
+  "pain_point": "",
+  "hook": "",
+  "variante_email": "B",
+  "motivo_variante": "Variante di default per il pool email cold, sito non analizzabile.",
+  "da_verificare": "Sito non raggiungibile (errore certificato SSL su upi.pr.it e www.upi.pr.it). Email e' un pattern non verificato. Verificare sito e ruolo del decisore prima dell'invio.",
+  "scheda_completa": false,
+  "pool": "email_cold",
+  "nome_azienda": "Unione Parmense Degli Industriali",
+  "nome_decisore": "Roberto Buratti",
+  "ruolo_decisore": "Chief information officer - resp. area sistemi informativi, innovazione e sviluppo",
+  "email": "roberto.buratti@upi.pr.it",
+  "telefono": "",
+  "citta": "Parma",
+  "settore": "Consulenza gestionale",
+  "website": "upi.pr.it",
+  "pagine_lette": []
+}

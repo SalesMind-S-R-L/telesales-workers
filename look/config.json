@@ -1,0 +1,49 @@
+{
+  "cliente": "Look SRLS",
+  "titolo_master": "MASTER LOOK SRLS",
+  "sottotitolo": "Strumento di lavoro Telesales per Look SRLS (numeri verde 800) - aggiornato 16 giugno 2026",
+  "obiettivo": "Fissare appuntamenti qualificati con il decisore di PMI che hanno già un numero verde 800, per proporre un'offerta migliorativa sul traffico e raccogliere l'ultima fattura.",
+  "servizio": "Rivendita di traffico per numeri verde 800 (a consumo o ricaricabile), multi-carrier (TIM, Welcome Italia/Webcom, Intermatica), con servizi aggiuntivi: centralino virtuale/IVR, registrazione chiamate, futuro pagamento telefonico durante la chiamata.",
+  "modalita_lista": "scouting",
+  "referente": "Riccardo De Meole",
+  "data": "16 giugno 2026",
+  "ultimo_sync": "16 giugno 2026",
+  "obiettivo_appuntamenti": "da confermare con Riccardo (proposta: 8-10/mese)",
+  "regole_oro": [
+    "L'obiettivo della chiamata è l'APPUNTAMENTO con il decisore, non la vendita.",
+    "In chiamata NON si fanno prezzi né tariffe: si fissa l'incontro e si chiede l'ultima fattura.",
+    "Il gancio è sempre lo stesso: 'avete già un numero verde 800, posso proporvi un'offerta migliorativa'.",
+    "Il numero resta lo stesso: la portabilità la gestiamo noi, il cliente non deve chiamare il vecchio gestore.",
+    "Note brevi e professionali, mai gergo tecnico interno."
+  ],
+  "settori_weight": {
+    "Autospurgo e spurghi": 4,
+    "Servizi tecnici e pronto intervento": 4,
+    "Disinfestazione e pest control": 4,
+    "Assistenza caldaie e climatizzazione": 4,
+    "Traslochi e sgomberi": 4,
+    "Pompe funebri": 3,
+    "Sanita privata": 3,
+    "Noleggio": 3,
+    "Alimentare e food": 2,
+    "Agenzie investigative": 2,
+    "Finanziarie e mediazione creditizia": 2,
+    "Assicurazioni e brokeraggio": 2,
+    "Vendita diretta ed e-commerce": 2,
+    "Edilizia e costruzioni": 1,
+    "Cantine e produttori vino": 1
+  },
+  "icp": [
+    ["Profilo", "PMI (SNC, SRL) che HANNO GIÀ un numero verde 800 pubblicato online"],
+    ["Segnale qualificante", "Numero verde 800 visibile e attivo (verificato su sito/elenco)"],
+    ["Settori target", "Autospurgo, servizi tecnici/pronto intervento, pompe funebri, food, investigative, finanziarie, edilizia, cantine"],
+    ["Decisore", "Titolare per le piccole; ufficio acquisti/IT/marketing per le più strutturate"],
+    ["Escludere (per ora)", "SpA molto grandi, pubblica amministrazione/comuni (gare e cicli 4 anni), grandi finanziarie (Agos, Findomestic, Compass), aziende con 800 solo d'immagine e traffico nullo"]
+  ],
+  "insight": [
+    ["Continuità del numero", "Il numero verde 800 è portabile mantenendo la stessa numerazione (fonte AGCOM/PNN); la pratica la apre il nuovo operatore in ~20-25 giorni lavorativi.", "\"Il vostro numero resta identico: la portabilità la gestiamo noi, voi firmate e basta. Nessun rischio di perderlo.\""],
+    ["Costo mobile", "Su molti listini ricaricabili il minuto da mobile arriva a 0,21-0,65€ con scatto alla risposta, mentre il fisso è 0,04€.", "\"La voce che vi pesa è il mobile: facciamo una verifica gratuita su quanto pagate al minuto da cellulare.\""],
+    ["Deducibilità", "Il numero verde è un costo aziendale deducibile (circa 80%) con IVA detraibile.", "\"È un costo deducibile con IVA detraibile: il costo reale è più basso del listino.\""],
+    ["Ricarica obbligatoria", "I numeri ricaricabili di mercato impongono la ricarica annuale (~150€) e i crediti non sono trasferibili cambiando gestore.", "\"Se avete crediti fermi e ricariche annuali pesanti, possiamo proporvi condizioni più flessibili.\""]
+  ]
+}

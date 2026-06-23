@@ -1,0 +1,20 @@
+{
+  "riassunto": "Roi Group e' un ecosistema con sedi a Milano e Macerata che supporta la crescita di CEO, top manager e aziende attraverso quattro divisioni: grandi eventi (Leadership Forum, Sales Forum, People Management Forum), speaker bureau con oltre 700 relatori, agenzia di comunicazione e casa editrice ROI Edizioni. Gli eventi sono finanziabili tramite fondi interprofessionali.",
+  "pain_point": "Vendere sponsorizzazioni, biglietti per i forum e ingaggi dello speaker bureau richiede un flusso costante di contatti con aziende e direzioni HR/marketing. E' plausibile che il team commerciale debba alimentare di continuo l'agenda con nuovi decisori oltre alla base clienti storica degli eventi.",
+  "hook": "ho visto che organizzate il Leadership Forum e il Sales Forum per CEO e top manager, con uno speaker bureau di oltre 700 relatori",
+  "variante_email": "B",
+  "motivo_variante": "Il sito non rivela un pain commerciale esplicito, quindi mantengo la variante questionario di default.",
+  "da_verificare": "Email e' un pattern non verificato; confermare che Marcello Mancini sia il referente giusto e valutare il tono visto che vendono proprio eventi su leadership e vendite.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Roi Group",
+  "nome_decisore": "Marcello Mancini",
+  "ruolo_decisore": "President & chief executive officer",
+  "email": "marcello.mancini@roigroup.it",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "roigroup.it",
+  "slug": "roi_group",
+  "pagine_lette": ["https://roigroup.it"]
+}

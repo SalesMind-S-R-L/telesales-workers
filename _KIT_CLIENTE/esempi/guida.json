@@ -1,0 +1,9 @@
+{
+  "intro": "Come chiamare i prospect di Lux SRL e fissare appuntamenti con il decisore marketing.",
+  "chi_chiami": ["Aziende che gia investono in comunicazione/contenuti. Obiettivo: parlare col marketing e fissare un appuntamento conoscitivo."],
+  "script": {"regola":"In chiamata NON si fanno prezzi.","apertura":"\"Buongiorno, sono [NOME] di [AZIENDA]. Vorrei parlare con il responsabile marketing.\"","sviluppo":"Aggancia sull'evidenza (campagna/spot/social recente).","chiusura":"Proponi due opzioni di orario e fissa l'appuntamento."},
+  "scenari": [["A. Centralino filtra","Chiedi nome e mail del referente marketing, richiama mirato."],["B. Parli col marketing","Aggancia sull'evidenza e fissa l'appuntamento."]],
+  "obiezioni": [["\"Mandate una mail\"","\"Volentieri, le richiamo io tra qualche giorno per un riscontro.\""]],
+  "esiti": [["Da contattare","Stato iniziale."],["Non risposto","Nessuno ha risposto."],["Da richiamare","Centralino/segreteria o non era il momento."],["Referente individuato","Hai nome/contatto del marketing."],["Interessato","Apertura positiva."],["Appuntamento fissato","Win."],["Da ricontattare piu avanti","Non ora."],["Non in target","Non idoneo."],["Non interessato","Chiuso."],["Numero/contatto errato","Recapito sbagliato."]],
+  "mini_report": "Esempio: \"30 chiamate, 12 centralini passati al marketing, 3 appuntamenti fissati.\""
+}

@@ -1,0 +1,23 @@
+{
+  "riassunto": "Cigaimpianti e' una societa' specializzata in assemblaggio, installazione, messa in servizio e manutenzione di impianti e automazioni industriali, nata nei primi anni 80. Offre soluzioni di robotica integrata, dagli studi di fattibilita' alla progettazione, installazione e collaudo.",
+  "pain_point": "Societa' di montaggio e automazione su commessa che lavora per costruttori e committenti industriali: il carico operativo sui cantieri lascia scoperto lo sviluppo commerciale di nuovi clienti.",
+  "hook": "ho visto che dai primi anni 80 montate e mantenete impianti e automazioni industriali con robotica integrata",
+  "variante_email": "B",
+  "motivo_variante": "Azienda fondata da due soci tuttora riconoscibili: aggancio sulla storia e sui servizi, variante B.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.cigaimpianti.it/chi-siamo/",
+  "nome_azienda": "Cigaimpianti",
+  "nome_decisore": "Claudio Sabatini",
+  "ruolo_decisore": "Fondatore",
+  "email": "claudio.sabatini@cigaimpianti.it",
+  "telefono": "",
+  "citta": "Finale Emilia",
+  "settore": "Automazione e macchinari",
+  "website": "cigaimpianti.it",
+  "pagine_lette": [
+    "https://www.cigaimpianti.it/",
+    "https://www.cigaimpianti.it/chi-siamo/"
+  ]
+}

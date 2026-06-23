@@ -1,0 +1,20 @@
+{
+  "riassunto": "BonusX e' una piattaforma digitale milanese che semplifica l'accesso a oltre 600 bonus, detrazioni e agevolazioni pubbliche, gestendo pratiche come ISEE, 730, NASpI e Assegno Unico tramite app, AI e una rete selezionata di professionisti. Modello freemium con piani da 19,95 a 299,95 euro l'anno, citata da Forbes, Repubblica e Il Sole 24 Ore.",
+  "pain_point": "Il modello e' B2C consumer con piani a basso ticket: il valore di un canale outbound B2B classico e' meno ovvio, ma potrebbero esserci linee B2B2C (welfare aziendale, CAF, partner) dove un'agenda di appuntamenti qualificati farebbe la differenza.",
+  "hook": "ho visto che con BonusX gestite in app piu' di 60 pratiche, dall'ISEE all'Assegno Unico, selezionando solo 1 professionista su 20 per la vostra rete",
+  "variante_email": "B",
+  "motivo_variante": "Azienda B2C senza pain commerciale B2B evidente dal sito; il questionario e' l'unico approccio sensato per capire se esiste una linea business.",
+  "da_verificare": "Email giovanni.pizza@bonusx.it e' un pattern non verificato. Verificare se BonusX ha un'offerta B2B (welfare aziendale o partnership) che giustifichi l'outreach, dato il modello consumer.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Bonusx",
+  "nome_decisore": "Giovanni Pizza",
+  "ruolo_decisore": "Chief executive officer & founder",
+  "email": "giovanni.pizza@bonusx.it",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "bonusx.it",
+  "slug": "bonusx",
+  "pagine_lette": ["https://bonusx.it"]
+}

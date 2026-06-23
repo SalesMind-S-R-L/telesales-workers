@@ -1,0 +1,20 @@
+{
+  "riassunto": "Shifton e' uno studio di design per l'innovazione sociale organizzato in tre unita' (Designing, Training, Revealing) che progetta servizi su misura con processi partecipativi per imprese, istituzioni, scuole ed enti di cura. Tra i progetti citati: rigenerazione urbana a Villa Francescatti e San Vittore, innovazione didattica con JA Italia e percorsi di wellbeing in RSA.",
+  "pain_point": "Lo studio comunica tramite newsletter, social e portfolio progetti: con clienti spesso istituzionali e progetti lunghi, la pipeline di nuove commesse da imprese private potrebbe essere discontinua e legata a relazioni esistenti.",
+  "hook": "ho visto i vostri progetti di rigenerazione su Villa Francescatti e San Vittore e l'impianto in tre unita' Designing, Training e Revealing.",
+  "variante_email": "B",
+  "motivo_variante": "Nessun pain commerciale evidente dal sito e target molto istituzionale, quindi meglio il questionario di valutazione come primo contatto.",
+  "da_verificare": "Email e' un pattern non verificato; la citta' nel chunk e' 'Nan' (P.IVA bolognese sul sito), verificare la sede reale; valutare se il profilo (innovazione sociale, clienti pubblici) rientra nell'ICP Telesales.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Shifton | Design Practices For Social Innovation",
+  "nome_decisore": "Emanuel  Ingrao",
+  "ruolo_decisore": "Founder & chief executive officer | .shifton.it",
+  "email": "emanuel.ingrao@shifton.it",
+  "telefono": "",
+  "citta": "Nan",
+  "settore": "Consulenza gestionale",
+  "website": "shifton.it",
+  "slug": "shifton_design_practices_for_social_innovation",
+  "pagine_lette": ["https://shifton.it"]
+}

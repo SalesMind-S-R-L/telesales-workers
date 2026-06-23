@@ -1,0 +1,131 @@
+{
+  "_comment": "ElevenLabs Conversational AI agent config — Look SRLS outreach numero verde 800. Da creare via API/UI (account admin@telesales.it). agent_id da popolare dopo la creazione.",
+  "agent": {
+    "agent_id": "agent_5901kvb1atsaf83txkq8tq62x77m",
+    "knowledge_base_id": "x0aFTmqXbgiO37SeQdhV",
+    "_created": "Creato via API il 17/06/2026 su account stack Telesales (clone config Marco Culligan), KB look_kb.md caricata e agganciata.",
+    "name": "Marco - Look SRLS Numero Verde",
+    "language": "it",
+    "first_message": "",
+    "_first_message_note": "VUOTO: outbound, Marco aspetta 'Pronto?'. Stesso pattern Marco Culligan/Mik.",
+    "system_prompt_file": "look/ai_voice/look_system_prompt.md",
+    "knowledge_base_file": "look/ai_voice/look_kb.md",
+    "prompt_version": "v1",
+    "llm": "claude-haiku-4-5",
+    "temperature": 0.3,
+    "_llm_note": "Stack produzione Culligan (claude-haiku-4-5, temp 0.3, max_tokens 180) clonato per coerenza. Il prompt mik citava gemini ma la produzione gira su haiku.",
+    "max_response_length_seconds": 10,
+    "max_conversation_duration_seconds": 180
+  },
+  "voice": {
+    "voice_id": "YXg9qJ9QoswESjESRYXr",
+    "voice_name": "Marco (stesso TTS Culligan/Mik)",
+    "language": "it-IT",
+    "gender": "male",
+    "model_id": "eleven_v3_conversational",
+    "stability": 0.35,
+    "similarity_boost": 0.8,
+    "speed": 1.15
+  },
+  "dynamic_variables": {
+    "_comment": "Outbound B2B a freddo. Compilare SEMPRE dai dati del Master prima di Pubblicare (regola permanente).",
+    "nome_azienda": { "type": "string", "test_value": "Pisa Spurghi" },
+    "categoria":    { "type": "string", "test_value": "Autospurgo e spurghi" },
+    "citta":        { "type": "string", "test_value": "Pisa" },
+    "numero_verde": { "type": "string", "test_value": "800 300 301" },
+    "decision_maker": { "type": "string", "test_value": "Titolare" },
+    "nome_contatto": { "type": "string", "test_value": "" },
+    "note":         { "type": "string", "test_value": "Pronto intervento h24, alto traffico" }
+  },
+  "data_collection": {
+    "interest_level": { "type": "string", "enum": ["high", "medium", "low", "none"] },
+    "decisore_raggiunto": { "type": "boolean" },
+    "appuntamento_fissato": { "type": "boolean" },
+    "data_appuntamento": { "type": "string", "format": "iso8601" },
+    "gestore_attuale": { "type": "string", "max_length": 60 },
+    "modalita_attuale": { "type": "string", "enum": ["consumo", "ricaricabile", "non so"] },
+    "fattura_promessa": { "type": "boolean" },
+    "nome_referente": { "type": "string", "max_length": 80 },
+    "email_referente": { "type": "string", "max_length": 120 },
+    "obiezione_principale": { "type": "string", "enum": ["ho_gia_fornitore", "prezzo", "tempo", "traffico_basso", "contratto", "nessuna", "altro"] },
+    "opt_out_richiesto": { "type": "boolean" },
+    "esito": { "type": "string", "enum": ["Non risposto", "Da richiamare", "Referente individuato", "Interessato", "Fattura richiesta", "Appuntamento fissato", "Da ricontattare piu avanti", "Non in target", "Non interessato", "Numero/contatto errato"] },
+    "note_ai": { "type": "string", "max_length": 300 }
+  },
+  "telephony": {
+    "provider": "TBD — confermare (Telnyx SIP esistente, from +390554652406, oppure numero dedicato Look)",
+    "from_number": "TBD",
+    "retry_on_sip_fail": true,
+    "max_retries": 5,
+    "retry_delay_seconds": 60,
+    "_note": "Regola permanente: SIP fail MAI segnati come 'Non risposto', sempre retry (max 5, pausa 60s)."
+  },
+  "scheduling": {
+    "start_date": "venerdi (confermare 19/06/2026)",
+    "daily_target_calls": 40,
+    "calling_hours": {
+      "monday_friday": ["09:30-13:00", "14:30-18:30"],
+      "saturday": "skip",
+      "sunday": "skip",
+      "holidays": "skip"
+    },
+    "_note": "Orari ufficio B2B. 40 chiamate/giorno dal venerdi. Partire dai quick win (autospurgo, pronto intervento, disinfestazione, caldaie, traslochi)."
+  },
+  "esito_mapping": {
+    "appuntamento_fissato=true": "Appuntamento fissato",
+    "fattura_promessa=true": "Fattura richiesta",
+    "interest_level=high": "Interessato",
+    "interest_level=medium": "Referente individuato",
+    "decisore_raggiunto=false + segreteria": "Da richiamare",
+    "interest_level=low": "Non interessato",
+    "traffico_basso/numero_immagine": "Non in target",
+    "opt_out_richiesto=true": "Non interessato (opt-out)",
+    "nessuna_risposta": "Non risposto"
+  },
+  "note_writing_rules": {
+    "_comment": "Note scritte nel Master (colonna Note) per handoff a setter umano. Mai termini tecnici/AI/bot/prompt.",
+    "non_risposto": "Nota secca: 'Non risposto.'",
+    "segreteria_o_decisore_assente": "Esito Da richiamare. Nota breve con CHI risponde e QUANDO ritentare, es. 'Risponde la segreteria, titolare assente, richiamare in mattinata.'",
+    "conversazione_vera": "Nota ricca e umana: con chi parlato, gestore attuale, modalita, traffico, temperatura, prossimo passo concreto (es. fattura attesa, slot discusso). Pensata perche un setter riprenda un lead caldo sapendo esattamente cosa e successo.",
+    "vietato": "agente, AI, bot, prompt, variabile, SIP, dettagli tecnici"
+  },
+  "handoff": {
+    "_comment": "Flusso appuntamento confermato dal cliente.",
+    "flusso": "L'AI fissa l'appuntamento -> un SETTER Telesales prende/conferma l'appuntamento -> il lead viene passato a Riccardo De Meole (come richiesto da Look) per la trattativa.",
+    "logging": "Tutto loggato direttamente sul Master / foglio Google (LISTA_PROSPECT): esito, note, appuntamento. Niente CRM separato per ora."
+  },
+  "master_writeback": {
+    "_comment": "Dove scrivere gli esiti post-chiamata.",
+    "file": "look/Master_Look_SRLS.xlsx (o foglio Google equivalente)",
+    "sheet": "LISTA_PROSPECT",
+    "columns": { "esito": "Esito (col T)", "note": "Note (col U)", "appuntamento": "Appuntamento data/ora (col V)" },
+    "match_by": "telefono poi nome azienda",
+    "pipeline": "Post-batch: fetch transcript + data_collection per ogni conversation_id, classifica esito, scrivi nota umana, segna appuntamento. Modello: post_batch_culligan_analyze.py"
+  },
+  "verification_plan": {
+    "phase_1_smoke_test": {
+      "calls": 5,
+      "targets": ["numeri interni Telesales / Riccardo / Leonardo"],
+      "check": ["tono e naturalezza", "durata 60-150s", "gestione gatekeeper", "3 obiezioni", "proposta appuntamento + richiesta fattura", "anti-troll", "data_collection popolata", "nota scritta bene"]
+    },
+    "phase_2_pilot": {
+      "lead_count": 40,
+      "segment": "quick win (autospurgo + pronto intervento + disinfestazione)",
+      "consent_check": "lista approvata da Riccardo prima di chiamare",
+      "metrics": ["pickup_rate", "decisore_raggiunto_rate", "fatture_raccolte", "appointment_rate", "avg_duration", "opt_out_rate"],
+      "manual_review": "ascoltare 100% registrazioni del primo giorno"
+    },
+    "phase_3_scale": {
+      "daily_calls": 40,
+      "feedback_loop": "review giornaliera prima settimana, poi settimanale con setter umano. Obiettivo: risultati entro 2 settimane (vincolo cliente)."
+    }
+  },
+  "open_questions": [
+    "ElevenLabs: uso la API key del nuovo account (env ELEVENLABS_API_KEY) o creo l'agente via UI in Chrome?",
+    "Telefonia outbound: riuso il SIP Telnyx esistente (+390554652406) o un numero dedicato Look?",
+    "Chi e il 'consulente' che riceve gli appuntamenti e richiama (Riccardo? Leonardo? un setter)? Calendario/orari?",
+    "Le fatture le facciamo mandare a numeroverdebusiness@gmail.com: confermi?",
+    "Riccardo ha approvato la lista / da quale segmento partiamo (quick win autospurgo+pronto intervento)?",
+    "Conferma start venerdi 19/06 e 40 chiamate/giorno; fasce orarie ok?"
+  ]
+}

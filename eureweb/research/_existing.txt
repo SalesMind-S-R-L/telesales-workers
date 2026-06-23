@@ -1,0 +1,441 @@
+GIA IN LISTA (non riproporre):
+A2A
+AXA Italia
+Acea
+Acetaia Ponti
+Acqua Lete
+Acqua Minerale San Benedetto
+Acqua di Parma (LVMH)
+Acqua e Sapone
+Acque Minerali d'Italia (Norda, Sangemini)
+Aeffe / Alberta Ferretti
+Agos (Agos Ducato)
+Aldi Italia
+Alfa Romeo
+Allianz Italia
+Alpinestars
+Amadori
+American Express Italia
+Amundi SGR Italia
+Anima Holding (Anima SGR)
+Aprilia
+Arcaplanet
+Aruba
+Audi Italia
+Auricchio
+BMW Italia
+BNL BNP Paribas Cardif
+BNL Gruppo BNP Paribas
+BPER Banca
+BYD Italia
+Balocco
+Banca Generali
+Banca Ifis
+Banca Mediolanum
+Banca Sella
+Banco BPM
+Barilla
+Bauli
+Benelli
+Benetton Group
+Bennet
+Beta Motor
+Birra Peroni
+Boggi Milano
+Borsalino
+Bottega Veneta
+Bottega Verde
+Brand mid-large premium attivo in comunicazione
+Brembo
+Brico OK / Self / bricolage di insegna
+Bricoman Italia
+Bridgestone Italia
+Brosway
+Brunello Cucinelli
+Buccellati
+Bvlgari
+CRAI
+Caffe Borbone
+Caffe Trombetta
+Caffe Vergnano
+Calzedonia Group
+Canali
+Cantine Riunite & CIV (Riunite, Cevico)
+Carrefour Italia
+Carrera (Safilo licenze) / Polaroid
+Cattolica Assicurazioni (Gruppo Generali)
+Citterio
+Clienti gia Eureweb (dal sito /clienti): non in lista per evitare doppioni e conflitti. Restano canale caldo interno di Giulia.
+Coca-Cola HBC Italia
+Coccinelle
+Cofidis Italia
+Cogedi (Uliveto e Rocchetta)
+Coin
+Collistar
+Colmar
+Comet
+Compass Banca (Gruppo Mediobanca)
+ConTe.it (Admiral Group)
+Conad
+Conserve Italia (Cirio, Valfrutta, Yoga)
+Continental Italia
+CoopVoce
+Credem
+Credit Agricole Italia
+Crivelli Gioielli
+Crédit Agricole Assicurazioni
+Crédit Agricole Italia - Conto Deposito (CA Auto Bank)
+Cupra Italia
+DAZN Italia
+DS Automobiles Italia
+Da reperire in fase scraping (centralino azienda > marketing). Non inserito per evitare recapiti errati.
+Dacia Italia
+Dainese
+Davines
+De Cecco
+De Rigo
+Deborah Milano
+Decathlon Italia
+Deichmann Italia
+Desmos
+Despar Italia
+Diadora
+Diego Dalla Palma Milano
+Diesel (OTB Group)
+Dolce & Gabbana
+Douglas Italia
+Ducati Motor Holding
+Eataly
+Edison
+Elisabetta Franchi
+Enel / Enel Energia
+Engie Italia
+Eni Plenitude
+Enterprise/multinazionale (giganti tipo Haribo/Maserati) | Grande nazionale | Mid-large (premium/nicchia). Stima per fascia, non fatturato puntuale.
+Eolo
+Esselunga
+EssilorLuxottica
+Eurospin
+Eurovita / Cronos Vita
+Expert Italia
+Falconeri (Oniverse)
+Famila (Selex/Unicomm)
+Fantic Motor
+Fastweb
+Ferrarelle
+Ferrari Trento (Cantine Ferrari - Gruppo Lunelli)
+Ferrero
+Findomestic Banca
+Findus Italia
+FinecoBank
+Ford Italia
+Fratelli Beretta
+Fratelli Branca Distillerie
+Furla
+Galbani (Lactalis Italia)
+Galup
+Generali Italia
+Genertel
+Geox
+Givi
+Globo (Globo abbigliamento)
+Goodyear Italia
+Granarolo
+Grande advertiser molto attivo in contenuti/video/social - chiama subito
+Groupama Assicurazioni
+Gruppo Campari
+Gruppo Hera (Hera Comm)
+Gruppo Montenegro
+Gruppo Pam (Pam Panorama)
+Gruppo Veronesi (AIA)
+Guido Berlucchi
+Harley-Davidson Italia
+Harmont & Blaine
+Heineken Italia
+Herno
+Honda Italia
+Hype (Banca Sella / illimity)
+Hyundai Italia
+IKEA Italia
+ING Italia
+Iliad Italia
+Illva Saronno (Disaronno)
+In lista iniziale = scouting primo giro; Nuovo lead (ricerca) = aggiunto dopo verifica per-azienda
+Intesa Sanpaolo
+Intimissimi (Oniverse)
+Iper La grande i (Finiper)
+Iren (Iren Luce Gas e Servizi)
+Iveco Group
+Jaguar Land Rover Italia
+Jeep Italia
+K-Way (BasicNet)
+KTM Italia
+Kasanova
+Kena Mobile (TIM)
+Kiko Milano
+Kimbo
+L'Erbolario
+La Rinascente
+Lancia
+Lavazza
+Leapmotor Italia
+Leroy Merlin Italia
+Lexus Italia
+Lidl Italia
+Linear Assicurazioni (Gruppo Unipol)
+Liu Jo
+Livello stimato di spesa in adv/contenuti (Alto/Medio/Basso) da ricerca web per azienda
+Loison
+Loro Piana
+Lotto Sport Italia
+Lurisia (Gruppo Lunelli)
+MD Discount
+MG Motor Italia
+MINI Italia
+Magna Tyres / Marangoni
+Magneti Marelli (Mopar/Aftermarket)
+Marchesi Antinori
+Marco Bicego
+Marcolin
+Mastercard Italia
+Matilde Vicenzi
+Max Mara Fashion Group
+Maxi Zoo Italia
+Mazda Italia
+Mediaset / Mediaset Infinity (MFE)
+Mediobanca
+Mercedes-Benz Italia
+Michelin Italia
+Moncler
+Mondadori Media
+Mondadori Retail
+Mondadori Store / Inmondadori
+Mondo Convenienza
+Morellato Group
+Moto Guzzi
+Muller Italia
+N26 Italia
+NaturaSi (EcorNaturaSi)
+Negroni Salumi
+Nestle Italia
+Nexi
+Nissan Italia
+Nomination
+OBI Italia
+OMP Racing
+OVS
+Opel Italia
+Open Fiber
+Original Marines
+Parmareggio (Gruppo BonReale)
+Pasta Armando (De Matteis)
+Pasta Garofalo
+Pastificio Granoro
+Pastificio Rana
+Pastificio Rummo
+Patrizia Pepe (Tessilform)
+Pelliconi
+Penny Market Italia
+Piazza Italia
+Pinalli
+Pinko (Cris Conf)
+Piquadro
+PittaRosso
+Polaris Italia
+Pomellato
+Poste Italiane
+PosteMobile
+Prima Assicurazioni
+Primadonna Collection
+Prova concreta che gia investe (spot, campagne, social/video, shooting) con anno/segnale - dato del criterio Giulia
+Pull&Bear / Bershka / Stradivarius (Inditex Italia)
+Punteggio priorita = base priorita (A 90 / B 75 / C 60) + intensita contenuti del settore (Fashion +4, Retail/Food/Auto +3, Telco +2, Finance +1)
+Pupa Milano
+Quanto e facile arrivare al decisore e fissare: Difficile (procurement/gare, ciclo lungo) | Media | Buona (DM raggiungibile). Inversamente legata alla dimensione.
+RTL 102.5
+RUOLO da agganciare; il NOME si reperisce in fase scraping (anti-errore: non si inventano nomi)
+RaiPlay (Rai)
+Reale Group - Blue Assistance / Italiana Assicurazioni
+Reale Mutua (Reale Group)
+Realta piu piccola ma con budget contenuti - dopo, spesso via LinkedIn/email
+Renault Italia
+Replay (Fashion Box)
+Rio Mare (Bolton Food)
+Risparmio Casa
+Roberto Coin
+Rovagnati
+Sabelt
+Safilo Group
+Sammontana
+Sanpellegrino
+Santa Margherita Gruppo Vinicolo
+Sara Assicurazioni
+Satispay
+Save The Duck
+Scalapay
+Segafredo Zanetti
+Segnale che sta per investire/aumentare ora (rebrand, nuova linea, nuovo testimonial/CMO, espansione): aggancio caldo
+Selex Gruppo Commerciale
+Sephora Italia
+Sergio Tacchini
+Skoda Italia
+Sky / NOW (Sky Italia)
+Sky Italia
+Sorgenia
+Sparco
+Spotify Italia
+Star (GB Foods Italia)
+Stellantis Italia (Fiat)
+Sterilgarda
+Stone Island
+Stroili (Stroili Oro)
+Stroili / Stroili Oro
+TIM
+Tecnomat / Norauto Italia
+Telepass
+Terranova (Teddy)
+Tezenis (Oniverse)
+Tigota (Gottardo)
+Tigros
+Tiscali
+Tod s Group
+Toyota Motor Italia
+Trony
+Tuodi / Todis
+Twinset
+UniCredit
+Unieuro
+UnipolSai
+Valentino
+Verde (caldo) con accessibilita Buona/Media: in target, si muove ora ed e raggiungibile. Parti da questi.
+Versace
+Verti Assicurazioni (Gruppo MAPFRE)
+Very Mobile (WindTre)
+Vittoria Assicurazioni
+Vodafone Italia
+Volkswagen Group Italia
+Volvo Car Italia
+Warner Bros. Discovery Italia
+Widiba
+WindTre
+Woolrich
+Yamaha Motor Italia
+Yamamay (Inticom)
+Younited Credit
+Zonin1821
+Zurich Italia
+ho. Mobile (Vodafone)
+illycaffe
+laFeltrinelli
+
+CLIENTI GIA EUREWEB (escludere sempre):
+Pirelli
+Maserati
+Kawasaki
+MV Agusta
+Peugeot
+Citroen
+Suzuki
+Subaru
+Kia
+Mitsubishi
+Chevrolet
+Piaggio
+NIU
+Metzeler
+Luna Rossa
+Driver
+MAK
+Brixton
+Biauto
+Armani
+Fondazione Prada
+Damiani
+Citizen
+Breil
+Bulova
+Frederique Constant
+Golden Point
+Golden Lady
+Motivi
+Carpisa
+Arena
+Iceberg
+Salewa
+UPIM
+Acqua dell Elba
+Locman
+Pompea
+Camomilla
+Clinians
+Natura Verde
+Geomar
+Revita Care
+Sodalis
+ACBC
+Vic Matie
+Cafe Noir
+Simonetta
+Liabel
+Sport Specialist
+Cisalfa
+Scarpe e Scarpe
+Nicla
+Coop
+Mutti
+Garofalo
+Pernigotti
+Carapelli
+Caffarel
+Amica Chips
+Tennent s
+Fileni
+Frescobaldi
+Pellini
+Bofrost
+Recla
+Witor s
+L Angelica
+Fresco Pesce
+Il Pescatore
+Cassina
+Poltrona Frau
+Snaidero
+Piscine Castiglione
+Grandform
+Edilkamin
+Samsung
+Acer
+Lenovo
+Euronics
+Media World
+Energizer
+Fujitsu
+Sharp
+Sennheiser
+Olympia Splendid
+Konica Minolta
+iRobot
+Olympus
+Polti
+Meliconi
+Cerved
+Henkel
+GLS
+Sisal
+WEBUILD
+Sant Anna
+Hangar
+Tupperware
+Einhell
+Motul
+Brico.io
+Upower
+Weber
+MaxMeyer
+Plan Hotel
+GioStyle
+Urban Fitness
+Marka
+Martini
+North Sails

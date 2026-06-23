@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy-deep:#0b1740;
+    --navy:#15296b;
+    --navy-mid:#2f4f9c;
+    --gold:#d4af6a;
+    --gold-deep:#c19a4d;
+    --gold-light:#f1e3b8;
+    --cream:#f8f4ea;
+    --cream-2:#f2ece0;
+    --ink:#13234f;       /* deep navy text, never black */
+    --ink-soft:#3a4a73;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#cdd2dd;font-family:'Manrope',sans-serif}
+  .slide{
+    width:1280px;height:720px;position:relative;overflow:hidden;
+    margin:0 auto 26px;color:var(--ink);
+  }
+  .display{font-family:'Fraunces',serif;font-weight:600;letter-spacing:-.5px}
+  .logo{height:34px}
+  .logobox{background:var(--navy-deep);border-radius:10px;padding:9px 16px;display:inline-flex}
+  .logobox .logo{height:26px}
+  .kicker{font-size:13px;letter-spacing:3.5px;text-transform:uppercase;font-weight:700;color:var(--gold-deep)}
+
+  /* ---------- SLIDE 1 : COVER ---------- */
+  .cover{background:
+      radial-gradient(120% 90% at 85% 15%, #1d367f 0%, var(--navy) 38%, var(--navy-deep) 100%);
+    color:var(--cream)}
+  .cover .grain{position:absolute;inset:0;opacity:.5;
+    background:
+      radial-gradient(circle at 78% 30%, rgba(212,175,106,.22), transparent 42%),
+      radial-gradient(circle at 12% 88%, rgba(212,175,106,.10), transparent 45%)}
+  .cover .rings{position:absolute;right:-160px;top:-140px;width:620px;height:620px;border-radius:50%;
+    border:1.5px solid rgba(212,175,106,.35);
+    box-shadow:0 0 0 60px rgba(212,175,106,.05), inset 0 0 0 90px rgba(212,175,106,.04)}
+  .cover .rings::after{content:"";position:absolute;inset:130px;border-radius:50%;border:1.5px solid rgba(212,175,106,.25)}
+  .cover .pad{position:relative;z-index:2;height:100%;padding:62px 72px;display:flex;flex-direction:column}
+  .cover h1{font-size:62px;line-height:1.04;max-width:760px;margin-top:auto;color:#fff}
+  .cover h1 em{font-style:italic;color:var(--gold)}
+  .cover .sub{margin-top:26px;font-size:19px;line-height:1.5;max-width:560px;color:#d9e0f0;font-weight:400}
+  .cover .ded{margin-top:auto;border-top:1px solid rgba(212,175,106,.4);padding-top:22px;display:flex;justify-content:space-between;align-items:flex-end}
+  .cover .ded .lab{font-size:12px;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold);font-weight:700}
+  .cover .ded .name{font-family:'Fraunces',serif;font-size:30px;color:#fff;margin-top:6px}
+  .cover .ded .meta{text-align:right;font-size:13px;color:#aeb9d6;line-height:1.6}
+
+  /* ---------- SLIDE 2 : CHI SIAMO ---------- */
+  .s2{background:linear-gradient(160deg,var(--cream) 0%, var(--cream-2) 100%)}
+  .s2 .pad{padding:62px 72px;height:100%;display:flex;flex-direction:column}
+  .topbar{display:flex;justify-content:space-between;align-items:center}
+  .topbar .logo{filter:none}
+  .pagenum{font-size:12px;letter-spacing:2px;color:var(--gold-deep);font-weight:700}
+  .s2 h2{font-size:46px;line-height:1.08;margin-top:40px;max-width:720px}
+  .s2 h2 span{color:var(--gold-deep)}
+  .s2 .lead{margin-top:22px;font-size:17.5px;line-height:1.6;max-width:680px;color:var(--ink-soft)}
+  .s2 .lead b{color:var(--ink)}
+  .stats{margin-top:auto;display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+  .stat{background:#fff;border:1px solid #e7dec9;border-radius:18px;padding:26px 24px;
+    box-shadow:0 18px 40px -28px rgba(21,41,107,.45)}
+  .stat .n{font-family:'Fraunces',serif;font-size:46px;font-weight:600;color:var(--navy);line-height:1}
+  .stat .n small{font-size:24px;color:var(--gold-deep)}
+  .stat .t{margin-top:10px;font-size:14.5px;line-height:1.45;color:var(--ink-soft);font-weight:500}
+
+  /* ---------- SLIDE 3 : METODO ---------- */
+  .s3{background:linear-gradient(160deg,var(--cream) 0%, var(--cream-2) 100%)}
+  .s3 .pad{padding:62px 72px;height:100%;display:flex;flex-direction:column}
+  .s3 h2{font-size:46px;margin-top:40px}
+  .s3 h2 span{color:var(--gold-deep)}
+  .s3 .intro{margin-top:16px;font-size:16.5px;color:var(--ink-soft);max-width:640px;line-height:1.55}
+  .steps{margin-top:auto;display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+  .step{position:relative;background:#fff;border:1px solid #e7dec9;border-radius:16px;padding:26px 22px 24px;
+    box-shadow:0 18px 40px -30px rgba(21,41,107,.45)}
+  .step .idx{width:40px;height:40px;border-radius:11px;display:flex;align-items:center;justify-content:center;
+    font-family:'Fraunces',serif;font-weight:600;font-size:19px;color:var(--navy-deep);
+    background:linear-gradient(135deg,var(--gold-light),var(--gold))}
+  .step h3{margin-top:18px;font-size:18px;color:var(--ink);font-weight:700}
+  .step p{margin-top:9px;font-size:13.5px;line-height:1.5;color:var(--ink-soft)}
+  .step::after{content:"";position:absolute;left:0;top:24px;width:3px;height:40px;border-radius:3px;background:var(--gold)}
+
+  /* ---------- SLIDE 4 : PREVENTIVO ---------- */
+  .s4{background:radial-gradient(120% 100% at 15% 10%, #1d367f 0%, var(--navy) 42%, var(--navy-deep) 100%);color:var(--cream)}
+  .s4 .glow{position:absolute;inset:0;background:radial-gradient(circle at 88% 80%, rgba(212,175,106,.16), transparent 45%)}
+  .s4 .pad{position:relative;z-index:2;padding:58px 72px;height:100%;display:flex;flex-direction:column}
+  .s4 .topbar .pagenum{color:var(--gold)}
+  .s4 h2{font-size:44px;margin-top:30px;color:#fff}
+  .s4 h2 span{color:var(--gold)}
+  .quote{margin-top:30px;background:rgba(255,255,255,.05);border:1px solid rgba(212,175,106,.3);border-radius:18px;overflow:hidden}
+  .qrow{display:grid;grid-template-columns:1fr auto;gap:20px;padding:20px 30px;align-items:center;border-bottom:1px solid rgba(255,255,255,.08)}
+  .qrow:last-child{border-bottom:none}
+  .qrow .d .h{font-size:16.5px;font-weight:700;color:#fff}
+  .qrow .d .s{font-size:13px;color:#b9c4e0;margin-top:3px}
+  .qrow .p{font-family:'Fraunces',serif;font-size:24px;font-weight:600;color:var(--gold-light);white-space:nowrap}
+  .qtot{display:flex;justify-content:space-between;align-items:center;margin-top:22px;
+    background:linear-gradient(135deg,var(--gold) 0%, var(--gold-deep) 100%);border-radius:16px;padding:20px 32px;color:var(--navy-deep)}
+  .qtot .lab{font-size:13px;letter-spacing:2.5px;text-transform:uppercase;font-weight:800}
+  .qtot .v{font-family:'Fraunces',serif;font-size:38px;font-weight:700}
+  .qtot .v small{font-size:14px;font-weight:600;letter-spacing:1px}
+  .s4 .foot{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;padding-top:22px;
+    border-top:1px solid rgba(212,175,106,.3);font-size:12.5px;color:#aeb9d6;line-height:1.6}
+  .s4 .foot b{color:var(--gold-light)}
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1 -->
+<section class="slide cover">
+  <div class="grain"></div><div class="rings"></div>
+  <div class="pad">
+    <img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales">
+    <h1 class="display">Appuntamenti <em>qualificati</em>,<br>non semplici contatti.</h1>
+    <p class="sub">Generiamo conversazioni con decisori realmente interessati attraverso AI Voice e setter dedicati. Tu chiudi, al resto pensiamo noi.</p>
+    <div class="ded">
+      <div>
+        <div class="lab">Progetto dedicato a</div>
+        <div class="name display">[ Nome Cliente ]</div>
+      </div>
+      <div class="meta">Proposta commerciale<br>Giugno 2026</div>
+    </div>
+  </div>
+</section>
+
+<!-- SLIDE 2 -->
+<section class="slide s2">
+  <div class="pad">
+    <div class="topbar">
+      <span class="logobox"><img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales"></span>
+      <div class="pagenum">01 — CHI SIAMO</div>
+    </div>
+    <h2 class="display">Il tuo reparto vendite <span>esterno</span>, già operativo.</h2>
+    <p class="lead">Telesales costruisce e gestisce il processo di <b>acquisizione clienti B2B</b> per te: liste profilate, contatto via AI Voice e setter umani, qualifica del lead e <b>appuntamento fissato in agenda</b>. Un unico referente, dati tracciati nel CRM.</p>
+    <div class="stats">
+      <div class="stat"><div class="n">+15<small>k</small></div><div class="t">contatti lavorati ogni mese sui progetti attivi</div></div>
+      <div class="stat"><div class="n">3<small>×</small></div><div class="t">canali combinati: AI Voice, telefono, outreach social</div></div>
+      <div class="stat"><div class="n">48<small>h</small></div><div class="t">dal via al progetto ai primi appuntamenti in agenda</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- SLIDE 3 -->
+<section class="slide s3">
+  <div class="pad">
+    <div class="topbar">
+      <span class="logobox"><img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales"></span>
+      <div class="pagenum">02 — IL METODO</div>
+    </div>
+    <h2 class="display">Dal contatto freddo all'<span>appuntamento</span>.</h2>
+    <p class="intro">Quattro fasi sequenziali, gestite dal nostro team. Tu ricevi solo lead pronti a parlare.</p>
+    <div class="steps">
+      <div class="step"><div class="idx">1</div><h3>Liste &amp; setup</h3><p>Definiamo il target ideale e costruiamo liste profilate e arricchite per il tuo settore.</p></div>
+      <div class="step"><div class="idx">2</div><h3>Primo contatto</h3><p>AI Voice e setter avviano la conversazione, presentano l'offerta e filtrano i non interessati.</p></div>
+      <div class="step"><div class="idx">3</div><h3>Qualifica</h3><p>Solo i decisori realmente interessati passano lo step. Note ed esiti tracciati nel CRM.</p></div>
+      <div class="step"><div class="idx">4</div><h3>Appuntamento</h3><p>Fissiamo la call o l'incontro direttamente nella tua agenda. A te resta chiudere.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- SLIDE 4 -->
+<section class="slide s4">
+  <div class="glow"></div>
+  <div class="pad">
+    <div class="topbar">
+      <img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png" alt="Telesales">
+      <div class="pagenum">03 — LA PROPOSTA</div>
+    </div>
+    <h2 class="display">La nostra <span>proposta</span> per te.</h2>
+    <div class="quote">
+      <div class="qrow"><div class="d"><div class="h">Setup &amp; liste profilate</div><div class="s">Target, scraping e arricchimento dati — una tantum</div></div><div class="p">€ 1.500</div></div>
+      <div class="qrow"><div class="d"><div class="h">Gestione campagna mensile</div><div class="s">AI Voice + setter, qualifica, CRM e reportistica</div></div><div class="p">€ 2.500<span style="font-size:14px">/mese</span></div></div>
+      <div class="qrow"><div class="d"><div class="h">Performance fee per appuntamento</div><div class="s">Solo su appuntamento qualificato andato a buon fine</div></div><div class="p">€ 40<span style="font-size:14px">/appt.</span></div></div>
+    </div>
+    <div class="qtot">
+      <div class="lab">Investimento primo mese</div>
+      <div class="v">€ 4.000 <small>+ IVA</small></div>
+    </div>
+    <div class="foot">
+      <div><b>Telesales</b> · proposta valida 15 giorni<br>info@telesales.it · telesales.it</div>
+      <div style="text-align:right">Cifre indicative di bozza —<br>da tarare sul progetto reale.</div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "riassunto": "Startup Bakery e' uno startup studio di Milano specializzato nella costruzione di startup B2B SaaS con componenti di intelligenza artificiale. Lavora con aspiranti co-founder, PMI e investitori professionali per creare nuovi business e business unit con metodologia lean.",
+  "pain_point": "Per alimentare lo studio servono continuamente nuove aziende e investitori da coinvolgere: senza un flusso strutturato di appuntamenti con PMI e corporate, la pipeline di nuove venture dipende dal solo network dei partner.",
+  "hook": "ho visto che costruite startup B2B SaaS con AI da Milano lavorando con co-founder, PMI e investitori professionali",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sul sito, meglio la variante generica sul ruolo.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://startup-bakery.com/en/",
+  "nome_azienda": "Startup Bakery",
+  "nome_decisore": "",
+  "ruolo_decisore": "Founder / Managing Partner",
+  "email": "",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "startup-bakery.com",
+  "pagine_lette": ["https://startup-bakery.com/en/"]
+}

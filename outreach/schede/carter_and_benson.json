@@ -1,0 +1,20 @@
+{
+  "riassunto": "Carter And Benson e' una societa' milanese di consulenza aziendale e headhunting fondata nel 2003, con executive search, selezione di middle management e una strategy division per consulenza organizzativa. Dichiara oltre 7.500 progetti con piu' di 1.000 clienti, e' membro di IMD International Search Group, Societa' Benefit dal 2021 e B Corp certificata dal 2023.",
+  "pain_point": "L'executive search e' un mercato competitivo dove i mandati arrivano in gran parte da relazioni e referenze: e' plausibile che l'acquisizione proattiva di nuovi clienti aziendali sia poco presidiata rispetto alla gestione dei mandati esistenti.",
+  "hook": "ho visto che siete B Corp dal 2023 e avete superato i 7.500 progetti di executive search con oltre 1.000 clienti",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale non evidente dal sito, resta la variante questionario di default del pool.",
+  "da_verificare": "Email e' un pattern non verificato (dominio carterbenson.com senza 'and'); confermare ruolo attuale di William Griffini.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Carter And Benson",
+  "nome_decisore": "William Griffini",
+  "ruolo_decisore": "Chief executive officer e partner",
+  "email": "william.griffini@carterbenson.com",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "Consulenza gestionale",
+  "website": "carterbenson.com",
+  "slug": "carter_and_benson",
+  "pagine_lette": ["https://carterbenson.com"]
+}

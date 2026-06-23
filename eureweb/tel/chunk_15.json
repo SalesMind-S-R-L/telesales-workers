@@ -1,0 +1,149 @@
+[
+{
+"n": 407,
+"azienda": "Iveco Group",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "iveco.com"
+},
+{
+"n": 408,
+"azienda": "KTM Italia",
+"settore": "Automotive",
+"sede": "Milano",
+"sito": "ktm.com"
+},
+{
+"n": 409,
+"azienda": "Lexus Italia",
+"settore": "Automotive",
+"sede": "Roma",
+"sito": "lexus.it"
+},
+{
+"n": 410,
+"azienda": "Mazda Italia",
+"settore": "Automotive",
+"sede": "Roma",
+"sito": "mazda.it"
+},
+{
+"n": 411,
+"azienda": "Michelin Italia",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "michelin.it"
+},
+{
+"n": 412,
+"azienda": "Nissan Italia",
+"settore": "Automotive",
+"sede": "Capena (RM)",
+"sito": "nissan.it"
+},
+{
+"n": 413,
+"azienda": "Opel Italia",
+"settore": "Automotive",
+"sede": "Torino",
+"sito": "opel.it"
+},
+{
+"n": 414,
+"azienda": "Skoda Italia",
+"settore": "Automotive",
+"sede": "Verona",
+"sito": "skoda-auto.it"
+},
+{
+"n": 415,
+"azienda": "Bennet",
+"settore": "Retail & GDO",
+"sede": "Montano Lucino (CO)",
+"sito": "bennet.com"
+},
+{
+"n": 416,
+"azienda": "Bricoman Italia",
+"settore": "Retail & GDO",
+"sede": "Rozzano (MI)",
+"sito": "bricoman.it"
+},
+{
+"n": 417,
+"azienda": "Eataly",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "eataly.it"
+},
+{
+"n": 418,
+"azienda": "Gruppo Pam (Pam Panorama)",
+"settore": "Retail & GDO",
+"sede": "Spinea (VE)",
+"sito": "gruppopam.it"
+},
+{
+"n": 419,
+"azienda": "OBI Italia",
+"settore": "Retail & GDO",
+"sede": "Milano",
+"sito": "obi-italia.it"
+},
+{
+"n": 420,
+"azienda": "Acea",
+"settore": "Telco / Energia-Utility",
+"sede": "Roma",
+"sito": "acea.it"
+},
+{
+"n": 421,
+"azienda": "Credem",
+"settore": "Finance & Insurance",
+"sede": "Reggio Emilia",
+"sito": "credem.it"
+},
+{
+"n": 422,
+"azienda": "FinecoBank",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "finecobank.com"
+},
+{
+"n": 423,
+"azienda": "Mastercard Italia",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "mastercard.it"
+},
+{
+"n": 424,
+"azienda": "Zurich Italia",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "zurich.it"
+},
+{
+"n": 425,
+"azienda": "Magna Tyres / Marangoni",
+"settore": "Automotive",
+"sede": "Rovereto (TN)",
+"sito": "marangoni.com"
+},
+{
+"n": 426,
+"azienda": "Pelliconi",
+"settore": "Automotive",
+"sede": "Ozzano dell'Emilia (BO)",
+"sito": "pelliconi.com"
+},
+{
+"n": 427,
+"azienda": "Eurovita / Cronos Vita",
+"settore": "Finance & Insurance",
+"sede": "Milano",
+"sito": "eurovita.it"
+}
+]

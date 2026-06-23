@@ -1,0 +1,18 @@
+{
+  "riassunto": "Akamas offre una piattaforma di ottimizzazione autonoma basata su reinforcement learning brevettato per applicazioni cloud-native e Kubernetes, con promesse di riduzione dei costi cloud fino al 60% e performance migliorate del 30%. Si rivolge a DevOps, SRE e platform engineer, con clienti come Sisal, Navan e TeamSystem.",
+  "pain_point": "Vendita enterprise tecnica con ciclo lungo: arrivare ai responsabili infrastruttura e platform engineering delle aziende giuste richiede una prospezione mirata e costante, e ogni POC parte da una conversazione che qualcuno deve procurare; il rischio e' una pipeline che dipende troppo da rete personale ed eventi.",
+  "hook": "ho visto che la vostra piattaforma di ottimizzazione Kubernetes promette fino al 60% di riduzione dei costi cloud, con clienti come Sisal e TeamSystem",
+  "variante_email": "B",
+  "motivo_variante": "Azienda strutturata con clienti enterprise di peso e vendita tecnica complessa: il pain commerciale non emerge dal sito, meglio il questionario di valutazione.",
+  "da_verificare": "Verificare su LinkedIn se Luca Forni e' ancora CEO e se Akamas ha gia' una struttura sales/SDR dedicata o vende tramite partner.",
+  "scheda_completa": true,
+  "nome_azienda": "Akamas",
+  "nome_decisore": "Luca Forni",
+  "ruolo_decisore": "Chief executive officer & co-founder",
+  "email": "luca.forni@akamas.io",
+  "telefono": "+393482867937",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "akamas.io",
+  "pagine_lette": ["https://akamas.io"]
+}

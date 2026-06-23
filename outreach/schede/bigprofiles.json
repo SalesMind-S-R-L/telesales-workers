@@ -1,0 +1,18 @@
+{
+  "riassunto": "Elai Agent (Bigprofiles) e' una piattaforma di AI generativa che crea in autonomia modelli predittivi dai dati grezzi, senza bisogno di un team di data scientist: propensione all'acquisto in tempo reale, previsione churn a 30 giorni e raccomandazione del prossimo prodotto. Dichiara oltre 100 aziende clienti in 15 paesi, dal telco al banking, con casi come +25% vendite e +44% conversioni.",
+  "pain_point": "Vendono una piattaforma enterprise a telco, banche e grandi aziende: cicli di vendita lunghi e necessita' costante di arrivare ai decisori giusti (CRM, marketing, data) con meeting qualificati. E' plausibile che il collo di bottiglia sia il volume di primi appuntamenti con account nuovi, non la chiusura.",
+  "hook": "ho visto che la vostra piattaforma costruisce modelli predittivi in ore invece che mesi, con casi come +25% di vendite e +44% di conversioni su clienti telco e banking",
+  "variante_email": "A",
+  "motivo_variante": "SaaS enterprise con vendita outbound a decisori difficili da raggiungere: il pain sui meeting qualificati e' chiaro.",
+  "da_verificare": "Verificare su LinkedIn se Roberto Visceglia e' COO di Bigprofiles o di Elai Agent (il dominio email e' elaiagent.com) e chi guida oggi le vendite.",
+  "scheda_completa": true,
+  "nome_azienda": "Bigprofiles",
+  "nome_decisore": "Roberto Visceglia",
+  "ruolo_decisore": "Chief operating officer & co-founder",
+  "email": "roberto.visceglia@elaiagent.com",
+  "telefono": "+393802891005",
+  "citta": "Rome",
+  "settore": "IT / Software",
+  "website": "elaiagent.com",
+  "pagine_lette": ["https://elaiagent.com"]
+}

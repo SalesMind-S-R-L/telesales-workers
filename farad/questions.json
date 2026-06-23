@@ -1,0 +1,36 @@
+{
+  "titolo": "Onboarding Farad SRL - punti aperti dopo la call",
+  "come_usare": "La call di onboarding ha gia coperto target, geografia, processo e KPI. Qui restano i punti da chiudere per partire venerdi 19/6. Rispondere a voce o via WhatsApp.",
+  "insight_settore": [
+    {"titolo": "1. Platea enorme", "testo": "In Italia oltre 250.000 ingegneri, ~154.000 architetti, ~76.000 geometri liberi professionisti: il rilievo e' attivita quotidiana per tutti loro."},
+    {"titolo": "2. Mercato in crescita", "testo": "Rilievo 3D e gemello digitale crescono a doppia cifra; chi non digitalizza resta indietro."},
+    {"titolo": "3. Preconcetto prezzo", "testo": "Il freno n.1 e' pensare che un laser scanner costi 20.000 euro: la fascia di ingresso e' molto piu bassa."},
+    {"titolo": "4. Obbligo BIM", "testo": "Dal 2025 BIM obbligatorio sugli appalti pubblici sopra 2 mln: leva forte per chi lavora col pubblico."},
+    {"titolo": "5. Onda Superbonus", "testo": "Enorme mole di esistente da rilevare e digitalizzare dopo i bonus: domanda strutturale."}
+  ],
+  "macro_aree": [
+    {"nome": "MACRO A - Lista e target", "intro": "", "domande": [
+      {"titolo": "Validazione lista", "testo": "Ti mandiamo la prima lista (~73 nomi per segmento): ci sono aziende da togliere perche gia clienti caldi, in trattativa o partner da non toccare?", "prio": 1},
+      {"titolo": "Quale prodotto spingere per primo", "testo": "Nel messaggio di aggancio puntiamo sull'entry da ~1.700 (volume) o sul laser scanner mobile/SLAM (alto valore)? O lasciamo aperto vendita+noleggio?", "prio": 2},
+      {"titolo": "Filtro fine carriera", "testo": "Come gestiamo l'esclusione dei profili vicini alla pensione (poco propensi a investire)? C'e un criterio pratico oltre al buonsenso del setter?", "prio": 4},
+      {"titolo": "Conferma confini geografici", "testo": "Confermi esclusione totale di Marche, Puglia e Trentino-Alto Adige? Sicilia ed Emilia-Romagna le lavoriamo segnalandoti i nomi cosi coordini coi collaboratori?", "prio": 6}
+    ]},
+    {"nome": "MACRO B - Messaggio e decisore", "intro": "", "domande": [
+      {"titolo": "Casi e nomi citabili", "testo": "Quali lavori, clienti o 'concorrenti in zona che ce l'hanno gia' possiamo nominare in chiamata per fare leva?", "prio": 3},
+      {"titolo": "Decisore nelle aziende grandi", "testo": "Nelle societa strutturate come arriviamo a 'chi fa rilievi/misure'? Hai un titolo/ruolo tipo da cercare?", "prio": 5},
+      {"titolo": "Materiali di aggancio", "testo": "Hai un video demo breve (60-90s) o una scheda da inviare via mail/WhatsApp dopo la chiamata per scaldare il prospect?", "prio": 7},
+      {"titolo": "Leva noleggio", "testo": "Possiamo proporre esplicitamente la prova/noleggio breve come gancio per fissare l'appuntamento?", "prio": 9}
+    ]},
+    {"nome": "MACRO C - Operativita", "intro": "", "domande": [
+      {"titolo": "Link calendario", "testo": "Ci condividi il link del tuo calendario (Squad) con gia la regola lun-mer per fissare le videochiamate?", "prio": 8},
+      {"titolo": "Gruppo WhatsApp", "testo": "Confermi il gruppo WhatsApp operativo per le comunicazioni rapide e il passaggio appuntamenti?", "prio": 10},
+      {"titolo": "Promemoria appuntamenti", "testo": "Vuoi che mandiamo un promemoria al prospect prima della videochiamata per alzare lo show rate?", "prio": 12},
+      {"titolo": "Tracking", "testo": "Per ora partiamo 'staccati' dal tuo CRM: ti basta il nostro foglio con esiti e appuntamenti, o vuoi campi specifici tracciati?", "prio": 13}
+    ]}
+  ],
+  "kpi": [
+    {"titolo": "Conferma obiettivo", "testo": "Confermi 4-5 appuntamenti/settimana (~20/mese) come target, qualita prima della quantita?", "prio": 11},
+    {"titolo": "Cadenza review", "testo": "Primo checkpoint il 26/6 e poi review settimanale: ti va bene come cadenza per aggiustare target A/B?", "prio": 14}
+  ],
+  "chiusura": "Con queste risposte chiudiamo i requisiti e partiamo venerdi 19/6. Grazie Cristiano."
+}

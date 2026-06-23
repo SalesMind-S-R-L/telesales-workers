@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ef-landing",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8911", "--directory", "/Users/simocors/Desktop/telesales/evoluzione_fiscale/landing"],
+      "port": 8911
+    },
+    {
+      "name": "osm-firenze",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/tmp/osm_preview/serve.py"],
+      "port": 8913
+    },
+    {
+      "name": "uztech-landing",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/tmp/uztech_preview/serve.py"],
+      "port": 8914
+    }
+  ]
+}

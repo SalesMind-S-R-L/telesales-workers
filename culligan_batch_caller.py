@@ -72,7 +72,7 @@ COL_DATA_CHIAMATA = 6    # G - DATA DELLA CHIAMATA
 COL_DATA_APPUNTAMENTO = 7  # H - DATA DELL'APPUNTAMENTO
 
 DEFAULT_BATCH_LIMIT = 10
-CONCURRENCY = 1  # Chiamate simultanee (1 = una alla volta)
+CONCURRENCY = 1  # 26/05 batch 16:30 — 60 min disponibili → safe sequenziale
 
 # ============================================================================
 # GOOGLE SHEETS
@@ -111,22 +111,34 @@ def mark_called(service, row_index, date_str):
 # ============================================================================
 
 def extract_categoria(note: str) -> str:
-    """Estrae la categoria dalle NOTE: [Hotel], [Ristorante], [Bar], etc."""
+    """Estrae la categoria dalle NOTE: [Hotel], [Ristorante], [Bar], [Cantina], [Pasticceria], etc.
+    Restituisce stringa SINGOLARE leggibile per il pitch dell'agent (es. 'cantina vinicola', 'pasticceria').
+    """
     if not note:
-        return "Attivita"
+        return "attivita"
     m = re.search(r"\[(\w+(?:\s+\w+)*)\]", note)
     if m:
         cat = m.group(1)
-        # Normalizza
         cat_lower = cat.lower()
-        if "hotel" in cat_lower or "albergo" in cat_lower:
+        # Specifiche prima delle generiche
+        if "cantina" in cat_lower or "weingut" in cat_lower:
+            return "cantina vinicola"
+        elif "enoteca" in cat_lower:
+            return "enoteca"
+        elif "pasticceria" in cat_lower or "konditorei" in cat_lower:
+            return "pasticceria"
+        elif "gelateria" in cat_lower:
+            return "gelateria"
+        elif "hotel" in cat_lower or "albergo" in cat_lower or "gasthof" in cat_lower or "gasthaus" in cat_lower:
             return "Hotel"
-        elif "ristorante" in cat_lower or "trattoria" in cat_lower or "pizzeria" in cat_lower:
+        elif "agriturismo" in cat_lower or "maso" in cat_lower:
+            return "agriturismo"
+        elif "ristorante" in cat_lower or "trattoria" in cat_lower or "pizzeria" in cat_lower or "osteria" in cat_lower:
             return "Ristorante"
-        elif "bar" in cat_lower or "cafe" in cat_lower or "caffe" in cat_lower:
+        elif "bar" in cat_lower or "cafe" in cat_lower or "caffe" in cat_lower or "pub" in cat_lower:
             return "Bar"
-        return cat
-    return "Attivita"
+        return cat.lower()
+    return "attivita"
 
 
 def normalize_phone(phone: str) -> str:
@@ -174,6 +186,19 @@ def safe_get(row, col, default=""):
 
 def submit_batch(call_name: str, recipients: list) -> dict:
     """Invia un batch di chiamate a ElevenLabs."""
+    # RETE DI SICUREZZA: scarta numeri non in E.164 valido (+39 + >=9 cifre).
+    # Evita il bug 05/06/2026 (numeri "0471 978994" => 0 connesse). Mai inviare numeri non validi.
+    good, bad = [], []
+    for r in recipients:
+        if is_valid_phone(r.get("phone_number", "")):
+            good.append(r)
+        else:
+            bad.append(r.get("phone_number", ""))
+    if bad:
+        print(f"[submit_batch] SCARTATI {len(bad)} numeri non validi (non E.164): {bad[:10]}")
+    if not good:
+        raise ValueError(f"submit_batch '{call_name}': nessun numero valido (tutti scartati). Controlla il formato dei telefoni.")
+    recipients = good
     url = f"{ELEVENLABS_BASE_URL}/v1/convai/batch-calling/submit"
     headers = {
         "xi-api-key": ELEVENLABS_API_KEY,
@@ -186,7 +211,7 @@ def submit_batch(call_name: str, recipients: list) -> dict:
         "recipients": recipients,
         "target_concurrency_limit": CONCURRENCY,
         "telephony_call_config": {
-            "ringing_timeout_secs": 60
+            "ringing_timeout_secs": 75
         },
     }
 
@@ -198,8 +223,29 @@ def submit_batch(call_name: str, recipients: list) -> dict:
 def build_recipient(phone: str, nome_azienda: str, categoria: str,
                      nome_titolare: str, indirizzo: str, note: str) -> dict:
     """Costruisce un recipient per il batch con le dynamic_variables del prompt."""
+    # Pitch specifico per categoria — inserito in note_extra così agent lo legge nei DATI CHIAMATA
+    cat_low = categoria.lower()
+    pitch_extra = ""
+    if "cantina" in cat_low:
+        pitch_extra = "PITCH SPECIFICO: Cantina vinicola. NON parlare di 'bar/ristorante'. Focus su acqua filtrata per la SALA DEGUSTAZIONE (al posto bottiglie servite ai visitatori), per il ristorante annesso se presente, per uffici. Il vino è il loro prodotto: tu offri acqua di qualità per i loro ospiti, complementare al vino. Cita anche le esigenze degli eventi/cantina aperta."
+    elif "pasticceria" in cat_low:
+        pitch_extra = "PITCH SPECIFICO: Pasticceria. NON parlare di 'bar/ristorante'. Focus: 1) Acqua filtrata per macchine caffè/espresso (qualità in tazza), 2) Acqua a calce zero per gli impasti (lievitazioni migliori, frollini più croccanti), 3) Per i clienti in sala (caraffe). Cita che lavorate con tante pasticcerie storiche."
+    elif "gelateria" in cat_low:
+        pitch_extra = "PITCH SPECIFICO: Gelateria. Focus su: 1) Acqua filtrata per produzione gelato (qualità impasti, sorbetti più puri), 2) Acqua a calce ridotta per macchine caffè, 3) Per i clienti seduti in sala."
+    elif "enoteca" in cat_low:
+        pitch_extra = "PITCH SPECIFICO: Enoteca. Focus: 1) Acqua naturale e frizzante alla spina per il servizio al banco (al posto bottiglie), 2) Per degustazioni guidate (pulisce il palato fra un vino e l'altro), 3) Riduzione costi vetro."
+    elif "agriturismo" in cat_low or "maso" in cat_low:
+        pitch_extra = "PITCH SPECIFICO: Agriturismo/Maso. Focus: 1) Acqua filtrata in sala ristorazione e per le camere ospiti, 2) Riduzione bottiglie plastica (sostenibilità coerente con filosofia agriturismo), 3) Servizio professionale che valorizza l'esperienza ospiti."
+
+    note_finale = note
+    if pitch_extra:
+        note_finale = f"{pitch_extra}\n\n[Info azienda]: {note}"
+
+    # SEMPRE normalizzare il telefono in E.164 (+39...) prima di inviare al batch.
+    # Bug 05/06/2026: numeri passati come "0471 978994" (formato display) => 0 connesse.
+    phone_e164 = normalize_phone(phone)
     return {
-        "phone_number": phone,
+        "phone_number": phone_e164,
         "conversation_initiation_client_data": {
             "dynamic_variables": {
                 "nome_azienda": nome_azienda,
@@ -207,7 +253,7 @@ def build_recipient(phone: str, nome_azienda: str, categoria: str,
                 "citta": "Bolzano",
                 "nome_titolare": nome_titolare,
                 "indirizzo": indirizzo,
-                "note_extra": note,
+                "note_extra": note_finale,
             }
         }
     }

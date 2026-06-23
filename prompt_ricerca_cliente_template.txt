@@ -1,0 +1,204 @@
+═══════════════════════════════════════════════════════════════════════════
+PROMPT TEMPLATE — RICERCA DI MERCATO + DELIVERABLE CLIENTE TELESALES
+Da incollare in nuova chat Claude Code per qualsiasi cliente Telesales
+═══════════════════════════════════════════════════════════════════════════
+
+LOGICA: non vogliamo replicare 1:1 quello fatto per Giglioli. Vogliamo replicare
+il METODO — ricerca di mercato fatta bene + sintesi in fogli/documenti chiari
+che diano valore concreto al cliente nella sua call di onboarding/strategia.
+Claude adattera la struttura ai dati e al settore del cliente specifico.
+
+ISTRUZIONI USO:
+1. Compila i [PLACEHOLDER] tra parentesi quadre con i dati del cliente
+2. Indica path dei file forniti dal cliente (se ce ne sono)
+3. Incolla tutto il blocco "INIZIO PROMPT" nella chat di Claude Code
+4. Claude lavorera autonomamente
+
+═══════════════════════════════════════════════════════════════════════════
+                          INIZIO PROMPT (copia da qui)
+═══════════════════════════════════════════════════════════════════════════
+
+Sei l'analista commerciale Telesales per il cliente [NOME_CLIENTE]. Devo arrivare alla call di onboarding/strategia con:
+(a) una ricerca di mercato di qualita fatta sul suo settore,
+(b) un'analisi del suo lavoro storico se ci sono dati,
+(c) deliverable professionali che sintetizzino tutto e gli diano valore concreto.
+
+Lavora autonomamente fino al risultato finale. Adatta la struttura dei deliverable al cliente specifico, non forzare uno schema preconfezionato. L'obiettivo e che il cliente esca dalla call dicendo "questi capiscono il mio mestiere".
+
+────────────────────────────────────────────────────────────────
+CONTESTO CLIENTE
+────────────────────────────────────────────────────────────────
+
+Nome azienda: [NOME_CLIENTE]
+Settore principale: [SETTORE — es. ricamo luxury, consulenza fiscale PMI, e-commerce nutraceutico, dental practice, agenzia immobiliare commerciale, software house, ecc.]
+Sottosettore / nicchia: [piu specifico — es. "trapuntato pelletteria luxury Toscana"]
+Geografia operativa: [REGIONE/PAESE/INTERNAZIONALE]
+Dimensione azienda: [FATTURATO STIMATO / N DIPENDENTI / da scoprire]
+Referente in call: [NOME — sara il decisore commerciale]
+Modello di business B2B / B2C / misto: [TIPOLOGIA]
+
+Cosa fanno operativamente (3-4 righe descrittive del lavoro reale):
+[DESCRIZIONE — come spiegherebbero a un loro nuovo cliente cosa offrono]
+
+Stato commerciale attuale (cosa li ha portati da Telesales):
+[PROBLEMA SPECIFICO — es. "in stand-by, perdono clienti storici" / "crescono ma senza processo" / "non riescono ad agganciare top brand" / "alta dipendenza da 3 clienti"]
+
+Cosa vogliono come risultato del progetto Telesales:
+[OBIETTIVO ESPLICITO E MISURABILE SE POSSIBILE]
+
+Eventuali vincoli espressi:
+- Chi NON vuole far chiamare ai setter (es. "i top brand li chiamo io"): [LIMITI]
+- Cosa vuole assolutamente delegare: [DELEGHE]
+- Budget/risorse interne disponibili: [SE NOTO]
+- Tempistica attesa: [SE NOTA]
+
+File forniti dal cliente (path assoluti, se ce ne sono):
+- [PATH FILE 1]
+- [PATH FILE 2]
+- [TRASCRIZIONE CALL SE DISPONIBILE — incollala sotto]
+
+NON modificare mai i file originali del cliente. Sempre read_only.
+
+────────────────────────────────────────────────────────────────
+COSA DEVI PRODURRE
+────────────────────────────────────────────────────────────────
+
+Crea cartella: /Users/simocors/Desktop/telesales/[NOME_CLIENTE_lowercase]/
+
+3-4 deliverable in formato Office (xlsx + pptx + docx). NO markdown, NO pdf, NO emoji.
+
+Composizione tipica (ADATTA al cliente, non e una formula rigida):
+
+A) MASTER OPERATIVO (xlsx)
+   Foglio Excel master con piu tab. Le tab devono coprire almeno:
+   - Una intro/indice che spieghi cosa contiene e come usare il file
+   - Un riepilogo numerico (KPI quantitativi del DB se c'e, o del mercato se non c'e DB)
+   - Un'analisi del lavoro storico (se forniti dati): clienti, segmentazione, lead caldi, attivi, dormienti, dropdown chiusi su Stato/Esito/Priorita
+   - Una sintesi degli insight di mercato (riassunto leggibile della ricerca)
+   - Una lista di prospect concreti emersi dalla ricerca (con campi: azienda, sede, perche e in target, decision maker tipico, canale di approccio, status)
+   - Un template ICP (Ideal Customer Profile) con le dimensioni rilevanti per QUEL settore (non forzare quelle di Giglioli — un dental practice ha dimensioni diverse da un ricamificio)
+   Stile: palette professionale 2-3 colori, intestazioni chiare, freeze panes, dropdown chiusi sui campi categorici, autofilter. Vedi /Users/simocors/Desktop/telesales/giglioli/Master_Giglioli_FINAL.xlsx come riferimento di qualita (NON da copiare struttura).
+
+B) PRESENTAZIONE DI SINTESI (pptx)
+   5-10 slide widescreen 16:9 che il referente possa leggere in 5-10 minuti e capire: dove sta il mercato, cosa abbiamo capito di lui, cosa proponiamo, cosa gli chiediamo.
+   Struttura tipica (adatta tu): cover, sintesi quadro, insight mercato, dove sono le opportunita, proposta di lavoro, domande aperte.
+   IMPORTANTE: NON proporre KPI quantitative stimate da noi (target chiamate/meeting/preventivi). Lascia la domanda al cliente nel docx. Le slide proposta devono dire "ecco come lavoriamo, i numeri di successo li definiamo insieme".
+
+C) DOMANDE PER LA CALL (docx)
+   Documento Word strutturato che il referente puo leggere prima della call o seguire durante. Deve contenere:
+   - Un riassunto degli insight di mercato chiave (3-5 punti)
+   - Le domande strutturate divise per area logica (riattivazione pregresso se applicabile, acquisizione nuovi, ICP, KPI, operativita)
+   - Una domanda obbligatoria sui KPI: "Cosa vuoi vedere a fine [TIMELINE PERTINENTE] per dire che ha funzionato?" — la chiediamo a LUI, non gli proponiamo target nostri
+   - Domande non-ovvie pensate per qualificare il sourcing (DNA tecnico distintivo, brand sognati + fail tecnici, clienti amplificatori vs bunker, claim difendibile, acquisizione da freddo storica) — adattate al settore
+   Stile: titoli colorati per area, page break tra parti, domande con keep_with_next per non spezzarle.
+
+D) DOSSIER RICERCA SETTORE (docx) — questo e il valore aggiunto reale
+   Word formattato (NO markdown, NO pdf) con la ricerca di mercato approfondita. Deve coprire:
+   - Stato del settore [SETTORE] [ANNO_CORRENTE]: dimensioni, trend, top player, distretti geografici se rilevante, andamento crescita/calo con dati e fonti citate
+   - Catena di valore e dinamiche di decisione: chi decide cosa, chi paga, chi consiglia, gerarchia degli interlocutori
+   - 3-5 trend strutturali che impattano il cliente: delocalizzazione, near-shoring, consolidamento, M&A, regulatory (GDPR, CSDDD, certificazioni), digitalizzazione, sostenibilita
+   - Come si vince un nuovo cliente in questo settore: timeline tipica di acquisizione, eventi/fiere/community rilevanti, strumenti commerciali standard (campionario / case study / demo / lookbook)
+   - Mappa concreta di 25-50 prospect aziendali NON nei clienti storici del cliente, divisi in categorie con: nome azienda, citta, perche e in target (1 riga). Categorie tagliate sul settore: per ricamificio = brand luxury + terzisti capo-commessa + pelletterie medie + emerging. Per dental practice = cliniche private + assicurazioni dentarie + studi medici + ortodontisti specializzati. Adatta tu.
+   - Decision maker tipici (titoli LinkedIn da cercare) + canali per arrivargli (referral, fiere, LinkedIn, cold email) + best practice cold email del settore
+   - 5 domande non-ovvie da fare al cliente per qualificare lo scouting reale
+   Fonti citate in chiusura. Vedi /Users/simocors/Desktop/telesales/giglioli/Dossier_ricerca_settore_FINAL.docx come riferimento di qualita.
+
+Se per il cliente specifico ha senso fare anche un quinto deliverable (es. uno script chiamate, una landing analysis, un competitor benchmark), fallo.
+
+────────────────────────────────────────────────────────────────
+PROCESSO DI LAVORO
+────────────────────────────────────────────────────────────────
+
+FASE 1 — Analisi DB cliente (se ci sono dati)
+Leggi i file forniti read-only. Estrai segnali utili: clienti totali dedup (normalizza nome upper+strip+spazi singoli), attivi recenti (12-24 mesi), dormienti, lead caldi (definizione adattata al settore: per terzista = campione non evoluto, per consulente = preventivo non chiuso, per agenzia = lead qualificato non convertito), trend volumi. Reporta sintesi in chat.
+
+Se non ci sono dati, segnalalo e procedi solo con la ricerca di mercato.
+
+FASE 2 — Ricerca di mercato (cuore del lavoro)
+Lancia un Agent general-purpose in background con WebSearch + WebFetch. Brief dell'agente:
+
+   "Prepara dossier strategico per cliente Telesales settore [SETTORE], geografia [GEOGRAFIA]. Cliente: [DESCRIZIONE_LAVORO]. Suoi clienti storici tipo: [LISTA TOP 30 dal DB se disponibile, altrimenti descrizione cliente tipo]. Stato attuale: [STATO]. Obiettivo: [OBIETTIVO].
+
+   Output 1500-2500 parole, 7 sezioni:
+   1. Stato del settore [ANNO_CORRENTE]: dimensioni, trend, top player, distretti, fonti citate
+   2. Catena di valore e dinamica di decisione nel settore
+   3. 3-5 trend strutturali rilevanti per il cliente (delocalizzazione, near-shoring, consolidamento, regulatory, tech)
+   4. Come si vince un nuovo cliente: timeline, eventi, strumenti commerciali standard
+   5. Mappa di 25-50 prospect concreti NON nei clienti storici, divisi in categorie sensate per il settore. Ogni nome: azienda, citta, 1 riga di perche e in target
+   6. Decision maker tipici + canali + best practice cold email del settore
+   7. 5 domande non-ovvie per qualificare lo scouting
+
+   Stile: punti concisi, no emoji, fonti citate dove conta. Salva in:
+   /Users/simocors/Desktop/telesales/[NOME_CLIENTE_lowercase]/research_dossier_RAW.md"
+
+FASE 3 — Costruzione deliverable
+Mentre l'agente lavora in background, costruisci xlsx + pptx + docx skeleton (cover, struttura, tab/slide vuote o con placeholder). Quando l'agente finisce, leggi il file .md e integra:
+- Sintesi insight in xlsx (tab insight) + pptx (slide insight) + docx domande (parte 1)
+- Lista prospect in xlsx (tab prospect) + pptx (slide mappa) + docx dossier
+- 5 domande non-ovvie in docx domande + pptx (slide domande)
+- Converti il .md in Dossier_ricerca_settore_FINAL.docx ben formattato (NO markdown nei deliverable finali). Elimina il .md.
+
+FASE 4 — Quality check e finalizzazione
+- Una sola versione FINAL per file (niente v1/v2/v3 intermedie residue)
+- Pass accenti italiani (sia apostrofo dritto che curly): gia'/perche'/qualita'/capacita'/e'/c'e'/puo'/cosi'/piu'/pero'/sara'/fara'/andra'/potra'/dovra'/venerdi'/si' affermativo. Sostituisci con à è é ì ò ù corrette
+- Verifica date: tutte le menzioni di date devono essere coerenti con la data odierna. Date passate vanno aggiornate all'edizione successiva (es. fiere di febbraio quando siamo a giugno = edizione settembre)
+- Verifica numero slide pptx coerente con il footer
+- Sanity check: zero placeholder residui tipo "<TBD>" o "[da compilare]" o nomi cliente sbagliati
+
+────────────────────────────────────────────────────────────────
+PRINCIPI NON NEGOZIABILI
+────────────────────────────────────────────────────────────────
+
+1. NO EMOJI in nessun deliverable. Mai. In nessun file.
+2. NO KPI nostre stimate (es. "20 chiamate/giorno", "5 meeting", "40 dossier"). I numeri di successo li decide il cliente in call. Le cadenze operative di realta (es. "il setter X fa 15 chiamate/giorno") sono OK perche sono dati di carico di lavoro, non target.
+3. Italiano professionale e asciutto. No fronzoli, no "ovviamente / in sostanza / praticamente / sostanzialmente".
+4. Mai inventare numeri di telefono o email se non sono nei dati. Campo vuoto e segnala.
+5. Dropdown chiusi sui campi categorici (Stato, Esito, Priorita, Tipo, Match) negli xlsx — mai testo libero su quei campi.
+6. Solo formati Office: xlsx + pptx + docx. NO markdown, NO pdf nei deliverable finali.
+7. File originali del cliente: read_only sempre. MAI sovrascrivere o modificare.
+8. Una sola cartella di lavoro per cliente, naming pulito. Elimina i file di scarto.
+9. Adatta struttura al cliente: il framework guida la profondita e il metodo, non impone tab/slide identiche a Giglioli.
+10. La ricerca di mercato deve essere ricca di sostanza: trend con dati e fonti, prospect concreti con nomi reali, decision maker con titoli LinkedIn, non genericita.
+
+────────────────────────────────────────────────────────────────
+REPORT FINALE IN CHAT
+────────────────────────────────────────────────────────────────
+
+Al termine reporta in chat (max 400 parole):
+1. Path dei deliverable finali
+2. Numeri chiave del DB (se analizzato) o struttura del mercato (se solo ricerca)
+3. 5-7 messaggi chiave da portare in call (mix mercato + strategia proposta)
+4. Conferma file originali intatti
+5. Eventuali domande aperte che richiedono input umano prima della call
+
+Procedi autonomamente. Se manca informazione critica, segnala chiaramente e proponi alternativa concreta.
+
+═══════════════════════════════════════════════════════════════════════════
+                          FINE PROMPT
+═══════════════════════════════════════════════════════════════════════════
+
+NOTE OPERATIVE PER SIMONE:
+
+Riferimento di qualita finale: /Users/simocors/Desktop/telesales/giglioli/
+   - Master_Giglioli_FINAL.xlsx
+   - Sintesi_Giglioli_FINAL.pptx (in realta Giglioli_Sintesi_FINAL.pptx)
+   - Domande_per_Massimo_FINAL.docx
+   - Dossier_ricerca_settore_FINAL.docx
+
+Quando avvii la nuova chat Claude Code:
+1. Working directory: /Users/simocors/Desktop/telesales
+2. Compila i 12 placeholder del prompt con i dati del cliente
+3. Incolla e premi invio
+4. ~15-30 min di lavoro autonomo (deep research in background)
+5. Riceverai report finale + path dei 3-4 file finali
+
+Se il cliente e di un settore molto diverso da Giglioli (es. dental, SaaS, e-commerce, immobiliare), Claude adattera autonomamente:
+   - Le categorie di prospect (no "brand luxury / terzisti" ma "cliniche private / assicurazioni dentarie")
+   - Le dimensioni ICP (no "aghi macchina" ma "n. studi / aree di specializzazione")
+   - I trend rilevanti (no "delocalizzazione Albania" ma "consolidamento catene dental")
+   - Le fiere/eventi (no "Lineapelle" ma "Expodental")
+   - Le timeline di acquisizione cliente
+
+Cosi il framework regge su qualsiasi settore B2B serio.
+
+Per dubbi sulla qualita attesa: confronta sempre con /telesales/giglioli/ come benchmark.

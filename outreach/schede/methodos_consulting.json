@@ -1,0 +1,20 @@
+{
+  "riassunto": "Methodos Consulting, fondata nel 1996 con sede a Foligno, e' una societa' di consulenza manageriale verticale sul settore automotive: management, business controlling, corporate advisory, HR, training, sales e marketing, M&A e IT solutions per concessionari auto, truck, moto, after sales, ricambi, officine e cantieri nautici.",
+  "pain_point": "Operando su un mercato verticale e finito come le concessionarie e l'after sales automotive, la crescita richiede di raggiungere con costanza nuovi titolari e direttori: un'attivita' di prospecting sistematica che difficilmente i consulenti senior riescono a fare in parallelo ai progetti.",
+  "hook": "ho visto che dal 1996 siete il primo organismo di consulenza italiano verticale sull'automotive, dalle concessionarie all'after sales",
+  "variante_email": "B",
+  "motivo_variante": "Nessun segnale esplicito di pain commerciale sul sito: il questionario di valutazione e' l'ingresso piu' adatto per una societa' di consulenza storica.",
+  "da_verificare": "Email dromo.faffa@methodos.net e' un pattern non verificato; verificare il nome del decisore (Dromo Faffa) che appare insolito, e che sia ancora presidente.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Methodos Consulting",
+  "nome_decisore": "Dromo Faffa",
+  "ruolo_decisore": "Founder, owner and president",
+  "email": "dromo.faffa@methodos.net",
+  "telefono": "",
+  "citta": "Perugia",
+  "settore": "Consulenza gestionale",
+  "website": "methodos.net",
+  "slug": "methodos_consulting",
+  "pagine_lette": ["https://methodos.net"]
+}

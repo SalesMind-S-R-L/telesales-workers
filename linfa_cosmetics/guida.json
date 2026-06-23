@@ -1,0 +1,37 @@
+{
+  "intro": "Come chiamare i prospect di Linfa Cosmetics e fissare appuntamenti col decisore/titolare. Linfa e un brand di cosmetica naturale premium made in Italy (skincare + linea intima): l'obiettivo della chiamata e fissare un appuntamento, NON vendere ne fare prezzi.",
+  "chi_chiami": [
+    "Distributori e grossisti di cosmetica/estetica: chiedi del responsabile acquisti o del titolare.",
+    "Centri estetici, erboristerie, parafarmacie, profumerie indipendenti: chiedi del/della titolare.",
+    "Farmacie: chiedi del titolare farmacista o del responsabile del reparto cosmesi.",
+    "Obiettivo unico: fissare un appuntamento conoscitivo per presentare la linea e le condizioni partner."
+  ],
+  "script": {
+    "regola": "In chiamata NON si fanno prezzi: le condizioni partner si vedono in appuntamento. Non vendere al telefono, fissa l'incontro.",
+    "apertura": "\"Buongiorno, sono [NOME] e chiamo per conto di Linfa Cosmetics, brand italiano di cosmetica naturale. Vorrei parlare con [il/la titolare / il responsabile acquisti].\"",
+    "sviluppo": "\"Siamo un brand made in Italy con alcuni prodotti che fanno in pochissimi: il fango osmotico anticellulite, le estrazioni di cellule staminali vegetali e una linea intima molto richiesta. Lavoriamo con condizioni dedicate ai partner ed esclusiva territoriale. Vi va se le presento in un breve incontro?\"",
+    "chiusura": "Proponi due opzioni di orario e fissa l'appuntamento. \"Le lascio scegliere: meglio [giorno/ora] o [giorno/ora]? Le mando il link per confermare: [LINK CALENDARIO].\""
+  },
+  "scenari": [
+    ["A. Centralino/banco filtra", "Chiedi nome del titolare/responsabile acquisti e un recapito o orario buono per richiamare mirato. Lascia il nome del brand (Linfa Cosmetics) come gancio."],
+    ["B. Parli col titolare (estetico/erboristeria/parafarmacia)", "Aggancia sul prodotto giusto per il canale (fango osmotico per estetici, naturale/botaniche per erboristerie, dermocosmesi per parafarmacie) e fissa l'appuntamento."],
+    ["C. Parli col responsabile acquisti (distributore)", "Aggancia su made in Italy + prodotti differenzianti + margine e esclusiva. Punta a un incontro per la proposta riservata."],
+    ["D. Chiede certificazioni/prove", "\"Le portiamo in appuntamento INCI, schede tecniche e materiali; e c'e il reso entro 14 giorni che riduce a zero il rischio per voi.\""]
+  ],
+  "obiezioni": [
+    ["\"Mandate una mail\"", "\"Volentieri, gliela mando subito; le propongo intanto due minuti la prossima settimana per mostrarle i prodotti, cosi valuta meglio. Le va [giorno] o [giorno]?\""],
+    ["\"Abbiamo gia tanti fornitori\"", "\"Capisco, infatti non le chiedo di cambiare: le mostro 2-3 prodotti che in pochi hanno (fango osmotico, cellule staminali vegetali, linea intima) e che fanno marginalita. Bastano pochi minuti.\""],
+    ["\"Non e il momento\"", "\"Nessun problema, fissiamo piu avanti cosi resta in agenda. Le va tra due settimane?\""],
+    ["\"Quanto costa?\"", "\"I prezzi partner glieli mostro in appuntamento con il listino completo: c'e una condizione dedicata ai primi partner ed esclusiva di zona. Quando ci vediamo?\""],
+    ["\"Non conosco il brand\"", "\"E' un brand giovane italiano, naturale e premium, gia con ottime recensioni; per questo offriamo reso 14 giorni ed esclusiva territoriale ai primi partner di zona.\""]
+  ],
+  "esiti": [
+    ["Da contattare", "Stato iniziale, non ancora chiamato."],
+    ["Appuntamento fissato", "Incontro/call concordato col decisore."],
+    ["Richiamare", "Interessato ma da risentire (orario/decisore assente)."],
+    ["Non risposto", "Nessuno ha risposto."],
+    ["Non interessato", "Il decisore ha detto no."],
+    ["Numero errato", "Recapito non valido."]
+  ],
+  "tono": "Professionale, cordiale, sicuro. Da pari a pari col titolare. Mai insistente, mai tecnicismi inutili. Si valorizza il differenziale (prodotti che fanno in pochi, made in Italy, reso 14 giorni) e si chiude sempre proponendo l'appuntamento."
+}

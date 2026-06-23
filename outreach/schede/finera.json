@@ -1,0 +1,21 @@
+{
+  "riassunto": "Finera e' una societa' di consulenza finanziaria di Milano, divisione del gruppo italiano Allcore SpA, che aiuta le PMI ad accedere a credito bancario, finanza agevolata (oltre 1500 agevolazioni monitorate l'anno) e finanza straordinaria come M&A e minibond. Il team conta circa 40 professionisti guidati da Finance Manager dedicati, con 40 milioni di euro erogati e oltre 500 clienti.",
+  "pain_point": "Con 25 istituti convenzionati e tre linee di servizio, ogni Finance Manager deve generare opportunita' su segmenti diversi: il flusso di primi appuntamenti con PMI in cerca di credito e' la variabile che decide la produttivita' del team.",
+  "hook": "ho visto che monitorate oltre 1500 agevolazioni l'anno e avete gia' erogato 40 milioni di euro a piu' di 500 PMI clienti",
+  "variante_email": "A",
+  "motivo_variante": "Direttore operativo identificato sulla pagina chi-siamo e numeri specifici per l'aggancio.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Leonardo",
+  "fonte": "https://finera.it/",
+  "nome_azienda": "Finera",
+  "nome_decisore": "Giordano Guerrieri",
+  "ruolo_decisore": "Direttore Operativo",
+  "email": "giordano.guerrieri@finera.it",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "finera.it",
+  "pagine_lette": ["https://finera.it/", "https://finera.it/chi-siamo/"]
+}

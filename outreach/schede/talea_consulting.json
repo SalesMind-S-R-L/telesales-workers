@@ -1,0 +1,20 @@
+{
+  "riassunto": "Talea Consulting e' una societa' di Faenza specializzata in trasformazione digitale dei processi aziendali: gestione documentale, workflow, RPA, AI, fatturazione elettronica e conservazione digitale. E' partner Gold ARXivar, integra con SAP e Zucchetti e dichiara oltre 600 clienti in Italia su settori come manifatturiero, retail, food e sanita'.",
+  "pain_point": "Con un'offerta su nove ambiti tecnologici e soluzioni verticali, il flusso di nuove opportunita' dipende probabilmente da webinar, eventi come X DIGITAL e passaparola del canale ARXivar. Un canale outbound strutturato per generare appuntamenti qualificati con decisori potrebbe mancare o essere discontinuo.",
+  "hook": "ho visto che siete partner Gold ARXivar con oltre 600 clienti e organizzate l'evento annuale X DIGITAL per generare contatti",
+  "variante_email": "B",
+  "motivo_variante": "Azienda strutturata con marketing attivo (webinar, evento annuale): nessun pain commerciale evidente dal sito, meglio il questionario di valutazione.",
+  "da_verificare": "Email silvia.montanari@taleaconsulting.it e' un pattern non verificato; confermare che Silvia Montanari sia ancora CEO e che la sede sia Faenza.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Talea Consulting",
+  "nome_decisore": "Silvia Montanari",
+  "ruolo_decisore": "President & chief executive officer",
+  "email": "silvia.montanari@taleaconsulting.it",
+  "telefono": "",
+  "citta": "Faenza",
+  "settore": "Consulenza gestionale",
+  "website": "taleaconsulting.it",
+  "slug": "talea_consulting",
+  "pagine_lette": ["https://taleaconsulting.it"]
+}

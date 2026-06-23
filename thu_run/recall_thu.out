@@ -1,0 +1,35 @@
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.6). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/Users/simocors/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[09:10:47] recall daemon avviato. foglio: 900 numeri
+[11:00:26]   QUEUE recall +390471669522 (Hotel Masatsch) -> 12:54
+[11:00:26]   QUEUE recall +390471250103 (Business Resort Parkhotel We) -> 15:00
+[12:33:27]   QUEUE recall +390471971713 (Bar Novum) -> 13:20
+[12:33:30]   QUEUE recall +393661768001 (Dorfbar) -> 13:19
+[12:33:30]   QUEUE recall +390471283242 (Bar Bistro Gambrinus) -> 13:20
+[12:54:58]   >>> RECALL LIVE +390471669522 Hotel Masatsch -> btcal_7901ktv54a2her3a3tn3rr85t8p2
+[13:19:35]   >>> RECALL LIVE +393661768001 Dorfbar -> btcal_0201ktv6hcb5fhmvz54jp547qf45
+[13:22:40]   >>> RECALL LIVE +390471971713 Bar Novum -> btcal_2401ktv6q1c2ef1semhmv14evh12
+[13:22:41]   >>> RECALL LIVE +390471283242 Bar Bistro Gambrinus -> btcal_2901ktv6q1zyf7tsfp97j148hef0
+[13:25:42]   QUEUE recall +390471283242 (Bar Bistro Gambrinus) -> 15:22
+[13:44:21]   QUEUE recall +390471910645 (Green Bistro di Sireus Giord) -> 15:00
+[13:44:22]   QUEUE recall +390471885114 (Naomi Pub Bistro) -> 15:43
+[13:47:28]   QUEUE recall +390471284662 (Bar Internazionale) -> 15:46
+[13:56:49]   QUEUE recall +390471889020 (Hotel Buchholz (Albergo Salo) -> 15:55
+[15:02:16]   >>> RECALL LIVE +390471250103 Business Resort Parkhotel We -> btcal_3101ktvcdddpfxdsk6nwxran3cah
+[15:02:17]   >>> RECALL LIVE +390471910645 Green Bistro di Sireus Giord -> btcal_7001ktvcddz6evcv6gs5shpf5v6q
+[15:17:51]   QUEUE recall +390471960158 (Albergo Hotel Seeperle) -> 17:15
+[15:24:15]   >>> RECALL LIVE +390471283242 Bar Bistro Gambrinus -> btcal_3701ktvdnn2xf6pvx6htb208zy42
+[15:43:11]   >>> RECALL LIVE +390471885114 Naomi Pub Bistro -> btcal_0201ktvera8yeswtjsja92s809my
+[15:46:12]   QUEUE recall +390471885114 (Naomi Pub Bistro) -> 17:43
+[15:46:13]   QUEUE recall +390471976183 (Franziskanerstuben) -> 18:00
+[15:46:20]   >>> RECALL LIVE +390471284662 Bar Internazionale -> btcal_1101ktvey35vf3cra2y0zy66zgdk
+[15:55:50]   >>> RECALL LIVE +390471889020 Hotel Buchholz (Albergo Salo -> btcal_0401ktvffg0fesktc1pkbnpp6za9
+[15:58:51]   QUEUE recall +390471889020 (Hotel Buchholz (Albergo Salo) -> 17:56
+[17:18:04]   >>> RECALL LIVE +390471960158 Albergo Hotel Seeperle -> btcal_9101ktvm62m3ecvsybn24j8zfq31
+[19:01:16] recall daemon: fine giornata

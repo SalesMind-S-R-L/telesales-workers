@@ -1,0 +1,17 @@
+{
+  "titolo": "Onboarding",
+  "come_usare": "Questo documento serve da agenda: insight + domande per chiudere i requisiti + KPI. Rispondi a voce in call o via email.",
+  "insight_settore": [{"titolo":"1. Il video e il cuore dell'adv","testo":"Il video pesa ~43% del totale: produciamo l'asset piu richiesto."}],
+  "macro_aree": [
+    {"nome":"MACRO A - Requisiti del target","intro":"","domande":[
+      {"titolo":"Soglie minime","testo":"Quali soglie minime di fatturato/dipendenti? Terzo parametro?","prio":1},
+      {"titolo":"Enterprise vs mid-large","testo":"Partiamo dai mid-large lavorabili o spingiamo sui big?","prio":2}
+    ]},
+    {"nome":"MACRO B - Lista e messaggio","intro":"","domande":[
+      {"titolo":"Approvazione lista","testo":"Ci sono aziende da togliere (conflitti, gia in trattativa)?","prio":3},
+      {"titolo":"Casi citabili","testo":"Quali clienti/lavori possiamo nominare in chiamata?","prio":4}
+    ]}
+  ],
+  "kpi": [{"titolo":"Appuntamenti/mese","testo":"Confermi 10/mese come minimo, qualita > quantita?","prio":5}],
+  "chiusura": "Le risposte ci permettono di chiudere i requisiti e partire. Grazie."
+}

@@ -1,0 +1,20 @@
+{
+  "riassunto": "Smart Shaped Software (Pescara, dal 2015) e' una societa' di consulenza e sviluppo software per la trasformazione digitale, con tre aree: blockchain/Web3, AI e big data (framework proprietario chaM3Leon) e modernizzazione di sistemi enterprise. Lavora con istituti finanziari e grandi gruppi come Monte dei Paschi, Intesa e Tinexta.",
+  "pain_point": "Con clienti enterprise di quel calibro la dipendenza da pochi grandi account e' un rischio tipico: allargare il portafoglio richiede un flusso costante di nuovi appuntamenti con decisori enterprise, difficile da sostenere per un team di delivery.",
+  "hook": "ho visto che con il framework chaM3Leon e i progetti per realta' come Monte dei Paschi e Tinexta coprite AI, blockchain e modernizzazione enterprise",
+  "variante_email": "B",
+  "motivo_variante": "Nessun pain commerciale esplicito sul sito, azienda strutturata: il questionario di valutazione commerciale e' l'aggancio piu' prudente.",
+  "da_verificare": "Email fabiano.izzo@smartshaped.com e' un pattern non verificato; verificare se hanno gia' una struttura sales dedicata o se il new business arriva da referenze bancarie.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Smart Shaped Software",
+  "nome_decisore": "Fabiano Izzo",
+  "ruolo_decisore": "Chief executive officer & co-founder",
+  "email": "fabiano.izzo@smartshaped.com",
+  "telefono": "",
+  "citta": "Pescara",
+  "settore": "IT / Software",
+  "website": "smartshaped.com",
+  "pagine_lette": ["https://smartshaped.com"],
+  "slug": "smart_shaped_software"
+}

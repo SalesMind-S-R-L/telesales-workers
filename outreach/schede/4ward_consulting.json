@@ -1,0 +1,21 @@
+{
+  "riassunto": "4Ward Consulting e una societa di consulenza direzionale e strategica per PMI attiva dal 2003, con sede legale a Milano e uffici operativi a Dalmine (Bergamo) e Bari. Oltre 20 professionisti su tre aree: performance improvement, industrial advisory e people improvement, con circa 300 clienti serviti.",
+  "pain_point": "Una societa che aiuta le medie imprese a diventare grandi ha bisogno di incontrare in continuazione nuovi imprenditori, ma i 20 professionisti sono impegnati sui progetti. Appuntamenti qualificati costanti sosterrebbero la crescita commerciale senza togliere ore alla delivery.",
+  "hook": "ho visto che da oltre 20 anni fate consulenza direzionale alle PMI con l'obiettivo dichiarato di aiutare le medie imprese a diventare grandi",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sul sito, serve un approccio piu istituzionale.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Leonardo",
+  "fonte": "https://4wardconsulting.it/",
+  "nome_azienda": "4Ward Consulting",
+  "nome_decisore": "",
+  "ruolo_decisore": "",
+  "email": "",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "4wardconsulting.it",
+  "pagine_lette": ["https://4wardconsulting.it/", "https://4wardconsulting.it/studio-consulenza-aziendale/"]
+}

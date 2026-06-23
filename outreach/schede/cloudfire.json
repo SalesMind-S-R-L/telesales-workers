@@ -1,0 +1,18 @@
+{
+  "riassunto": "CloudFire e' un cloud provider italiano di Reggio Emilia che con la piattaforma Cortex aggrega servizi as a Service: infrastruttura (OpenStack, VMware, S3), backup (Acronis, Veeam), unified communication e managed network. Si rivolge a medie/grandi aziende, MSP, system integrator e PA come alternativa italiana agli hyperscaler, con certificazioni ISO 9001 e 27001.",
+  "pain_point": "Competere con gli hyperscaler richiede volume costante di nuovi clienti diretti e partner MSP: il pain probabile e' generare conversazioni continuative con IT manager e MSP oltre il passaparola, dato che il sito punta molto su self-service e canale.",
+  "hook": "ho visto che con la piattaforma Cortex vi posizionate come alternativa italiana agli hyperscaler, con casi come Pastificio Garofalo e Gruppo Maggioli",
+  "variante_email": "B",
+  "motivo_variante": "Azienda strutturata e certificata con vendita anche a canale (MSP/system integrator): il pain diretto non e' evidente dal sito, meglio il questionario.",
+  "da_verificare": "Su LinkedIn di Roberto Bondavalli: presenza di un team sales/channel dedicato e dimensione azienda, per capire se il new business e' gia' presidiato.",
+  "scheda_completa": true,
+  "nome_azienda": "Cloudfire",
+  "nome_decisore": "Roberto Bondavalli",
+  "ruolo_decisore": "Founder & chief executive officer",
+  "email": "roberto.bondavalli@cloudfire.it",
+  "telefono": "+393682008368",
+  "citta": "Reggio Nell'Emilia",
+  "settore": "IT / Software",
+  "website": "cloudfire.it",
+  "pagine_lette": ["https://cloudfire.it"]
+}

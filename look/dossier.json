@@ -1,0 +1,191 @@
+{
+ "titolo": "DOSSIER DI MERCATO",
+ "sottotitolo": "Numeri verdi 800 e telefonia per le PMI italiane",
+ "nota_metodo": "Nota: dati incrociati su più fonti pubbliche (aggiornamento giugno 2026). Ogni cifra è tratta da una fonte citata in fondo; tariffe IVA esclusa salvo diversa indicazione.",
+ "sezioni": [
+  {
+   "titolo": "1. La numerazione 800: cos'è, quadro AGCOM e portabilità",
+   "paragrafi": [
+    "Il numero verde è una numerazione non geografica della decade 8 del Piano Nazionale di Numerazione (PNN), gestito da AGCOM. Il prefisso 800 identifica i 'servizi di addebito al chiamato' (freephone): la chiamata è gratuita per chi chiama e interamente a carico dell'azienda titolare. È l'unico prefisso che identifica un servizio completamente gratuito per il chiamante.",
+    "Il formato è rigido: 800 seguito da 6 cifre (9 cifre totali), scritto come 800 XXX XXX. Per obbligo regolatorio il numero 800 è raggiungibile da tutte le reti fisse e mobili italiane; non è raggiungibile dall'estero (limite tecnico dei servizi freephone).",
+    "AGCOM assegna le numerazioni in blocchi agli operatori autorizzati, che le mettono a disposizione dei clienti finali: per questo il rivenditore può offrire lo stesso numero su infrastrutture diverse. Il numero verde è portabile tra operatori mantenendo invariata la numerazione. La pratica la apre il NUOVO operatore verso il vecchio fornitore; i tempi di mercato vanno da circa 20 a 25 giorni lavorativi, senza interruzione del servizio e senza costi. Regola chiave: il cliente NON deve contattare il vecchio gestore, pena il rischio di perdere il numero."
+   ],
+   "bullet": [
+    "take operativo: il numero verde 800 del prospect è suo e portabile: nessuno rischia di perderlo cambiando fornitore. È l'obiezione numero uno da disinnescare in apertura.",
+    "take operativo: la portabilità la gestiamo noi (nuovo operatore); al cliente chiediamo solo la firma del modulo, mai di chiamare il fornitore attuale."
+   ],
+   "tabella": {
+    "headers": ["Elemento", "Dato"],
+    "rows": [
+     ["Prefisso", "800 (servizi di addebito al chiamato)"],
+     ["Formato", "800 + 6 cifre = 9 cifre (800 XXX XXX)"],
+     ["Costo chiamata", "Gratuita per il chiamante, a carico del titolare"],
+     ["Raggiungibilità", "Tutte le reti fisse e mobili italiane (obbligo AGCOM); non dall'estero"],
+     ["Portabilità", "Sì, numero invariato; ~20-25 gg lavorativi, gestita dal nuovo operatore"],
+     ["Altri prefissi decade 8", "840/848 addebito ripartito; 892/894/895/899 servizi a valore aggiunto"]
+    ]
+   }
+  },
+  {
+   "titolo": "2. Gestori e modelli tariffari",
+   "paragrafi": [
+    "Il mercato vede grandi operatori infrastrutturali (TIM, Fastweb, Vodafone, WindTre) e player specializzati nelle numerazioni 800 (Intermatica, Welcome Italia/Webcom, Messagenet/Vianova, oltre a numerosi rivenditori a marchio). Look SRLS acquista traffico da TIM, Webcom/Welcome Italia e Intermatica e rivende a PMI.",
+    "Due modelli dominano. (1) A consumo / ricaricabile: nessun canone mensile, si paga solo il traffico, con ricarica minima tipica di 150€ e validità del credito 365 giorni (basta una ricarica all'anno per tenere attivi numero e servizi). (2) A canone: piano mensile fisso che include traffico (es. TIM Business profilo BASE 11€/mese con 11€ di traffico incluso, EVOLUTO 23€, PROFESSIONALE 44€).",
+    "Le tariffe al minuto dipendono dalla rete del chiamante. Esempio rete ricaricabile di mercato: fisso 0,04€/min, mobile da 0,21€ fino a 0,33-0,65€/min nei casi peggiori, con scatto alla risposta che su alcuni listini è 0,05€ da fisso e 0,10€ da mobile. Intermatica fattura a secondo senza scatto alla risposta. La leva commerciale tipica è il costo al minuto mobile (la voce più pesante per un numero verde) e l'assenza di scatto alla risposta.",
+    "Attenzione: i crediti residui in genere non sono trasferibili ad altro operatore in caso di cambio (si porta il numero, non il borsellino): la convenienza si valuta sulla tariffa al minuto futura, non sul credito già caricato."
+   ],
+   "bullet": [
+    "take operativo: chiedi sempre 'quanto paghi al minuto da mobile?' - è lì che si fa o si perde il margine per il cliente; il fisso (0,04€) è ormai una commodity.",
+    "take operativo: posiziona il ricaricabile (zero canone, ricarica annuale ~150€) come la soluzione 'paghi solo quello che usi', contro i canoni fissi che il cliente paga anche a volumi bassi."
+   ],
+   "tabella": {
+    "headers": ["Operatore / offerta", "Modello", "Canone", "Min. fisso", "Min. mobile"],
+    "rows": [
+     ["Ricaricabile di mercato", "A consumo", "Nessuno; ricarica min. 150€/anno, credito 365 gg", "0,04€", "0,21-0,65€ + scatto 0,10€"],
+     ["TIM Business 800 (BASE)", "Canone", "11€/mese (11€ traffico incl.)", "0,04€", "0,21€"],
+     ["TIM Business 800 opzioni", "Add-on", "IVR 10€, Segreteria 35€, Disaster Recovery 20€/mese", "-", "-"],
+     ["Intermatica 800", "A consumo", "Tariffazione a secondo, senza scatto alla risposta", "Sì", "Sì"],
+     ["Welcome Italia/Webcom, Vianova, Messagenet", "Misto", "Canone o consumo a seconda del piano", "Variabile", "Variabile"]
+    ]
+   }
+  },
+  {
+   "titolo": "3. Pubblica amministrazione: TARI, comuni e gare CONSIP/MEPA",
+   "paragrafi": [
+    "La PA è un bacino strutturale di numeri verdi. La delibera ARERA 15/2022 (TQRIF, art. 20.1) impone ai gestori del servizio rifiuti e ai comuni di dotarsi di un numero verde gratuito, raggiungibile da fisso e mobile, per garantire assistenza telefonica ai cittadini su TARI e gestione rifiuti. Lo stesso schema vale per utility acqua/luce/gas e, per delibera AGCOM, per i fornitori di servizi postali.",
+    "Sul fronte acquisti pubblici, gli enti comprano tramite CONSIP/MEPA: operatori specializzati nei numeri 800 sono già abilitati sul MEPA. CONSIP stessa usa numeri verdi per i propri contact center.",
+    "La PA resta però un canale difficile per un rivenditore: cicli di gara lunghi (ordine di ~4 anni per le convenzioni quadro), requisiti di abilitazione MEPA, e una forte presenza di operatori di scala (Fastweb storicamente molto presente). Per Look il MEPA è una scommessa a medio termine; il terreno di caccia immediato sono le PMI private e i piccoli gestori locali con obbligo TARI ma senza struttura di gara."
+   ],
+   "bullet": [
+    "take operativo: i piccoli gestori rifiuti e le partecipate locali hanno un OBBLIGO di legge (ARERA 15/2022) al numero verde: necessità non negoziabile, buon gancio di apertura.",
+    "take operativo: per la PA pura servono abilitazione MEPA e pazienza sui cicli di gara; conviene attaccarla solo dopo aver consolidato il portafoglio PMI privato."
+   ],
+   "tabella": {
+    "headers": ["Soggetto PA", "Obbligo / motore di domanda", "Riferimento"],
+    "rows": [
+     ["Comuni e gestori rifiuti", "Numero verde obbligatorio per assistenza TARI", "ARERA delibera 15/2022 (TQRIF, art. 20.1)"],
+     ["Utility acqua/luce/gas", "Customer care telefonico su servizio", "Prassi regolatoria di settore"],
+     ["Fornitori servizi postali", "Assistenza clienti telefonica adeguata", "Delibera AGCOM di settore"],
+     ["Enti che acquistano", "Tramite CONSIP/MEPA, cicli ~4 anni", "MEPA gestito da CONSIP"]
+    ]
+   }
+  },
+  {
+   "titolo": "4. Detraibilità e deducibilità fiscale",
+   "paragrafi": [
+    "Per le imprese e i professionisti le spese telefoniche seguono regole differenziate. Telefonia fissa (linee e traffico dati fisso): deducibile al 100% se inerente all'attività. Telefonia mobile: deducibile all'80%. In caso di uso promiscuo si applica in genere il 50%.",
+    "Il numero verde, essendo un servizio aziendale legato all'attività, rientra tra le spese per servizi di telecomunicazione: la quota deducibile di riferimento è l'80%. L'IVA è detraibile integralmente (100%) quando il servizio è usato esclusivamente nell'attività d'impresa; in proporzione per l'uso promiscuo. Vale sempre il principio di inerenza.",
+    "Per la PMI il punto di vendita è semplice: il numero verde è un costo aziendale deducibile (80%) con IVA detraibile, quindi il costo reale 'in tasca' è inferiore a quello di listino. È un argomento che alleggerisce l'obiezione di prezzo."
+   ],
+   "bullet": [
+    "take operativo: 'il numero verde è un costo deducibile all'80% con IVA detraibile: lo Stato te ne paga di fatto una parte' - ottima frase per ridurre la sensibilità al prezzo."
+   ],
+   "tabella": {
+    "headers": ["Voce", "Deducibilità costo", "Detraibilità IVA"],
+    "rows": [
+     ["Telefonia fissa (uso impresa)", "100% se inerente", "100% se uso esclusivo professionale"],
+     ["Telefonia mobile", "80%", "100% uso esclusivo / proporzionale se promiscuo"],
+     ["Numero verde (servizio aziendale)", "80%", "100% se uso esclusivo professionale"],
+     ["Uso promiscuo", "~50%", "In proporzione all'utilizzo professionale"]
+    ]
+   }
+  },
+  {
+   "titolo": "5. Settori PMI che usano di più il numero verde",
+   "paragrafi": [
+    "Il numero verde è massimamente usato dove contano i volumi di chiamate in ingresso, il customer care e l'immagine istituzionale. I settori a più alta intensità: energia e gas, assicurazioni e finanza, telecomunicazioni, e-commerce e retail, sanità e studi/poliambulatori, servizi postali e logistica, utility idriche, oltre alla PA per obbligo (rifiuti/TARI).",
+    "La leva non è solo operativa ma reputazionale: per una PMI il numero verde segnala solidità e attenzione al cliente. Per il rivenditore questo significa che il numero verde non è percepito come 'centro di costo' ma come strumento di posizionamento: argomento utile contro le PMI che lo vorrebbero tagliare.",
+    "Per il targeting commerciale di Look, la lista ideale è 'PMI che HANNO già un 800': hanno già accettato il modello e la spesa, quindi la trattativa è solo migliorativa (tariffa più bassa, servizi inclusi, portabilità senza rischio), non educativa."
+   ],
+   "bullet": [
+    "take operativo: parti dalle PMI che hanno GIÀ un numero verde: niente da spiegare sul perché, solo da migliorare tariffa e servizi. Ciclo di vendita molto più corto.",
+    "take operativo: nei settori 'immagine' (sanità, studi, food di qualità) vendi il numero verde come segnale di affidabilità, non come costo."
+   ],
+   "tabella": {
+    "headers": ["Settore", "Driver d'uso"],
+    "rows": [
+     ["Energia, gas, acqua", "Customer care alti volumi + obbligo regolatorio"],
+     ["Assicurazioni e finanza", "Assistenza, emergenze, immagine"],
+     ["E-commerce e retail", "Supporto pre/post vendita, fiducia"],
+     ["Sanità, studi e poliambulatori", "Prenotazioni, immagine professionale"],
+     ["Pronto intervento (spurghi, caldaie, fabbri)", "Chiamate urgenti h24, alto volume"],
+     ["PA e gestori rifiuti", "Obbligo ARERA su TARI"]
+    ]
+   }
+  },
+  {
+   "titolo": "6. Trend: VoIP, centralino virtuale, registrazione chiamate, pagamenti telefonici",
+   "paragrafi": [
+    "Il numero verde si sta integrando nell'ecosistema cloud. Il mercato globale del centralino in cloud è stimato intorno ai 4 miliardi con crescita oltre il 14% annuo; il VoIP globale supera i 100 miliardi di dollari. In Italia la penetrazione è ancora bassa (i servizi di cloud communication sotto il ~2% del totale), ma in forte accelerazione (~+14% anno su anno). Il VoIP consente risparmi del 20-60% rispetto a ISDN/PSTN.",
+    "Le funzioni più richieste sopra al numero verde sono: IVR/centralino virtuale (instradamento, orari, code), trasferimento e inoltro chiamate, segreteria, registrazione chiamate e reportistica. Molti listini ricaricabili includono già IVR, trasferimento e report senza canone aggiuntivo: argomento di valore aggiunto a costo marginale per il rivenditore.",
+    "Il fronte più innovativo è il pagamento telefonico durante la chiamata (la futura feature di Look). Funziona via DTMF: il cliente digita i dati carta sulla tastiera, i toni vengono mascherati così l'operatore non vede mai il numero della carta. Questo 'de-scoping' tiene i dati carta fuori dall'ambiente del contact center e riduce drasticamente gli obblighi PCI-DSS. È una funzione ad alto valore per chi incassa al telefono (utility, e-commerce, pronto intervento, prenotazioni)."
+   ],
+   "bullet": [
+    "take operativo: in Italia il centralino cloud è ancora sotto il 2% ma cresce ~+14%/anno: chi adotta ora si differenzia. Vendi il numero verde + IVR come pacchetto, non come voce singola.",
+    "take operativo: il pagamento via DTMF (toni mascherati) toglie i dati carta dall'ufficio e abbatte gli obblighi PCI-DSS: argomento forte per chi incassa al telefono."
+   ],
+   "tabella": {
+    "headers": ["Funzione / trend", "Dato di mercato o beneficio"],
+    "rows": [
+     ["Centralino cloud globale", "~4 mld, crescita >14%/anno"],
+     ["VoIP globale", ">100 mld USD"],
+     ["Cloud communication in Italia", "<2% del totale, in crescita (~+14% a/a)"],
+     ["Risparmio VoIP vs ISDN/PSTN", "20-60%"],
+     ["IVR / registrazione / report", "Spesso inclusi nel ricaricabile senza canone"],
+     ["Pagamento DTMF mascherato", "De-scoping PCI-DSS: dati carta fuori dal contact center"]
+    ]
+   }
+  },
+  {
+   "titolo": "7. Sintesi competitiva per Look SRLS",
+   "paragrafi": [
+    "Look opera come rivenditore multi-carrier (TIM, Webcom/Welcome Italia, Intermatica): può scegliere per ogni cliente l'infrastruttura con il miglior costo al minuto, soprattutto sul mobile, che è la voce decisiva. Il vantaggio competitivo non è il prezzo del singolo gestore, ma la flessibilità di posizionamento più i servizi a valore aggiunto (IVR, registrazione, futuro pagamento telefonico) e un servizio commerciale di prossimità che i grandi operatori non danno alle micro/PMI.",
+    "Il target a conversione più rapida è la PMI che ha già un 800: zero educazione, trattativa solo migliorativa, portabilità senza rischio gestita da Look. La leva fiscale (deducibilità 80% + IVA detraibile) e la leva immagine completano lo script. La PA va trattata come canale a medio termine, non come priorità di prospecting."
+   ],
+   "bullet": [
+    "take operativo: apertura tipo - 'Ho visto che avete un numero verde 800: posso farvi una verifica gratuita della tariffa al minuto, in particolare da mobile, e vedere se risparmiate. Il numero resta lo stesso, la portabilità la gestiamo noi.'"
+   ],
+   "tabella": {
+    "headers": ["Leva di vendita", "Messaggio alla PMI"],
+    "rows": [
+     ["Tariffa", "Confronto costo/minuto, focus mobile e scatto alla risposta"],
+     ["Continuità", "Stesso numero, portabilità ~20-25 gg, zero interruzioni, la gestiamo noi"],
+     ["Fiscale", "Costo deducibile 80% + IVA detraibile"],
+     ["Servizi", "IVR, registrazione, report inclusi; pagamento telefonico in arrivo"],
+     ["Modello", "Ricaricabile: paghi solo quello che usi, ricarica annuale ~150€"]
+    ]
+   }
+  }
+ ],
+ "takeaway": [
+  ["Il prefisso 800 è l'unico 100% gratuito per il chiamante; numero portabile mantenendo la numerazione (AGCOM/PNN).", "Il vostro numero verde è vostro e resta identico anche se cambiate fornitore: nessun rischio di perderlo."],
+  ["Portabilità ~20-25 giorni lavorativi, gestita dal nuovo operatore, senza costi.", "La pratica la facciamo noi: a voi chiediamo solo una firma, mai di chiamare il fornitore attuale."],
+  ["Min. mobile fino a 0,21-0,65€ + scatto 0,10€ su listini standard; min. fisso 0,04€.", "La voce che vi pesa è il mobile: facciamo una verifica gratuita su quanto pagate al minuto da cellulare."],
+  ["TIM Business 800 BASE 11€/mese; IVR +10€, segreteria +35€ come add-on a canone.", "Con noi IVR e report sono spesso inclusi: niente canoni extra per ogni funzione."],
+  ["Ricaricabile: zero canone, ricarica minima 150€, credito valido 365 giorni.", "Modello a consumo: paghi solo quello che usi, una ricarica all'anno e il numero resta attivo."],
+  ["Numero verde deducibile all'80% con IVA detraibile per l'impresa.", "È un costo deducibile all'80% con IVA detraibile: il costo reale è più basso del listino."],
+  ["ARERA delibera 15/2022 obbliga comuni e gestori rifiuti al numero verde per la TARI.", "Per i gestori rifiuti il numero verde è un obbligo di legge: possiamo fornirlo a tariffa migliore."],
+  ["Cloud communication in Italia ancora <2% del totale ma in crescita (~+14% a/a).", "Il centralino cloud in Italia è agli inizi: chi lo adotta ora con noi si porta avanti sulla concorrenza."],
+  ["Pagamento via DTMF mascherato: de-scoping PCI-DSS, dati carta fuori dal contact center.", "Presto potrete incassare con carta durante la chiamata in sicurezza, senza che l'operatore veda i dati."],
+  ["Settori a più alta intensità: energia/gas, assicurazioni, e-commerce, sanità, pronto intervento.", "Se siete nel customer care o nel pronto intervento, il numero verde è operativo: contano i costi al minuto."]
+ ],
+ "fonti": [
+  ["AGCOM - Piano di numerazione", "https://www.agcom.it/competenze/comunicazioni-elettroniche/reti/numerazione/piano-di-numerazione"],
+  ["AGCOM - Piano nazionale di numerazione (PDF)", "https://www.agcom.it/sites/default/files/migration/attachment/Allegato%2003-05-2012.pdf"],
+  ["Prefisso 800: normativa AGCOM e formato - NumeroVerde.com", "https://www.numeroverde.com/faq/cosa-e-come-funziona-numero-verde/numero-verde-800-prefisso"],
+  ["Tariffe Numero Verde 800 Ricaricabile - NumeroVerde.com", "https://www.numeroverde.com/tariffe"],
+  ["Portabilità Numero Verde - NumeroVerde.com", "https://www.numeroverde.com/numero-verde-portabilita"],
+  ["TIM Business - Numero Verde 800 Ricaricabile", "https://timbusiness.tim.it/fisso/numero-verde/800-ricaricabile"],
+  ["Intermatica - Numerazioni 800 (PDF)", "https://intermatica.it/wp-content/uploads/2024/01/vas_800-1.pdf"],
+  ["Numero Verde per Comuni TQRIF/ARERA - TARI", "https://www.numeroverdepa.it/"],
+  ["Numero verde per PA e Comuni - Numeroverde.it", "https://www.numeroverde.it/numero-verde/pubblica-amministrazione/"],
+  ["CONSIP - Telefono e contatti / contact center MEPA", "https://www.consip.it/societa-trasparente/organizzazione/telefono-e-posta-elettronica"],
+  ["Deducibilità e detraibilità IVA spese telefoniche - FISCOeTASSE", "https://www.fiscoetasse.com/approfondimenti/10040-la-deducibilita-e-detraibilita-iva-delle-spese-telefoniche.html"],
+  ["Spese telefoniche: deducibilità e detraibilità - Fiscomania", "https://fiscomania.com/spese-telefoniche-deducibilita/"],
+  ["Telefono aziendale, deduzione e detrazioni costi e IVA - PMI.it", "https://www.pmi.it/impresa/contabilita-e-fisco/124059/telefono-aziendale-deduzioni-detrazioni.html"],
+  ["Centralino in Cloud: opportunità per il mercato italiano - NFON", "https://blog.nfon.com/it/centralino-telefonico-in-cloud-un-opportunita-poco-esplorata-per-il-mercato-italiano"],
+  ["VoIP: un mercato in crescita - ZeroUno", "https://www.zerounoweb.it/smart-working/voip-un-mercato-in-crescita/"],
+  ["IVR payments e PCI DSS / DTMF masking - Eckoh", "https://www.eckoh.com/blog/what-is-dtmf-masking-and-how-can-it-help-you-ensure-pci-dss-compliance-in-your-contact-center"],
+  ["Conformità PCI-DSS dei Contact Center - Pagamenti Digitali", "https://www.pagamentidigitali.it/payment-services/la-conformita-pci-dss-dei-contact-center-as-a-service/"]
+ ]
+}

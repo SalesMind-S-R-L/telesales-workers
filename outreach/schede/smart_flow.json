@@ -1,0 +1,20 @@
+{
+  "riassunto": "Smart Flow e' una societa' benefit torinese di consulenza su compliance, certificazioni ISO 9001 e 27001 e data protection/GDPR, con un approccio orientato a digitalizzazione e sostenibilita' (sito green hosting a basso impatto). Tra i clienti citati c'e' Reale Group e aderisce a Istituto Italiano Privacy e FedERprivacy.",
+  "pain_point": "Compliance e GDPR sono servizi ricorrenti ma molto commoditizzati: per crescere oltre le referenze serve raggiungere con costanza nuovi titolari e responsabili qualita', un'attivita' di primo contatto che spesso in queste realta' non e' presidiata in modo strutturato.",
+  "hook": "ho visto che siete societa' benefit e seguite realta' come Reale Group su compliance, certificazioni ISO e GDPR",
+  "variante_email": "B",
+  "motivo_variante": "Nessun pain commerciale evidente dal sito: il questionario di valutazione e' l'ingresso piu' coerente.",
+  "da_verificare": "Email rinaldo.bozzi@smart-flow.it e' un pattern non verificato; confermare che il riferimento a Reale Group come cliente sia attuale prima di citarlo.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Smart Flow",
+  "nome_decisore": "Rinaldo Bozzi",
+  "ruolo_decisore": "Founder & chief executive officer at smart flow società benefit",
+  "email": "rinaldo.bozzi@smart-flow.it",
+  "telefono": "",
+  "citta": "Turin",
+  "settore": "Consulenza gestionale",
+  "website": "smart-flow.it",
+  "slug": "smart_flow",
+  "pagine_lette": ["https://smart-flow.it"]
+}

@@ -1,0 +1,458 @@
+[
+ {
+  "claim": "Dal 18 marzo 2024, con l'accreditamento dell'Organismo di monitoraggio (OdM), il Codice di condotta per telemarketing e teleselling è pienamente applicabile in Italia: questo è il quadro autoregolatorio vincolante per gli aderenti che svolgono chiamate outbound promozionali (incluse quelle in outsourcing come l'appointment setting).",
+  "quote": "Con l'accreditamento dell'Organismo di monitoraggio (OdM) si completa l'iter per la piena applicazione del Codice di condotta che regola le attività di teleselling e di telemarketing.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il Codice di condotta prevede una sanzione economica lungo la filiera commerciale: penale o mancato pagamento della provvigione per ogni contratto concluso a seguito di un contatto promozionale effettuato senza consenso — rilevante per chi vende appuntamenti/contratti generati da cold calling.",
+  "quote": "il Codice di condotta stabilisce l'applicazione di una penale o la mancata corresponsione della provvigione per ogni contratto stipulato a seguito di un contatto promozionale senza consenso.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Gli operatori di telemarketing aderenti devono raccogliere consensi specifici e distinti per ciascuna finalità di trattamento (marketing, profilazione, ecc.), non un consenso generico unico.",
+  "quote": "raccogliere consensi specifici per le singole finalità (marketing, profilazione, ecc.)",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il Codice è stato promosso dall'intera filiera del telemarketing italiano — associazioni di committenti, call center, teleseller, list provider e associazioni di consumatori — e l'OdM proposto deve possedere i requisiti previsti dal Regolamento UE (GDPR).",
+  "quote": "L'OdM - proposto da associazioni di committenti, call center, teleseller, list provider e associazioni di consumatori – sia in possesso dei requisisti previsti dal Regolamento Ue.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Le aziende che effettuano trattamenti automatizzati, inclusa la profilazione dei contatti, devono effettuare una valutazione di impatto (DPIA) — requisito potenzialmente applicabile a pipeline di chiamate AI outbound. Nota: il comunicato non distingue B2B da B2C e non menziona esplicitamente chiamate AI o sistemi automatizzati di chiamata.",
+  "quote": "effettuare una valutazione di impatto",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "US B2B appointment setting agencies charge $150-$400 per qualified booked appointment in the pay-per-appointment model (example: mid-market IT manager demos).",
+  "quote": "Pay per appointment implies the client pays strictly for each qualified meeting setup with a prospect... $150 to $400 per booked demo when contacts are mid-market IT managers.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Monthly retainers for B2B appointment setting typically run $3,000-$10,000/month, with an example of $6,000/month covering 30 qualified meetings plus research and weekly reporting.",
+  "quote": "Retainer pricing bills a solid monthly fee in exchange for ongoing appointment setting and related services... $3,000 to $10,000 per month based on volume, ICP complexity, and outreach assets required... $6,000 covers 30 qualified meetings, research, and weekly reporting.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Industry benchmark conversion from set appointment to closed deal is 15-20%, with a target win rate around 25% of qualified opportunities.",
+  "quote": "Expected conversion: 15 to 20 percent range... Win rate target: 25 percent (one in four opportunities).",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "A healthy appointment-setting program shows cancellation/no-show rates below 15% (ideally below 10%) and needs 4-8 weeks for first meetings, 2-3 months for meaningful pipeline impact.",
+  "quote": "Cancellation rates: less than 15% optimal; less than 10% is even better... 4 to 8 weeks for initial meetings; 2 to 3 months for meaningful pipeline impact.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Project-based engagements are priced at $1,000-$10,000 per month or $25-$50 per hour for flexible short-term work.",
+  "quote": "They can be a one-time project fee or staged milestone-based payments... $1,000 to $10,000 a month... between $25 and $50 per hour.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "The platform-wide average cold email reply rate in 2025 was 3.43% (Instantly data, Jan 1 - Dec 18, 2025), continuing a decline from ~5.1% in 2024 and ~7% in 2023.",
+  "quote": "The platform-wide average reply rate is 3.43% ... in 2024 the average was approximately 5.1%, down from ~7% in 2023",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Cold calling achieved a 16.6% connection rate and a 4.82% dial-to-meeting rate in Cognism's 2024 study of 55,701 dials, with the dial-to-meeting rate doubling from 2.0% in 2023.",
+  "quote": "Connection rate: 16.6% ... The overall dial-to-meeting success rate was 4.82% ... That success rate doubled from 2.0% in 2023",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "LinkedIn DMs outperform cold email roughly 2x on response rate: 10.3% average response rate for LinkedIn DMs vs 5.1% for cold email; the average LinkedIn connection acceptance rate is 29.61%.",
+  "quote": "LinkedIn DMs achieve a 10.3% average response rate vs cold email at 5.1% ... The average LinkedIn connection acceptance rate is 29.61%",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Typical B2B cold email funnel converts at 0.5-2% email-to-booked-meeting (2-2.34% for top performers), with ~80% meeting show rates and 22% of SDR-generated opportunities closing as won deals.",
+  "quote": "Email-to-booked-meeting rate: 0.5-2% for typical B2B teams and 2-2.34% for top performers ... Show rates: 80% industry-wide (top teams 85%+) ... 22% close as won deals",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Securing a first meeting requires on average 8 touchpoints (RAIN Group, 489 sellers), and 42% of all cold email replies come from follow-ups rather than the first email.",
+  "quote": "The average is 8 touchpoints to secure a first meeting ... 58% of all replies come from the first email, and 42% come from follow-ups",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'Ippogrifo (direct competitor of Telesales/SalesMind) states the average cost of a qualified B2B sales appointment in Italy is 150 euro.",
+  "quote": "Il numero [MEDIA DEL POLLO!!] è 150 euro!",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "The cost per B2B appointment in Italy ranges from 100 to 200 euro depending on the business sector, per L'Ippogrifo's internal statistics across all B2B sectors.",
+  "quote": "dai 100 ai 200 euro a seconda del settore di business",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'Ippogrifo's budgeting model implies a company with 10 salespeople each needing 15 appointments/month should spend ~22,500 euro/month (~250K euro/year) on marketing to generate them, i.e. appointment generation is priced as a recurring monthly investment.",
+  "quote": "15 x 10 x 150 = 22.500 euro. Ti servono 22K per il marketing. MESE. 250K/ANNO.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'Ippogrifo bases the 150 euro/appointment figure on its own multi-channel campaign data (Google AdWords, SEO, Facebook, LinkedIn, direct marketing, email, webinars, events) across all B2B sectors, not on third-party market research.",
+  "quote": "un volume di statistiche e di attività di marketing importanti ... tutti i settori di business, tutti B2B",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Result Consulting si posiziona come agenzia italiana di vendite B2B basata su outbound automatizzato potenziato dall'AI (non su setter umani in chiamata), quindi compete con Telesales/SalesMind sul posizionamento 'AI outbound' multicanale.",
+  "quote": "Trasformiamo le tue Vendite B2B in un sistema performante, automatizzato e prevedibile, potenziato dall'AI",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Result Consulting dichiara di aver generato oltre 15.000 meeting qualificati tramite campagne outbound, un volume di riferimento per il benchmark competitivo italiano.",
+  "quote": "Oltre 15k Meeting qualificati generati",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Result Consulting dichiara una base clienti di oltre 300 aziende B2B su cui ha testato la propria metodologia, molto superiore ai 15 clienti attivi di Telesales/SalesMind.",
+  "quote": "Metodologia testata su +300 Aziende nel B2B",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "I canali outreach usati da Result Consulting includono LinkedIn outbound: nel caso cliente Kromin (web agency) dichiarano 161 risposte LinkedIn convertite in 25+ meeting e 120k+ euro di vendite, dato rilevante sia per il benchmark canali sia per il verticale web agency.",
+  "quote": "161 LinkedIn responses, 25+ meetings, €120k+ in sales (Kromin case)",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'offerta di Result Consulting copre l'intero processo (audit vendite, ricerca target, automazione outbound multicanale AI, qualificazione lead automatica, fissaggio meeting, CRM e coaching negoziazione) senza prezzi pubblicati sul sito, quindi il pricing non è verificabile da questa fonte.",
+  "quote": "Six-step process including business analysis, target research, multi-channel AI outbound automation, automatic lead qualification, meeting scheduling, and scaling/optimization",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il benchmark B2B medio per le cold email (2026) è un open rate del 27,7% e un reply rate del 3,43%.",
+  "quote": "The B2B cold email benchmark average sits at a 27.7% open rate... average reply rate is 3.43%",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Una campagna cold email B2B media produce 1-2 meeting fissati ogni 100 email inviate.",
+  "quote": "for every 100 emails sent, you can expect 1 to 2 meetings",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Campagne piccole e mirate (fino a 50 destinatari) ottengono un reply rate medio del 5,8% contro il 2,1% delle liste grandi.",
+  "quote": "smaller, targeted campaigns of 50 recipients or fewer average a 5.8% response rate, compared to 2.1% for larger lists",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Per settore: il consulting registra reply rate 4-6%, IT Services/MSP 3-4% (open 27-32%), SaaS/Software 2-4% (open ~46%), Manufacturing open 28-33% — rilevante per i verticali clienti di Telesales (consulenza, IT, arredamento).",
+  "quote": "Consulting | N/A | 4-6% ... IT Services & MSPs | 27-32% | 3-4% ... SaaS/Software | ~46% | 2-4% ... Manufacturing | 28-33% | N/A",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "I benchmark citati derivano dal report 2026 di Instantly basato su miliardi di interazioni cold email (fonte secondaria, non ricerca propria di Cleverly).",
+  "quote": "Instantly's 2026 Benchmark Report — analyzing billions of cold email interactions",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "The Italian Garante privacy gave a favorable opinion to the Ministry of Economic Development on the updated regulation of the Registro pubblico delle opposizioni (RPO), but required that the rules be limited to telemarketing performed via human-operator calls.",
+  "quote": "Il Garante privacy ha espresso parere favorevole al Ministero dello sviluppo economico su una versione aggiornata dello schema di regolamento del Registro pubblico delle opposizioni (Rpo)... L'Autorità tuttavia ha chiesto di precisare che le nuove regole valgono solo per il telemarketing effettuato con chiamate tramite operatore.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Automated marketing communications (which would include AI voice/robocalls) can never be made in Italy without the explicit consent of the recipient — the RPO opt-out mechanism does not apply to them.",
+  "quote": "Le comunicazioni di marketing automatizzate, infatti, non possono in nessun caso effettuarsi senza il consenso esplicito dell'interessato.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Article 130 of the Italian Codice privacy distinguishes between communications made with automated means and communications made with operator intervention, and the RPO decree applies exclusively to the second (operator-assisted) category.",
+  "quote": "L'articolo 130 del Codice, infatti, nel disciplinare tutte le comunicazioni indesiderate, distingue tra comunicazioni effettuate con modalità automatizzate e comunicazioni con l'intervento dell'operatore. Il decreto in esame, si inserisce solo ed esclusivamente in questa seconda categoria.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "The Garante stated that it is not legally correct to extend the scope of the RPO to automated communications, because their invasive nature means they always require the data subject's consent (opt-in, not opt-out).",
+  "quote": "Pertanto il Garante precisa come, allo stato attuale, non sia giuridicamente corretto estendere l'ambito dell'Rpo anche alle comunicazioni automatizzate, che prevedono sempre il consenso dell'interessato per il loro carattere invasivo.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "The Garante required the regulation's text to be corrected from covering data processing via 'l'impiego del telefono' generically back to the original wording covering only telemarketing 'mediante operatore umano con l'impiego del telefono'.",
+  "quote": "Occorre rispettare, precisa l'Autorità, la versione originaria dello schema... che si riferiva, per il telemarketing, solo ai trattamenti effettuati \"mediante operatore umano con l'impiego del telefono\".",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il mercato globale dei contact center raggiungerà 14,77 miliardi di dollari entro il 2031 (cifra non attribuita a fonti e non specifica per l'Italia).",
+  "quote": "il mercato dei contact center è previsto raggiungere 14,77 miliardi di dollari entro il 2031",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il tasso di crescita annuo composto (CAGR) del mercato contact center è stimato intorno al 18,5% fino al 2031, con l'AI nei call center a circa 18,9% CAGR.",
+  "quote": "il CAGR (tasso di crescita annuo composto) per i contact center è stimato intorno al 18,5% fino al 2031",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "I modelli di pricing prevalenti nel settore call center sono pay-per-call, canone mensile in abbonamento e compenso performance-based, ma la pagina non fornisce alcun benchmark numerico di prezzo.",
+  "quote": "Pay-per-call ... Monthly subscription ... Performance-based compensation (modelli identificati senza benchmark di prezzo)",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "ALIS (Reggio Emilia) prices B2B appointment setting as a monthly retainer based on an hourly package plus a variable fee per confirmed appointment, with a one-time initial setup/design fee — a hybrid retainer + pay-per-appointment model relevant as Italian pricing benchmark.",
+  "quote": "Un canone mensile a pacchetto orario più una fee variabile per appuntamento confermato. La progettazione iniziale è una tantum.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "ALIS offers lead generation with profiled contact lists claiming >90% data accuracy, GDPR compliance, and 48-hour delivery, positioning data quality and compliance as part of the offer.",
+  "quote": "Liste profilate, accuracy >90%, GDPR, consegna in 48h",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "ALIS claims sector-specific performance benchmarks: 30+ B2B meetings per quarter in automotive, 11% conversion on profiled lists for a white-label agency client, and 8-14% conversion on worked contacts in industrial/subcontracting.",
+  "quote": "30+ incontri a trimestre ... 11% conversione su lista profilata ... 8–14% di conversione sui contatti lavorati",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "ALIS claims first results within the first month of an appointment setting campaign, a time-to-value benchmark competitors in the Italian market advertise against.",
+  "quote": "I primi risultati entro il primo mese, poi può solo migliorare",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "ALIS serves verticals including optical/retail, automotive, food/HoReCa, industrial subcontracting, events, and white-label work for agencies — overlapping with several Telesales client verticals (HoReCa, agencies) and indicating demand in those segments.",
+  "quote": "Optical/Retail: 1067% di ROI ... Automotive: 30+ incontri a trimestre ... Food/Horeca: First orders within secondo mese",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il 96% dei marketer B2B utilizza già l'intelligenza artificiale nelle proprie attività (dato HubSpot Marketing Statistics 2026), segno che l'AI nell'outbound/marketing B2B è ormai mainstream e non un differenziatore di per sé.",
+  "quote": "il 96% dei marketer B2B utilizza già l'intelligenza artificiale nelle proprie attività",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Solo il 2% del traffico su un sito B2B si converte in lead compilando un form, il che rende i canali outbound proattivi (come l'appointment setting) necessari per generare pipeline.",
+  "quote": "solo il 2% del traffico su un sito B2B si converte in lead compilando un form",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il 77% dei buyer B2B avvia la ricerca online ma solo il 17% completa l'acquisto senza interazioni umane significative: il contatto umano (telefonata/appuntamento) resta decisivo nella chiusura B2B.",
+  "quote": "il 77% dei buyer avvia la ricerca online, ma solo il 17% completa l'acquisto senza interazioni umane significative",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Nonostante l'adozione diffusa dell'AI (88% delle organizzazioni), solo il 6% delle aziende è 'high performer' e solo il 4% dei marketer B2B si fida pienamente degli output AI — gap che giustifica modelli ibridi AI + setter umano.",
+  "quote": "solo il 4% dei marketer B2B dichiara di fidarsi pienamente degli output generati",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Nel 2026 la priorità dei marketer B2B si sposta dal volume alla qualità: lead quality e MQL sono citati come metrica principale dal 39%, davanti al lead-to-customer conversion rate (34%).",
+  "quote": "lead quality e MQL sono citati al 39%, davanti a lead-to-customer conversion rate (34%)",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "Under the EU AI Act, outbound AI voice agents must disclose to humans that they are speaking with an AI unless it is obvious from context — directly relevant to Telesales' ElevenLabs outbound calling in Italy.",
+  "quote": "if your AI system interacts with humans, you must clearly disclose that they're speaking with AI, unless it's obvious from the context.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "The recommended compliance pattern for voice AI is an explicit AI disclosure at the start of every call.",
+  "quote": "Start every call with a clear disclosure: 'You're speaking with an AI assistant.'",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "EU AI Act enforcement is phased: prohibited-practice rules applied from Feb 2, 2025 (fines up to €35M or 7% of global turnover), and high-risk AI system requirements apply from Aug 2, 2026 (fines up to €15M or 3% of global turnover).",
+  "quote": "Feb 2, 2025 | Prohibited AI practices, AI literacy duties | €35M or 7% global turnover ... Aug 2, 2026 | High-risk AI system requirements | €15M or 3% global turnover",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Most customer-service voice AI applications are not classified as high-risk under the AI Act; only systems touching areas like creditworthiness, insurance pricing, or access to essential services trigger high-risk obligations.",
+  "quote": "Most customer service voice AI applications fall outside \"high-risk\" designation, though systems handling \"creditworthiness assessments, insurance pricing, or access to essential services\" require additional oversight mechanisms and documentation.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "The AI Act prohibits emotion analysis of employees in the workplace, including analysis of employee performance calls in contact centers.",
+  "quote": "emotion analysis of employee performance calls is now illegal in the EU.",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il costo medio per lead (CPL) nel B2B si attesta intorno ai $198, e circa $200 per lead qualificato — benchmark di pricing rilevante per confrontare il costo per appuntamento qualificato in Italia.",
+  "quote": "il costo medio per lead (CPL) si attesta attorno ai $198 ... il CPL si aggira intorno ai $200 per lead qualificato",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Le campagne multicanale riducono il costo per lead fino al 31% rispetto al singolo canale, argomento a favore di un outreach combinato (call + email + LinkedIn).",
+  "quote": "campagne multicanale ottimizzano i costi per lead, riducendo fino al 31% il CPL",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'email marketing B2B avrebbe un ROI medio di oltre $42 per dollaro speso, con tassi di apertura ~21% e CTR sopra il 2,8% (statistica globale di seconda mano, non specifica per cold email in Italia).",
+  "quote": "ROI medio di oltre $42 per ogni dollaro speso ... tassi di apertura attorno al 21% e CTR sopra il 2,8%",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il 62% dei CRM integrerebbe sistemi di intelligenza artificiale e l'uso di agenti AI autonomi ridurrebbe del 27% i tempi di risposta ai lead — segnale di adozione AI nell'outbound, ma senza dato Italia-specifico.",
+  "quote": "Il 62% dei usability CRM integrano sistemi di intelligenza artificiale ... l'uso di agenti AI autonomi... riduce del 27% i tempi di risposta",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il 91% dei marketer indicherebbe la lead generation come priorità principale del 2025, a supporto della tesi che la domanda di servizi di lead generation/appointment setting resta alta.",
+  "quote": "il 91% dei marketer che indicano la lead generation come la priorità principale del 2025",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il Registro Pubblico delle Opposizioni (RPO), riformato con DPR 27 gennaio 2022 n. 26, copre tutti i numeri nazionali riservati inclusi i cellulari: la copertura non è quindi limitata ai numeri in elenco, e numeri usati in contesto B2B (es. cellulari di titolari/decisori) possono essere iscritti e opporsi al telemarketing.",
+  "quote": "tutti i numeri nazionali riservati, inclusi i cellulari",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'iscrizione al RPO annulla i consensi al telemarketing e alla cessione dei dati rilasciati in precedenza, e la revoca si applica esplicitamente sia alle chiamate con operatore umano sia alle chiamate automatizzate ('robocall') — quindi anche alle chiamate outbound effettuate da agenti AI Voice.",
+  "quote": "chiamate effettuate con operatore umano sia su quelle automatizzate (dette 'robocall')",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Dopo l'iscrizione al RPO sono consentite solo le chiamate relative a contratti attivi o cessati da non più di 30 giorni, oppure quelle per cui l'interessato ha rilasciato un nuovo consenso successivo all'iscrizione.",
+  "quote": "cessati da non più di 30 giorni",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Le violazioni delle regole sul telemarketing sono sanzionabili ai sensi dell'art. 83(5) GDPR fino a 20 milioni di euro o, per le imprese, fino al 4% del fatturato mondiale totale annuo.",
+  "quote": "20 milioni di euro o per le imprese fino al 4% del fatturato mondiale totale annuo",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'iscrizione al RPO è gratuita ed è gestita dalla Fondazione Ugo Bordoni sotto vigilanza ministeriale; esiste inoltre un codice di condotta sul telemarketing presentato dalle associazioni di categoria.",
+  "quote": "Registration is free and managed by Fondazione Ugo Bordoni (FUB) under Ministry oversight.",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "Real-world all-in costs for AI voice agent platforms in 2026 cluster around $0.05-$0.33 per minute: Vapi typically $0.23-$0.33/min, ElevenLabs Conversational AI $0.08-$0.10/min, Synthflow $0.15-$0.24/min, Bland $0.11-$0.14/min — a key COGS benchmark for AI voice outbound services.",
+  "quote": "Vapi.ai: \"$0.05/min orchestration fee\" ... $0.23–$0.33/min typical; ElevenLabs ... Conv AI 2.0: \"$0.08–$0.10/min\"; Synthflow ... \"$0.15–$0.24/min typical\"; Bland AI: \"$0.11–$0.14/min\"",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "ElevenLabs raised $500M at an $11B valuation in February 2026 and roughly halved its Conversational AI per-minute pricing, signaling falling unit costs on the exact platform Telesales/SalesMind builds on.",
+  "quote": "ElevenLabs: \"raised $500M at an $11B valuation in February 2026\" and \"cut Conversational AI per-minute pricing roughly in half\"",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "AI voice agent adoption is at large scale globally: Vapi reports 300M+ calls processed and 2.5M+ assistants as of 2026, and Synthflow reports 65M+ monthly calls across 30+ countries, indicating rapid growth of the AI voice outbound category through 2026.",
+  "quote": "Vapi.ai: \"300M+ calls processed, 2.5M+ assistants reported as of 2026\" ... Synthflow: \"65M+ monthly calls across 30+ countries reported in 2026\"",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Several major voice agent platforms (Vapi, Retell, Synthflow, Deepgram) explicitly advertise GDPR compliance, with Retell offering self-serve DPAs — relevant to compliance posture for EU/Italian outbound AI calling.",
+  "quote": "Platforms explicitly mentioning GDPR compliance: Vapi.ai (SOC 2 Type II, HIPAA, PCI DSS v4, GDPR), Retell AI (GDPR compliance with self-serve BAA/DPA), Synthflow (SOC 2, GDPR, ISO 27001 certified), Deepgram (GDPR, CCPA, PCI compliant)",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Telnyx bundles voice AI at $0.05-$0.08/min (telephony standalone from $0.002+/min) and offers HD Voice with sub-200ms latency claims across four regions — a cost reference for Telesales' current Telnyx telephony stack.",
+  "quote": "Telnyx: \"$0.05–$0.08/min bundled\" ... Standalone: \"$0.002+/min\" ... \"HD Voice on LiveKit (G.722 + Opus wideband) across four regions\" with \"sub-200ms latency claim\"",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Telelead vende appuntamenti B2B con pricing a scalare per volume: 20 appuntamenti a 700 euro + IVA (35 euro cad.), 50 a 1.500 euro (30 euro cad.), 100 a 2.500 euro (25 euro cad.), 200 a 4.000 euro (20 euro cad.) — un benchmark di costo-per-appuntamento pay-per-performance nel mercato italiano.",
+  "quote": "700€ + IVA (35€ + IVA per appuntamento) ... 4.000€ + IVA (20€ + IVA per appuntamento)",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il modello commerciale è interamente pay-per-appointment (nessun canone mensile dichiarato): il cliente paga solo gli appuntamenti confermati, con compensazione/sostituzione se il titolare nega di aver fissato l'appuntamento.",
+  "quote": "Paghi solo gli appuntamenti buoni ... Se un appuntamento va KO perchè il titolare (non succede quasi mai) ti dice che non ha preso appuntamento, quell'appuntamento ti viene compensato.",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "Esiste una variante premium ('Appuntamenti+') a costo maggiorato che copre gli appuntamenti falliti per qualsiasi motivo — segno che nel mercato italiano la garanzia sull'esito è una leva di differenziazione e di pricing.",
+  "quote": "An upgraded option called 'Appuntamenti+' provides broader protection covering failed meetings regardless of reason, at higher cost.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "I verticali citati come casi d'uso sono fotovoltaico, depuratori d'acqua e sistemi d'allarme — il segmento depurazione acqua conferma domanda di appointment setting nel verticale trattamento acqua (rilevante per il cliente Culligan di Telesales).",
+  "quote": "The page references specific verticals (photovoltaic, water purifiers, alarm systems) but emphasizes B2B generically.",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Telelead dichiara che molte aziende riempiono l'agenda settimanale dei commerciali entro 48 ore dall'avvio — claim di marketing non verificato, utile solo come indicatore del posizionamento promesso ai clienti.",
+  "quote": "Molte aziende riescono a riempire l'agenda settimanale dei propri commerciali già nelle prime 48 ore",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "Nel 2023 il settore BPO e Contact Center in Italia impiegava quasi 80.000 lavoratori (57.200 addetti dipendenti piu' 21.476 collaboratori), distribuiti su 2.035 unita' locali con dimensione media di 28,1 addetti.",
+  "quote": "nel 2023 il sistema dei BPO e dei Contact Center in Italia impiega quasi 80.000 lavoratori, con 57.200 addetti e 21.476 collaboratori",
+  "importance": "supporting",
+  "src_hint": ""
+ },
+ {
+  "claim": "Il settore BPO/Contact Center italiano e' cresciuto dello 0,5% nel 2023, contro un -0,1% dell'economia generale: crescita positiva ma quasi piatta, non un mercato in forte espansione.",
+  "quote": "+0.5% in 2023 vs. -0.1% for general economy",
+  "importance": "central",
+  "src_hint": ""
+ },
+ {
+  "claim": "L'offerta di contact center in Italia e' concentrata nel Mezzogiorno: il 49,2% delle unita' locali e il 55,7% degli addetti si trovano nelle regioni meridionali.",
+  "quote": "il 49,2% delle unità locali e il 55,7% degli addetti",
+  "importance": "tangential",
+  "src_hint": ""
+ },
+ {
+  "claim": "La forza lavoro dei contact center italiani e' al 68,8% femminile e al 95,8% di nazionalita' italiana, con il 23,4% laureati.",
+  "quote": "il 68,8% degli addetti sono donne",
+  "importance": "tangential",
+  "src_hint": ""
+ }
+]

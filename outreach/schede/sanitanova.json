@@ -1,0 +1,20 @@
+{
+  "riassunto": "",
+  "pain_point": "",
+  "hook": "",
+  "variante_email": "B",
+  "motivo_variante": "Sito non raggiungibile, variante B di default per il pool email cold.",
+  "da_verificare": "Sito non raggiungibile (HTTP 500 su sanitanova.it e www.sanitanova.it): verificare manualmente il sito prima dell'invio; email e' un pattern non verificato.",
+  "scheda_completa": false,
+  "pool": "email_cold",
+  "nome_azienda": "Sanitanova",
+  "nome_decisore": "Michele Fanello",
+  "ruolo_decisore": "Chief operating officer & co-founder",
+  "email": "michele.fanello@sanitanova.it",
+  "telefono": "",
+  "citta": "Venice",
+  "settore": "Consulenza gestionale",
+  "website": "sanitanova.it",
+  "slug": "sanitanova",
+  "pagine_lette": []
+}

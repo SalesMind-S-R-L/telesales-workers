@@ -1,0 +1,18 @@
+{
+  "riassunto": "",
+  "pain_point": "",
+  "hook": "",
+  "variante_email": "B",
+  "motivo_variante": "Sito quasi vuoto: impossibile valutare il pain, scheda da completare a mano.",
+  "da_verificare": "Sito non raggiungibile: scheda da fare a mano",
+  "scheda_completa": false,
+  "nome_azienda": "Comehome!",
+  "nome_decisore": "Andrea Vitale",
+  "ruolo_decisore": "Co-founder & chief technology officer",
+  "email": "andrea.vitale@comehome.fun",
+  "telefono": "+39094481965",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "comehome.fun",
+  "pagine_lette": ["https://comehome.fun", "https://www.comehome.fun"]
+}

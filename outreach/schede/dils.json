@@ -1,0 +1,20 @@
+{
+  "riassunto": "DILS (Milano, fondata nel 2019) e' un partner tecnologico per fashion, lusso, retail e GDO con oltre 100 professionisti e tre soluzioni proprietarie: Figurino per la gestione collezioni, Client Hub per il clienteling e Collection Studio. Offre anche consulenza, application management e professional services.",
+  "pain_point": "Il funnel parte da una demo su richiesta: per soluzioni verticali su fashion e lusso il bacino di prospect e' ristretto e ad alto valore, quindi generare con costanza demo qualificate con i decisori giusti e' probabilmente la sfida commerciale principale.",
+  "hook": "ho visto che con Figurino, Client Hub e Collection Studio coprite l'intero ciclo prodotto-cliente per fashion e lusso, con oltre 100 professionisti in organico",
+  "variante_email": "B",
+  "motivo_variante": "Azienda strutturata con processo demo gia' definito e nessun pain outbound dichiarato: meglio il questionario di valutazione commerciale.",
+  "da_verificare": "Email giuseppe.aiello@dilservice.it e' un pattern non verificato; il ruolo e' fractional CTO, valutare se non sia piu' adatto un contatto sales/CEO per la proposta commerciale.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Dils",
+  "nome_decisore": "Giuseppe Aiello",
+  "ruolo_decisore": "Fractional chief technology officer",
+  "email": "giuseppe.aiello@dilservice.it",
+  "telefono": "",
+  "citta": "Brugherio",
+  "settore": "IT / Software",
+  "website": "dilservice.it",
+  "pagine_lette": ["https://dilservice.it"],
+  "slug": "dils"
+}

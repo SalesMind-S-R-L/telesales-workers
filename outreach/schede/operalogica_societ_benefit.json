@@ -1,0 +1,20 @@
+{
+  "riassunto": "",
+  "pain_point": "",
+  "hook": "",
+  "variante_email": "B",
+  "motivo_variante": "Default del pool email_cold, sito non analizzabile.",
+  "da_verificare": "Sito non raggiungibile (errore certificato TLS su operalogica.com e www.operalogica.com): verificare manualmente il sito prima dell'invio; email e' un pattern non verificato.",
+  "scheda_completa": false,
+  "pool": "email_cold",
+  "nome_azienda": "Operalogica Società Benefit",
+  "nome_decisore": "Andrea Antonio Armellini",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "andrea.armellini@operalogica.com",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "operalogica.com",
+  "slug": "operalogica_societ_benefit",
+  "pagine_lette": []
+}

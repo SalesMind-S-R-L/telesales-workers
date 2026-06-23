@@ -1,0 +1,6 @@
+{
+  "intro": "Obiettivo appuntamenti/mese: 10. Review settimanale.",
+  "target": [["Appuntamenti in target fissati","10/mese",0,"Setter su lista"],["Aziende interessate","-",0,""]],
+  "review_settimane": [["W1","16-20 giu"],["W2","23-27 giu"],["W3","30 giu-4 lug"],["W4","7-11 lug"]],
+  "prossimi_passi": ["1. Inviare la lista al cliente per approvazione.","2. Avviare le chiamate dai verdi/quick win."]
+}

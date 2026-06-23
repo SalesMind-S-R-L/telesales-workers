@@ -1,0 +1,20 @@
+{
+  "riassunto": "Teikos Solutions e' una societa' di consulenza di Forli' specializzata in automazione dei processi finanziari e di controllo di gestione: tesoreria, credit management, pianificazione finanziaria, budget e closing, Business Intelligence con Power BI e monitoraggio ESG. Oltre 20 anni di attivita', 30 consulenti, piu' di 500 progetti per oltre 400 clienti tra cui Conad, Julian Fashion e NWG Energia.",
+  "pain_point": "Con 30 consulenti da tenere saturi e un'offerta che richiede di parlare con CFO e controller di PMI e medio-grandi aziende, la generazione costante di primi incontri qualificati e' probabilmente affidata a webinar e referenze, con flusso poco prevedibile.",
+  "hook": "ho visto che in oltre 20 anni avete realizzato piu' di 500 progetti di automazione finanziaria per clienti come Conad e Julian Fashion",
+  "variante_email": "B",
+  "motivo_variante": "Azienda consolidata con marketing formativo attivo (webinar, seminari): nessun pain commerciale lampante, meglio il questionario di valutazione.",
+  "da_verificare": "Email roberto.spaccini@tksol.net e' un pattern non verificato; il ruolo e' interim CEO, verificare che sia ancora in carica.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Teikos Solutions Group",
+  "nome_decisore": "Roberto Spaccini",
+  "ruolo_decisore": "Interim chief executive officer",
+  "email": "roberto.spaccini@tksol.net",
+  "telefono": "",
+  "citta": "Forlì",
+  "settore": "Consulenza gestionale",
+  "website": "tksol.net",
+  "slug": "teikos_solutions_group",
+  "pagine_lette": ["https://tksol.net"]
+}

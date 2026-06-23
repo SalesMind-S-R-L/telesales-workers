@@ -1,0 +1,208 @@
+{
+  "titolo": "DOSSIER DI MERCATO",
+  "sottotitolo": "Cosmetica e estetica professionale B2B in Italia - Linfa Cosmetics",
+  "nota_metodo": "Nota: dati incrociati su piu fonti pubbliche (aggiornamento giugno 2026).",
+  "sezioni": [
+    {
+      "titolo": "1. Dimensione e crescita del mercato cosmetico italiano",
+      "paragrafi": [
+        "Il settore cosmetico italiano e in crescita strutturale: secondo l'outlook presentato da Cosmetica Italia alla Milano Beauty Week, il fatturato totale del comparto raggiunge i 17,4 miliardi di euro a fine 2025 (+5,1% sul 2024), in linea con la crescita media annua dell'ultimo decennio. L'export pesa per circa la meta delle vendite, con 8,5 miliardi di euro stimati nel 2025 (+7%), mentre il fatturato sul mercato interno sale a 8,9 miliardi (+3,3%) e i consumi nazionali toccano i 13,9 miliardi (+3,7%), pari a circa 219 euro pro capite.",
+        "L'Italia e la fabbrica cosmetica d'Europa: il conto terzi (contract manufacturing) made in Italy produce il 67% del make-up consumato nell'Unione Europea e il 55% di quello usato nel mondo, con un polo concentrato nella 'Cosmetic Valley' lombarda attorno a Crema. Questo significa che molti brand a scaffale sono prodotti dagli stessi laboratori: la leva competitiva non e piu solo la qualita produttiva, ma il posizionamento, il racconto del brand e il servizio al rivenditore.",
+        "Il naturale e green non e una nicchia ma un quarto del mercato: i cosmetici a connotazione naturale e sostenibile valgono circa 3,3 miliardi di euro e rappresentano il 24,8% del totale omnichannel a fine 2024, con una crescita media del 22,5% negli ultimi cinque anni (2019-2024). E' il segmento esatto in cui si posiziona Linfa Cosmetics, dunque un brand premium naturale made in Italy cavalca un trend strutturale e non passeggero."
+      ],
+      "bullet": [
+        "Take operativo: presentati come brand naturale premium made in Italy, il segmento green vale gia un quarto del mercato e cresce a doppia cifra, non e una moda.",
+        "Take operativo: la qualita produttiva italiana e data per scontata (l'Italia produce i due terzi del make-up europeo), quindi differenziati su storia del brand, INCI naturale e margine per il rivenditore."
+      ],
+      "tabella": {
+        "headers": ["Indicatore", "Valore 2025", "Variazione su 2024"],
+        "rows": [
+          ["Fatturato totale settore", "17,4 mld euro", "+5,1%"],
+          ["Export", "8,5 mld euro", "+7%"],
+          ["Fatturato mercato interno", "8,9 mld euro", "+3,3%"],
+          ["Consumi nazionali", "13,9 mld euro", "+3,7%"],
+          ["Cosmetica green (2024)", "circa 3,3 mld euro (24,8% del totale)", "+22,5% medio 2019-2024"]
+        ]
+      }
+    },
+    {
+      "titolo": "2. Canali di vendita B2B: peso e numerosita dei punti vendita",
+      "paragrafi": [
+        "La GDO resta il primo canale a valore per i cosmetici (mass market), ma cresce lentamente (+2,1% nel 2025). I canali piu dinamici e piu adatti a un brand premium naturale sono l'e-commerce (+9%), la profumeria (+5,8%) e la farmacia (+3,3%). L'erboristeria cresce piu lentamente nei volumi complessivi (+2,2%) perche il naturale e ormai trasversale a tutti i canali, ma resta un presidio identitario forte per un brand come Linfa.",
+        "Sul fronte numerosita: in Italia ci sono circa 20.000 farmacie (20.079 nel 2024, una delle reti piu capillari d'Europa), circa 3.300 parafarmacie (3.309 a fine 2024, in crescita del +4% annuo), circa 8.700 profumerie e circa 40.000 centri estetici. Le erboristerie sono qualche migliaio ma con dati meno sistematici. La cosmetica in farmacia ha superato 2,2 miliardi di euro nel 2024, le catene di profumeria valgono oltre 2,5 miliardi (+14%).",
+        "Per Linfa questo si traduce in un bacino di decine di migliaia di punti vendita indipendenti tra estetica, erboristeria, parafarmacia e profumeria di nicchia: target B2B numericamente enorme, frammentato e raggiungibile a freddo, dove il rapporto diretto produttore-rivenditore conta piu del passaggio dal grossista."
+      ],
+      "bullet": [
+        "Take operativo: il bacino indipendente (estetica, erboristeria, parafarmacia, profumeria di nicchia) e fatto di decine di migliaia di titolari decisori, perfetto per outbound telefonico.",
+        "Take operativo: profumeria selettiva e farmacia sono i canali premium in crescita, posizionaci li per immagine e marginalita, evita di partire dalla GDO."
+      ],
+      "tabella": {
+        "headers": ["Canale", "Numero punti vendita Italia", "Trend valore cosmetica"],
+        "rows": [
+          ["Farmacie", "circa 20.000", "+3,3% (2025); cosmetica oltre 2,2 mld (2024)"],
+          ["Parafarmacie", "circa 3.300", "in crescita (+4% punti vendita/anno)"],
+          ["Profumerie", "circa 8.700", "+5,8% (2025); catene oltre 2,5 mld (+14%)"],
+          ["Centri estetici", "circa 40.000", "cosmesi da cabina +11% in un anno"],
+          ["Erboristerie", "alcune migliaia", "+2,2% (2025), canale identitario green"],
+          ["GDO", "capillare", "+2,1% (2025), primo canale a valore"]
+        ]
+      }
+    },
+    {
+      "titolo": "3. Estetica professionale: dimensione, spesa e trend",
+      "paragrafi": [
+        "L'estetica professionale e un settore in espansione: si stimano circa 40.000 centri estetici attivi (circa 42.600 imprese complessive del benessere estetico), con circa 1.300 nuove aperture negli ultimi due anni e una crescita annua tra il 4% e il 10%. La spesa in cosmetici professionali da cabina e cresciuta dell'11% in un anno secondo il rapporto annuale di Cosmetica Italia, segno che le estetiste investono sempre piu in prodotto di qualita per fidelizzare e giustificare il prezzo del trattamento.",
+        "I trattamenti corpo vivono una rinascita: protocolli sensoriali completi di 60-90 minuti che combinano scrub, impacchi, oli essenziali e massaggi, con i trattamenti anticellulite e tonificanti sempre fra i piu richiesti dalla clientela femminile. Cresce anche la domanda di trattamenti con ingredienti naturali e biologici e packaging eco-friendly, perche la cliente finale e sempre piu consapevole.",
+        "Questo e il canale piu sinergico con la gamma Linfa: lo scrub ai semi di mirtillo rosso e il fango osmotico anticellulite sono prodotti nati per la cabina e per il rivendita-banco. L'estetista compra per usarli in trattamento e poi rivenderli alla cliente, generando doppio margine, e cerca esattamente la combinazione naturale + risultato + esclusivita di zona."
+      ],
+      "bullet": [
+        "Take operativo: lo scrub semi di mirtillo rosso e il fango anticellulite sono prodotti da cabina, l'estetista guadagna due volte (trattamento + rivendita alla cliente).",
+        "Take operativo: la spesa in cosmesi professionale cresce +11%/anno, l'estetista sta gia investendo, il tema non e 'se' comprare ma 'da chi'."
+      ],
+      "tabella": {
+        "headers": ["Indicatore estetica professionale", "Dato"],
+        "rows": [
+          ["Centri estetici attivi", "circa 40.000"],
+          ["Imprese benessere estetico", "circa 42.600"],
+          ["Nuove aperture ultimi 2 anni", "circa 1.300"],
+          ["Crescita annua settore", "+4% / +10%"],
+          ["Spesa cosmesi professionale da cabina", "+11% in un anno"]
+        ]
+      }
+    },
+    {
+      "titolo": "4. Cosmesi intima e benessere sessuale: trend e canali",
+      "paragrafi": [
+        "Il benessere intimo e sessuale e uno dei segmenti a piu alta crescita e meno presidiati. Il mercato globale dei lubrificanti personali valeva circa 1,7 miliardi di dollari nel 2024 con una crescita stimata del 9,6% annuo fino al 2034; nel benessere sessuale femminile i lubrificanti pesano il 43,1% della categoria. I driver sono concreti e non solo di costume: secchezza vaginale e dispareunia interessano fra il 10% e il 28% della popolazione femminile, rendendo questi prodotti un bisogno di salute, non solo di piacere.",
+        "In Italia il tabu si sta sgretolando e le farmacie stanno diventando il canale di legittimazione: stanno inserendo a scaffale lubrificanti, stimolanti e prodotti per la sfera intima, sfruttando reputazione e capillarita. Cio crea spazio per linee intime 'pulite', con INCI naturale e claim rassicuranti, vendute in farmacia, parafarmacia ed erboristeria oltre che online.",
+        "La linea intima Linfa (lubrificante con arginina, stimolante, crema schiarente, deodorante intimo) intercetta esattamente questa domanda: posizionamento naturale + farmacia/parafarmacia come canale di fiducia. E' un segmento dove pochi brand premium italiani sono presenti, quindi un argomento di novita e di differenziazione forte per il rivenditore che cerca prodotti ad alta marginalita e poca concorrenza a scaffale."
+      ],
+      "bullet": [
+        "Take operativo: la linea intima e un bisogno di salute (secchezza/dispareunia colpiscono 10-28% delle donne), non un prodotto di nicchia, e la farmacia la sta gia sdoganando.",
+        "Take operativo: pochi brand premium italiani presidiano l'intimo naturale, proponilo come categoria nuova ad alto margine e bassa concorrenza a scaffale."
+      ],
+      "tabella": {
+        "headers": ["Indicatore benessere intimo", "Dato"],
+        "rows": [
+          ["Mercato globale lubrificanti personali (2024)", "circa 1,7 mld USD"],
+          ["Crescita attesa 2025-2034", "+9,6% annuo (CAGR)"],
+          ["Peso lubrificanti nel femminile", "43,1% della categoria"],
+          ["Donne con secchezza/dispareunia", "10%-28% della popolazione femminile"],
+          ["Canale emergente in Italia", "farmacia e parafarmacia (sdoganamento tabu)"]
+        ]
+      }
+    },
+    {
+      "titolo": "5. Chi decide e come comprano i rivenditori beauty",
+      "paragrafi": [
+        "Nei canali indipendenti (centro estetico, erboristeria, parafarmacia, profumeria di nicchia) il decisore e quasi sempre il titolare o il responsabile acquisti, una sola figura che valuta e firma: il ciclo di vendita e corto e non passa da comitati. Nelle farmacie indipendenti decide il titolare o il direttore; nelle catene e nella GDO entrano buyer e category manager, con cicli piu lunghi e logiche di referenziamento centralizzato.",
+        "Cosa chiede concretamente il rivenditore prima di caricare un brand: marginalita adeguata e prezzo di rivendita difendibile; rotazione (il prodotto si vende davvero?); esclusiva o protezione di zona per non trovarselo svenduto a 200 metri o online sottocosto; conformita e sicurezza (notifica, INCI, certificazioni); ordine minimo accessibile e tempi di consegna rapidi (vantaggio del made in Italy); gestione resi e prodotti vicini a scadenza; e supporto commerciale: campioni omaggio, formazione del personale, materiali per il punto vendita, animazioni in-store.",
+        "Per Linfa la chiave e abbassare il rischio percepito del primo ordine: ordine minimo contenuto, campioni per far provare in cabina o al banco, protezione di zona e un margine chiaro. Il rivenditore non compra il prodotto, compra la certezza che girera e che il fornitore non lo brucera vendendo direttamente sottocosto sullo stesso territorio."
+      ],
+      "bullet": [
+        "Take operativo: nei canali indipendenti parli direttamente col titolare che decide e firma, ciclo corto, niente comitati: chiudi nella stessa chiamata l'invio del campione.",
+        "Take operativo: le tre obiezioni vere sono margine, rotazione e protezione di zona, anticipale tu prima che le sollevi lui."
+      ],
+      "tabella": {
+        "headers": ["Canale", "Chi decide", "Leva da spingere"],
+        "rows": [
+          ["Centro estetico / erboristeria", "Titolare", "Margine doppio (cabina + rivendita), esclusiva di zona"],
+          ["Parafarmacia / profumeria indip.", "Titolare / resp. acquisti", "Novita, INCI naturale, rotazione"],
+          ["Farmacia indipendente", "Titolare / direttore", "Conformita, marginalita, categoria intima"],
+          ["Catene / GDO", "Buyer / category manager", "Referenziamento, volumi, trade marketing"]
+        ]
+      }
+    },
+    {
+      "titolo": "6. Normative chiave per un brand cosmetico in Italia",
+      "paragrafi": [
+        "Il quadro di riferimento e il Regolamento (CE) 1223/2009, la norma europea che fissa requisiti e procedure per immettere un cosmetico sicuro sul mercato e proteggere il mercato UE da prodotti non conformi. Per un'azienda come B Cosmetics S.r.l. queste sono le credenziali da esibire al rivenditore, perche garantiscono che il prodotto e a norma e che la responsabilita e coperta.",
+        "Gli adempimenti centrali sono tre. Primo, la figura della Persona Responsabile (art. 4 e seguenti), che garantisce la sicurezza del prodotto ed e perseguibile in caso di non conformita. Secondo, la notifica al CPNP (Cosmetic Products Notification Portal, art. 13): ogni prodotto va notificato al portale centralizzato della Commissione Europea prima dell'immissione sul mercato. Terzo, l'etichettatura: gli ingredienti vanno dichiarati con nomenclatura INCI (art. 19), mentre i claim sono disciplinati dall'art. 20 e dal Regolamento UE 655/2013, che impone criteri comuni (i claim devono essere veritieri, supportati da prove, leali e non ingannevoli).",
+        "Per la vendita B2B questo si traduce in un messaggio di rassicurazione: prodotti notificati al CPNP, con Persona Responsabile, INCI completo in etichetta e claim conformi. Per la linea intima e per i claim 'naturale/anticellulite/schiarente' l'aderenza ai criteri del 655/2013 e particolarmente sensibile e va comunicata con attenzione, evitando promesse non documentabili che esporrebbero anche il rivenditore."
+      ],
+      "bullet": [
+        "Take operativo: usa la conformita come argomento di vendita: prodotti notificati CPNP, Persona Responsabile, INCI in etichetta, claim a norma 655/2013, e il rivenditore e coperto.",
+        "Take operativo: sui claim naturale/anticellulite/schiarente resta rigoroso, promesse non documentabili espongono anche il rivenditore e bruciano la fiducia."
+      ],
+      "tabella": {
+        "headers": ["Adempimento", "Riferimento", "Cosa significa per il rivenditore"],
+        "rows": [
+          ["Regolamento quadro", "CE 1223/2009", "Garanzia di prodotto sicuro e conforme UE"],
+          ["Persona Responsabile", "Art. 4 CE 1223/2009", "Responsabilita coperta dal produttore"],
+          ["Notifica CPNP", "Art. 13 CE 1223/2009", "Prodotto registrato prima della vendita"],
+          ["Etichettatura INCI", "Art. 19 CE 1223/2009", "Ingredienti trasparenti in etichetta"],
+          ["Disciplina claim", "Art. 20 + Reg. UE 655/2013", "Claim veritieri e documentabili"]
+        ]
+      }
+    },
+    {
+      "titolo": "7. Concorrenza: chi presidia gia questi canali e con che leve",
+      "paragrafi": [
+        "Sui canali target Linfa trova tre tipologie di concorrenti. Primo, i brand professionali da cabina gia radicati nell'estetica (es. case di cosmesi professionale storiche), che competono con ampiezza di gamma, formazione e fidelizzazione dell'estetista. Secondo, i brand naturali/erboristici venduti in erboristeria e parafarmacia, che competono sull'identita green e sul prezzo. Terzo, i grossisti e distributori multimarca che riforniscono centri estetici e rivenditori con cataloghi ampi e logistica, ma con poco racconto di brand e marginalita compressa.",
+        "Il fatto che l'Italia produca i due terzi del make-up europeo in conto terzi significa che molti prodotti a scaffale escono da pochi laboratori comuni: la differenziazione reale non e piu chimica ma di marca, di storia, di servizio e di margine. I distributori tradizionali tendono a livellare i prezzi e a erodere il margine del rivenditore, mentre i modelli di distribuzione diretta (produttore-rivenditore) lasciano piu margine e piu controllo del canale.",
+        "La leva competitiva vincente per Linfa e quindi il modello diretto premium: brand naturale made in Italy con storia e identita, vendita diretta al rivenditore (margine piu alto, niente intermediario), protezione di zona, una linea intima poco presidiata come prodotto-civetta differenziante, e supporto (campioni, formazione, materiali). Si compete su esclusivita e relazione, non su catalogo e prezzo."
+      ],
+      "bullet": [
+        "Take operativo: contro i distributori multimarca gioca la carta del rapporto diretto col produttore: piu margine per te, niente intermediario che ti svende sotto.",
+        "Take operativo: usa la linea intima come prodotto differenziante che la concorrenza da cabina non ha, ti rende il fornitore con qualcosa di unico a scaffale."
+      ],
+      "tabella": {
+        "headers": ["Tipo di concorrente", "Dove e forte", "Leva di Linfa"],
+        "rows": [
+          ["Brand professionali da cabina", "Centri estetici", "Naturale premium + linea intima esclusiva"],
+          ["Brand naturali/erboristici", "Erboristeria, parafarmacia", "Made in Italy premium + protezione di zona"],
+          ["Grossisti/distributori multimarca", "Tutti i canali", "Vendita diretta: piu margine, niente svendite"]
+        ]
+      }
+    },
+    {
+      "titolo": "8. Sintesi operativa per la vendita B2B di Linfa",
+      "paragrafi": [
+        "Il mercato e favorevole: settore cosmetico a 17,4 miliardi in crescita stabile, green ormai un quarto del totale, estetica professionale e benessere intimo in forte espansione, decine di migliaia di punti vendita indipendenti raggiungibili a freddo con un decisore unico. La sfida non e la domanda ma la scelta: convincere il titolare che Linfa girera, marginera e non verra svenduta.",
+        "La proposta di valore da costruire in chiamata e: brand naturale premium made in Italy + linea intima differenziante poco presidiata + modello diretto ad alto margine + protezione di zona + conformita totale (CPNP, INCI, claim a norma) + supporto con campioni e formazione. Sono le sei leve che rispondono punto per punto a cio che il rivenditore beauty chiede prima di caricare un nuovo brand."
+      ],
+      "bullet": [
+        "Take operativo: chiudi sempre la prima chiamata con l'invio di un campione e un secondo appuntamento, il rischio percepito si abbatte facendo provare il prodotto.",
+        "Take operativo: parti dai canali in crescita e ad alta marginalita (estetica, parafarmacia, profumeria di nicchia), lascia GDO e catene per dopo."
+      ]
+    }
+  ],
+  "takeaway": [
+    ["Il green vale gia il 24,8% del mercato e cresce a doppia cifra: non e una moda di nicchia.", "\"Il naturale ormai e un quarto di tutta la cosmetica venduta in Italia e cresce a doppia cifra: con Linfa lei mette a scaffale esattamente quello che la cliente sta gia cercando.\""],
+    ["L'Italia produce i due terzi del make-up europeo, la qualita e data per scontata: si vince sul margine e sul brand.", "\"La qualita made in Italy la danno tutti, noi le diamo qualcosa di piu: un brand con una storia e un margine che il distributore multimarca non le puo garantire.\""],
+    ["La cosmesi da cabina cresce +11%/anno: l'estetista sta gia investendo.", "\"Le sue colleghe stanno aumentando dell'11% all'anno la spesa in prodotto professionale, la domanda non e se comprare ma da chi: le faccio provare lo scrub ai semi di mirtillo in cabina?\""],
+    ["Scrub e fango anticellulite danno doppio margine all'estetista (trattamento + rivendita).", "\"Questi prodotti li usa in cabina nel trattamento e poi li rivende alla cliente: lei guadagna due volte sullo stesso prodotto.\""],
+    ["La linea intima e un bisogno di salute (secchezza/dispareunia 10-28% delle donne) e la farmacia la sta sdoganando.", "\"L'intimo non e piu un tabu, lo trovano gia in farmacia: e una categoria nuova ad alto margine dove a scaffale non ha quasi concorrenza.\""],
+    ["Nei canali indipendenti decide il titolare: ciclo corto, niente comitati.", "\"Visto che decide lei, le propongo questo: le mando subito i campioni e ci risentiamo giovedi per chiudere il primo ordine, va bene?\""],
+    ["Le tre obiezioni vere sono margine, rotazione e protezione di zona.", "\"Le anticipo le tre cose che conta davvero: il margine che le lascio, il fatto che questi prodotti girano, e che le proteggo la zona cosi nessuno glieli svende vicino.\""],
+    ["I distributori multimarca erodono il margine del rivenditore.", "\"Comprando direttamente da noi e non da un grossista, lei tiene piu margine e nessun intermediario le svende lo stesso prodotto sottocosto a due strade da qui.\""],
+    ["Conformita CPNP/INCI/claim copre anche il rivenditore.", "\"Sono tutti prodotti notificati, con Persona Responsabile e INCI in etichetta: lei e completamente coperta, non rischia nulla a scaffale.\""],
+    ["La profumeria (+5,8%) e la farmacia (+3,3%) sono i canali premium in crescita.", "\"Punto su realta come la sua perche sono i canali che stanno crescendo di piu sul premium: e il momento giusto per inserire un brand naturale italiano.\""]
+  ],
+  "fonti": [
+    ["Outlook 2025 settore cosmetico (Cosmetica Italia)", "https://www.cosmeticaitalia.it/press-area/dettaglio-comunicato/Cosmetica-Italia-presenta-loutlook-2025-continua-la-costante-crescita-del-settore-beauty/"],
+    ["Beauty italiano 17,4 mld 2025, export +7% (FashionNetwork)", "https://it.fashionnetwork.com/news/Il-beauty-italiano-verso-17-4-miliardi-di-fatturato-nel-2025,1764911.html"],
+    ["Cosmetica 17,4 mld, export +7% (Farmacista33)", "https://www.farmacista33.it/aggiornamento-professionale/31804/cosmetica-italiana-17-4-miliardi-di-fatturato-attesi-nel-2025-export-in-crescita-del-7.html"],
+    ["Consumi cosmetici 14,2 mld 2025 +5,7% (Federchimica)", "https://www.federchimica.it/webmagazine/dettaglio-news/2025/03/21/cosmetico-bene-fondamentale-per-gli-italiani-consumi-a-14-2-miliardi-di-euro-nelle-stime-2025-in-aumento-del-5-7"],
+    ["Mercato a connotazione naturale e sostenibilita 2024 (Cosmetica Italia Centro Studi)", "https://www.cosmeticaitalia.it/centro-studi/I-dati-del-mercato-a-connotazione-naturale-e-la-percezione-della-sostenibilita-da-parte-dei-consumatori-edizione-2024/"],
+    ["I numeri della cosmetica marzo 2025 (PDF Cosmetica Italia)", "https://www.cosmeticaitalia.it/export/sites/default/centro-studi/i-numeri-della-cosmetica/I-numeri-della-cosmetica-marzo-2025.pdf"],
+    ["Rapporto Annuale 2024 - 55a analisi del settore (Cosmetica Italia)", "https://www.cosmeticaitalia.it/documenti/a_centrostudi/beauty_report/Rapporto-Annuale-2024.pdf"],
+    ["La farmacia italiana 2024 - Report Federfarma", "https://www.federfarma.it/Documenti/farmacia_italiana2024.aspx"],
+    ["Farmacie oltre 20.000 presidi (Farmacista33)", "https://www.farmacista33.it/aggiornamento-professionale/33286/farmacie-oltre-20-mila-presidi-sul-territorio-e-826-mila-prestazioni-di-telemedicina-i-numeri-della-farmacia-italiana.html"],
+    ["E-commerce farmacie/parafarmacie Q3 2025 (FarmaciaVirtuale)", "https://farmaciavirtuale.it/e-commerce-farmacie-i-dati-al-terzo-trimestre-2025-degli-esercizi-autorizzati-in-italia/"],
+    ["Catene di profumeria, dati 2024 (Pambianco Beauty)", "https://beauty.pambianconews.com/2025/12/prosegue-il-trend-positivo-per-le-catene-di-profumeria/75881"],
+    ["Il mercato della profumeria in Italia (Italia Insights)", "https://italiainsights.it/ricerche-di-mercato/prodotti-di-consumo/il-mercato-della-profumeria-in-italia/"],
+    ["Analisi del mercato dell'estetica in Italia 2025", "https://ilmiobusinessplan.com/blogs/news/mercato-estetica"],
+    ["La crescita esponenziale dell'estetica professionale (CNA)", "https://www.cna.it/la-crescita-esponenziale-dellestetica-professionale/"],
+    ["Trattamenti corpo pre-estate, cosa proporre in cabina (Beautech)", "https://www.beautech.it/blog-cosmetici/trattamenti-viso-e-corpo/trattamenti-corpo-pre-estate/"],
+    ["Personal Lubricants Market Size 2025-2034 (GMInsights)", "https://www.gminsights.com/industry-analysis/personal-lubricants-market"],
+    ["L'economia del benessere sessuale (LTC Healthcare)", "https://it.ltchealthcare.co.uk/news/the-economics-of-sexual-wellness-market-trends-and-opportunities/"],
+    ["Regolamento europeo 1223/2009 (Cosmetica Italia)", "https://www.cosmeticaitalia.it/tecnico-regolatorio/normativa-cosmetici/regolamento-europeo-1223-2009/"],
+    ["Notifica dei cosmetici al CPNP (Consulenza Cosmetici)", "https://www.consulenzacosmetici.it/index.php?p=32"],
+    ["Manuale d'uso CPNP (Commissione Europea)", "https://ec.europa.eu/docsroom/documents/29563/attachments/1/translations/it/renditions/native"],
+    ["Notifiche cosmetici - Ministero della Salute", "https://www.salute.gov.it/new/it/tema/cosmetici/notifiche-di-nanomateriali/"],
+    ["Cosmetica made in Italy e conto terzi, export 2024 (Il Sole 24 Ore)", "https://www.ilsole24ore.com/art/per-cosmetica-2024-crescita-e-trainato-vendite-all-estero-AFf1yc4"],
+    ["Vendite B2B di cosmetici, guida (FasterCapital)", "https://fastercapital.com/it/contenuto/Vendite-B2B-di-cosmetici-Muoversi-nel-settore-della-bellezza--una-guida-per-vendite-B2B-di-successo.html"],
+    ["Dimensioni e quota mercato cosmetici Italia (Mordor Intelligence)", "https://www.mordorintelligence.it/industry-reports/italy-cosmetics-products-market-industry"]
+  ]
+}

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{--navy:#0b1740;--navy2:#15296b;--gold:#c19a4d;--gold2:#d4af6a;--cream:#f8f4ea;--ink:#1b2a52;--soft:#46557d}
+  @page{size:A4;margin:0}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Manrope',sans-serif;color:var(--ink);font-size:13px;line-height:1.55}
+  .page{width:210mm;min-height:297mm;padding:20mm 18mm;position:relative;page-break-after:always;background:#fff}
+  .page:last-child{page-break-after:auto}
+  .display{font-family:'Fraunces',serif}
+  h1{font-family:'Fraunces',serif;font-weight:700;font-size:32px;line-height:1.1;color:var(--navy)}
+  h3{font-size:15px;font-weight:800;color:var(--ink);margin:16px 0 6px}
+  p{margin:7px 0}
+  ul,ol{margin:7px 0 7px 20px}
+  li{margin:4px 0}
+  b,strong{color:var(--navy)}
+  em{color:var(--gold)}
+  .eyebrow{font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold);font-weight:800}
+  .rule{height:2px;background:linear-gradient(90deg,var(--gold2),transparent);margin:10px 0 16px;border:none}
+  .lead{font-size:14px;color:var(--soft)}
+  .box{background:var(--cream);border-left:3px solid var(--gold2);border-radius:0 10px 10px 0;padding:12px 16px;margin:12px 0}
+  .code{font-family:'JetBrains Mono',monospace;font-size:11px;background:#0b1740;color:#e9eefb;border-radius:10px;padding:14px 16px;margin:10px 0;white-space:pre-wrap;line-height:1.5}
+  .code .v{color:#d4af6a}
+  table{width:100%;border-collapse:collapse;margin:10px 0;font-size:12px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid #e7dec9;vertical-align:top}
+  th{background:var(--navy);color:#fff;font-size:11px;letter-spacing:.5px}
+  tr:nth-child(even) td{background:var(--cream)}
+  .foot{position:absolute;bottom:12mm;left:18mm;right:18mm;display:flex;justify-content:space-between;font-size:10px;color:#9aa3bd;letter-spacing:1px}
+  .cover{background:radial-gradient(120% 80% at 85% 12%,#1d367f,#15296b 42%,#0b1740);color:var(--cream);display:flex;flex-direction:column;justify-content:space-between}
+  .cover .logo{height:30px}
+  .cover h1{color:#fff;font-size:44px}
+  .cover h1 em{color:var(--gold2)}
+  .cover .sub{font-size:16px;color:#d4ddf2;max-width:130mm;margin-top:14px}
+  .cover .tags{margin-top:22px;display:flex;gap:8px;flex-wrap:wrap}
+  .cover .tag{border:1px solid rgba(212,175,106,.5);color:var(--gold2);font-size:11px;padding:5px 12px;border-radius:20px}
+  .cover .ded{border-top:1px solid rgba(212,175,106,.4);padding-top:14px;font-size:12px;color:#aeb9d6}
+  .cover .ded b{color:#fff}
+</style></head>
+<body>
+
+<!-- COVER -->
+<section class="page cover">
+  <img class="logo" src="file:///Users/simocors/Desktop/telesales/telesales-website-deploy/assets/logo-telesales-gold.png">
+  <div>
+    <div class="eyebrow" style="color:var(--gold2)">Documento 2 di 2 · Usa ogni giorno</div>
+    <h1 class="display" style="margin-top:10px">Prompt<br>&amp; Strumenti.</h1>
+    <p class="sub">I testi pronti da copiare in Claude. Tutto dentro il Project. Una chat = un contenuto. Copia il blocco, compila le parentesi, invia.</p>
+    <div class="tags"><span class="tag">Copy</span><span class="tag">Grafiche &amp; caroselli</span><span class="tag">Presentazione</span><span class="tag">Piano</span></div>
+  </div>
+  <div class="ded">Preparato per <b>Asia</b> · Telesales — Infrastrutture AI · Made in Italy</div>
+</section>
+
+<!-- PROMPT COPY -->
+<section class="page">
+  <div class="eyebrow">Prompt 1</div>
+  <h1>Scrivere i contenuti</h1>
+  <hr class="rule">
+  <p class="lead">Un solo prompt ti dà le 2 versioni: Meta (Instagram + Facebook) e LinkedIn. Compila le 3 parentesi.</p>
+  <div class="code">Sei il copywriter di Telesales. Conosci brand, tono, pain point e desideri
+dal Brand Brief del Project. Regole assolute: niente emoji, frasi corte,
+tono deciso e anti-fuffa, solo numeri/prove reali del brief.
+
+Creami UN contenuto social in DUE versioni.
+- Obiettivo: <span class="v">[es. generare appuntamenti / autorevolezza / mostrare risultati]</span>
+- Tema o prodotto: <span class="v">[es. AI Voice, recruiting lento, lead persi, evento]</span>
+- Formato: <span class="v">[post singolo / carosello / reel]</span>
+
+VERSIONE 1 — Instagram + Facebook (uguali, visual-first):
+1. HOOK (prima riga, ferma lo scroll) — 3 varianti.
+2. CORPO breve. 3. CTA. 4. HASHTAG 8-15.
+5. VISUAL: foto mia / grafica / carosello, e cosa mostra.
+   Se carosello, testo slide per slide.
+
+VERSIONE 2 — LinkedIn (professionale, da founder):
+1. HOOK. 2. CORPO più lungo e ragionato. 3. CTA verso commento/DM.
+4. HASHTAG 3-5.
+
+Tieni tutto conciso. Niente spiegazioni, solo il contenuto pronto.</div>
+  <p><b>Trucco anti-spreco:</b> se l'hook non convince, chiedi solo “altre 5 varianti di hook”. Ruota i temi sui pain point.</p>
+  <div class="foot"><span>TELESALES — PROMPT &amp; STRUMENTI</span><span>1 · COPY</span></div>
+</section>
+
+<!-- PROMPT DESIGN -->
+<section class="page">
+  <div class="eyebrow">Prompt 2</div>
+  <h1>Grafiche e caroselli</h1>
+  <hr class="rule">
+  <p class="lead">Claude crea grafiche come anteprima HTML (artifact): fai screenshot o esporti. Le foto vere le metti tu.</p>
+  <h3>Grafica singola (quote / dato / copertina)</h3>
+  <div class="code">Crea una grafica social Telesales come artifact HTML, quadrato 1080x1080.
+Brand: oro #d4af6a + navy #0b1740, crema #f8f4ea, niente nero.
+Font Fraunces (titolo) + Manrope. Niente emoji.
+Contenuto: <span class="v">[frase o numero]</span>. Tipo: <span class="v">[quote / card-dato / copertina]</span>.
+Stile premium, pulito, accento oro. Dammi solo l'artifact.</div>
+  <h3>Carosello</h3>
+  <div class="code">Crea un carosello Telesales come artifact HTML: <span class="v">[N]</span> slide 1080x1080.
+Brand oro+navy+crema, niente nero, Fraunces+Manrope, niente emoji, frasi corte.
+Struttura: slide 1 hook/problema, centrali sviluppo + 1 prova con numero
+reale del brief, ultima CTA.
+Testo slide-per-slide: <span class="v">[incolla dal prompt copy]</span>.
+Spazio per mia foto: <span class="v">[sì slide X / no]</span>. Dammi solo l'artifact.</div>
+  <div class="box"><b>Anti-spreco:</b> per cambiare solo una frase scrivi “stessa grafica, cambia solo il testo in: …”. Non rigenerare tutto.</div>
+  <div class="foot"><span>TELESALES — PROMPT &amp; STRUMENTI</span><span>2 · GRAFICHE</span></div>
+</section>
+
+<!-- PROMPT PRESENTAZIONE -->
+<section class="page">
+  <div class="eyebrow">Prompt 3</div>
+  <h1>La presentazione aziendale</h1>
+  <hr class="rule">
+  <p class="lead">Hai un template già pronto (il file della presentazione). Non si ridisegna: si riempie. Lavori a blocchi di 3-4 slide per chat.</p>
+  <h3>Struttura consigliata (8-9 slide)</h3>
+  <p>1. Cover · 2. Chi siamo + 3 numeri · 3. Il problema · 4. I 9 prodotti · 5. AI Voice in focus · 6. Numeri/prove · 7. Come lavoriamo · 8. Perché Telesales · 9. Contatti.</p>
+  <h3>Prompt</h3>
+  <div class="code">Sei il designer della presentazione Telesales. Conosci brand e contenuti
+dal Brand Brief. Lavoro su un template HTML (1280x720, oro+navy+crema,
+Fraunces+Manrope, niente nero, niente emoji).
+
+Creami il blocco di queste slide, coerente col template:
+- <span class="v">[elenca le slide del blocco]</span>
+Contenuti: <span class="v">[testi / numeri / claim per ogni slide]</span>.
+Dove va una foto, metti un riquadro “FOTO: [cosa]”.
+Tono deciso, solo numeri reali. Dammi solo l'HTML del blocco.</div>
+  <p>Esporti con Stampa → Salva come PDF, oppure passi il file a Simone. Le tue foto degli eventi vanno nelle slide “chi siamo” e “come lavoriamo”.</p>
+  <div class="foot"><span>TELESALES — PROMPT &amp; STRUMENTI</span><span>3 · PRESENTAZIONE</span></div>
+</section>
+
+<!-- PIANO + CHECKLIST -->
+<section class="page">
+  <div class="eyebrow">Piano</div>
+  <h1>Come parti e cosa pubblichi</h1>
+  <hr class="rule">
+  <h3>Checklist prima settimana</h3>
+  <ol>
+    <li>Crea il Project “Telesales — Social &amp; Brand” e carica il Brand Brief (dalla Guida).</li>
+    <li>Crea i <b>primi 3 contenuti</b> col Prompt 1 (ognuno dà versione Meta + LinkedIn).</li>
+    <li>Inizia la presentazione: cover + chi siamo + numeri (template).</li>
+    <li>Compila il piano qui sotto e manda tutto a Simone prima di pubblicare.</li>
+  </ol>
+  <h3>Piano editoriale — 3 contenuti a settimana</h3>
+  <table>
+    <tr><th>#</th><th>Tema / pain point</th><th>Formato</th><th>Versione Meta (IG+FB)</th><th>Versione LinkedIn</th><th>Stato</th></tr>
+    <tr><td>1</td><td>Il personale costa, l'AI no</td><td>carosello</td><td>—</td><td>—</td><td>da fare</td></tr>
+    <tr><td>2</td><td>Lead persi / follow-up mai fatti</td><td>post</td><td>—</td><td>—</td><td>da fare</td></tr>
+    <tr><td>3</td><td>Risultati / numeri (prova)</td><td>post</td><td>—</td><td>—</td><td>da fare</td></tr>
+  </table>
+  <div class="box">Ricorda: pubblichi su <b>Instagram</b> e Meta ripubblica in automatico su <b>Facebook</b>. La versione <b>LinkedIn</b> la pubblichi a parte. Stati: da fare → copy pronto → visual pronto → pubblicato. Una chat = un contenuto; copy prima, visual dopo; le tue foto sono il valore aggiunto.</div>
+  <div class="foot"><span>TELESALES — PROMPT &amp; STRUMENTI</span><span>4 · PIANO</span></div>
+</section>
+
+</body></html>

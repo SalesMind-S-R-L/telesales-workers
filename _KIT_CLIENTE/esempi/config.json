@@ -1,0 +1,16 @@
+{
+  "cliente": "Lux SRL",
+  "titolo_master": "MASTER LUX SRL",
+  "sottotitolo": "Strumento di lavoro Telesales per Lux SRL - aggiornato 16 giugno 2026",
+  "obiettivo": "Fissare appuntamenti qualificati con decisori marketing di brand che investono in contenuti.",
+  "servizio": "Produzione contenuti AI high-ticket.",
+  "modalita_lista": "scouting",
+  "calendario_cliente": "https://link.esempio.it/widget/booking/XXXX",
+  "data": "16 giugno 2026",
+  "ultimo_sync": "16 giugno 2026",
+  "obiettivo_appuntamenti": "10/mese",
+  "regole_oro": ["L'obiettivo della chiamata e l'APPUNTAMENTO con il decisore.", "In chiamata NON si fanno prezzi.", "Note brevi e professionali."],
+  "settori_weight": {"Fashion & Lifestyle": 4, "Food & Beverage": 3},
+  "icp": [["Settori", "Fashion, Food"], ["Profilo", "Aziende che gia investono in adv/contenuti"], ["Escludere", "PMI senza comunicazione strutturata"]],
+  "insight": [["Video adv", "Il video pesa ~43% dell'advertising in Italia", "\"E' il formato su cui i brand stanno spostando i budget.\""]]
+}

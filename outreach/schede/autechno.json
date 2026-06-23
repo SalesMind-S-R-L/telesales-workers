@@ -1,0 +1,22 @@
+{
+  "riassunto": "Autechno e' una societa' di automazione industriale nata a Verona nel 2011 che progetta e realizza sistemi di produzione e soluzioni robotiche per aumentare la produzione e ridurne il costo. Fornisce quadri elettrici, PLC, SCADA, robotica e macchine industriali.",
+  "pain_point": "Azienda fondata da un imprenditore tecnico, in crescita ma con acquisizione clienti legata a relazioni dirette del fondatore: serve un flusso costante di appuntamenti per scalare le commesse.",
+  "hook": "ho visto che nata a Verona nel 2011 progettate sistemi di produzione e soluzioni robotiche su misura",
+  "variante_email": "B",
+  "motivo_variante": "Imprenditore fondatore tuttora attivo: aggancio personale alla nascita e missione, variante B.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://autechno.it/",
+  "nome_azienda": "Autechno",
+  "nome_decisore": "Luca Chesini",
+  "ruolo_decisore": "Fondatore",
+  "email": "luca.chesini@autechno.it",
+  "telefono": "",
+  "citta": "Villafranca di Verona",
+  "settore": "Automazione e macchinari",
+  "website": "autechno.it",
+  "pagine_lette": [
+    "https://autechno.it/"
+  ]
+}

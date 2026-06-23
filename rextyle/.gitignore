@@ -1,0 +1,24 @@
+# Credenziali Meta
+scripts/.env
+scripts/*.env
+*.env
+
+# Foto reali clienti (privacy)
+_asset/foto-reali/*
+!_asset/foto-reali/.gitkeep
+
+# Output batch (peso, non versionare)
+output/*/
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

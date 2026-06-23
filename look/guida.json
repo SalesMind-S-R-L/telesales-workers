@@ -1,0 +1,53 @@
+{
+  "intro": "Come chiamare le PMI con numero verde 800 e fissare un appuntamento per Look SRLS. L'obiettivo è l'incontro col decisore e l'ultima fattura, MAI il prezzo al telefono.",
+  "chi_chiami": [
+    "Aziende che HANNO GIÀ un numero verde 800 pubblicato online (lo trovi nella colonna Evidenza). Niente educazione da fare: la trattativa è solo migliorativa.",
+    "Punti al titolare nelle piccole; all'ufficio acquisti, IT o marketing nelle più strutturate. Obiettivo: fissare un appuntamento e farti mandare l'ultima fattura del numero verde."
+  ],
+  "workflow": [
+    ["Mattina", "Apri LISTA_PROSPECT, parti dal primo VERDE in alto."],
+    ["Prima della chiamata", "Leggi 'Cosa dire' e l'evidenza (numero 800 attivo): sai già perché è in target."],
+    ["Durante", "Chiedi del responsabile del numero verde. Usa lo script. Non fare prezzi."],
+    ["Subito dopo", "Aggiorna ESITO e NOTE; se fissi, compila APPUNTAMENTO e chiedi la fattura via mail."],
+    ["Fine giornata", "Mini-report a Telesales."]
+  ],
+  "script": {
+    "regola": "In chiamata NON si fanno prezzi né tariffe. Si fissa l'appuntamento e si chiede l'ultima fattura del numero verde.",
+    "apertura": "\"Buongiorno, sono [NOME] di Look. Ho visto che avete un numero verde 800 attivo: mi occupo proprio di traffico per numeri verde. Posso parlare con chi gestisce la linea / con il titolare?\"",
+    "sviluppo": "Aggancia sull'evidenza: \"Con chi avete il numero verde oggi? È a consumo o ricaricabile?\". Poi: \"Possiamo quasi sempre proporvi un'offerta migliorativa, soprattutto sul minuto da mobile. Il numero resta lo stesso, la portabilità la gestiamo noi.\" NON dare cifre.",
+    "chiusura": "\"Le propongo quindici minuti con un nostro referente: le portiamo una verifica gratuita. Mi può intanto far avere l'ultima fattura del numero verde, così arriviamo già preparati. Meglio [opzione A] o [opzione B]?\""
+  },
+  "scenari": [
+    ["A. Risponde il centralino/segreteria", "Chiedi nome e mail di chi gestisce il numero verde, fatti passare o richiama mirato. Lascia il minimo: 'offerta migliorativa sul vostro numero verde'."],
+    ["B. Parli col titolare/decisore", "Aggancia sull'evidenza, chiedi gestore attuale e modalità (consumo/ricaricabile), proponi l'appuntamento e la fattura."],
+    ["C. 'Mandate una mail'", "\"Volentieri, uso numeroverdebusiness@gmail.com. La richiamo io tra qualche giorno per fissare due minuti.\" Prendi comunque la mail del referente."],
+    ["D. Numero verde solo d'immagine / traffico nullo", "Se dichiarano traffico bassissimo, declassa: non vale l'appuntamento. Segna 'Non in target'."],
+    ["E. 'Siamo legati a un contratto/gara' (tipico PA)", "Ringrazia, chiedi la scadenza, segna 'Da ricontattare più avanti'. Non insistere."]
+  ],
+  "obiezioni": [
+    ["\"Ho già un fornitore\"", "\"Perfetto, infatti non le chiedo di cambiare numero: quello resta. Le faccio solo una verifica gratuita della tariffa, soprattutto sul mobile. Se non risparmia, nessun problema.\""],
+    ["\"Cambiare è una rottura\"", "\"Il numero è lo stesso e la portabilità la gestiamo noi: a lei serve solo una firma, mai chiamare il vecchio gestore. Nessuna interruzione.\""],
+    ["\"Quanto costa?\"", "\"Dipende dal vostro traffico reale: per questo le chiedo l'ultima fattura e fissiamo quindici minuti, così le porto numeri precisi e non a caso.\""],
+    ["\"Non ho tempo\"", "\"Bastano quindici minuti e li fissiamo quando vuole. Intanto mi mandi la fattura del numero verde: faccio io il lavoro e le porto già il confronto.\""],
+    ["\"Spendiamo pochissimo\"", "\"Allora le costa zero verificarlo. E se serve possiamo aggiungere centralino virtuale o registrazione chiamate, non solo risparmio.\""]
+  ],
+  "esiti": [
+    ["Da contattare", "Stato iniziale."],
+    ["Non risposto", "Nessuno ha risposto."],
+    ["Da richiamare", "Centralino/segreteria, o non era il momento."],
+    ["Referente individuato", "Hai nome/mail di chi gestisce il numero verde."],
+    ["Interessato", "Apertura positiva, valuta la verifica."],
+    ["Fattura richiesta", "Ha accettato di mandare l'ultima fattura del numero verde."],
+    ["Appuntamento fissato", "Win."],
+    ["Da ricontattare più avanti", "Legato a contratto/gara o non ora."],
+    ["Non in target", "Numero verde solo d'immagine / traffico nullo / non idoneo."],
+    ["Non interessato", "Chiuso."],
+    ["Numero/contatto errato", "Recapito sbagliato."]
+  ],
+  "tono": [
+    ["Concreto", "Frasi corte, una proposta chiara: verifica gratuita + due opzioni di orario."],
+    ["Pari grado", "Professionale, mai supplicante. Sei un consulente che fa risparmiare, non un call center."],
+    ["Non tecnico", "Niente gergo (portabilità, carrier, IVR) col titolare: parla di numero verde, risparmio, stesso numero."]
+  ],
+  "mini_report": "Esempio: \"40 chiamate, 14 decisori raggiunti, 6 fatture richieste, 3 appuntamenti fissati.\""
+}

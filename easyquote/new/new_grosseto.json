@@ -1,0 +1,112 @@
+[
+  {
+    "azienda": "Cooperativa Grossetana Soc. Coop.",
+    "sede": "Grosseto",
+    "sito": "https://www.cooperativagrossetana.com",
+    "telefono_centralino": "0564 451380",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.cooperativagrossetana.com/contatti",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Soc. Coop. di Lavoro S. Balloni (Traslochi e Trasporti Cooperativa Balloni)",
+    "sede": "Grosseto",
+    "sito": "https://www.coopballoni.com",
+    "telefono_centralino": "0564 451317",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.coopballoni.com/contatti",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Traslochi M.N. di Marco Neri (Neri Marco)",
+    "sede": "Grosseto",
+    "sito": "",
+    "telefono_centralino": "338 9717178",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://aziende.virgilio.it/traslochi/grosseto-gr/neri-marco_11854484",
+    "nome_decisore": "Marco Neri",
+    "ruolo": "titolare",
+    "fonte_nome": "https://aziende.virgilio.it/traslochi/grosseto-gr/neri-marco_11854484"
+  },
+  {
+    "azienda": "Barbanella Traslochi e Trasporti S.n.c.",
+    "sede": "Grosseto",
+    "sito": "",
+    "telefono_centralino": "348 3102182",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.traslochi-italia.eu/ditte/traslochi/barbanella-traslochi-e-trasporti-snc-di-fromboluti-e-ceccarelli/3983",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Trasporti Veloci Maremmani di Fumi Franco",
+    "sede": "Grosseto",
+    "sito": "",
+    "telefono_centralino": "0564 451511",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.yelp.com/biz/trasporti-veloci-maremmani-di-fumi-franco-grosseto",
+    "nome_decisore": "Franco Fumi",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.yelp.com/biz/trasporti-veloci-maremmani-di-fumi-franco-grosseto"
+  },
+  {
+    "azienda": "BTM Traslochi di Bernardini Marco",
+    "sede": "Gavorrano",
+    "sito": "",
+    "telefono_centralino": "333 4794714",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginebianche.it/toscana/gavorrano/traslochi.html",
+    "nome_decisore": "Marco Bernardini",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginebianche.it/toscana/gavorrano/traslochi.html"
+  },
+  {
+    "azienda": "S.D.L Trasporti & Traslochi di Nannini Lorenzo",
+    "sede": "Massa Marittima",
+    "sito": "",
+    "telefono_centralino": "333 1452419",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/sdltrasportiservizidinanninilorenzo-massamarittima",
+    "nome_decisore": "Lorenzo Nannini",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/sdltrasportiservizidinanninilorenzo-massamarittima"
+  },
+  {
+    "azienda": "Il Mago dell'Usato di Daniel",
+    "sede": "Massa Marittima",
+    "sito": "https://www.ilmagodellusato.com",
+    "telefono_centralino": "327 0403367",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.ilmagodellusato.com/contatti",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Cooperativa Sociale Melograno",
+    "sede": "Follonica",
+    "sito": "https://www.coopmelograno.org",
+    "telefono_centralino": "0566 51537",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.coopmelograno.org/servizi/trasporti/",
+    "nome_decisore": "",
+    "ruolo": "titolare",
+    "fonte_nome": ""
+  },
+  {
+    "azienda": "Galeotti Auto di Galeotti Pio & C. S.a.s.",
+    "sede": "Follonica",
+    "sito": "",
+    "telefono_centralino": "0566 53190",
+    "telefono_diretto": "",
+    "fonte_telefono": "https://www.paginegialle.it/follonica-gr/galeotti-auto-galeotti-pio",
+    "nome_decisore": "Pio Galeotti",
+    "ruolo": "titolare",
+    "fonte_nome": "https://www.paginegialle.it/follonica-gr/galeotti-auto-galeotti-pio"
+  }
+]

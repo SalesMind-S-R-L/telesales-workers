@@ -1,0 +1,21 @@
+{
+  "riassunto": "Formorienta e' un centro di formazione e consulenza di Padova: corsi su competenze manageriali e trasversali, tecniche di vendita personalizzate per aziende, percorsi di coaching certificati UNI 11601, oltre a sicurezza sul lavoro e consulenza HR.",
+  "pain_point": "Un centro formazione con offerta ampia tra sicurezza obbligatoria e corsi manageriali fatica a dedicare tempo commerciale ai corsi a maggior margine: nuovi appuntamenti con aziende del territorio darebbero continuita' alla parte business.",
+  "hook": "ho visto che offrite formazione personalizzata sulle tecniche di vendita per le aziende e percorsi di coaching certificati",
+  "variante_email": "B",
+  "motivo_variante": "Nessun decisore nominato sul sito, meglio la variante istituzionale verso ruolo generico.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://www.formorienta.it/corso-di-formazione-tecniche-di-vendita-padova/",
+  "nome_azienda": "Formorienta",
+  "nome_decisore": "",
+  "ruolo_decisore": "Titolare / Direzione",
+  "email": "",
+  "telefono": "",
+  "citta": "Padova",
+  "settore": "Consulenza gestionale",
+  "website": "formorienta.it",
+  "pagine_lette": ["https://www.formorienta.it/corso-di-formazione-tecniche-di-vendita-padova/"]
+}

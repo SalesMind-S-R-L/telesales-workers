@@ -1,0 +1,20 @@
+{
+  "riassunto": "Jagaad e' un'agenzia di sviluppo software con oltre 50 sviluppatori distribuiti in 12+ paesi, attiva dal 2020 e organizzata come rete di nomadi digitali. Offre sviluppo web e mobile, e-commerce, cloud, AI e modelli di collaborazione fixed-cost, team extension e dedicated team per PMI e multinazionali (clienti come TUI nel travel).",
+  "pain_point": "Con tre modelli di collaborazione e un target che va dalle PMI alle multinazionali, e' probabile che il flusso di nuovi clienti dipenda molto da referenze e Clutch piu' che da un'attivita' outbound strutturata. Riempire l'agenda con primi incontri qualificati potrebbe essere il collo di bottiglia per saturare 50+ sviluppatori.",
+  "hook": "ho visto che avete superato i 50 progetti complessi con un team di 50+ sviluppatori distribuiti in 12 paesi, da TUI nel travel alle soluzioni e-commerce",
+  "variante_email": "B",
+  "motivo_variante": "Il sito non evidenzia un pain commerciale esplicito, quindi il questionario di valutazione commerciale e' l'approccio piu' prudente.",
+  "da_verificare": "Email davide.bernardo@jagaad.com e' un pattern non verificato. Verificare che Davide Bernardo sia ancora CEO e che la sede operativa rilevante sia Milano.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Jagaad",
+  "nome_decisore": "Davide Bernardo",
+  "ruolo_decisore": "Chief executive officer",
+  "email": "davide.bernardo@jagaad.com",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "jagaad.com",
+  "slug": "jagaad",
+  "pagine_lette": ["https://jagaad.com"]
+}

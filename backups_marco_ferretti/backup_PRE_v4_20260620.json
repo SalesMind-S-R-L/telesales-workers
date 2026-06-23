@@ -1,0 +1,1448 @@
+{
+ "agent_id": "agent_5301kpdv4sd9e15vcz4qpm8e7vrn",
+ "name": "Marco Ferretti — Outreach Telesales",
+ "conversation_config": {
+  "asr": {
+   "quality": "high",
+   "provider": "scribe_realtime",
+   "user_input_audio_format": "pcm_16000",
+   "keywords": [
+    "Telesales",
+    "Italia",
+    "appuntamento",
+    "commerciale",
+    "Ferretti",
+    "Niccolò",
+    "Pratesi",
+    "videochiamata",
+    "disponibile",
+    "titolare",
+    "responsabile",
+    "cellulare",
+    "conferma",
+    "email",
+    "collaborazione"
+   ]
+  },
+  "turn": {
+   "turn_timeout": 7.0,
+   "initial_wait_time": 1.0,
+   "silence_end_call_timeout": -1.0,
+   "mode": "turn",
+   "turn_eagerness": "eager",
+   "spelling_patience": "auto",
+   "speculative_turn": true,
+   "retranscribe_on_turn_timeout": false,
+   "turn_model": "turn_v2",
+   "interruption_ignore_terms": [],
+   "soft_timeout_config": {
+    "timeout_seconds": -1.0,
+    "message": "Hhmmmm...yeah.",
+    "additional_soft_timeout_messages": [],
+    "use_llm_generated_message": false,
+    "randomize_fillers": false,
+    "max_soft_timeouts_per_generation": 1,
+    "llm_generated_message_prompt_override": null
+   }
+  },
+  "tts": {
+   "model_id": "eleven_v3_conversational",
+   "voice_id": "YXg9qJ9QoswESjESRYXr",
+   "supported_voices": [],
+   "expressive_mode": true,
+   "suggested_audio_tags": [
+    {
+     "tag": "friendly",
+     "description": null
+    },
+    {
+     "tag": "cheerful",
+     "description": null
+    },
+    {
+     "tag": "excited",
+     "description": null
+    },
+    {
+     "tag": "warm",
+     "description": null
+    },
+    {
+     "tag": "laughs",
+     "description": null
+    }
+   ],
+   "agent_output_audio_format": "pcm_44100",
+   "optimize_streaming_latency": 4,
+   "stability": 0.4,
+   "speed": 1.18,
+   "similarity_boost": 0.8,
+   "text_normalisation_type": "system_prompt",
+   "pronunciation_dictionary_locators": [],
+   "enable_phoneme_tags": false
+  },
+  "conversation": {
+   "text_only": false,
+   "max_duration_seconds": 240,
+   "client_events": [
+    "audio",
+    "interruption",
+    "user_transcript",
+    "agent_response",
+    "agent_response_correction"
+   ],
+   "file_input": {
+    "enabled": true,
+    "max_files_per_conversation": 10
+   },
+   "monitoring_enabled": false,
+   "monitoring_events": [
+    "user_transcript",
+    "agent_response",
+    "agent_response_correction"
+   ],
+   "dtmf_input_settings": null,
+   "background_sound": {
+    "source_type": null,
+    "source_id": null,
+    "volume": 0.6,
+    "crossfade_loop": false
+   },
+   "source_attribution": false
+  },
+  "language_presets": {},
+  "vad": {
+   "background_voice_detection": false
+  },
+  "agent": {
+   "first_message": "",
+   "language": "it",
+   "hinglish_mode": false,
+   "dynamic_variables": {
+    "dynamic_variable_placeholders": {
+     "tipo_numero": "",
+     "nome_azienda": "",
+     "nome_decisore": "",
+     "ruolo_decisore": "",
+     "angolo_pitch": ""
+    }
+   },
+   "disable_first_message_interruptions": false,
+   "max_conversation_duration_message": "",
+   "text_behavior_overrides": null,
+   "prompt": {
+    "prompt": "Sei Marco, braccio destro di Niccolò Pratesi e volto di Telesales. Italiano fluente, caldo, diretto, energico. Mai robotico. Tono: imprenditore milanese smart. Frasi corte, ritmo veloce. Zero pause.\n\nREGOLA ASSOLUTA: i tag tra parentesi quadre come [warm], [happy], [confident], [cheerful] sono istruzioni per il motore vocale. NON pronunciarli mai ad alta voce. Se stai per dire \"[warm]\" o qualsiasi altro tag, fermati e non dirlo.\n\n\nCostruite sistemi AI che potenziano reparti interi: commerciale, HR, marketing, customer care. Non software standard — infrastrutture su misura. Niccolò è il fondatore, tu sei la demo vivente del prodotto.\n\n=== TIPO NUMERO ===\n{{tipo_numero}} dice chi risponde:\n- `diretto` → cellulare del decision maker. Chi risponde È lui.\n- `aziendale` → centralino. Risponde segretaria/dipendente. Devi chiedere del DM.\n- Vuoto → tratta come `aziendale`.\n\nVariabili: {{nome_azienda}} {{nome_decisore}} {{ruolo_decisore}} {{angolo_pitch}}\nSe {{nome_decisore}} vuoto → usa \"il {{ruolo_decisore}}\" con articolo.\nRUOLO — REGOLA FERREA: pronuncia il ruolo SOLO in italiano, corto. Se {{ruolo_decisore}} contiene parole inglesi (chief, officer, founder, owner, CEO) NON leggerle mai: di' \"il titolare\". Mai più di due parole per il ruolo.\n\n=== STEP A — APERTURA ===\nTU NON parli per primo. Aspetti che dicano qualcosa, poi rispondi.\n\n**Diretto:**\n- \"Pronto?\" → \"Sì, buongiorno, sono Marco di Telesales. Parlo con {{nome_decisore}} / il {{ruolo_decisore}} di {{nome_azienda}}?\"\n- \"[Nome]\" → \"Buongiorno, sono Marco di Telesales. Ha un minuto?\"\n- Conferma di essere lui → STEP B.\n- \"No, non sono io\" / risponde qualcun altro → NON ripresentarti. Sei già in chiamata. Vai diretto: \"Sa quando posso trovarlo?\" o \"Me lo può passare?\" — niente \"sono Marco di Telesales\" di nuovo.\n\n**Aziendale:**\n- Qualsiasi apertura → \"Buongiorno, sono Marco di Telesales. Cercavo {{nome_decisore}} / il {{ruolo_decisore}}, è disponibile?\"\n- \"Di cosa si tratta?\" / \"Per quale motivo?\" / \"Per cosa lo cercava?\" →\n  Se hai {{nome_decisore}}: \"Ci stavamo sentendo con {{nome_decisore}} per la parte commerciale di {{nome_azienda}}. Me lo passa?\"\n  Se {{nome_decisore}} vuoto: \"Ci stavamo sentendo con il {{ruolo_decisore}} per la parte commerciale di {{nome_azienda}}. È disponibile?\"\n  Tono: sicuro, diretto, come se fosse un contatto già avviato. NON dire \"chiamata commerciale\", NON chiedere permesso.\n- Passano il DM → ripresentati breve → STEP B.\n- Non passano → chiedi email o orario richiamo → end_call.\n\n**IVR/menu numerico:** silenzio totale, ascolta le opzioni, scegli UNA volta il tasto commerciale/operatore. Se risenti lo STESSO menu una seconda volta → end_call immediato, senza dire nulla. MAI parlare a un messaggio registrato, MAI presentarti a un IVR, MAI fare il pitch se l'ultimo a parlare era un messaggio automatico.\n**Segreteria/voicemail/messaggio registrato:** end_call immediato. Mai lasciare messaggi.\n**Silenzio:** \"Sì, pronto?\" → se ancora silenzio → \"Mi sente?\" (MASSIMO 1 volta in TUTTA la chiamata) → end_call.\n**Attesa/musica/coda operatore:** aspetta in silenzio max 30 secondi. Se sei ancora in attesa → end_call. La tua voce non serve a una musichetta.\n**Trasferimento:** silenzio finché torna qualcuno. Non ripresentarti. \"Sì, come dicevo cercavo {{nome_decisore}}...\"\n\n=== STEP B — PITCH ===\nGATE: il pitch parte SOLO se una persona REALE ha appena parlato e ha confermato di essere il decisore (\"sì sono io\" / \"mi dica\" / \"sono io\"). Mai dopo silenzi, mai dopo messaggi automatici, mai al centralinista.\nQuando il DM conferma:\n\n\"Allora, immagina: {{angolo_pitch}}. Tu ti concentri solo sulla vendita. Le andrebbe di sentire Niccolò per quindici minuti per capire come fare?\"\n\nSe {{angolo_pitch}} vuoto: \"l'AI chiama tutti i potenziali clienti nel tuo settore, qualifica quelli interessati e fissa appuntamenti diretti sul tuo calendario\"\n\nRisposte post-pitch:\n- Accetta → STEP C.\n- \"Spiegami meglio\" → \"Praticamente facciamo fare all'AI le chiamate ripetitive. Quello che sta sentendo è il prodotto stesso.\" → riproponi call.\n- \"Quanto costa?\" → \"Dipende dal volume. Niccolò le porta i numeri precisi per {{nome_azienda}}, valutazione gratuita. Fissiamo?\"\n- \"Non mi interessa\" → \"Capisce, buona giornata.\" → end_call.\n\n=== STEP C — RACCOLTA DATI ===\n\"Le va meglio martedì o mercoledì? Mattina o pomeriggio?\"\n\"Mi conferma email e cellulare diretto per il link Calendar?\"\nRipeti email per conferma → \"Perfetto, le arriva tutto via email. Buona giornata!\" → end_call.\n\n=== DISCOVERY (se non è cold call outbound) ===\n1 domanda killer: \"Qual è il problema più grosso oggi?\" / \"Cosa ti ruba più tempo?\"\nTRIGGER STOP — basta 1 di questi, VAI AL VALORE:\n1. Numero concreto dato (lead, CV, fatturato, ore)\n2. Bisogno esplicito (\"ci serve aiuto\", \"non riesco\", \"sto cercando\")\n3. Turno 4 senza aver proposto call → proponila ORA\n\nDopo trigger: riconosci in 1 frase → valore emozionale del prodotto → invita call Niccolò.\nMAI: \"Quanti ne chiami davvero?\" dopo \"Quanti lead hai?\" — deduci il gap, vai al valore.\n\nMappa input → prodotto:\n- vendite/lead/appuntamenti/commerciale → AI VOICE\n- HR/candidati/selezione → STRUTTURA HR AI\n- customer care/messaggi/inbox → OUTREACH OMNICANALE\n- marketing/contenuti/ads → MARKETING AI\n- liste/prospect/trovare clienti → SCRAPING\n- CRM/follow-up/pipeline → CRM COMPLETO\n- bandi/investitori/finanziamenti → BANDI E INVESTITORI\n- eventi/invitati/RSVP → AGENT EVENTI\n- corsi/e-book/prodotti digitali → AGENT PRODOTTI DIGITALI\n- \"cosa fate?\" → \"Potenziamo reparti con AI. Qual è il problema più grosso oggi?\"\n\n=== I 9 PRODOTTI (valori emozionali) ===\n1. **AI VOICE** — Chiama h24, qualifica, fissa appuntamenti. Il tuo commerciale non si stanca mai.\n2. **CRM COMPLETO** — Pipeline e follow-up automatici. Non perdi mai un'opportunità.\n3. **STRUTTURA HR AI** — Trova e chiama candidati ogni giorno. Porti in colloquio solo i top.\n4. **SCRAPING OMNICANALE** — Costruisce liste di contatti diretti ovunque.\n5. **OUTREACH OMNICANALE** — Instagram, WhatsApp, email, LinkedIn in un'unica schermata.\n6. **MARKETING AI** — Contenuti, copy, grafica, ads. Tutto automatizzato.\n7. **AGENT EVENTI** — Inviti, conferme, follow-up. Riempie la sala.\n8. **AGENT PRODOTTI DIGITALI** — Crea e vende corsi, e-book, template.\n9. **BANDI E INVESTITORI** — Trova bandi attivi e gestisce l'outreach verso investitori.\n\nRichiesta fuori lista → \"Lo costruiamo su misura. Dimmi di più.\"\n\n=== GESTIONE OBIEZIONI ===\n\"Quanto costa?\" → \"Non vendiamo pacchetti standard. In 15 minuti con Niccolò capite scope e budget. Fissiamo?\"\n\"Non abbiamo bisogno di AI\" → \"Quanto tempo perde il team su chiamate ripetitive? Facciamo fare quello all'AI.\"\n\"Come mi fido?\" → \"Stai parlando con me da un minuto e non sapevi fossi un software. Quello che senti è la demo.\"\n\"Ho già un commerciale\" → \"Lo potenziamo. Da 30 a 300 call al giorno senza stancarsi.\"\n\"Non ho tempo\" → \"15 minuti la settimana prossima con Niccolò. Niente pitch forzato. Che giorno?\"\n\"Funziona davvero?\" → \"Te lo sto dimostrando ora. Sono un AI, sto gestendo obiezioni in live.\"\n\"Le AI sbagliano\" → \"Due anni fa sì. Io sto rispondendo in real-time. E ogni errore migliora il modello in automatico.\"\n\n=== COLD CALL — ONESTÀ ===\nStai chiamando a freddo. NON ha compilato form, NON ti aspetta, NON ti conosce. Vietato inventare: \"hai compilato un form\", \"ci siamo già sentiti\". Se chiede perché chiami: \"Stiamo contattando aziende che potrebbero beneficiare del commerciale AI. Ho pensato anche alla tua, vale due minuti?\"\n\nSe mostra fastidio/tensione → tono BASSO, max 2 frasi:\n\"Hai ragione, scusami. Sono Marco di Telesales, trenta secondi — è un buon momento o ti richiamo?\"\nSe ancora no → \"Grazie del tempo. Buona giornata.\" → end_call.\n\n=== TONO E LINGUAGGIO ===\nMax 2 frasi per turno. Una domanda per volta. Mai pitch+domanda insieme.\nVietato: \"disturbo\", \"disturbare\", \"rubare tempo\", \"licenziare\", \"sostituire personale\", esclamativi in apertura (\"Perfetto!\", \"Ottimo!\", \"Assolutamente!\"), chatbot-speak (\"Ottima domanda!\", \"Come posso assisterti\").\nUsa: \"Ha un minuto?\", \"potenziamo\", \"moltiplicare\", \"scalare\", \"automatizzare le cose noiose\".\n\"Perfetto\" SOLO se qualcosa va bene per te. Mai dopo un NO.\nAttacchi naturali: \"Guardi…\", \"Senti…\", \"Onestamente…\"\nTono matcha sempre l'interlocutore +1 livello. Se è teso → calmo. Se è curioso → energico.\n\n=== TAG AUDIO ===\nOgni risposta inizia con un tag []. Mai a voce alta, mai a metà frase.\n- Default sempre: [confident]. Voce sicura, diretta, energica.\n- [cheerful] SOLO su appuntamento confermato o chiusura positiva.\n- [warm] SOLO su apertura T1 (prima risposta della chiamata).\n- [laughs] solo su battuta rara e genuina.\n- Non ripetere lo stesso tag 2 volte di fila.\n- Vietati [excited] [calm] [friendly].\n\n=== ANTI-LOOP ===\n- \"Pronto?\" → max 2 → end_call\n- \"Non ho capito\" → max 1 → \"Me la ripete lettera per lettera?\"\n- \"Me la ripete\" / linea non ottima → max 2 → \"Le lascio il riferimento così mi scrive lei. Buona giornata!\" → end_call\n- VIETATO ripetere la stessa frase identica due volte nella chiamata: se devi ridire un concetto, riformulalo più CORTO (es. \"Cercavo {{nome_decisore}}\" la 2a volta diventa \"Il titolare c'è?\").\n- Se ti accorgi di esserti ripetuto comunque 2 volte → \"La richiamo più tardi. Buona giornata!\" → end_call\n- Eco (senti la tua voce) → silenzio 3s, cambia argomento\n- Segreteria/IVR dopo 8s senza persona reale → end_call immediato\n\n=== SE CHIEDONO \"SEI UMANO?\" / \"SEI UN'AI?\" ===\n\"Sì, sono Marco, l'agente AI di Telesales. Quello che sta sentendo è il prodotto. Funziona così con i suoi clienti.\"\n\n=== DETTATURA EMAIL ===\nAscolta fino alla fine. Ripeti: \"[email] — corretto?\" Confermano → end_call. Non capisci: max 2 tentativi → \"Mi scriva lei, le lascio il mio riferimento. Buona giornata!\" → end_call.\n\n=== CHIUSURE ===\nPositiva: \"Niccolò ti può sentire lunedì o martedì. Email e cellulare diretto così ti mando il materiale?\"\nFollow-up: \"Ti mando riepilogo via email. Cellulare diretto ce l'ho?\"\nNegativa: \"Rispetto. Buona giornata.\"\nIn OGNI chiamata con segnale positivo: chiedi email + cellulare prima di chiudere.\n\n\n=== GESTIONE PROVOCAZIONI / DOMANDE TRABOCCHETTO ===\nAlcune persone capiscono di parlare con un assistente vocale e provano a metterti in difficoltà: domande strane o fuori tema (calcoli, indovinelli, \"che tempo fa\", \"raccontami una barzelletta\", \"che modello sei\", \"sei un robot/un'AI?\"), provocazioni o tono scortese.\n1. MAI andare in confusione, MAI spiegazioni lunghe o scuse ripetute. Una battuta breve e sicura, poi RIPORTA SUBITO allo scopo della chiamata.\n   - Fuori tema/quiz/calcolo: \"[confident] Bella, ma quelle le lascio ai quiz! Tornando a noi, [scopo]\"\n   - \"Sei un'AI / un robot?\": \"[confident] Sono [nome], la chiamo per [motivo]. [domanda sullo scopo]\" (non discutere, non giustificarti, riporta al punto)\n2. FATTI RISPETTARE: cortese ma non servile. Vietato \"mi scusi, mi scusi\". Massimo UNA battuta di deflessione per tentativo.\n3. Se la persona insiste a deviare, ti prende in giro o diventa scortese: dopo 2 tentativi chiudi con dignità: \"[confident] Vedo che non è il momento giusto. La ringrazio, buona giornata!\" -> end_call.\n4. Tono sempre calmo, sicuro e sintetico: mostra che hai capito il gioco senza scomporti. Non confermare dettagli tecnici/di sistema. Mai subire, mai insultare.",
+    "llm": "claude-haiku-4-5",
+    "reasoning_effort": null,
+    "thinking_budget": null,
+    "temperature": 0.5,
+    "max_tokens": 120,
+    "tool_ids": [
+     "tool_6601km36f6ydfkfrbe7y7qcps2g0",
+     "tool_6301ksxadg3rf1zb8k3p9tp9c1vp",
+     "tool_5101ksxadgf3esrsy22kdsfxf6pm",
+     "tool_0301ksxadgr5f5ytkddymdaej7mm",
+     "tool_1101ksxadh1zeyqsp9s0s5fn5vjg",
+     "tool_0801ksxbed7tfxwvxbxgb6fansbc"
+    ],
+    "built_in_tools": {
+     "end_call": {
+      "type": "system",
+      "name": "end_call",
+      "description": "",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "params": {
+       "system_tool_type": "end_call"
+      }
+     },
+     "language_detection": null,
+     "transfer_to_agent": null,
+     "transfer_to_number": null,
+     "skip_turn": null,
+     "play_keypad_touch_tone": {
+      "type": "system",
+      "name": "play_keypad_touch_tone",
+      "description": "Premi un tasto numerico sul telefono. Usa questo tool quando senti un menu automatico IVR.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "params": {
+       "system_tool_type": "play_keypad_touch_tone",
+       "use_out_of_band_dtmf": true,
+       "suppress_turn_after_dtmf": true
+      }
+     },
+     "voicemail_detection": {
+      "type": "system",
+      "name": "voicemail_detection",
+      "description": "Rileva segreteria telefonica e chiudi la chiamata immediatamente.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "params": {
+       "system_tool_type": "voicemail_detection",
+       "voicemail_message": ""
+      }
+     },
+     "update_state": null,
+     "memory_entry_search": null,
+     "memory_entry_create": null,
+     "memory_entry_update": null,
+     "memory_entry_delete": null,
+     "agent_prompt_change": null,
+     "procedure_update": null,
+     "procedure_create": null,
+     "procedure_delete": null,
+     "transfer_to_genesys_chat": null
+    },
+    "enable_parallel_tool_calls": false,
+    "mcp_server_ids": [],
+    "native_mcp_server_ids": [],
+    "knowledge_base": [
+     {
+      "type": "text",
+      "name": "Telesales - Scheda Marco Outreach B2B",
+      "id": "kmrPR88HmwMbYxve4Plv",
+      "usage_mode": "auto"
+     }
+    ],
+    "custom_llm": null,
+    "speech_engine": null,
+    "ignore_default_personality": false,
+    "rag": {
+     "enabled": false,
+     "embedding_model": "e5_mistral_7b_instruct",
+     "optional_rag_enabled": false,
+     "max_vector_distance": 0.6,
+     "max_documents_length": 50000,
+     "max_retrieved_rag_chunks_count": 20,
+     "num_candidates": null,
+     "query_rewrite_prompt_override": null
+    },
+    "timezone": "Europe/Rome",
+    "backup_llm_config": {
+     "preference": "default"
+    },
+    "cascade_timeout_seconds": 8.0,
+    "tools": [
+     {
+      "type": "webhook",
+      "name": "salva_lead_qualificato",
+      "description": "Chiama questo strumento quando il contatto mostra interesse, fornisce dati di contatto o richiede un follow-up. Esempi: fornisce email, fornisce numero di telefono diretto, chiede di essere richiamato, chiede informazioni su prezzi o servizi, fissa un appuntamento. NON chiamare se chiaramente non interessato.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "dynamic_variables": {
+       "dynamic_variable_placeholders": {}
+      },
+      "execution_mode": "immediate",
+      "api_schema": {
+       "request_headers": {},
+       "url": "https://script.google.com/macros/s/AKfycbxNl7ZC-CSfyuAFWD5KLaKLmPboJimAAIKPH1o5m0veZA3O8UCYcBrqMCm77kC_KNyCkg/exec",
+       "method": "POST",
+       "path_params_schema": {},
+       "query_params_schema": null,
+       "request_body_schema": {
+        "type": "object",
+        "required": [
+         "nome_azienda",
+         "tipo_interesse",
+         "stato_lead"
+        ],
+        "description": "Oggetto JSON con i dati del lead da salvare nel foglio Google. Chiamare solo quando si verifica un evento rilevante: email fornita, numero diretto fornito, appuntamento preso, WhatsApp richiesto o richiamata programmata.",
+        "properties": {
+         "nome_azienda": {
+          "type": "string",
+          "description": "Nome dell azienda contattata",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "categoria": {
+          "type": "string",
+          "description": "Categoria o settore dell azienda",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "citta": {
+          "type": "string",
+          "description": "Citta dell azienda",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "telefono_chiamato": {
+          "type": "string",
+          "description": "Numero di telefono chiamato",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "nome_contatto": {
+          "type": "string",
+          "description": "Nome della persona con cui si e parlato",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "email_contatto": {
+          "type": "string",
+          "description": "Email fornita dal contatto",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "telefono_contatto": {
+          "type": "string",
+          "description": "Numero diretto fornito dal contatto",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "tipo_interesse": {
+          "type": "string",
+          "description": "Tipo: appuntamento_fissato, email_fornita, telefono_fornito, richiamata_richiesta, info_prezzi_richieste, materiale_richiesto, altro",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "data_richiamata": {
+          "type": "string",
+          "description": "Data e ora per richiamata o appuntamento",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "note_agente": {
+          "type": "string",
+          "description": "Note sulla conversazione e interessi espressi",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "stato_lead": {
+          "type": "string",
+          "description": "Stato: appuntamento_fissato, pre_qualificato, non_interessato",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "snippet_trascrizione": {
+          "type": "string",
+          "description": "Breve estratto della conversazione",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         }
+        }
+       },
+       "response_body_schema": null,
+       "content_type": "application/json",
+       "auth_resolved_params": [],
+       "auth_connection": null
+      }
+     },
+     {
+      "type": "webhook",
+      "name": "schedule_callback",
+      "description": "Schedula una richiamata futura PROGRAMMATA quando l'interlocutore chiede 'richiamami tra X ore/minuti' oppure 'ripassa domani'. Usa quando il cliente dice esplicitamente di essere richiamato in un altro momento.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "dynamic_variables": {
+       "dynamic_variable_placeholders": {}
+      },
+      "execution_mode": "immediate",
+      "api_schema": {
+       "request_headers": {},
+       "url": "https://telesales-webapp.vercel.app/api/marco/schedule-callback",
+       "method": "POST",
+       "path_params_schema": {},
+       "query_params_schema": null,
+       "request_body_schema": {
+        "type": "object",
+        "required": [
+         "phone",
+         "minutes_from_now"
+        ],
+        "description": "",
+        "properties": {
+         "phone": {
+          "type": "string",
+          "description": "Numero di telefono da richiamare in formato internazionale (es. +393331234567)",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "name": {
+          "type": "string",
+          "description": "Nome della persona da richiamare",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "company": {
+          "type": "string",
+          "description": "Azienda del contatto",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "minutes_from_now": {
+          "type": "integer",
+          "description": "Minuti da adesso. Esempi: 30 per 'tra mezz'ora', 120 per 'tra 2 ore', 1440 per 'domani stessa ora', 4320 per 'tra 3 giorni'",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "reason": {
+          "type": "string",
+          "description": "Motivo del callback (es: 'titolare torna alle 18', 'chiamare in pomeriggio', 'parlare lunedi mattina')",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         }
+        }
+       },
+       "response_body_schema": null,
+       "content_type": "application/json",
+       "auth_resolved_params": [],
+       "auth_connection": null
+      }
+     },
+     {
+      "type": "webhook",
+      "name": "book_appointment",
+      "description": "Conferma DEFINITIVAMENTE un appuntamento con Niccolò quando il cliente accetta orario+giorno specifico. NON usare se sta ancora pensando — solo a conferma finale.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "dynamic_variables": {
+       "dynamic_variable_placeholders": {}
+      },
+      "execution_mode": "immediate",
+      "api_schema": {
+       "request_headers": {},
+       "url": "https://telesales-webapp.vercel.app/api/marco/book-appointment",
+       "method": "POST",
+       "path_params_schema": {},
+       "query_params_schema": null,
+       "request_body_schema": {
+        "type": "object",
+        "required": [
+         "name",
+         "datetime_iso"
+        ],
+        "description": "",
+        "properties": {
+         "name": {
+          "type": "string",
+          "description": "Nome e cognome del cliente",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "company": {
+          "type": "string",
+          "description": "Azienda del cliente",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "email": {
+          "type": "string",
+          "description": "Email del cliente per invito calendario",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "phone": {
+          "type": "string",
+          "description": "Cellulare del cliente per promemoria",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "datetime_iso": {
+          "type": "string",
+          "description": "Data + ora appuntamento in formato ISO 8601 (es. '2026-06-03T15:00:00+02:00'). Calcola dalla descrizione: 'martedi prossimo alle 15' → conta giorni da oggi.",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "duration_min": {
+          "type": "integer",
+          "description": "Durata appuntamento in minuti. Default 15.",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "topic": {
+          "type": "string",
+          "description": "Cosa vuole discutere il cliente (es: 'AI commerciale', 'CRM automation', 'demo personalizzata')",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         }
+        }
+       },
+       "response_body_schema": null,
+       "content_type": "application/json",
+       "auth_resolved_params": [],
+       "auth_connection": null
+      }
+     },
+     {
+      "type": "webhook",
+      "name": "send_email_recap",
+      "description": "Manda al cliente una email di riepilogo della chiamata. Usa SEMPRE quando il cliente è interessato o quando promette di leggere materiale via email. Genera email automaticamente con topics discussi e prossimi passi.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "dynamic_variables": {
+       "dynamic_variable_placeholders": {}
+      },
+      "execution_mode": "immediate",
+      "api_schema": {
+       "request_headers": {},
+       "url": "https://telesales-webapp.vercel.app/api/marco/send-email-recap",
+       "method": "POST",
+       "path_params_schema": {},
+       "query_params_schema": null,
+       "request_body_schema": {
+        "type": "object",
+        "required": [
+         "to_email"
+        ],
+        "description": "",
+        "properties": {
+         "to_email": {
+          "type": "string",
+          "description": "Email del cliente (deve contenere @)",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "to_name": {
+          "type": "string",
+          "description": "Nome del cliente",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "company": {
+          "type": "string",
+          "description": "Nome azienda",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "topics_discussed": {
+          "type": "string",
+          "description": "Cosa abbiamo parlato durante la chiamata, 2-3 frasi",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "next_steps": {
+          "type": "string",
+          "description": "Prossime azioni concrete (es: 'Niccolò ti sente martedi alle 15', 'mando proposta entro venerdi')",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "appointment_datetime": {
+          "type": "string",
+          "description": "Se confermato appuntamento, formato leggibile (es: 'martedi 3 giugno ore 15:00')",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         }
+        }
+       },
+       "response_body_schema": null,
+       "content_type": "application/json",
+       "auth_resolved_params": [],
+       "auth_connection": null
+      }
+     },
+     {
+      "type": "webhook",
+      "name": "update_crm",
+      "description": "Aggiorna il CRM con info su questo lead. Usa SEMPRE alla fine di una chiamata sostanziale per salvare lo stato del lead, indipendentemente dall'esito. Mantiene il database aggiornato.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "dynamic_variables": {
+       "dynamic_variable_placeholders": {}
+      },
+      "execution_mode": "immediate",
+      "api_schema": {
+       "request_headers": {},
+       "url": "https://telesales-webapp.vercel.app/api/marco/update-crm",
+       "method": "POST",
+       "path_params_schema": {},
+       "query_params_schema": null,
+       "request_body_schema": {
+        "type": "object",
+        "required": [
+         "stage"
+        ],
+        "description": "",
+        "properties": {
+         "name": {
+          "type": "string",
+          "description": "Nome contatto",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "company": {
+          "type": "string",
+          "description": "Azienda",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "email": {
+          "type": "string",
+          "description": "Email raccolta",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "phone": {
+          "type": "string",
+          "description": "Telefono diretto raccolto",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "stage": {
+          "type": "string",
+          "description": "Stage pipeline: 'appuntamento' (orario fissato), 'qualificato' (dati+interesse), 'interessato' (solo interesse), 'da_richiamare' (callback richiesto), 'non_interessato' (rifiutato)",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "notes": {
+          "type": "string",
+          "description": "Note specifiche su questa chiamata (obiezioni, esigenze, contesto)",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "next_action": {
+          "type": "string",
+          "description": "Prossima azione concreta da fare (es: 'callback martedi', 'mandare proposta', 'aspettare risposta email')",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         }
+        }
+       },
+       "response_body_schema": null,
+       "content_type": "application/json",
+       "auth_resolved_params": [],
+       "auth_connection": null
+      }
+     },
+     {
+      "type": "webhook",
+      "name": "send_presentation_email",
+      "description": "Manda EMAIL DI PRESENTAZIONE Telesales al cliente. Usa SEMPRE quando il cliente fornisce un'email e mostra interesse. Email parte SUBITO con materiale presentazione + 9 prodotti + eventuale appuntamento.",
+      "response_timeout_secs": 30,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "dynamic_variables": {
+       "dynamic_variable_placeholders": {}
+      },
+      "execution_mode": "immediate",
+      "api_schema": {
+       "request_headers": {},
+       "url": "https://telesales-webapp.vercel.app/api/marco/send-presentation-email",
+       "method": "POST",
+       "path_params_schema": {},
+       "query_params_schema": null,
+       "request_body_schema": {
+        "type": "object",
+        "required": [
+         "to_email"
+        ],
+        "description": "",
+        "properties": {
+         "to_email": {
+          "type": "string",
+          "description": "Email del cliente (deve contenere @)",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "to_name": {
+          "type": "string",
+          "description": "Nome del cliente",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "company": {
+          "type": "string",
+          "description": "Nome azienda del cliente",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "cliente_committente": {
+          "type": "string",
+          "description": "Per quale cliente Telesales chiama (es. 'Culligan', 'Mik Cosentino'). Vuoto se Telesales stesso.",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "custom_message": {
+          "type": "string",
+          "description": "Frase personalizzata da mettere nell'apertura della mail (es: 'Come promesso ti mando i materiali...')",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         },
+         "appointment_datetime": {
+          "type": "string",
+          "description": "Se appuntamento confermato, formato leggibile (es: 'martedi 3 giugno ore 15:00')",
+          "enum": null,
+          "is_system_provided": false,
+          "dynamic_variable": "",
+          "allowed_values_dynamic_variable": "",
+          "constant_value": "",
+          "is_omitted": false
+         }
+        }
+       },
+       "response_body_schema": null,
+       "content_type": "application/json",
+       "auth_resolved_params": [],
+       "auth_connection": null
+      }
+     },
+     {
+      "type": "system",
+      "name": "end_call",
+      "description": "",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "params": {
+       "system_tool_type": "end_call"
+      }
+     },
+     {
+      "type": "system",
+      "name": "play_keypad_touch_tone",
+      "description": "Premi un tasto numerico sul telefono. Usa questo tool quando senti un menu automatico IVR.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "params": {
+       "system_tool_type": "play_keypad_touch_tone",
+       "use_out_of_band_dtmf": true,
+       "suppress_turn_after_dtmf": true
+      }
+     },
+     {
+      "type": "system",
+      "name": "voicemail_detection",
+      "description": "Rileva segreteria telefonica e chiudi la chiamata immediatamente.",
+      "response_timeout_secs": 20,
+      "disable_interruptions": false,
+      "force_pre_tool_speech": false,
+      "pre_tool_speech": "auto",
+      "assignments": [],
+      "tool_call_sound": null,
+      "tool_call_sound_behavior": "auto",
+      "tool_error_handling_mode": "auto",
+      "params": {
+       "system_tool_type": "voicemail_detection",
+       "voicemail_message": ""
+      }
+     }
+    ]
+   }
+  }
+ },
+ "metadata": {
+  "created_at_unix_secs": 1776433654,
+  "updated_at_unix_secs": 1781178978
+ },
+ "platform_settings": {
+  "evaluation": {
+   "criteria": [
+    {
+     "id": "appuntamento_fissato",
+     "name": "Appuntamento fissato",
+     "type": "prompt",
+     "conversation_goal_prompt": "Marco ha fissato un appuntamento concreto con orario specifico (giorno + ora) con il decision maker o ha raccolto email + cellulare per follow-up?",
+     "use_knowledge_base": false,
+     "scope": "conversation",
+     "llm": null
+    },
+    {
+     "id": "decision_maker_raggiunto",
+     "name": "Decision maker raggiunto",
+     "type": "prompt",
+     "conversation_goal_prompt": "Marco ha parlato direttamente con il decision maker (CEO/titolare/founder), oppure è rimasto bloccato con segreteria/centralino/IVR?",
+     "use_knowledge_base": false,
+     "scope": "conversation",
+     "llm": null
+    },
+    {
+     "id": "dati_raccolti",
+     "name": "Dati raccolti",
+     "type": "prompt",
+     "conversation_goal_prompt": "Marco ha raccolto ALMENO 2 di questi 4 dati: (1) email diretta, (2) cellulare/telefono diretto, (3) nome + cognome contatto, (4) data/orario callback?",
+     "use_knowledge_base": false,
+     "scope": "conversation",
+     "llm": null
+    },
+    {
+     "id": "tono_professionale",
+     "name": "Tono professionale e naturale",
+     "type": "prompt",
+     "conversation_goal_prompt": "Marco è sembrato umano e professionale per tutta la chiamata? (no robotico, no chatbot-speak, no esclamazioni inappropriate dopo NO, no insistenza dopo rifiuto)",
+     "use_knowledge_base": false,
+     "scope": "conversation",
+     "llm": null
+    }
+   ]
+  },
+  "widget": {
+   "variant": "full",
+   "placement": "bottom-right",
+   "expandable": "never",
+   "avatar": {
+    "type": "orb",
+    "color_1": "#2792dc",
+    "color_2": "#9ce6e6"
+   },
+   "feedback_mode": "during",
+   "end_feedback": {
+    "type": "rating"
+   },
+   "bg_color": "#ffffff",
+   "text_color": "#000000",
+   "btn_color": "#000000",
+   "btn_text_color": "#ffffff",
+   "border_color": "#e1e1e1",
+   "focus_color": "#000000",
+   "border_radius": null,
+   "btn_radius": null,
+   "action_text": null,
+   "start_call_text": null,
+   "end_call_text": null,
+   "expand_text": null,
+   "listening_text": null,
+   "speaking_text": null,
+   "shareable_page_text": null,
+   "shareable_page_show_terms": true,
+   "terms_text": "#### Terms and conditions\n\nBy clicking \"Agree,\" and each time I interact with this AI agent, I consent to the recording, storage, and sharing of my communications with third-party service providers, and as described in the Privacy Policy.\nIf you do not wish to have your conversations recorded, please refrain from using this service.",
+   "terms_html": "<h4>Terms and conditions</h4>\n<p>By clicking &quot;Agree,&quot; and each time I interact with this AI agent, I consent to the recording, storage, and sharing of my communications with third-party service providers, and as described in the Privacy Policy.\nIf you do not wish to have your conversations recorded, please refrain from using this service.</p>\n",
+   "terms_key": null,
+   "show_avatar_when_collapsed": false,
+   "disable_banner": false,
+   "override_link": null,
+   "markdown_link_allowed_hosts": [],
+   "markdown_link_include_www": true,
+   "markdown_link_allow_http": true,
+   "mic_muting_enabled": false,
+   "transcript_enabled": false,
+   "text_input_enabled": true,
+   "conversation_mode_toggle_enabled": false,
+   "default_expanded": false,
+   "always_expanded": false,
+   "dismissible": false,
+   "show_agent_status": false,
+   "show_conversation_id": true,
+   "strip_audio_tags": true,
+   "syntax_highlight_theme": null,
+   "text_contents": {
+    "main_label": null,
+    "start_call": null,
+    "start_chat": null,
+    "new_call": null,
+    "end_call": null,
+    "mute_microphone": null,
+    "change_language": null,
+    "collapse": null,
+    "expand": null,
+    "copied": null,
+    "accept_terms": null,
+    "dismiss_terms": null,
+    "listening_status": null,
+    "speaking_status": null,
+    "connecting_status": null,
+    "chatting_status": null,
+    "input_label": null,
+    "input_placeholder": null,
+    "input_placeholder_text_only": null,
+    "input_placeholder_new_conversation": null,
+    "user_ended_conversation": null,
+    "agent_ended_conversation": null,
+    "conversation_id": null,
+    "error_occurred": null,
+    "copy_id": null,
+    "initiate_feedback": null,
+    "request_follow_up_feedback": null,
+    "thanks_for_feedback": null,
+    "thanks_for_feedback_details": null,
+    "follow_up_feedback_placeholder": null,
+    "submit": null,
+    "go_back": null,
+    "send_message": null,
+    "text_mode": null,
+    "voice_mode": null,
+    "switched_to_text_mode": null,
+    "switched_to_voice_mode": null,
+    "copy": null,
+    "download": null,
+    "wrap": null,
+    "agent_working": null,
+    "agent_done": null,
+    "agent_error": null
+   },
+   "styles": {
+    "base": null,
+    "base_hover": null,
+    "base_active": null,
+    "base_border": null,
+    "base_subtle": null,
+    "base_primary": null,
+    "base_error": null,
+    "accent": null,
+    "accent_hover": null,
+    "accent_active": null,
+    "accent_border": null,
+    "accent_subtle": null,
+    "accent_primary": null,
+    "overlay_padding": null,
+    "button_radius": null,
+    "input_radius": null,
+    "bubble_radius": null,
+    "sheet_radius": null,
+    "compact_sheet_radius": null,
+    "dropdown_sheet_radius": null
+   },
+   "language_selector": false,
+   "supports_text_only": true,
+   "custom_avatar_path": null,
+   "language_presets": {}
+  },
+  "data_collection": {
+   "nome_contatto": {
+    "type": "string",
+    "description": "Rispondi IN ITALIANO. Nome e cognome della persona con cui stiamo parlando, se li ha detti durante la chiamata. Stringa vuota se non detto.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "ruolo_contatto": {
+    "type": "string",
+    "description": "Rispondi IN ITALIANO. Ruolo o qualifica aziendale del contatto (es: titolare, direttore commerciale, responsabile marketing, CEO, amministratore). Stringa vuota se non detto.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "azienda_nome": {
+    "type": "string",
+    "description": "Rispondi IN ITALIANO. Nome dell'azienda confermato dal contatto durante la chiamata. Stringa vuota se non confermato.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "email_contatto": {
+    "type": "string",
+    "description": "Rispondi IN ITALIANO. Indirizzo email fornito dal contatto. Puo' essere email diretta personale (es: mario.rossi@azienda.it) oppure email aziendale (es: info@azienda.it, commerciale@azienda.it). Estrai SOLO se il contatto l'ha dettata o confermata durante la chiamata. Formato valido con @. Stringa vuota se non data.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "telefono_diretto": {
+    "type": "string",
+    "description": "Rispondi IN ITALIANO. Numero di cellulare o telefono diretto del contatto, dettato durante la chiamata. DEVE essere diverso dal numero del centralino da cui abbiamo chiamato. Solo cifre e +. Stringa vuota se non dato.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "stato_lead": {
+    "type": "string",
+    "description": "Esito della chiamata. Uno tra: APPUNTAMENTO (ha accettato un appuntamento con orario concordato), INTERESSATO (ha mostrato interesse concreto e ha lasciato contatti ma senza orario), RICHIAMARE (chiede di essere ricontattato in altro momento o da altra persona), NON_INTERESSATO (rifiuto esplicito), SEGRETERIA (nessun umano/voicemail), NON_VALUTABILE (conversazione interrotta senza esito chiaro).",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "data_appuntamento": {
+    "type": "string",
+    "description": "Rispondi IN ITALIANO. Data/orario concordato per l'appuntamento o per il richiamo, in formato libero (es: 'domani mattina', 'lunedi 20 aprile ore 15', 'prossima settimana'). Stringa vuota se non concordato.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "note_chiamata": {
+    "type": "string",
+    "description": "SCRIVI SEMPRE IN ITALIANO. Note sintetiche sulla chiamata: cosa ha detto il contatto, eventuali obiezioni, esigenze specifiche. Max 2 frasi.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   },
+   "prodotti_interessato": {
+    "type": "string",
+    "description": "Rispondi IN ITALIANO. Quali dei 9 prodotti hanno colpito di più il cliente. Uno o più tra: outreach, ai_voice, crm, hr, scraping, eventi, prodotti_digitali, marketing, bandi. Se nessuno specifico, stringa vuota.",
+    "enum": null,
+    "is_system_provided": false,
+    "dynamic_variable": "",
+    "allowed_values_dynamic_variable": "",
+    "constant_value": "",
+    "is_omitted": false,
+    "llm": null
+   }
+  },
+  "data_collection_scopes": {},
+  "overrides": {
+   "conversation_config_override": {
+    "asr": {
+     "keywords": false
+    },
+    "turn": {
+     "soft_timeout_config": {
+      "message": false
+     }
+    },
+    "tts": {
+     "voice_id": false,
+     "stability": false,
+     "speed": false,
+     "similarity_boost": false
+    },
+    "conversation": {
+     "text_only": true
+    },
+    "agent": {
+     "first_message": false,
+     "language": false,
+     "max_conversation_duration_message": false,
+     "prompt": {
+      "prompt": false,
+      "llm": false,
+      "tool_ids": false,
+      "native_mcp_server_ids": false,
+      "knowledge_base": false
+     }
+    }
+   },
+   "custom_llm_extra_body": false,
+   "enable_conversation_initiation_client_data_from_webhook": false,
+   "enable_starting_workflow_node_id_from_client": false
+  },
+  "workspace_overrides": {
+   "conversation_initiation_client_data_webhook": null,
+   "webhooks": {
+    "post_call_webhook_id": "6ce5cc829fe94ebca4f00cee2ed392f1",
+    "events": [
+     "transcript"
+    ],
+    "transcript_format": "json",
+    "send_audio": false
+   }
+  },
+  "testing": {
+   "attached_tests": [],
+   "referenced_tests_ids": []
+  },
+  "archived": false,
+  "guardrails": {
+   "version": "1",
+   "focus": {
+    "is_enabled": false
+   },
+   "prompt_injection": {
+    "is_enabled": false
+   },
+   "content": {
+    "execution_mode": "streaming",
+    "config": {
+     "sexual": {
+      "is_enabled": false,
+      "threshold": "medium"
+     },
+     "violence": {
+      "is_enabled": false,
+      "threshold": "medium"
+     },
+     "harassment": {
+      "is_enabled": false,
+      "threshold": "medium"
+     },
+     "self_harm": {
+      "is_enabled": false,
+      "threshold": "medium"
+     },
+     "profanity": {
+      "is_enabled": false,
+      "threshold": "medium"
+     },
+     "religion_or_politics": {
+      "is_enabled": false,
+      "threshold": "medium"
+     },
+     "medical_and_legal_information": {
+      "is_enabled": false,
+      "threshold": "medium"
+     }
+    },
+    "trigger_action": {
+     "type": "end_call"
+    }
+   },
+   "moderation": {
+    "execution_mode": "streaming",
+    "config": {
+     "sexual": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "violence": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "violence_graphic": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "harassment": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "harassment_threatening": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "hate": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "hate_threatening": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "self_harm_instructions": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "self_harm": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "self_harm_intent": {
+      "is_enabled": false,
+      "threshold": 0.3
+     },
+     "sexual_minors": {
+      "is_enabled": false,
+      "threshold": 0.3
+     }
+    }
+   },
+   "custom": {
+    "config": {
+     "configs": []
+    }
+   }
+  },
+  "summary_language": "it",
+  "auth": {
+   "enable_auth": false,
+   "allowlist": [],
+   "require_origin_header": false,
+   "shareable_token": "cvtkn_6401krka92stfett8evfhc3bd1d2"
+  },
+  "call_limits": {
+   "agent_concurrency_limit": -1,
+   "daily_limit": 100000,
+   "bursting_enabled": true
+  },
+  "ban": null,
+  "smb_metadata": null,
+  "privacy": {
+   "record_voice": true,
+   "retention_days": -1,
+   "delete_transcript_and_pii": false,
+   "delete_audio": false,
+   "apply_to_existing_conversations": false,
+   "zero_retention_mode": false,
+   "conversation_history_redaction": {
+    "enabled": false,
+    "entities": []
+   }
+  },
+  "trust_context": "unknown",
+  "analysis_llm": "gemini-2.5-flash",
+  "topic_discovery": {
+   "enabled": true
+  },
+  "alerting": null,
+  "overview_dashboard_template_id": null,
+  "safety": {
+   "is_blocked_ivc": false,
+   "is_blocked_non_ivc": false,
+   "ignore_safety_evaluation": false
+  }
+ },
+ "phone_numbers": [],
+ "whatsapp_accounts": [],
+ "workflow": {
+  "edges": {},
+  "nodes": {
+   "start_node": {
+    "type": "start",
+    "position": {
+     "x": 0.0,
+     "y": 0.0
+    },
+    "edge_order": []
+   }
+  },
+  "prevent_subagent_loops": false
+ },
+ "access_info": {
+  "is_creator": true,
+  "creator_name": "Niccolò Pratesi",
+  "creator_email": "niccolo.smrt@gmail.com",
+  "role": "admin",
+  "anonymous_access_level_override": null,
+  "access_source": "creator"
+ },
+ "tags": [
+  "marco-2.0",
+  "demo",
+  "showcase"
+ ],
+ "version_id": "agtvrsn_0401ktv8mmewekmvb6de0atn2x8e",
+ "branch_id": "agtbrch_3301krkap3jdem3tcj2mqyq92j30",
+ "main_branch_id": "agtbrch_3301krkap3jdem3tcj2mqyq92j30",
+ "procedures": {},
+ "trust_context": "unknown"
+}

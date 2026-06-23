@@ -1,0 +1,20 @@
+{
+  "riassunto": "Chatwin e' una societa' di business development internazionale con sede a Milano: aiuta aziende tech e startup a espandersi su nuovi mercati (go-to-market, recruiting, networking) e affianca corporate e media agency nella selezione di soluzioni tecnologiche innovative. Tra i casi citati, Eikontech portata a 6 milioni di euro in 2 anni.",
+  "pain_point": "Chi vende sviluppo commerciale per conto terzi vive a sua volta di pipeline: trovare con costanza nuove aziende tech e corporate da affiancare richiede prospecting continuo, che i partner senior difficilmente riescono a presidiare in prima persona.",
+  "hook": "ho visto che avete portato Eikontech a 6 milioni di euro in 2 anni e reclutato 6 team member qualificati in 6 mesi per i vostri clienti",
+  "variante_email": "B",
+  "motivo_variante": "Sono loro stessi esperti di crescita commerciale: il questionario di valutazione Sales Six e' un approccio piu' credibile di un pitch diretto sul pain.",
+  "da_verificare": "Email richard.frankel@chatwin.tech e' un pattern non verificato; il dominio reindirizza a chatwintech.com, verificare che le email @chatwin.tech siano attive; citta' nel chunk e' Wichita ma la sede sul sito e' Milano.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Chatwin",
+  "nome_decisore": "Richard Frankel",
+  "ruolo_decisore": "Co chief executive officer",
+  "email": "richard.frankel@chatwin.tech",
+  "telefono": "",
+  "citta": "Wichita",
+  "settore": "Consulenza gestionale",
+  "website": "chatwin.tech",
+  "slug": "chatwin",
+  "pagine_lette": ["https://chatwintech.com/"]
+}

@@ -1,0 +1,20 @@
+{
+  "riassunto": "Mia Fintech, societa' milanese supportata da Mia-Platform, aiuta banche e istituzioni finanziarie a diventare composable enterprise con una piattaforma di componenti per il banking (antiriciclaggio, autenticazione, payment gateway, marketplace di acceleratori). Dichiara una riduzione di oltre il 47% di tempi e costi dei progetti IT e cita clienti come Solaris, Mambu e Modefinance.",
+  "pain_point": "Il target e' un numero ristretto di banche e istituzioni finanziarie con cicli di acquisto lunghi: riempire l'agenda di demo con i decisori giusti e' tipicamente il collo di bottiglia. Il sito spinge sulla richiesta di demo gratuita, segno che la pipeline si alimenta proprio con questi appuntamenti.",
+  "hook": "ho visto che promettete di ridurre oltre il 47% di tempi e costi dei progetti IT delle banche con la vostra piattaforma composable",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale plausibile ma non dichiarato esplicitamente, resta la variante questionario di default.",
+  "da_verificare": "Email e' un pattern non verificato (dominio mia-fintech.io da confermare); verificare che Bruno Natoli sia ancora CEO e il legame operativo con Mia-Platform.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Mia Fintech",
+  "nome_decisore": "Bruno Natoli",
+  "ruolo_decisore": "Chief executive officer & co-founder",
+  "email": "bruno.natoli@mia-fintech.io",
+  "telefono": "",
+  "citta": "Milan",
+  "settore": "IT / Software",
+  "website": "mia-fintech.io",
+  "slug": "mia_fintech",
+  "pagine_lette": ["https://mia-fintech.io"]
+}

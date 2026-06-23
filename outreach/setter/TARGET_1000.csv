@@ -1,0 +1,1001 @@
+rank,tier,azienda,settore,citta,dm,ruolo,email
+1,A+,Gabiano Telecomunicazioni srl,telecommunications,Torino,Valeria Veronese,Direttore Vendite Executive,valeria.veronese@gabiano.it
+2,A+,Microgame,IT services,Roma,Davide Verduci,Direttore Commerciale,dverduci@microgame.it
+3,A+,Comelit Group S.p.A.,electronic mfg,Verona,Alessandro Stoppa,Direttore Commerciale Italia,alessandro.stoppa@comelit.it
+4,A+,Sinfo One,IT/ERP,Parma,Patrizia Pomi,Direttore Commerciale e Marketing,patrizia.pomi@sinfo-one.it
+5,A+,Pat Group,IT/CRM,Bergamo,Andrea Martinelli,Direttore Commerciale Italia,andrea.martinelli@pat.eu
+6,A+,Amped Software,public safety,Trieste,Martino Jerian,CEO and Founder,martino.jerian@amped.it
+7,A+,Targetti Sankey,electronic mfg,Firenze,Luca Belelli,Corporate Commercial Director,
+8,A+,Zucchetti Healthcare,IT services,Rovereto,Michele Trentini,Direttore Commerciale Sanità Pubblica,michele.trentini@zucchettihc.it
+9,A+,Fornaci Calce Grigolin SPA,building materials,Susegana,Christian Spinazze',Direttore Vendite Italia,c.spinazze@fornacigrigolin.it
+10,A+,Baraclit SpA,construction,Bibbiena,Paolo Panoni,Direttore Vendite e Operativo,
+11,A+,Sait Abrasivi,chemicals,Settimo Torinese,Angelo Menelle,Direttore Vendite Italia,menelle@sait-abr.com
+12,A+,Techne S.p.A.,facilities,Villa di Serio,Alfio Foresti,Direttore Commerciale Private,alfio.foresti@techne.mobi
+13,A+,Alpac,construction,Schio,Andrea Mattiuzzi,Direttore Commerciale Building,andrea.mattiuzzi@alpac.it
+14,A+,Dove.it,real estate,Milano,Paolo Facchetti,CEO,paolo.facchetti@dove.it
+15,A+,Frimm S.p.A.,real estate,Roma,Giuseppe Manzo,CEO,gmanzo@frimm.com
+16,A+,Stosa Cucine,furniture,Siena,Massimo Pratesi,Direttore Vendite,massimo.pratesi@stosa.it
+17,A+,IGD SIIQ SPA,real estate,Bologna,Roberto Zoia,CEO & MD,roberto.zoia@gruppoigd.it
+18,A+,AbitareIn S.p.A.,real estate,Milano,Marco Grillo,Founder CEO,mgrillo@abitareinspa.com
+19,A+,Italgraniti Group SPA,ceramica,Modena,Gabriele Masetti,Direttore Commerciale,g.masetti@italgranitigroup.com
+20,A+,Lionard Luxury Real Estate,real estate,Firenze,Dimitri Corti,Founder and CEO,dimitri.corti@lionard.com
+21,A+,Performance iN Lighting,electronic mfg,Brescia,Carlo Cattaneo,Direttore Vendite Italia,c.cattaneo@pil.lighting
+22,A+,Bertolotto S.p.A.,furniture,Marcallo con Casone,Gianluca Laudenzi,Direttore Contract Italia,laudenzi@bertolotto.com
+23,A+,3F Filippi S.p.A.,electronic mfg,Bologna,Alessandro Pines,Direttore Vendite Italia,alessandro.pines@3f-filippi.it
+24,A+,DIESSE Diagnostica Senese,research,Siena,Mauro Tonini,Direttore Vendite,maurotonini@diesse.it
+25,A+,Cib Unigas S.p.A.,machinery,Padova,Massimo Gandini,Sales Director,gandini.massimo@cibunigas.it
+26,A+,SAMO Industries S.p.a.,furniture,Verona,Enrico Segala,Direttore Vendite Italia,enrico.segala@samo.it
+27,A+,Bawer S.p.A.,machinery,Matera,Gianfranco Goffredo,Direttore Commerciale,g.goffredo@bawer.it
+28,A+,Sitma Machinery SpA,machinery,Modena,Stefano De Marco,CEO,sdemarco@sitma.com
+29,A+,Comac Spa,machinery,Verona,Loredano Cavazza,Direttore Commerciale Italia,
+30,A+,Noberasco,food,Savona,Francesco Perego,Direttore Vendite Italia,francesco.perego@noberasco.it
+31,A+,Edilkamin&Co,stufe,Lainate,Emanuela Massari,Direttore Vendite Italia,emanuela.massari@edilkamin.com
+32,A+,Fraschetti Distribuzione,wholesale,Frosinone,Danilo Di Santo,Direttore Vendite Italia,danilo.santo@fraschetti.com
+33,A+,Dollmar S.p.A.,chemicals,Milano,Mario Moro,Direttore Vendite Commodities,mario.moro@dollmar.com
+34,A+,Samsic HR Italia,staffing,Milano,Ferdinando Tiraboschi,CEO,ferdinando.tiraboschi@samsic-hr.it
+35,A+,Iveco Orecchia SPA,automotive,Moncalieri,Gianmarco Bezzi,Commercial Director,gianmarco.bezzi@iveco-orecchia.it
+36,A+,Autoindustriale Mobility Group,automotive,Trento,Luca Dorigotti,Direttore Vendite Alpin,luca.dorigotti@autoindustriale.com
+37,A+,Fratelli Polli S.r.l.,food,Milano,Paolo Beretta,Direttore Vendite Italia,paolo.beretta@polli.it
+38,A+,Elah Dufour Novi,food,Novi Ligure,Gabriele Parrino,Direttore Vendite Gdo,gparrino@elah-dufour.it
+39,A+,IVG Colbachini SpA,industrial eng,Padova,Deborah Gavasso,Direttore Vendite Italia,
+40,A+,Brico OK Italia,building materials,Cantù,Simone Ferrandi,Sviluppo Franchising,
+41,A+,Bene Assicurazioni,insurance,Milano,Salvatore Nobile,Direttore Commerciale Nord,salvatore.nobile@bene.it
+42,A+,Scotsman Ice Systems,food,Milano,Massimo Scandroglio,Direttore Vendite Italia,massimo.scandroglio@scotsman.it
+43,A+,Impes Service SpA,machinery,Matera,Luigi Semidai,Direttore Commerciale & Marketing,luigi.semidai@impesservice.it
+44,A+,Fassi Gru,machinery,Bergamo,Daniele Vismara,Direttore Commerciale Italia,daniele.vismara@fassi.com
+45,A+,Abinsula,IT services,Sassari,Andrea Sanna,Co-Founder and CEO,andrea.sanna@abinsula.com
+46,A+,Formula SpA,IT services,Padova,Giuseppe Celeghin,Direttore Vendite Nord Est,giuseppe.celeghin@formula.it
+47,A+,Italchimica srl,chemicals,Padova,Maurizio Fasoli,Direttore Vendite Professional,
+48,A+,CSP International Fashion Group,fashion,Mantova,Mario Bertoni,Direttore Vendite Italia,
+49,A+,Serenissima Informatica,IT services,Padova,Michele Lotta,Responsabile Commerciale PMI,michele.lotta@serinf.it
+50,A+,Apra,IT services,Ancona,Gianfranco Fiordelmondo,CEO,g.fiordelmondo@apra.it
+51,A+,RTS Remote Terminal System,IT services,Forlì,Robertino Piazza,CEO,robertino.piazza@rtsystem.com
+52,A+,Altea IN,IT services,Milano,Franco Vercelli,CEO,fvercelli@alteanet.it
+53,A+,Skylabs,management consulting,Milano,Luca Martino,CEO & Co-Founder,luca.martino@skylabs.it
+54,A+,RTT Srl,IT services,Roma,Fabrizio La Sala,Direttore Commerciale Centro Sud,fabrizio.lasala@rtt.it
+55,A+,SIVAM Spa,food production,Lodi,Elia Fontana,Direttore Vendite Italia,elia.fontana@sivamspa.it
+56,A+,Raspini S.p.A.,food production,Torino,Raffaele Vicentini,Direttore Commerciale Italia,raffaele.vicentini@raspinisalumi.it
+57,A+,Alfatherm SPA,plastics,Varese,Vincent Baron,CEO,vincent.baron@alfatherm.it
+58,A+,Renner Italia,chemicals,Bologna,Manuel Siragna,Direttore Commerciale Italia,manuel.siragna@renneritalia.com
+59,A+,Plastik Group,plastics,Bergamo,Laura Cattaneo,CEO,cattaneo.laura@plastik.it
+60,A+,Gias,food production,Cosenza,Christian Fadda,Direttore Commerciale e Marketing,
+61,A+,Fantini Wines,food production,Chieti,Roberta Accardo,Direttore Vendite Italia,roberta.accardo@fantinigroup.it
+62,A+,BioVIIIx,research,Napoli,Pierluigi Verna,Direttore Vendite Nazionali,pierluigi.verna@bioviiix.com
+63,A+,Top Quality Group,medical devices,Firenze,Gianni Marini,Direttore Vendite Italia,gianni.marini@topqualitygroup.it
+64,A+,Globus Corporation,medical devices,Treviso,Vincenzo Calderoni,Direttore Vendite Italia,vincenzo.calderoni@globusitalia.com
+65,A+,Safilens,medical devices,Gorizia,Massimiliano Vita,Direttore Vendite Italia,massimiliano.vita@safilens.com
+66,A+,Shedir Pharma Group S.p.A.,pharma,Napoli,Antonio Scala,CEO,a.scala@shedirpharmagroup.com
+67,A+,MPA Technical Devices,pharmaceuticals,Firenze,Alessandro Montaperto,CEO,a.montaperto@mpaitaly.com
+68,A+,Pharma Line srl,pharmaceuticals,Milano,Alessandro Gherardi,CEO,a.gherardi@pharma-line.it
+69,A+,Nicomac,machinery,Milano,Vladimiro Sommaruga,Commercial Director,vladimiro.sommaruga@nicomac.it
+70,A+,Galenica Senese S.r.l.,pharmaceuticals,Siena,Vadi Vigni,Commercial Director,v.vigni@galenicasenese.it
+71,A+,BEGEAR,IT services,Napoli,Antonello Spinetti,Founder and CEO,a.spinetti@begear.it
+72,A+,SunCity,fotovoltaico,Pescara,Christian Montermini,Direttore Vendite di Gruppo,christian.montermini@suncityitalia.com
+73,A+,Double Consulting,management consulting,Milano,Leonardo Siccoli,Partner,leonardo.siccoli@doubleconsulting.it
+74,A+,POPLAST,packaging,Piacenza,Andrea Ghu,Direttore Commerciale,andreaghu@poplast.it
+75,A+,MESGO HEXPOL,chemicals,Bergamo,Elena Zanini,Direttore Commerciale Italia,commerciale.gom@mesgo.it
+76,A+,MA-FRA S.p.A.,chemicals,Milano,Remigio Busso,Direttore Commerciale Italia,busso@mafra.it
+77,A+,Mirage Granito Ceramico S.p.A,ceramica,Modena,Daniele Bertacchi,Export Manager,d.bertacchi@mirage.it
+78,A+,Lisap Laboratori Cosmetici,cosmetics,Milano,Andrea Gregori,Agente Generale,
+79,A+,Lexroom,legaltech,Milano,Paolo Fois,Co-Founder & CEO,paolo@lexroom.it
+80,A+,Widder Italia,web agency,Milano,Giulio Urciuoli,Founder CEO,
+81,A+,TechBiz Global,IT/recruiting,Bolzano,Dmitry Kharchenko,Founder CEO,
+82,A+,Sphera Group SRL,consulting,Bologna,Paola Danese,Direzione Commerciale,
+83,A+,Twenty Business Training,formazione,Milano,Claudio Guxha,Direttore Commerciale,
+84,A+,Treatwell,beauty/SaaS,Milano,Alex Bua,Country Manager Italia,
+85,A+,Vibre Srl,tech/B2B,Cesena,Raffaele Salvemini,CEO,
+86,A+,Deel,HR tech/SaaS,Remote,Ilana Elbaz,VP Sales EMEA,
+87,A+,Talkdesk,SaaS contact center,Roma,Guilherme Pinheiro,RVP EMEA South,
+88,A+,Twenix,edtech,Remote,Marta Schiavone,Head of New Business Italy,
+89,A+,Subbyx,SaaS,Milano,Filippo Rocca,Founder CEO,
+90,A+,Jet HR,HR tech/SaaS,Milano,Marco Ogliengo,Co-founder CEO,
+91,A+,Finapp,agritech,Padova,Luca Stevanato,Founder CEO,
+92,A+,Tuidi,AI retail,Bari,Giulio Martinacci,Co-founder CEO,
+93,A+,Volta,B2B SaaS,Milano,Mario Parteli,Co-CEO,
+94,A+,FTNet/Fdirect,pharma B2B,Napoli,Marco Di Tonto,Co-founder CEO,
+95,A+,Toduba,welfare/SaaS,Milano,Gianluca Enrietti,Co-founder CEO,
+96,A+,Serenis,healthtech,Milano,Silvia Wang,Co-founder CEO,
+97,A+,TimeFlow,B2B marketplace,Milano,Lorenzo Danese,Co-founder CEO,
+98,A+,HUI,SaaS,Pescara,Luigi Valerio Rinaldi,Founder CEO,
+99,A+,Sinergy Flow,cleantech,Milano,Alessandra Accogli,Co-founder CEO,
+100,A+,Boutique Consulenza Direzionale,consulenza,Bologna,,,
+101,A,ALBA Consulting,studi/legale,Brescia,Angelo,Owner and CEO,angelo@alba.it
+102,A,VendoCasa,immobiliare,,Matteo,Founder,matteo@vendocasa.it
+103,A,Stone S.p.A.,consulenza,,Ezio,CEO,ezio@stone.it
+104,A,Lokky,finance/assicurazioni,Milano,Sauro,Founder & CEO,sauro@lokky.it
+105,A,Coronari Immobiliare,immobiliare,Roma,Francesco,Co-founder and CEO,francesco@coronari.it
+106,A,Agenzia Immobiliare Toscanamare,immobiliare,,Paola,Assistente Titolare,paola@toscanamare.it
+107,A,Area Domus Real Estate,immobiliare,Bolzano,Alex,CEO & Founder,alex@areadomus.it
+108,A,Agenzia Immobiliare Monduzzi,immobiliare,,Micaela,Owner,micaela@monduzzi.it
+109,A,Regal Broker,immobiliare,,Vincenzo,Titolare,vincenzo@regalbroker.it
+110,A,Agenzia Immobiliare Brembanica,immobiliare,,Clara,Owner,clara@brembanica.com
+111,A,Realkasa Bologna,immobiliare,Bologna,Davide,GM & Founder,davide@realkasabologna.it
+112,A,Zone Immobiliare,immobiliare,Treviso,Christian,Founder & CEO,christian@zone.it
+113,A,LaCasaCheVoglio Advanced RE,immobiliare,Torino,Assuero,CEO,assuero@lacasachevoglioadvanced.it
+114,A,Milano Casa,immobiliare,Milano,Davide,Titolare,davide@milanocasa.it
+115,A,Realcasa Immobiliare Group,immobiliare,Varese,Samuele,CEO & Founder,samuele@realcasa.it
+116,A,AgeCasa Immobiliare,immobiliare,Savona,Giusy,Co-Founder & CEO,giusy@agecasa.it
+117,A,Lameka Immobiliare,immobiliare,Brescia,Fulvio,CEO,fulvio@lameka.com
+118,A,HomeTrieste San Vito,immobiliare,Trieste,Stefano,Owner,stefano@hometriestesan.it
+119,A,Vale Immobiliare,immobiliare,Palermo,Bruno,Co-ceo,bruno@vale.it
+120,A,Eurostudio Immobiliare,immobiliare,Brescia,Silvia,Titolare,silvia@eurostudio.it
+121,A,Quality Immobiliare Colli Aniene,immobiliare,Roma,Luca,Founder & CEO,luca@qualitycolli.it
+122,A,Benimmobili Gruppo Associato,immobiliare,,Marco,CEO,marco@benimmobiliassociato.it
+123,A,GoldCasa Network Immobiliare,immobiliare,Milano,Luca,CEO,luca@goldcasa.it
+124,A,Peluso Immobiliare srl,immobiliare,Roma,Francesca,CEO,francesca@peluso.it
+125,A,Pregio Immobiliare,immobiliare,Bari,Tony,Co-Founder,tony@pregioexclusive.it
+126,A,2S Maison Agenzia Immobiliare,immobiliare,Genova,Stefano,Owner,stefano@2smaison.it
+127,A,Biuso Immobiliare,immobiliare,Catania,Antonio,Owner,antonio@biuso.it
+128,A,Agenzia Immobiliare Rondine,immobiliare,Faenza,Andrea,Owner,andrea@rondine.it
+129,A,Agencasa.it,immobiliare,Milano,Alessio,CEO and Founder,alessio@agencasait.it
+130,A,Broker Immobiliare Exclusive RE,immobiliare,Lucca,Marco,CEO,marco@brokerexclusive.com
+131,A,Agenzia Renato Bélanger,immobiliare,Lignano,Andrea,Owner,andrea@renatobelanger.it
+132,A,impREsa immobiliare,immobiliare,Treviso,Antonio,CEO,antonio@impresa.it
+133,A,Orizzonti Urbani,immobiliare,Milano,Silvio,CEO Co-founder,silvio@orizzontiurbani.it
+134,A,RE/MAX Area,immobiliare,Roma,Francesco,Broker Titolare,francesco@remax.it
+135,A,Gruppo Bisozzi Immobiliare,immobiliare,,Dario,CEO e Owner,dario@bisozzicostruzioni.it
+136,A,Uffici & Negozi SRL,immobiliare,Milano,Luca,Owner & CEO,luca@ufficinegozi.it
+137,A,Munari Immobiliare,immobiliare,Napoli,Ugo,CEO,ugo@munari.it
+138,A,Kassyel Immobiliare,immobiliare,Milano,Enzo,Owner Founder,enzo@kassyel.it
+139,A,Meridiana 21,immobiliare,Treviso,Carlo,Founder,carlo@meridiana21.it
+140,A,REMAX Key House Group,immobiliare,,Alfredo,Broker Titolare,alfredo@remaxkey.com
+141,A,Ca' Nova Real Estate,immobiliare,Novara,Andrea,Owner,andrea@canova.it
+142,A,MARI Team Immobiliare,immobiliare,Roma,Gianluca,CEO & Founder,gianluca@mariteam.com
+143,A,ImmobilSolutions,immobiliare,Firenze,Cristiano,CEO,cristiano@immobilsolutions.it
+144,A,Vivere Real Estate,immobiliare,Roma,Donato,Founder,donato@vivere.it
+145,A,City Network Agency,immobiliare,Roma,Giorgio,Co Founder and CEO,giorgio@city.it
+146,A,UNIQ RE,immobiliare,Roma,Federico,CEO,federico@uniqre.it
+147,A,Rewind Real Estate,immobiliare,Roma,Pierluigi,Founder,pierluigi@rewind.it
+148,A,Unica Servizi Immobiliari,immobiliare,Brescia,Massimiliano,CEO,massimiliano@unicaservizi.it
+149,A,Royal Group Immobiliare,immobiliare,Parma,Raphael,Fondatore e Titolare,raphael@royal.it
+150,A,Gruppo Immobiliare Caricasa,immobiliare,Imperia,Simone,Co-founder,simone@caricasa.it
+151,A,Wonder Immobiliare,immobiliare,Trento,Salvatore,Founder,salvatore@wonder.it
+152,A,REMAX Associati Real Estate,immobiliare,Milano,Elia,Broker Titolare,elia@remaxassociati.it
+153,A,Casa Castelli Immobiliare,immobiliare,Roma,Filippo,Owner,filippo@casacastelli.it
+154,A,Leontis Real Estate,immobiliare,Milano,Barbara,Owner,barbara@leontis.com
+155,A,Residenza Real Estate,immobiliare,Monza,Andrea,Founder President CEO,andrea@residenza.eu
+156,A,Rivolta Immobiliare Milano,immobiliare,Milano,Matteo,Owner,matteo@rivoltamilano.it
+157,A,Immobiliare SAM,immobiliare,Milano,Antonio,Titolare,antonio@sam.it
+158,A,Pagan Immobiliare,immobiliare,Venezia,Alvise,Founder,alvise@pagan.it
+159,A,MasterCasa Tradate,immobiliare,Varese,Salvatore,Co-founder,salvatore@mastercasatradate.it
+160,A,Del Guasta Studio Immobiliare,immobiliare,Genova,Matteo,CEO,matteo@guasta.it
+161,A,Eventa Gruppo Immobiliare,immobiliare,Torino,Carlo,Co-Founder and CEO,carlo@eventa.it
+162,A,Gr.I.M. Gruppo Mignini,immobiliare,Bari,Luca,Founder,luca@grmignini.it
+163,A,Maltese Real Estate,immobiliare,Torino,Zina,Titolare,zina@maltese.it
+164,A,Newarc,immobiliare,Chieri,Edoardo,Founder & CEO,edoardo@newarc.it
+165,A,Elite Studio Immobiliare,immobiliare,Ancona,Alessandro,CEO,alessandro@elite.com
+166,A,Ciulli Agenzia Immobiliare,immobiliare,Empoli,Roberto,CEO,roberto@ciulli.it
+167,A,Alpha Immobiliare,immobiliare,Roma,Daniel,CEO,daniel@alpha.it
+168,A,Erre G. Immobiliare,immobiliare,Alessandria,Stefano,Co-founder,stefano@erre.com
+169,A,Centro Investimenti Immobiliari,immobiliare,,Lorenzo,Founder,lorenzo@centroinvestimenti.it
+170,A,CORUS Real Estate Srl,immobiliare,Milano,Cinzia,CEO,cinzia@corus.it
+171,A,Giordano Immobiliare,immobiliare,Napoli,Nunzio,Owner,nunzio@giordano.it
+172,A,Arca Punto Immobiliare,immobiliare,Milano,Roberto,Owner,roberto@arcapunto.it
+173,A,Anti Social Lab Marketing Immobiliare,immobiliare,Treviso,Giacomo,Owner,giacomo@antisocial.it
+174,A,Vision Real Estate,immobiliare,Terni,Andrea,Broker Owner,andrea@visionservizi.it
+175,A,Gruppo Immobiliare Premiere Srl,immobiliare,Livorno,Angelo,Co-ceo,angelo@premiere.it
+176,A,Gruppo Domus RE,immobiliare,Savona,Pietro,Founder and Owner,pietro@domusre.com
+177,A,Castello&CD Immobiliare,immobiliare,Brescia,Loretta,Owner,loretta@castellocd.it
+178,A,Immobiliare Pasteur Milano,immobiliare,Milano,Marco,Owner,marco@pasteurmilano.it
+179,A,Attiva Immobiliare,immobiliare,Ancona,Silvana Bisogni,Owner,bisogni@attivasilvana.it
+180,A,CrossImmobiliare Network,immobiliare,Napoli,Giovanni,CEO,giovanni@crossimmobiliare.it
+181,A,Coldwell Banker Reliance Group,immobiliare,Milano,Dario,Broker Owner,dario@coldwellbanker.it
+182,A,Salamon Immobiliare,immobiliare,Pordenone,Gabriele,Owner,gabriele@salamon.it
+183,A,Frimm Progeacasa,immobiliare,Roma,Antonio,Owner,antonio@frimmprogeacasa.it
+184,A,Cirav Real Estate,immobiliare,,Alberto,CEO & Co-founder,alberto@cirav.it
+185,A,Kleos Casa,immobiliare,Catania,Simone,Broker Titolare,simone@kleoscasa.it
+186,A,MC House Group RE,immobiliare,,Claudio,Owner,claudio@mchouse.it
+187,A,Immobili e Soluzioni,immobiliare,Bergamo,Valeria,CEO,valeria@soluzioni.it
+188,A,Sixor Digital Marketing,marketing,Como,Sergio,CEO,sergio@sixor.it
+189,A,WEBBY,marketing,,Flavio,CEO,flavio@webby.it
+190,A,Spring ADV,marketing,,Aldo,Founder Owner CEO,aldo@springadv.it
+191,A,Wau73 Software & Digital,marketing,Monza,Antonello,CEO & Founder,antonello@wau73software.it
+192,A,Astra Digital Marketing,marketing,Verona,Mattia,Founder & CEO,mattia@astra.it
+193,A,Content & Creators (DE),marketing,Germania,Yara-Sophie,Founder CEO,
+194,A,Semplitech Srl,marketing,Udine,Andres,Titolare & CEO,andres@semplitech.it
+195,A,Ribrain,marketing,Napoli,Michele,CEO,michele@ribrain.com
+196,A,Crafted,marketing,Venezia,Silvio,CEO & Co-Founder,silvio@crafted.it
+197,A,56K Digital Marketing Agency,marketing,Parma,Filippo,Owner,filippo@56k.it
+198,A,Creative Folks,marketing,Roma,Matteo,Co-Founder CEO,matteo@creativefolks.it
+199,A,Climbo,marketing,,Giacomo,Co-Founder & CEO,giacomo@climbo.it
+200,A,SNAP Disruptive Marketing,marketing,Milano,Alessio,CEO & Founder,alessio@snapdisruptive.it
+201,A,Boraso Digital Commerce,marketing,Rovigo,Massimo,CEO & Founder,massimo@borasocommerce.it
+202,A,Promote,marketing,,Salvatore,CEO & Founder,salvatore@promote.it
+203,A,DeepArtWeb,marketing,Verona,Alessandro,CEO & Founder,alessandro@deepartweb.it
+204,A,The Digital World S.r.l.,marketing,L'Aquila,Michele Fazi,CEO & Founder,
+205,A,Matiba Digital Marketing,marketing,Milano,Massimo Maestri,CEO,massimo@matiba.it
+206,A,Zmist & Copy,marketing,,Kateryna,Founder CEO,kateryna@zmistcopy.it
+207,A,CDM China Digital Marketing,marketing,,Davide Dal Maso,CEO,davide@cdmchina.com
+208,A,Comma 3,marketing,Bari,Raffaele,Founder CEO,raffaele@comma.it
+209,A,BidBerry,marketing,,Emiliano,CEO Co Founder,emiliano@bidberry.com
+210,A,Tailored Solutions Srl,marketing,Napoli,Michele Formisano,CEO & Founder,michele@tailored.com
+211,A,Fortitude Sport & Entertainment,marketing,,Michele Baratta,CEO and Founder,
+212,A,Welcome Communication,marketing,Torino,Marco,CEO & Founder,marco@welcomecommunication.it
+213,A,Mediabeta Srl,marketing,,Francesco Micali,CEO,
+214,A,MBH Making Business Happen,marketing,Firenze,Silvia Mariani,Founder Owner CEO,
+215,A,DigiLead,marketing,,Simona Ferrazza,Co-Founder,simona@digilead.it
+216,A,COKKI,marketing,Napoli,Diego Cocchi,GM CEO Founder,diego@cokki.it
+217,A,Pontedilana,marketing,Treviso,Barbara,Founder and CEO,barbara@pontedilana.it
+218,A,SPARK Marketing Agency,marketing,Napoli,Federico Vitiello,CEO,federico@spark.it
+219,A,Feedback srl,marketing,Palermo,Marcello Orlando,Co-founder CEO,marcello@feedback.it
+220,A,Posytron,marketing,Reggio Calabria,Alberto,Founder and CEO,alberto@posytron.it
+221,A,Mantegazza Marketing Agency,marketing,,Davide,Co-Founder Owner,
+222,A,Delta & Partners (immobiliare),immobiliare,Frascati,Luigi Amoruso,Co-founder,
+223,A,Digiside,marketing,La Spezia,Maurizio,Consulente,maurizio@digiside.it
+224,A,Gag Srl Web & Digital,marketing,,Giorgia Marino,Owner,
+225,A,OMNICA,marketing,,Andrea Fiore,Founder & CEO,
+226,A,Boomerang,marketing,,Greta Tedeschi,CEO,
+227,A,Studio Casti,marketing,,Paolo Casti,CEO & Co-Founder,
+228,A,Keecom,marketing,Catania,Giovanni,CEO and Owner,giovanni@keecom.it
+229,A,Hooop,marketing,,Marco Petrazzi,Founder & CEO,
+230,A,Direct Performance,marketing,Milano,Simone Sicuro,Co-Founder & CEO,
+231,A,Influeppy,marketing,Genova,Alessio Villa,CEO & Co-Founder,
+232,A,Get Me Digital,marketing,Monza,Stefano,CEO & Founder,stefano@getme.it
+233,A,Fare Digital Media,marketing,Cagliari,Alessio Neri,CEO Co-Founder,
+234,A,B-Press Srl Msoft,marketing,Novara,Fabrizio Bozzini,Co-Founder & CEO,
+235,A,CPLUS Media Agency,marketing,Avellino,Valentino,CEO,valentino@cplusmedia.com
+236,A,Lead,marketing,,Renato,CEO & Co-Founder,
+237,A,SEM Society,marketing,Roma,Kamran Sadri,MD,
+238,A,GAIA International,marketing,Brescia/UK,Alessandro Galleri,CEO & Founder,
+239,A,QU3IT,marketing,Roma,Mario Giacomo Sette,Co-Founder & CEO,
+240,A,Orthogether,marketing,Cremona,Andrea Scarinzi,Co Founder & CEO,
+241,A,Somaspace,marketing,,Michele,CEO Co-Founder,michele@somaspace.com
+242,A,Geosnap,marketing,,Angelo,CEO & Co-founder,angelo@geosnap.it
+243,A,Mela Services,marketing,,Paolo,CEO & Founder,paolo@mela.it
+244,A,Hybrida Marketing,marketing,,Federico,Founder & CEO,federico@hybrida.it
+245,A,iStudios,marketing,,Alma,Founder & CEO,alma@istudios.it
+246,A,V Media,marketing,,Alessandro,Founder & CEO,alessandro@media.it
+247,A,Webinword Google Ads Agency,marketing,,David,Founder & CEO,david@webinwordgoogle.it
+248,A,BlindSpot,marketing,,Luca,CEO & Founder,luca@blindspot.it
+249,A,Customer 1st,marketing,,Giuseppe,Founder & CEO,giuseppe@customer1st.it
+250,A,WEXA,marketing,,Maurizio,Founder / CEO,maurizio@wexa.it
+251,A,digitalps,Digital Marketing,,Ismail,Co-Founder & CEO,ismail@digitalps.it
+252,A,Ūtopia Agency,Digital Marketing,,Enrico,CEO & Founder,enrico@topia.it
+253,A,Escamotages,Digital Marketing,,Giovanna,Founder and CEO,giovanna@escamotages.it
+254,A,GoNuts Communication,Digital Marketing,,Giorgia,Founder and CEO,giorgia@gonutscommunication.it
+255,A,Real Loud Marketing,Digital Marketing,,Stefano,Co-founder & CEO,stefano@loud.it
+256,A,MazzMedia Srl,Digital Marketing,,Francesco,Founder CEO,francesco@mazzmedia.it
+257,A,Brains at Work,Digital Marketing,,Fabrizio,Chief CEO,fabrizio@brainsat.com
+258,A,OGS Public Relations & Communication,Digital Marketing,,Marilena,CEO and Founder,marilena@ogspublic.it
+259,A,Immersive Media SRLS,Digital Marketing,,Ilaria,CEO,ilaria@immersivemedia.it
+260,A,Sartoria Del Marketing,Digital Marketing,,Andrea,CEO & Co-Founder,andrea@sartoria.it
+261,A,System Preferences,Digital Marketing,,Alfredo,CEO and Founder,alfredo@preferences.it
+262,A,CleverMinds.it,Digital Marketing,,Stefano,CEO & Founder,stefano@clevermindsit.com
+263,A,EVO Studios,Digital Marketing,,Alessandro,CEO & Founder,alessandro@evostudios.it
+264,A,Grow Better digital studio,Digital Marketing,,Sasha,Founder CEO,sasha@growbetter.it
+265,A,7eyes Advertising Company,Digital Marketing,,Francesco,CEO and Founder,francesco@7eyesadvertising.it
+266,A,eLogy.io,Digital Marketing,,Marco,CEO & Founder,marco@elogyio.it
+267,A,Majoie srl,Digital Marketing,,Irene,CEO & Founder,irene@majoie.it
+268,A,Shots,Digital Marketing,,Giovanni,Founder CEO,giovanni@shots.it
+269,A,WinTrade Digital Agency,Digital Marketing,,Andrea,Founder & CEO,andrea@wintrade.it
+270,A,Ordinary Marketing S.r.l.,Digital Marketing,,Davide,CEO Co-founder,davide@ordinaryperformance.com
+271,A,Tide,Digital Marketing,,Giovanni,CEO & Co-founder,giovanni@tide.it
+272,A,NonnaAnna Studio Marketing & Design,Digital Marketing,,Rene,CEO & Founder,rene@nonnaannadesign.it
+273,A,Syncronika,Digital Marketing,,Valerio,Founder CEO,valerio@syncronika.it
+274,A,Albergatore Pro Srl,Digital Marketing,,Gian,CEO & Founder,gian@albergatorepro.com
+275,A,Human Marketing Agency,Digital Marketing,,Riccardo,Partner CEO,riccardo@human.it
+276,A,Palladium46,Digital Marketing,,Flavio,Founder CEO,flavio@palladium46.it
+277,A,Time2marketing srl,Digital Marketing,,Nicola,Founder & CEO,nicola@time2marketing.it
+278,A,Bestie Bite,Digital Marketing,,Carlotta,CEO & Co Founder,carlotta@bestiebite.it
+279,A,Livenet Srl,Digital Marketing,,Valerio,CEO & Founder,valerio@livenet.it
+280,A,ON2OFF Drive to Store,Digital Marketing,,Giuseppe,Founder CEO,giuseppe@on2offdrive.it
+281,A,Fogliata Consulting,Consulenza/Formazione,,Angelo,Founder & CEO,angelo@fogliata.it
+282,A,GJordan Consulenza SAP,Consulenza/Formazione,,Mattia,CEO & Founder,mattia@gjordansap.it
+283,A,Demetra Ente di Formazione,Consulenza/Formazione,,Imma,CEO,imma@demetraente.it
+284,A,Aris Formazione e Ricerca,Consulenza/Formazione,,Sergio,CEO,sergio@arisricerca.it
+285,A,ADTM Consulenza strategica,Consulenza/Formazione,,Arduino,CEO,arduino@adtmstrategica.it
+286,A,Facciamo31 Business School,Consulenza/Formazione,,Lorenzo,CEO & Founder,lorenzo@facciamo31business.it
+287,A,Futura Formazione,Consulenza/Formazione,,Greta,Founder,greta@futura.it
+288,A,Skillsup Centro di Formazione,Consulenza/Formazione,,Mauro,CEO,mauro@skillsupcentro.it
+289,A,Change Project Formazione,Consulenza/Formazione,,Stefano,Co Founder,stefano@changeproject.it
+290,A,KIS Keep It Simple,Consulenza/Formazione,,Valentina,Owner,valentina@kiskeep.it
+291,A,otj consulenza e formazione,Consulenza/Formazione,,Stefano,Interim CEO,stefano@otj.it
+292,A,Choralia Comunicazione & Formazione,Consulenza/Formazione,,Federico,CEO,federico@choraliacomunicazione.it
+293,A,Arco Consulenza Hospitality,Consulenza/Formazione,,Salvatore,Founder and CEO,salvatore@arcooperativa.it
+294,A,Hideea Srl,Consulenza/Formazione,,Giorgio,Co-Founder and CEO,giorgio@hideea.com
+295,A,BME S.r.l.,Consulenza/Formazione,,Giuliano,CEO & Founder,giuliano@bme.it
+296,A,Glocal,Consulenza/Formazione,,Sandro,Founder CEO,sandro@glocal.it
+297,A,Omnia Srl Professional Advisor,Consulenza/Formazione,,Luigi,CEO,luigi@omniaprofessional.com
+298,A,Poliedra Progetti Integrati,Consulenza/Formazione,,Luigi,CEO,luigi@poliedraprogetti.it
+299,A,Interform,Consulenza/Formazione,,Alfredo,Founder and CEO,alfredo@interform.it
+300,A,Course Clear,Consulenza/Formazione,,Alessandro,Founder & CEO,alessandro@courseclear.it
+301,A,OpesMind,Consulenza/Formazione,,Marco,Founder CEO,marco@opesmind.it
+302,A,SP-Formazione,Consulenza/Formazione,,Paola,CEO,paola@spformazione.it
+303,A,Think1816,Consulenza/Formazione,,Siria,Socio Titolare,siria@think1816.it
+304,A,Pianeta Formazione Srl,Consulenza/Formazione,,Cesare,CEO,cesare@pianeta.it
+305,A,F&R Consulting srl,Consulenza/Formazione,,Francesca,CEO,francesca@direzionale.it
+306,A,Riconversider Srl,Consulenza/Formazione,,Giovanni,CEO,giovanni@riconversider.it
+307,A,La Cittadella della Formazione,Consulenza/Formazione,,Paolo,CEO,paolo@cittadella.it
+308,A,Reting,Consulenza/Formazione,,Enrico,Founder & CEO,enrico@reting.it
+309,A,Avvocato360,Consulenza/Formazione,,Stefano,CEO & Founder,stefano@avvocato360avvocato.it
+310,A,Contec AQS,Consulenza/Formazione,,Gianluca,CEO,gianluca@contecaqs.it
+311,A,Team Sicurezza srl,Consulenza/Formazione,,Daniele,CEO,daniele@teamsicurezza.it
+312,A,Centro Servizi Soldani srl,Consulenza/Formazione,,Letizia,CEO,letizia@centroservizi.it
+313,A,Consilia,Consulenza/Formazione,,Angelo,CEO,angelo@consilia.it
+314,A,Teleskill,Consulenza/Formazione,,Emanuele,Founder & MD,emanuele@teleskill.it
+315,A,THRUST,Consulenza/Formazione,,Niccolo,CEO e Founder,niccolo@thrust.com
+316,A,AFC Consulting Srl,Consulenza/Formazione,,Alessandro,CEO,alessandro@afc.it
+317,A,Evosolution Srl ADL,Consulenza/Formazione,,Fabio,CEO,fabio@evosolutionlavoro.it
+318,A,Epoché Service Integrator,Consulenza/Formazione,,Silvia,CEO,silvia@epocheintegrator.it
+319,A,OSM Value,Consulenza/Formazione,,Marco,CEO,marco@osmvalue.it
+320,A,Value S.r.l.,Consulenza/Formazione,,Davide,CEO & Co-founder,davide@value.it
+321,A,Beta Formazione Srl,Consulenza/Formazione,,Benedetto,Chief CEO,benedetto@beta.it
+322,A,OSM Medical Sud Italia,Consulenza/Formazione,,Giuseppe,CEO,giuseppe@osmmedical.it
+323,A,Newpeople Team,Consulenza/Formazione,,Francesco,CEO,francesco@newpeopleteam.it
+324,A,ForTeam srl,Consulenza/Formazione,,Marco,CEO,marco@forteam.it
+325,A,PROFIMA Incentivi,Consulenza/Formazione,,Enzo,Founder & CEO,enzo@profima.it
+326,A,Consul Service,Consulenza/Formazione,,Claudio,CEO,claudio@consul.it
+327,A,DG Net Work Srl,Consulenza/Formazione,,Francesca,CEO,francesca@dgnet.it
+328,A,Alavie Srl,Consulenza/Formazione,,Luca,CEO,luca@alavie.it
+329,A,K Brand S.r.l.,Consulenza/Formazione,,Simone,Co-Founder & CEO,simone@brand.it
+330,A,Eurobevande S.r.l.,Consulenza/Formazione,,Emanuele,CEO,emanuele@eurobevande.it
+331,A,GSA Ingegneria,Consulenza/Formazione,,Lorenzo,CEO,lorenzo@gsaingegneria.it
+332,A,Fondazione Aldini Valeriani,Consulenza/Formazione,,Giacomo,CEO,giacomo@fondazionealdini.it
+333,A,Tesi Ivrea,Consulenza/Formazione,,Massimo,CEO MD,massimo@tesiivrea.it
+334,A,Forma Mentis Training Center,Consulenza/Formazione,,Luigi,Founder & CEO,luigi@formamentis.it
+335,A,Systema S.r.l. Mantova,Consulenza/Formazione,,Luca,CEO,luca@systemamantova.it
+336,A,Idea Impresa,Consulenza/Formazione,,Vittorio,CEO,vittorio@ideaimpresa.com
+337,A,Risorsa Uomo,Consulenza/Formazione,,Alessandro,CEO and Partner,alessandro@risorsauomo.it
+338,A,Kaleidos,Consulenza/Formazione,,Francesco,CEO,francesco@kaleidos.com
+339,A,ETIC S.R.L.,Consulenza/Formazione,,Paolo,CEO & Founder,paolo@etic.it
+340,A,Kaizen Institute Italy,Consulenza/Formazione,,Bruno,MD & Partner,bruno@kaizeninstitute.com
+341,A,DI.GI. Academy,Consulenza/Formazione,,Alessandro,Founder e CEO,alessandro@giacademy.it
+342,A,Pellegrino Consulting Services,Consulenza/Formazione,,Claudia,CEO,claudia@pellegrino.it
+343,A,Value,Consulenza/Formazione,,Giulio,CEO & Founder,giulio@value.it
+344,A,Job Formazione,Consulenza/Formazione,,Raffaele,CEO,raffaele@job.it
+345,A,Noema HR,Consulenza/Formazione,,Patrick,MD,patrick@noemahr.it
+346,A,Assitec Service Italia,Consulenza/Formazione,,Andrea,Titolare Amministratore,andrea@assitec.it
+347,A,Areaquattro Ingegneria,Consulenza/Formazione,,Nicola,CEO & Co-Founder,nicola@areaquattroingegneria.it
+348,A,crescITA,Consulenza/Formazione,,Luca,Founder & CEO,luca@crescita.it
+349,A,PSB srl,Consulenza/Formazione,,Psb,CEO,psb@psb.it
+350,A,Granchi & Partners Srl,Consulenza/Formazione,,Guido,CEO,guido@granchi.it
+351,A,Eo Ipso srl,Consulenza/Formazione,,Marino,CEO,marino@eoipso.it
+352,A,Elsi Srl Sicurezza,Consulenza/Formazione,,Domenico,CEO e Founder,domenico@elsisicurezza.it
+353,A,Ecoeuro SRL,Consulenza/Formazione,,Ferruccio,CEO,ferruccio@ecoeuro.it
+354,A,Gility,Consulenza/Formazione,,Simone,Co-founder & CEO,simone@gilityfuturo.it
+355,A,Skills,Consulenza/Formazione,,Vincenzo,CEO,vincenzo@skills.it
+356,A,C&G Capital,Consulenza/Formazione,,Denis,Titolare Presidente,denis@capital.it
+357,A,KAD3,Consulenza/Formazione,,Alessio,CEO,alessio@kad3.com
+358,A,Medicina & Lavoro SRL,Consulenza/Formazione,,Salvatore,CEO,salvatore@medicinalavoro.it
+359,A,Marin 3 srl,Consulenza/Formazione,,Antonello,Owner,antonello@marinmedicina.it
+360,A,Amaltea,Consulenza/Formazione,,Stefano,CEO & Founder,stefano@amaltea.it
+361,A,Progea Servizi,Consulenza/Formazione,,Gianluca,CEO,gianluca@progeaservizi.it
+362,A,Knowità,Consulenza/Formazione,,Alessandro,Founder & CEO,alessandro@knowita.it
+363,A,EcoSafe Srl,Consulenza/Formazione,,Franco,CEO,franco@ecosafe.it
+364,A,Percorsi Formativi 0-6,Consulenza/Formazione,,Silvia,Titolare,silvia@percorsiformativi.it
+365,A,Reiss Romoli,Consulenza/Formazione,,Luigi,CEO,luigi@reissromoli.it
+366,A,ContributoUtile Srl,Consulenza/Formazione,,Salvatore,CEO & Founder,salvatore@contributoutilebenefit.it
+367,A,Hotels Doctors,Consulenza/Formazione,,Gabriele,MD,gabriele@hotelsdoctors.it
+368,A,Penta Formazione,Consulenza/Formazione,,Silvia,Owner,silvia@penta.it
+369,A,Pastificio Casa Prencipe,E-commerce/Retail,,Giovanna,Titolare CEO,giovanna@pastificiocasa.it
+370,A,Hidrobrico.it,E-commerce/Retail,,Francesco,Founder and CEO,francesco@hidrobricoit.it
+371,A,Hoculus Shopify Partner,E-commerce/Retail,,Roberto,Co-founder & CEO,roberto@hoculusshopify.it
+372,A,Bevingrosso.it,E-commerce/Retail,,Nicolo,Founder & CEO,nicolo@bevingrossoit.it
+373,A,EquaZone,E-commerce/Retail,,Giampaolo,CEO e Co-founder,giampaolo@equazone.it
+374,A,Acetificio Brivio,E-commerce/Retail,,Alessandro,CEO Titolare,alessandro@acetificiobrivio.it
+375,A,Elettrorappresentanze,E-commerce/Retail,,Daniele,Titolare/Dir.Comm.,daniele@elettrorappresentanze.it
+376,A,Punto Persiane,E-commerce/Retail,,Fabrizio,Titolare CEO,fabrizio@puntopersiane.it
+377,A,Cantina della Birra,E-commerce/Retail,,Luca,CEO,luca@cantinabirra.it
+378,A,Movidis SRL,E-commerce/Retail,,Tancredi,Owner & CEO,tancredi@movidis.it
+379,A,Burger-print,E-commerce/Retail,,Matteo,CEO,matteo@burgerprint.com
+380,A,Sorelle Ronco,E-commerce/Retail,,Christian,CEO,christian@sorelleronco.it
+381,A,Fratelli Basile S.r.l.,E-commerce/Retail,,Alessandro,Titolare/Dir.Tecnico,alessandro@fratellibasile.com
+382,A,AS Arredamenti Santiccioli,E-commerce/Retail,,Davide,Titolare,davide@asarredamenti.it
+383,A,Computers Parts,E-commerce/Retail,,Antonino,CEO and Founder,antonino@computersparts.it
+384,A,CAT Ricambi SRL,E-commerce/Retail,,Mirco,CEO Titolare,mirco@catricambi.it
+385,A,Agricola Baraldo,E-commerce/Retail,,Michele,Titolare/Dir.Comm.,michele@agricolabaraldo.it
+386,A,Brixiamoto.com,E-commerce/Retail,,Fabio,Founder & CEO,fabio@brixiamotocom.it
+387,A,Froglab Srl,E-commerce/Retail,,Giovanni,Titolare/Dir.Creativo,giovanni@froglab.it
+388,A,Log Solution,E-commerce/Retail,,Guido,Titolare/Dir.Comm.,guido@log.it
+389,A,GSS gemsecuritysystem,E-commerce/Retail,,Massimo,Titolare CEO,massimo@gssgemsecuritysystem.it
+390,A,OnFarma,E-commerce/Retail,,Stefano,CEO,stefano@onfarma.it
+391,A,Euroffice Italia srl,E-commerce/Retail,,Diego,CEO,diego@euroffice.it
+392,A,Callmewine,E-commerce/Retail,,Mario,CEO,mario@callmewine.it
+393,A,Qromo,E-commerce/Retail,,Francesco,Founder & CEO,francesco@qromo.it
+394,A,Dialer System,E-commerce/Retail,,Carlo,CEO,carlo@dialer.it
+395,A,Frida's Italian Flower Stores,E-commerce/Retail,,Gabriele,CEO,gabriele@fridaitalian.it
+396,A,Pretto srl,E-commerce/Retail,,Guido,Titolare/Dir.Comm.,guido@pretto.it
+397,A,MMX Travel,E-commerce/Retail,,Francesca,Dir.Tecnico/Titolare,francesca@mmxtravel.it
+398,A,Piero Guidi,E-commerce/Retail,,Gionata,CEO,gionata@pieroguidi.it
+399,A,Torrefazione La Brasiliana,E-commerce/Retail,,Giancarlo,Titolare e CEO,giancarlo@torrefazionebrasiliana.it
+400,A,Sphera Sign srl,E-commerce/Retail,,Giorgio,Owner,giorgio@spherasign.it
+401,A,Negoziosenzaglutine.com,E-commerce/Retail,,Marcello,Titolare CEO,marcello@negoziosenzaglutinecom.it
+402,A,World Business SRL,E-commerce/Retail,,Francesco,CEO,francesco@worldbusiness.it
+403,A,Areatessile M.C. S.R.L.,E-commerce/Retail,,Paolo,CEO,paolo@areatessile.it
+404,A,Demia Marketing,E-commerce/Retail,,Daniel,CEO & Founder,daniel@demiacomunicazione.it
+405,A,New Net Soluzioni IT,E-commerce/Retail,,Pierpaolo,CEO,pierpaolo@newnet.it
+406,A,Birre da Manicomio,E-commerce/Retail,,Giorgia,Chief CEO,giorgia@birreda.it
+407,A,2F Drive,E-commerce/Retail,,Stefano,CEO,stefano@2fdrive.com
+408,A,Matex Security,E-commerce/Retail,,Leonardo,CEO Titolare,leonardo@matexsecurity.it
+409,A,Caseificio Tomasoni Formaggi,E-commerce/Retail,,Eva,CEO,eva@caseificiotomasoni.it
+410,A,SYRIO s.r.l.,E-commerce/Retail,,Mauro,CEO,mauro@syrio.it
+411,A,Db-Line srl,E-commerce/Retail,,Marco,President/CEO,marco@dbline.it
+412,A,AP.esse spa,E-commerce/Retail,,Salvatore,CEO/Dir.Marketing,salvatore@apesse.it
+413,A,3MSolutions srl,E-commerce/Retail,,Carlo,CEO/Dir.Comm.,carlo@3msolutions.it
+414,A,Saros srl,E-commerce/Retail,,Renzo,CEO,renzo@saros.it
+415,A,Interplast Italia,E-commerce/Retail,,Dimitri,Titolare,dimitri@interplast.it
+416,A,Fiodor Omnichannel,E-commerce/Retail,,Valerio,CEO,valerio@fiodoromnichannel.it
+417,A,Galassi Dr. Giacomo,E-commerce/Retail,,Giacomo,DG/CEO,giacomo@galassidr.it
+418,A,Retail Management srl,E-commerce/Retail,,Antonio,Founder & CEO,antonio@retail.it
+419,A,BPG Radiocomunicazioni,E-commerce/Retail,,Sandro,Titolare/AD/DG,sandro@bpgradiocomunicazioni.it
+420,A,Fazio Srl,E-commerce/Retail,,Fabio,CEO,fabio@fazio.it
+421,A,TB Marmi,E-commerce/Retail,,Mauro,Co-titolare/CEO,mauro@tbmarmi.it
+422,A,Shooting Product,E-commerce/Retail,,Stefano,CEO/Dir.Creativo,stefano@shootingproduct.com
+423,A,Donati S.p.a,E-commerce/Retail,,Alessandro,CEO,alessandro@donati.it
+424,A,Bepro Italia S.r.l.,E-commerce/Retail,,Federico,CEO,federico@bepro.it
+425,A,Metarete s.r.l.,E-commerce/Retail,,Fabio,CEO Owner Founder,fabio@metarete.it
+426,A,YOCABÈ,E-commerce/Retail,,Vito,CEO and Co-founder,vito@yocabe.it
+427,A,DRAU,E-commerce/Retail,,Pietro,CEO/Dir.Creativo,pietro@drau.it
+428,A,ShopFan,E-commerce/Retail,,Gian,Founder & CEO,gian@shopfan.com
+429,A,Viamadeinitaly,E-commerce/Retail,,Marco,Co-founder & CEO,marco@viamadeinitaly.it
+430,A,TENDER,E-commerce/Retail,,Filippo,CEO & Founder,filippo@tender.it
+431,A,Svapoweb Srl,E-commerce/Retail,,Alfonso,Titolare,alfonso@svapoweb.it
+432,A,ALSTOS International,E-commerce/Retail,,Stefano,CEO & Co-Founder,stefano@alstos.com
+433,A,Alisia Jewels,E-commerce/Retail,,Elia,Founder & CEO,elia@alisiajewels.com
+434,A,MammaPack,E-commerce/Retail,,Flavio,Cofounder & CEO,flavio@mammapackspesa.it
+435,A,System Retail S.p.A.,E-commerce/Retail,,Claudio,CEO,claudio@retail.it
+436,A,Dinja,E-commerce/Retail,,Francesco,CEO & Co-Founder,francesco@dinja.it
+437,A,Wora,E-commerce/Retail,,Gaetano,Founder & CEO,gaetano@wora.it
+438,A,SEOT Srl,E-commerce/Retail,,Orazio,CEO & Founder,orazio@seot.it
+439,A,Underscore District,E-commerce/Retail,,Edoardo,CEO and Co-founder,edoardo@underscoredistrict.com
+440,A,Alseda Group Srl,E-commerce/Retail,,Davide,Founder & CEO,davide@alsedaunipersonale.it
+441,A,Skynet Worldwide Express Italy,E-commerce/Retail,,Francesco,CEO,francesco@skynetworldwide.com
+442,A,teticum,E-commerce/Retail,,Alessandro,Co-founder & CEO,alessandro@teticum.it
+443,A,YCMC Your Closet My Closet,E-commerce/Retail,,Sara,CEO/Founder,sara@ycmcyour.it
+444,A,Logicbid.com,E-commerce/Retail,,Valerio,CEO,valerio@logicbidcom.it
+445,A,AC Retail Advisory,E-commerce/Retail,,Andrea,Owner & CEO,andrea@acretail.com
+446,A,Stratos Software,E-commerce/Retail,,Alessio,Founder & CEO,alessio@stratossoftware.com
+447,A,Il Girasole Viaggi,E-commerce/Retail,,Silvana,Dir.Tecnico/Co-titolare,silvana@girasoleviaggi.com
+448,A,IOHO SRL,E-commerce/Retail,,Massimo,Co-Founder and CEO,massimo@ioho.it
+449,A,Meet ALPHA,E-commerce/Retail,,Marcello,Co-Founder & CEO,marcello@meetalpha.it
+450,A,NSG,E-commerce/Retail,,Luca,CEO/Dir.Creativo,luca@nsg.it
+451,A,LOOOL,E-commerce/Retail,,Fabio,Founder and CEO,fabio@loool.it
+452,A,HOTBRAIN,E-commerce/Retail,,Rita,CEO & Co-Founder,rita@hotbrain.it
+453,A,Evolution BI,E-commerce/Retail,,Nicola,CEO & Owner,nicola@evolutionbi.it
+454,A,SmallPay,E-commerce/Retail,,Mauro,Founder & CEO,mauro@smallpaypayment.it
+455,A,Valentina Davino Jewels,E-commerce/Retail,,Valentina,Founder and CEO,valentina@valentinadavino.com
+456,A,Measmerize,E-commerce/Retail,,Filippo,CEO & Founder,filippo@measmerize.com
+457,A,Coralmond.com,E-commerce/Retail,,Roberto,CEO & Founder,roberto@coralmondcom.it
+458,A,ELSE Corp,E-commerce/Retail,,Andrey,Co-Founder & CEO,andrey@elsecorp.com
+459,A,TKCrediGO,Finance/Assicurazioni,,Stefano,CEO,stefano@tkcredigo.it
+460,A,KTS Finance,Finance/Assicurazioni,,Ermal,CEO,ermal@ktsfinance.com
+461,A,Alifin Service Srl,Finance/Assicurazioni,,Giovanni,CEO,giovanni@alifin.it
+462,A,FINET GROUP SPA,Finance/Assicurazioni,,Anna,CEO,anna@finet.it
+463,A,Fasoli e Fontana Assicurazioni,Finance/Assicurazioni,,Franco,Socio Titolare,franco@fasolifontana.it
+464,A,Lungarini Biz,Finance/Assicurazioni,,Ivan,CEO,ivan@lungarinibiz.it
+465,A,Fincentro Finance SPA,Finance/Assicurazioni,,Maurizio,CEO,maurizio@fincentrofinance.it
+466,A,CdM Assicurazioni,Finance/Assicurazioni,,Ivan,CEO,ivan@cdmassicurazioni.it
+467,A,Dynamicash.com,Finance/Assicurazioni,,Simone,CEO & Founder,simone@dynamicashcom.it
+468,A,GLOBALFINCO,Finance/Assicurazioni,,Oreste,CEO & Founder,oreste@globalfinco.it
+469,A,Wopta Assicurazioni,Finance/Assicurazioni,,Vincenzo,Founder & CEO,vincenzo@woptaassicurazioni.it
+470,A,KALAWAY,Finance/Assicurazioni,,Alessandro,CEO and Founder,alessandro@kalaway.it
+471,A,Agenzia Minesi Reale Mutua,Finance/Assicurazioni,,Gianpaolo,Owner,gianpaolo@minesireale.it
+472,A,Filippi Broker SRL,Finance/Assicurazioni,,Andrea,CEO,andrea@filippibroker.it
+473,A,Change Capital,Finance/Assicurazioni,,Francesco,CEO & Co-founder,francesco@changecapital.it
+474,A,Potenza Assicurazioni,Finance/Assicurazioni,,Andrea,CEO,andrea@potenzaassicurazioni.it
+475,A,Frontier Assicurazioni,Finance/Assicurazioni,,Andrea,CEO,andrea@frontierassicurazioni.it
+476,A,ULN Life S.p.A.,Finance/Assicurazioni,,Fabio,CEO,fabio@ulnlife.it
+477,A,MediaCredit S.R.L.,Finance/Assicurazioni,,Damiano,CEO,damiano@mediacredit.it
+478,A,Gruppo GFA,Finance/Assicurazioni,,Roberto,Founder & CEO,roberto@gfa.it
+479,A,Sapienza Finanziaria,Finance/Assicurazioni,,Giulio,Fondatore & CEO,giulio@sapienzafinanziaria.com
+480,A,Aron Tech Insurance,Finance/Assicurazioni,,Giorgio,Founder & CEO,giorgio@aroninsurance.it
+481,A,ForYourLife,Finance/Assicurazioni,,Alessandro,Founder & CEO,alessandro@foryourlife.it
+482,A,BCC Vita,Finance/Assicurazioni,,Alessandra,Titolare Compliance,alessandra@bccvita.it
+483,A,Fidilink,Finance/Assicurazioni,,Michele,Founder and CEO,michele@fidilink.it
+484,A,Martano Assicurazioni Srl,Finance/Assicurazioni,,Andrea,Amministratore/Titolare,andrea@martanoassicurazioni.it
+485,A,Centrofriuli Generali Italia,Finance/Assicurazioni,,Simone,Owner,simone@centrofriuligenerali.it
+486,A,Gruppo Melis,Finance/Assicurazioni,,Pierpaolo,Owner and CEO,pierpaolo@melis.it
+487,A,Fincontatto,Finance/Assicurazioni,,Giancarlo,CEO,giancarlo@fincontatto.it
+488,A,Broker Center S.r.l.,Finance/Assicurazioni,,Federico,Founder & CEO,federico@brokercenter.it
+489,A,Soluzioni Assicurative,Finance/Assicurazioni,,Alessio,Owner,alessio@soluzioniassicurative.it
+490,A,Ad Lab Consulting,Finance/Assicurazioni,,Mario,Founder & Partner,mario@adlab.it
+491,A,Cloud Finance,Finance/Assicurazioni,,Umberto,Founder and CEO,umberto@cloudfinance.it
+492,A,Brokerfid Srl,Finance/Assicurazioni,,Filippo,CEO,filippo@brokerfid.it
+493,A,TIMPRESA srls,Finance/Assicurazioni,,Stefania,Co-Founder,stefania@timpresa.com
+494,A,Ventorosso,Finance/Assicurazioni,,Giuseppe,CEO,giuseppe@ventorosso.it
+495,A,Transport Insurance Broker SRL,Finance/Assicurazioni,,Christian,Titolare/Dir.Comm.,christian@transportinsurance.com
+496,A,Dama Insurance Broker,Finance/Assicurazioni,,Davide,CEO,davide@damainsurancebroker.it
+497,A,Star Brixia,Finance/Assicurazioni,,Daniele,CEO,daniele@starbrixia.it
+498,A,Easy Company Italia,Finance/Assicurazioni,,Gian,Founder,gian@easycompany.it
+499,A,Mediass Spa,Finance/Assicurazioni,,Nicola,Titolare di Filiale,nicola@mediass.it
+500,A,Golinucci Broker,Finance/Assicurazioni,,Paolo,CEO Insurance Broker,paolo@golinuccibroker.it
+501,A,Edera NordEst S.r.l,Finance/Assicurazioni,Jacopo,CEO,jacopo@ederanordest.com,
+502,A,Bondbox,Finance/Assicurazioni,Enrico,CEO,enrico@bondbox.com,
+503,A,Credit By Out,Finance/Assicurazioni,Andrea,Founder & CEO,andrea@creditby.com,
+504,A,Soluzione Meno Debiti,Finance/Assicurazioni,Daniele,CEO e Founder,daniele@soluzionemeno.it,
+505,A,Forward Consulting,Finance/Assicurazioni,Franco,CEO,franco@forwardbanks.it,
+506,A,Assicurazioni Vernasca,Finance/Assicurazioni,Sergio,Owner,sergio@assicurazionivernasca.it,
+507,A,Hi Finance,Finance/Assicurazioni,Adolfo,CEO & Founder,adolfo@hifinance.it,
+508,A,BFB Insurance Broker SRL,Finance/Assicurazioni,Alberto,CEO & Founder,alberto@bfbinsurance.it,
+509,A,Business Growth Generator,Finance/Assicurazioni,Paolo,Co-Founder CEO,paolo@businessgrowth.it,
+510,A,Consulcredit SRL,Finance/Assicurazioni,Danilo,CEO,danilo@consulcreditmediazione.it,
+511,A,Molteni Assicurazioni,Finance/Assicurazioni,Francesca,CEO,francesca@molteniassicurazioni.it,
+512,A,GL Prestiti S.r.l.,Finance/Assicurazioni,Giampaolo,CEO,giampaolo@glprestiti.it,
+513,A,Squadra Credit,Finance/Assicurazioni,Domenico,CEO,domenico@squadracredit.it,
+514,A,CSA srl Assicurazioni,Finance/Assicurazioni,Alessio,Owner,alessio@csaassicurazioni.it,
+515,A,Thrive Srl,Finance/Assicurazioni,Alex,Founder and CEO,alex@thrive.it,
+516,A,4Timing,Finance/Assicurazioni,Eugenio,CEO & Founder,eugenio@4timing.it,
+517,A,Biscaro Assicurazioni,Finance/Assicurazioni,Daniele,Owner,daniele@biscaroassicurazioni.it,
+518,A,Agenzia Atlante Unipol,Finance/Assicurazioni,Matteo,CEO,matteo@atlanteunipol.it,
+519,A,Studio Legale Angeletti,Finance/Assicurazioni,Alessandra,Owner,alessandra@legaleangeletti.it,
+520,A,Studimprese,Finance/Assicurazioni,Francesca,CEO,francesca@studimprese.it,
+521,A,TKS Broker Srl,Finance/Assicurazioni,Francesco,CEO,francesco@tksbroker.it,
+522,A,Prato Assicura,Finance/Assicurazioni,Tiziano,CEO,tiziano@pratoassicura.it,
+523,A,Unigroup Arezzo,Finance/Assicurazioni,Valentina,CEO & Founder,valentina@unigrouparezzo.it,
+524,A,Piano Debiti,Finance/Assicurazioni,Matteo,Founder and CEO,matteo@pianodebiti.it,
+525,A,Credit Team S.r.l.,Finance/Assicurazioni,Anna,CEO e Co-Founder,anna@creditteam.it,
+526,A,Win Consulting Sas,Finance/Assicurazioni,Giovanni,CEO,giovanni@win.it,
+527,A,Creditalia,Finance/Assicurazioni,Giuseppe,CEO,giuseppe@creditalia.it,
+528,A,Progetto Prestito,Finance/Assicurazioni,Manuel,CEO,manuel@progettoprestito.it,
+529,A,FunniFin,Finance/Assicurazioni,Lapo,Co-Founder & CEO,lapo@funnifinfinancial.it,
+530,A,Studio Antonio Arbore SRL,Finance/Assicurazioni,Antonio,CEO,antonio@antonioarbore.com,
+531,A,FIT2YOU Group,Finance/Assicurazioni,Sara,CEO,sara@fit2you.it,
+532,A,Domenichella,Finance/Assicurazioni,Alberto,CEO e Founder,alberto@domenichella.com,
+533,A,Federshardania,Finance/Assicurazioni,Nadia,Owner,nadia@federshardania.it,
+534,A,Professione Credito,Finance/Assicurazioni,Mattia,CEO,mattia@professionecredito.it,
+535,A,Vitanova S.r.l.,Finance/Assicurazioni,Cesare,Titolare e CEO,cesare@vitanova.it,
+536,A,ConsulenzaGlobalePMI,Finance/Assicurazioni,Gianfranco,CEO,gianfranco@consulenzaglobalepmi.it,
+537,A,Centro Canciani Assicurazioni SRL,Finance/Assicurazioni,Gianluca,CEO,gianluca@centrocanciani.it,
+538,A,M-Facility,Finance/Assicurazioni,Daniele,CEO,daniele@mfacility.com,
+539,A,Soluzioni Assicurative S.R.L.,Finance/Assicurazioni,Paolo,CEO,paolo@soluzioniassicurative.it,
+540,A,XL Brokers,Finance/Assicurazioni,Claudio,CEO,claudio@xlbrokers.it,
+541,A,Global Safe Insurance Broker,Finance/Assicurazioni,Armando,CEO,armando@safeinsurance.it,
+542,A,IBK Insurance Broker,Finance/Assicurazioni,Massimo,CEO,massimo@ibkinsurance.com,
+543,A,D4NEXT SPA,Finance/Assicurazioni,Davide,Co-Founder & CEO,davide@d4next.com,
+544,A,INBANDO,Finance/Assicurazioni,Raffaele,Founder & CEO,raffaele@inbando.it,
+545,A,FM Financial Italia,Finance/Assicurazioni,Massimo,CEO,massimo@fmfinancial.it,
+546,A,Global Assistance S.p.A.,Finance/Assicurazioni,Vincenzo,CEO,vincenzo@assistance.it,
+547,A,Donarg srl Virgilius,Finance/Assicurazioni,Vito,Founder & CEO,vito@donargvirgilius.it,
+548,A,Ariostea Broker Srl,Finance/Assicurazioni,Pier,CEO,pier@ariosteabroker.it,
+549,A,BeSafe Group,Finance/Assicurazioni,Alessandro,CEO & Co-Founder,alessandro@besafe.it,
+550,A,Barsotti Eustachi Studio Legale,Finance/Assicurazioni,Lorenzo,Avvocato Titolare,lorenzo@barsottieustachi.it,
+551,A,Rfinance Srl,Finance/Assicurazioni,Fabio,CEO,fabio@rfinance.it,
+552,A,Genia Business S.r.l.,Finance/Assicurazioni,Anselmo,CEO,anselmo@geniabusiness.it,
+553,A,Impresafuturo S.r.l.,Finance/Assicurazioni,Alessandro,CEO,alessandro@impresafuturofinancial.it,
+554,A,Huroos Srl,Software/IT/SaaS,Stefano,Direttore Commerciale,stefano@huroos.it,
+555,A,Coedil 99 S.R.L.,Software/IT/SaaS,Lamberto,Titolare/Dir.Comm.,lamberto@coedil99.it,
+556,A,Mario Sirtori SPA,Software/IT/SaaS,Davide,Commercial Director,davide@mariosirtori.it,
+557,A,Moser Speck,Software/IT/SaaS,Antonio,Direttore commerciale,antonio@moserspeck.it,
+558,A,Abba S.r.l,Software/IT/SaaS,Alberto,Direttore Commerciale,alberto@abba.it,
+559,A,Gruppo SAVIO,Software/IT/SaaS,Sergio,Direttore Commerciale,sergio@savio.it,
+560,A,Mareco Luce S.R.L,Software/IT/SaaS,Marcello,Direttore Commerciale,marcello@marecoluce.it,
+561,A,EdiSoftware S.r.l.,Software/IT/SaaS,Stefano,Dir.Comm. & Marketing,stefano@edisoftwaresoftware.it,
+562,A,Adiuto,Software/IT/SaaS,Alessandro,Owner/Dir.Comm.,alessandro@adiuto.it,
+563,A,Rigato Autoservizi,Software/IT/SaaS,Daniele,Titolare/CEO,daniele@rigatoautoservizi.it,
+564,A,Antos Srl,Software/IT/SaaS,Tony,Owner/Dir.Comm.,tony@antos.it,
+565,A,888 Software Products S.r.l.,Software/IT/SaaS,Sandro,Direttore Commerciale,sandro@888software.it,
+566,A,Eurocredit Business Information,Software/IT/SaaS,Simone,Direttore Commerciale,simone@eurocreditbusiness.it,
+567,A,Security Mind,Software/IT/SaaS,Federico,Co-Founder/Dir.Comm.,federico@securitymind.it,
+568,A,CM Informatica,Software/IT/SaaS,Claudio,Owner,claudio@cminformatica.it,
+569,A,Erecta AT Srl,Software/IT/SaaS,Maurizio,Direttore Commerciale TLC,maurizio@erectaat.it,
+570,A,VLC2 s.r.l.,Software/IT/SaaS,Tommaso,Vice Dir.Comm.,tommaso@vlc2.com,
+571,A,BMS Software,Software/IT/SaaS,Paolo,Founder and CEO,paolo@bmssoftware.com,
+572,A,2Di Group,Software/IT/SaaS,Davide,CEO/Dir.Comm.,davide@2disicurezza.it,
+573,A,Labware,Software/IT/SaaS,Danilo,Direttore Commerciale Italia,danilo@labware.it,
+574,A,Traderlink,Software/IT/SaaS,Gabriele,Socio/Dir.Comm.,gabriele@traderlink.it,
+575,A,We-COM,Software/IT/SaaS,Mirko,Direttore Commerciale,mirko@wecom.it,
+576,A,Scova Impianti S.R.L.,Software/IT/SaaS,Marco,Founder/Dir.Comm.,marco@scovaimpianti.com,
+577,A,Dyrecta Lab srl,Software/IT/SaaS,Leonardo,Direttore Commerciale,leonardo@dyrectalab.it,
+578,A,Maverick Group,Software/IT/SaaS,Andrea,Direttore Commerciale Retail,andrea@maverick.it,
+579,A,Coster Group,Software/IT/SaaS,Matteo,Direttore Commerciale,matteo@coster.it,
+580,A,Software Business Srl,Software/IT/SaaS,Massimiliano,CEO & Founder,massimiliano@softwarebusiness.it,
+581,A,Onyx Technology S.r.l.,Software/IT/SaaS,Stefania,CEO & Owner,stefania@onyx.it,
+582,A,EA Engineering,Software/IT/SaaS,Enrico,Titolare,enrico@eaengineering.it,
+583,A,EstiaTech,Software/IT/SaaS,Pietro,Founder & CEO,pietro@estiatechpassion.it,
+584,A,Renthub,Software/IT/SaaS,Antonio,CEO & Founder,antonio@renthubsoftware.com,
+585,A,ARK Energy,Software/IT/SaaS,Francesco,CEO & Founder,francesco@arkenergy.it,
+586,A,Plant ICT,Software/IT/SaaS,Stefano,CEO & Cofounder,stefano@plantict.it,
+587,A,Enuma S.r.l.,Software/IT/SaaS,Maurizio,Dir.Comm. e Marketing,maurizio@enuma.it,
+588,A,Digitalificio,Software/IT/SaaS,Davide,Direttore Commerciale,davide@digitalificiocomunicazione.it,
+589,A,Qbitsoft,Software/IT/SaaS,Salvatore,CEO & Co-founder,salvatore@qbitsoft.it,
+590,A,Soluzioni Software S.R.L.,Software/IT/SaaS,Maurizio,CEO,maurizio@soluzionisoftware.it,
+591,A,Business Promoter Group Srl,Software/IT/SaaS,Danilo,Direttore Commerciale,danilo@businesspromoter.it,
+592,A,SellRapido,Software/IT/SaaS,Davide,CEO & Co-Founder,davide@sellrapido.com,
+593,A,BAIT Service,Software/IT/SaaS,Roberto,Dir.Comm.,roberto@bait.it,
+594,A,Axera,Software/IT/SaaS,Giampaolo,Direttore Commerciale ICT,giampaolo@axera.it,
+595,A,Ethica System Srl,Software/IT/SaaS,Leonardo,Co-founder and CEO,leonardo@ethica.it,
+596,A,2bit srl,Software/IT/SaaS,Alessandro,Dir.Comm.,alessandro@2bit.it,
+597,A,MCA Digital S.P.A.,Software/IT/SaaS,Alberto,Direttore Commerciale,alberto@mca.it,
+598,A,Utax Italia,Software/IT/SaaS,Salvatore,Direttore Commerciale,salvatore@utax.it,
+599,A,DataSmart Italia,Software/IT/SaaS,Andrea,Direttore Commerciale CSO,andrea@datasmart.it,
+600,A,Aera srl,Software/IT/SaaS,Luigi,Direttore Commerciale,luigi@aera.it,
+601,A,ProgeSOFT,Software/IT/SaaS,Dino,Direttore Commerciale Italia,dino@progesoft.it,
+602,A,Open Software,Software/IT/SaaS,Nicola,CEO,nicola@opensoftware.it,
+603,A,VIP S.r.l.,Software/IT/SaaS,Giovanni,Owner and CEO,giovanni@vip.it,
+604,A,FourB Spa,Software/IT/SaaS,Ivan,CEO & Founder,ivan@fourb.it,
+605,A,Altuofianco Srl,Software/IT/SaaS,Massimo,Direttore Commerciale Italia,massimo@altuofianco.it,
+606,A,ITone,Software/IT/SaaS,Massimo,CEO & Founder,massimo@itone.it,
+607,A,GruppoCOR,Software/IT/SaaS,Giorgio,Direttore Commerciale,giorgio@gruppocor.it,
+608,A,CAE S.p.A.,Software/IT/SaaS,Ruggeri,Direttore Commerciale Italia,ruggeri@cae.it,
+609,A,Bemils,Software/IT/SaaS,Lodovico,Founder CEO,lodovico@bemils.it,
+610,A,Fabrico,Software/IT/SaaS,Francesco,CEO & Founder,francesco@fabrico.com,
+611,A,Iron's Technology s.r.l.,Software/IT/SaaS,Rudi,CEO Owner Founder,rudi@iron.it,
+612,A,Glorious Crew,Software/IT/SaaS,Edoardo,Vice Dir.Comm.,edoardo@gloriouscrew.it,
+613,A,Kiwibit,Software/IT/SaaS,Alessandro,Owner & CEO,alessandro@kiwibit.it,
+614,A,IVE,Software/IT/SaaS,Alessandro,CEO & Founder,alessandro@ive.it,
+615,A,DM Informatica S.r.l.,Software/IT/SaaS,Renato,Founder Owner CEO,renato@dminformatica.it,
+616,A,Itacom,Software/IT/SaaS,Fabio,CEO & Founder,fabio@itacom.it,
+617,A,Win Software S.r.l.,Software/IT/SaaS,Umberto,CEO Founder,umberto@winsoftware.it,
+618,A,SAEP ICT Engineering s.r.l.,Software/IT/SaaS,Matteo,Direttore Commerciale,matteo@saepict.it,
+619,A,Startup Bakery,Software/IT/SaaS,Alessandro,Co-Founder & CEO,alessandro@startupbakery.it,
+620,A,Telecom Infrastructure Partners,Software/IT/SaaS,Christian,Direttore Commerciale Italy,christian@telecominfrastructure.it,
+621,A,Ematica,Software/IT/SaaS,Ernesto,Founder & CEO,ernesto@ematica.it,
+622,A,Volocom,Software/IT/SaaS,Emilio,Dir.Comm. e Marketing,emilio@volocom.it,
+623,A,ZetaSoft Informatica,Software/IT/SaaS,Claudia,Direttore Commerciale,claudia@zetasoftinformatica.it,
+624,A,VEOS GROUP,Software/IT/SaaS,Riccardo,Co Founder & CEO,riccardo@veos.it,
+625,A,FMG Fabbrica Marmi e Graniti,Software/IT/SaaS,Simone,Dir.Comm.,simone@fmgfabbrica.it,
+626,A,Radiosa,Software/IT/SaaS,Mauro,CEO & Founder,mauro@radiosa.it,
+627,A,Elettra Srl,Software/IT/SaaS,Marco,Dir.Comm.,marco@elettra.it,
+628,A,HSR Italia s.r.l.,Software/IT/SaaS,Matteo,Dir.Comm. & Service,matteo@hsr.it,
+629,A,Ecommerce School,Software/IT/SaaS,Francesco,CEO & Founder,francesco@ecommerceschool.com,
+630,A,Guestnet,Software/IT/SaaS,Martin,Co-Founder & CEO,martin@guestnet.it,
+631,A,Caffè Motta,Software/IT/SaaS,Claudia,Dir.Comm. & Marketing,claudia@caffemotta.com,
+632,A,Blue Bird Industries,Software/IT/SaaS,Roberto,Dir.Comm. & Marketing,roberto@bluebird.it,
+633,A,maes,Software/IT/SaaS,Roberto,Direttore Commerciale,roberto@maes.it,
+634,A,St. Mauritius Hotel,Hospitality/Food,Lorenzo,Chairman and CEO,lorenzo@stmauritius.com,
+635,A,Veridea S.r.l.,Hospitality/Food,Andrea,CEO,andrea@verideaservizi.it,
+636,A,iammi,Hospitality/Food,Enrico,CEO & Co-Founder,enrico@iammi.it,
+637,A,convita,Hospitality/Food,Andrea,Co-Founder Partner CEO,andrea@convita.it,
+638,A,Tomato AI,Hospitality/Food,Giulia,Chief CEO,giulia@tomatoai.it,
+639,A,Fantini Club,Hospitality/Food,Claudio,Owner & CEO,claudio@fantiniclub.it,
+640,A,Continental Terme Hotel,Hospitality/Food,Federico,Proprietario,federico@continentalterme.it,
+641,A,Hotel Signum,Hospitality/Food,Luca,Owner,luca@hotelsignum.it,
+642,A,Perla Saracena Hotel,Hospitality/Food,Antonio,Business Owner,antonio@perlasaracena.it,
+643,A,Enjoy Garda Hotel,Hospitality/Food,Nicola,Owner,nicola@enjoygarda.com,
+644,A,Hotel Principe di Fitalia,Hospitality/Food,Stefano,CEO,stefano@wellnesshotel.it,
+645,A,Cogito Strategies,Hospitality/Food,Giulia,CEO & Founder,giulia@cogitostrategies.it,
+646,A,Le Vecchie Cantine,Hospitality/Food,Alessio,Owner and CEO,alessio@vecchiecantine.it,
+647,A,Zoé Food Evolution,Hospitality/Food,Martina,CEO & Founder,martina@zoefood.it,
+648,A,Albergo Ristorante Sacro Monte,Hospitality/Food,Mario,Owner,mario@albergoristorante.it,
+649,A,Seven Hospitality Company,Hospitality/Food,Riccardo,Co-Founder & CEO,riccardo@sevenhospitality.com,
+650,A,New Soft s.r.l.,Hospitality/Food,Nicoletta,Owner,nicoletta@newsoft.it,
+651,A,Be Uniform,Hospitality/Food,Michela,CEO,michela@beuniform.it,
+652,A,Foodcost in Cloud,Hospitality/Food,Vincenzo,CEO & Founder,vincenzo@foodcostin.it,
+653,A,C-Hotel&Spa,Hospitality/Food,Andrea,Owner CEO Founder,andrea@chotel.it,
+654,A,Hotel Estense,Hospitality/Food,Riccardo,Owner,riccardo@hotelestense.it,
+655,A,Caciocavalloimpiccato,Hospitality/Food,Stefano,CEO,stefano@caciocavalloimpiccato.it,
+656,A,leggimenu.it,Hospitality/Food,Alessio,Founder/CEO,alessio@leggimenuit.it,
+657,A,Mytec S.r.l.,Hospitality/Food,Fabio,CEO,fabio@mytec.it,
+658,A,Lekkerland Italia,Hospitality/Food,Andreas,CEO,andreas@lekkerlanddistribuzione.it,
+659,A,Hotel alle Acque,Hospitality/Food,Claudio,Business Owner,claudio@hotelalle.it,
+660,A,Istituto De Filippi,Hospitality/Food,Nicola,CEO,nicola@istitutode.it,
+661,A,Chef Service Ristorazione S.r.l.,Hospitality/Food,Filippo,Titolare,filippo@chefristorazione.it,
+662,A,Veramente Ristorazione,Hospitality/Food,Filippo,Founder & CEO,filippo@veramenteristorazione.it,
+663,A,Il Moro Ristorante Monza,Hospitality/Food,Antonella,Co-Founder,antonella@mororistorante.it,
+664,A,Make Eat Nice,Hospitality/Food,Lorenzo,Founder,lorenzo@makeeat.com,
+665,A,Dal Dosso Food & Entertainment,Hospitality/Food,Mino,Founder e CEO,mino@daldosso.it,
+666,A,MEDRI srl,Hospitality/Food,Maurizio,CEO,maurizio@medri.it,
+667,A,Hotel Photography,Hospitality/Food,Janos,Founder and CEO,janos@hotelphotography.it,
+668,A,Foralberg s.r.l.,Hospitality/Food,Mirco,CEO,mirco@foralberg.it,
+669,A,Menumal,Hospitality/Food,Leopoldo,CEO & Co-founder,leopoldo@menumal.it,
+670,A,Camuti,Hospitality/Food,Salvo,Owner,salvo@camutisoluzioni.it,
+671,A,Deliverart,Hospitality/Food,Bryan,Co-Founder & CEO,bryan@deliverartfood.it,
+672,A,Manuelina Recco,Hospitality/Food,Cristina,CEO,cristina@manuelinarecco.it,
+673,A,Maugeri Consulting,Hospitality/Food,Giovanni,CEO,giovanni@maugeri.it,
+674,A,Lth Group Hotels,Hospitality/Food,Marco,Co-fondatore,marco@lthhotels.it,
+675,A,Lake View Group,Hospitality/Food,Luca,CEO,luca@lakeview.it,
+676,A,Villa Petriolo,Hospitality/Food,Daniele,CEO,daniele@villapetriolo.it,
+677,A,Gestioni Turistiche S.R.L.,Hospitality/Food,Vincenzo,CEO,vincenzo@gestionituristiche.it,
+678,A,Pienissimo,Hospitality/Food,Giuliano,CEO,giuliano@pienissimo.it,
+679,A,Golf Hotel Milano,Hospitality/Food,Nicolo,Owner & CEO,nicolo@golfhotel.it,
+680,A,KOOKone,Hospitality/Food,Alessandro,CEO,alessandro@kookone.it,
+681,A,Brand Eat,Hospitality/Food,Simone,Co-founder & CEO,simone@brandeat.it,
+682,A,HealthyFood Srl,Hospitality/Food,Pietro,CEO,pietro@healthyfood.it,
+683,A,Mittel Group,Hospitality/Food,Stefano,CEO,stefano@mittel.it,
+684,A,Universo Group,Hospitality/Food,Elena,CEO,elena@universo.it,
+685,A,Food Innovation Broker,Hospitality/Food,Virgilio,Co-Founder and CEO,virgilio@foodbroker.it,
+686,A,Detercom Professional Srl,Hospitality/Food,Simone,CEO,simone@detercomprofessional.it,
+687,A,I Goliardi Risto,Hospitality/Food,Simone,Founder and CEO,simone@goliardiristo.it,
+688,A,QRTonic,Hospitality/Food,Matteo,Founder & CEO,matteo@qrtonic.it,
+689,A,Plateform,Hospitality/Food,Giampaolo,Co-founder,giampaolo@plateform.it,
+690,A,Menuale Real Estate,Hospitality/Food,Luca,Co-Founder & CEO,luca@menuale.it,
+691,A,BIPLAN,Hospitality/Food,Paolo,CEO,paolo@biplan.it,
+692,A,DOT Horeca Solutions,Hospitality/Food,Roberto,CEO & Co-founder,roberto@dothoreca.it,
+693,A,Fruttilio,Hospitality/Food,Salvatore,CEO,salvatore@fruttiliofornitureagroalimentari.it,
+694,A,Seno&Seno Spa,Hospitality/Food,Andrea,Chief CEO,andrea@senoseno.com,
+695,A,Dal Bolognese,Hospitality/Food,Alfredo,Owner Principal,alfredo@dalbolognese.it,
+696,A,Naturalis Bio Resort & Spa,Hospitality/Food,Domenico,Founder & CEO,domenico@naturalisbio.com,
+697,A,TecnoSoft,Hospitality/Food,Piero,CEO,piero@tecnosoft.it,
+698,A,Rumori,Hospitality/Food,Giacomo,Founder & CEO,giacomo@rumori.it,
+699,A,Gioservice,Hospitality/Food,Lorenzo,CEO,lorenzo@gioservice.it,
+700,A,evòo srl,Hospitality/Food,Alberto,Socio Titolare,alberto@evoo.it,
+701,A,Ai Kosmo,Hospitality/Food,Daniele,Co-Founder & CEO,daniele@aikosmo.it,
+702,A,Basara Sushi Pasticceria,Hospitality/Food,Danilo,Co Founder & CEO,danilo@basarasushi.it,
+703,A,Hotel L'Approdo,Hospitality/Food,Michela,Owner and GM,michela@hotelapprodo.it,
+704,A,Besidiae Manici,Hospitality/Food,Gianmarco,CEO,gianmarco@besidiaemanici.com,
+705,A,Ristorante Il Caminetto Frascati,Hospitality/Food,Luca,Proprietario,luca@ristorantecaminetto.it,
+706,A,Hotel Cristallo Riccione,Hospitality/Food,Alessandro,Titolare/Direttore,alessandro@hotelcristallo.it,
+707,A,Grand Hotel Palace Ancona,Hospitality/Food,Michele,Owner,michele@grandhotel.it,
+708,A,Build Hospitality,Hospitality/Food,Leone,CEO,leone@buildhospitality.com,
+709,A,Hotelify,Hospitality/Food,Elisabetta,CEO and Co-Founder,elisabetta@hotelifyhotel.it,
+710,A,Rock Burger,Hospitality/Food,Ronnie,CEO & Founder,ronnie@rockburger.it,
+711,A,5stelle native cloud pms,Hospitality/Food,Alberto,CEO,alberto@5stellenative.it,
+712,A,Gel Freeze SRL,Hospitality/Food,Federico,Proprietario,federico@gelfreeze.it,
+713,A,Supermercati Pedrotti,Hospitality/Food,Andrea,Owner,andrea@supermercatipedrotti.it,
+714,A,Hotel Il Guercino,Hospitality/Food,Giancarlo,Owner,giancarlo@hotelguercino.it,
+715,A,Drype Cocktails,Hospitality/Food,Thomas,CEO & Founder,thomas@drypecocktails.it,
+716,A,Ellero Chairs S.r.l.,Hospitality/Food,Giulia,CEO,giulia@ellerochairs.com,
+717,A,Horstmann Hotels Group,Hospitality/Food,Fabio,CEO,fabio@horstmannhotels.com,
+718,A,Deliveristo,Hospitality/Food,Ivan,Co-Founder & CEO,ivan@deliveristo.com,
+719,A,Cibiamogroup,Hospitality/Food,Alessandro,Founder/Owner,alessandro@cibiamogroup.it,
+720,A,Master Sanremo SRL,Hospitality/Food,Gianfranco,Owner,gianfranco@mastersanremo.it,
+721,A,Le Quattro Terre,Hospitality/Food,Giorgio,Owner,giorgio@quattroterre.it,
+722,A,Bee Family,Hospitality/Food,Emilio,CEO & Founder,emilio@beefamily.it,
+723,A,IDS Italia,Hospitality/Food,Leo,CEO,leo@ids.it,
+724,A,Studio Legale Lombardo,Studi Professionali/Legale,Domenico,Titolare,domenico@legalelombardo.it,
+725,A,Studio Legale Centonze,Studi Professionali/Legale,Ferruccio,Owner,ferruccio@legalecentonze.it,
+726,A,RP Legal & Tax,Studi Professionali/Legale,Claudio,Owner,claudio@rplegal.com,
+727,A,Studio Legale Paolo Santoro,Studi Professionali/Legale,Paolo,Owner,paolo@legaleavv.it,
+728,A,Studio Legale Parenti,Studi Professionali/Legale,Luigi,Owner,luigi@legaleparenti.it,
+729,A,Studio Legale Giorgio Canal,Studi Professionali/Legale,Giorgio,Avvocato Titolare,giorgio@legalecanal.it,
+730,A,Dimorama,Studi Professionali/Legale,Filippo,CEO,filippo@dimorama.it,
+731,A,Confprofessioni,Studi Professionali/Legale,Giovanni,Dir.Media,giovanni@confprofessioni.it,
+732,A,Studio Legale Villecco,Studi Professionali/Legale,Alessandra,Owner,alessandra@legalecommerciale.it,
+733,A,WLT Milano,Studi Professionali/Legale,Andrea,Founder,andrea@wltmilano.it,
+734,A,Studio Legale Filippo Preite,Studi Professionali/Legale,Filippo,Owner,filippo@legalepreite.it,
+735,A,Studio Legale Caracciolo,Studi Professionali/Legale,Francesco,Avvocato Titolare,francesco@legalecaracciolo.it,
+736,A,AvvocatoFlash,Studi Professionali/Legale,Guglielmo,CEO & Co Founder,guglielmo@avvocatoflash.it,
+737,A,Studio Legale Blasio,Studi Professionali/Legale,Bernardo,Avvocato Titolare,bernardo@legaleblasio.it,
+738,A,Il Commercialista Online SRL,Studi Professionali/Legale,Michela,Owner,michela@commercialistaonline.it,
+739,A,Morbinati & Longo avvocati,Studi Professionali/Legale,Mauro,CEO,mauro@morbinatilongo.it,
+740,A,Studio Legale Adamo,Studi Professionali/Legale,Giovanni,CEO,giovanni@legaleadamo.it,
+741,A,Studio Legale Piscitelli,Studi Professionali/Legale,Lucia,Titolare,lucia@legalepiscitelli.it,
+742,A,Studio Legale Martucci,Studi Professionali/Legale,Avvocato,Titolare,info@legalemartucci.it,
+743,A,EO Legal,Studi Professionali/Legale,Mirko,Founder and CEO,mirko@eolegal.it,
+744,A,Il Contabile,Studi Professionali/Legale,Oronzo,CEO,oronzo@contabile.it,
+745,A,Sistemi Forlì Srl,Studi Professionali/Legale,Roberto,CEO,roberto@sistemiforli.it,
+746,A,FlexTax,Studi Professionali/Legale,Fabio,CEO,fabio@flextax.it,
+747,A,Escalar e Associati,Studi Professionali/Legale,Gabriele,Founder,gabriele@escalarassociati.it,
+748,A,Salvini e Soci,Studi Professionali/Legale,Davide,Founder,davide@salvinisoci.it,
+749,A,Proclama SPA,Studi Professionali/Legale,Giovanni,CEO,giovanni@proclamatax.it,
+750,A,Studio Legale Cilli,Studi Professionali/Legale,Francesca,Fondatrice,francesca@legalecilli.it,
+751,A,Prolink,Studi/Legale,Rinaldo,Co-Founder & CEO,rinaldo@prolink.it,
+752,A,ADR Intesa S.r.l.,Studi/Legale,Salvatore,CEO,salvatore@adrintesa.it,
+753,A,Studio Legale Barberi Bellini,Studi/Legale,Ferdinando,Owner & Founder,ferdinando@legalebarberi.it,
+754,A,Beyond the Rules,Studi/Legale,Justine,CEO,justine@beyondrules.com,
+755,A,Boschetti Studio Legale,Studi/Legale,Francesco,Founder,francesco@boschettilegale.it,
+756,A,Quantum Legal,Studi/Legale,Umberto,CEO,umberto@quantumlegal.com,
+757,A,Effe Legal,Studi/Legale,Alessandro,CEO,alessandro@effelegal.it,
+758,A,Scuola Greco Pittella,Studi/Legale,Domenico,Fondatore,domenico@scuolagreco.it,
+759,A,Just Legal Services,Studi/Legale,Laura,Commercial Director,laura@justlegal.it,
+760,A,Studio Legale Gregorio,Studi/Legale,Giovanni,Owner,giovanni@legalegregorio.it,
+761,A,Galanti Studio Legale,Studi/Legale,Francesco,Owner,francesco@galantilegale.it,
+762,A,Studio Legale Vesci,Studi/Legale,Leonardo,Owner,leonardo@legalevesci.it,
+763,A,Studio Legale Micieli,Studi/Legale,Giusi,Owner,giusi@legalemicieli.it,
+764,A,Studio Legale Polacchini,Studi/Legale,Paola,Founder,paola@legalepolacchini.it,
+765,A,Studio Legale Gamba,Studi/Legale,Alberto,Owner,alberto@legalegamba.it,
+766,A,ELSA Milano,Studi/Legale,Francesca,Director Marketing,francesca@elsamilano.it,
+767,A,Studio Legale Cevolo,Studi/Legale,Andrea,Owner,andrea@legalecevolo.it,
+768,A,Studio Legale Cirri,Studi/Legale,Lorenzo,Owner,lorenzo@legalecirri.it,
+769,A,Studio Legale Ottaviani,Studi/Legale,Nicola,Owner,nicola@legaleottaviani.com,
+770,A,Studio Legale Zaccheo,Studi/Legale,Massimo,Founder,massimo@legalezaccheo.it,
+771,A,Minniti Studio Legale,Studi/Legale,Gabriele,Cofounder,gabriele@minnitilegale.it,
+772,A,Studio Legale BL,Studi/Legale,Francesco,Founder,francesco@legalebl.it,
+773,A,Studio Legale Cecchini,Studi/Legale,Luigi,Owner,luigi@legalececchini.it,
+774,A,Studio Legale Pecoraro,Studi/Legale,Luca,Founder,luca@legalepecoraro.it,
+775,A,LexDo.it Srl,Studi/Legale,Giovanni,Co-Founder & CEO,giovanni@lexdoit.it,
+776,A,LMCR Studio Legale,Studi/Legale,Decio,Founder,decio@lmcrlegale.it,
+777,A,Studio Legale PMGR,Studi/Legale,Valentina,Co-founder,valentina@legalepmgr.it,
+778,A,Studio Legale Calosi,Studi/Legale,Andrea,Owner,andrea@legalecalosi.it,
+779,A,Futura Law Firm,Studi/Legale,Raffaele,CEO and Founder,raffaele@futuralaw.com,
+780,A,The Skill,Studi/Legale,Andrea,CEO & Founder,andrea@skill.it,
+781,A,Studio Legale Ferrario,Studi/Legale,Andrea,Owner,andrea@legaleferrario.it,
+782,A,iaia,Studi/Legale,Sara,Founder & CEO,sara@iaia.it,
+783,A,Studio Legale Brugnoletti,Studi/Legale,Massimiliano,Owner,massimiliano@legalebrugnoletti.it,
+784,A,Studio Legale Di Nella,Studi/Legale,Maria,Owner,maria@legalenella.it,
+785,A,Studio Legale Rosetta,Studi/Legale,Antonio,Owner,antonio@legalerosetta.it,
+786,A,freebly,Studi/Legale,Giulio,Founder CEO,giulio@freeblycertified.it,
+787,A,TLF Advisor,Studi/Legale,Mauro,Founder & CEO,mauro@tlfadvisor.com,
+788,A,Quickfisco,Studi/Legale,Gianluca,Co-founder & MD,gianluca@quickfisco.it,
+789,A,Studio Legale De Nova,Studi/Legale,Giorgio,Founder,giorgio@legalede.it,
+790,A,Studio Legale Carone & Partners,Studi/Legale,Marco,Founder,marco@legalecarone.it,
+791,A,Studio Legale Mastellone,Studi/Legale,Carlo,Owner,carlo@legalemastellone.it,
+792,A,Rainone Law Firm,Studi/Legale,Roberto,Avvocato CEO,roberto@rainonelaw.com,
+793,A,Opus s.r.l.,Studi/Legale,Carmen,Founder and CEO,carmen@opus.it,
+794,A,TrueScreen,Studi/Legale,Fabio,CEO & Co-Founder,fabio@truescreentrust.it,
+795,A,Eurotrad SRL,Studi/Legale,Andrea,Founder & CEO,andrea@eurotrad.it,
+796,A,Spacest.com,Studi/Legale,Andrea,Co-Founder & CEO,andrea@spacestcom.it,
+797,A,Legalab Studio Legale,Studi/Legale,Laura,Founder Lawyer,laura@legalablegale.it,
+798,A,Studio Legale Albina Candian,Studi/Legale,Albina,Owner,albina@legalealbina.it,
+799,A,CII3 Advisors,Studi/Legale,Filippo,Co-Founder & CEO,filippo@cii3advisors.it,
+800,A,Studio Legale Stefanelli,Studi/Legale,Silvia,Owner,silvia@legalestefanelli.it,
+801,A,Studio Legale Cortesi,Studi/Legale,Alessandro,Avvocato Titolare,alessandro@legaleprof.com,
+802,A,Cuniberti & Partners SIM,Studi/Legale,Giovanni,Founder & CEO,giovanni@cunibertisim.it,
+803,A,FidoCommercialista,Studi/Legale,Filippo,Co-Founder & CTO,filippo@fidocommercialista.it,
+804,A,Baze,Studi/Legale,Davide,Co-Founder & CEO,davide@baze.it,
+805,A,Noodles Comunicazione S.R.L.,Studi/Legale,Marco,Founder/Dir.Creativo,marco@noodlescomunicazione.it,
+806,A,Altruistic AI,Studi/Legale,Robert,Founder & CEO,robert@altruisticai.it,
+807,A,Yellow Hub,Studi/Legale,Giuliana,Founder & CEO,giuliana@yellowhub.it,
+808,A,Immanence,Studi/Legale,Luna,CEO & Co-founder,luna@immanence.it,
+809,A,Agostini & Associates Recruiting,Studi/Legale,Maria,Founder & CEO,maria@agostinirecruiting.com,
+810,A,Opinio Juris,Studi/Legale,Domenico,Co-Founder & CEO,domenico@opiniojuris.it,
+811,A,Giurdanella & Partners,Studi/Legale,Carmelo,Founder,carmelo@giurdanellalegale.it,
+812,A,DataSeed,Studi/Legale,Antonio,CEO & Co-Founder,antonio@dataseed.it,
+813,A,AEFFE Sviluppo Risorse Umane,HR/Recruitment,Alessandra,Owner,alessandra@aeffesviluppo.it,
+814,A,Starfinder Srl,HR/Recruitment,Marco,CEO & Founder,marco@starfinder.it,
+815,A,Placement srl,HR/Recruitment,Giuditta,Titolare,giuditta@placementricerca.it,
+816,A,ConSolutio srl,HR/Recruitment,Ferdinando,Partner & Founder,ferdinando@consolutio.it,
+817,A,Cacciatori di Talenti,HR/Recruitment,Simona,Titolare HR,simona@cacciatoritalenti.it,
+818,A,look4U Consulenza RU,HR/Recruitment,Hannes,Owner and CEO,hannes@look4urisorse.it,
+819,A,YesWeWork,HR/Recruitment,Fabio,Co-Founder,fabio@yesweworklavoro.it,
+820,A,Skill Risorse Umane,HR/Recruitment,Laura,CEO,laura@skillrisorse.it,
+821,A,IAMA Risorse Umane,HR/Recruitment,Luigi,CEO,luigi@iamarisorse.it,
+822,A,HyWork,HR/Recruitment,Gianluca,Founder & CEO,gianluca@hywork.it,
+823,A,Metes HR,HR/Recruitment,Anna,Owner,anna@meteshr.it,
+824,A,Maragù Animazione,HR/Recruitment,Pietro,CEO,pietro@maraguanimazione.it,
+825,A,Method Job,HR/Recruitment,Christian,CEO,christian@methodjob.it,
+826,A,DIOGENE s.a.s.,HR/Recruitment,Lorenza,Titolare,lorenza@diogene.com,
+827,A,Studio Staff R.U. Srl,HR/Recruitment,Stefania,Owner,stefania@staff.it,
+828,A,Outcome Management,HR/Recruitment,Dario,CEO,dario@outcome.it,
+829,A,Sesvil Srl,HR/Recruitment,Stefano,Founder,stefano@sesvil.it,
+830,A,Tex Hunter Srl,HR/Recruitment,Alessandro,Founder & CEO,alessandro@texhunter.it,
+831,A,Hume Capital,HR/Recruitment,Enrico,CEO,enrico@humecapital.it,
+832,A,DB Studium & Partners,HR/Recruitment,Luigi,Managing Partner,luigi@dbstudium.com,
+833,A,Talent In Food,HR/Recruitment,Alessia,Co-Founder & CEO,alessia@talentin.it,
+834,A,Jobby,HR/Recruitment,Andrea,Founder CEO,andrea@jobby.it,
+835,A,Bicego HR,HR/Recruitment,Antonio,Fondatore,antonio@bicegohr.it,
+836,A,ASIA SRL,HR/Recruitment,Tiziano,CEO and Owner,tiziano@asia.it,
+837,A,New Talent Recruiting,HR/Recruitment,Federico,Co-Founder & CEO,federico@newtalent.it,
+838,A,Marzia Pieri & Associati,HR/Recruitment,Marzia,Founder & CEO,marzia@marziapieri.it,
+839,A,Talenti & Imprese,HR/Recruitment,Carla,CEO,carla@talentiimprese.it,
+840,A,APR Headhunting,HR/Recruitment,Gioia,CEO & Founder,gioia@aprheadhunting.it,
+841,A,Make Me Italy,HR/Recruitment,Luca,CEO,luca@makeme.it,
+842,A,Trainect,HR/Recruitment,Alberto,CEO & Co-founder,alberto@trainectwellbeing.it,
+843,A,laborability,HR/Recruitment,Elisabetta,CEO,elisabetta@laborability.it,
+844,A,PRISMA Logitech,HR/Recruitment,Pasquale,CEO,pasquale@prismalogitech.it,
+845,A,Job Camere,HR/Recruitment,Massimo,CEO,massimo@jobcamere.it,
+846,A,PCSistemi S.r.l.,HR/Recruitment,Paolo,CEO,paolo@pcsistemi.it,
+847,A,Karriere,HR/Recruitment,Luca,CEO,luca@karriere.com,
+848,A,OSM Partner Modena,HR/Recruitment,Francesco,CEO & Co-founder,francesco@osmmodena.it,
+849,A,Soluzione Lavoro SpA,HR/Recruitment,Roberto,Company Owner,roberto@soluzionelavoro.it,
+850,A,Skillvue,HR/Recruitment,Nicolo,CEO & Co-Founder,nicolo@skillvue.it,
+851,A,Studio Pollini,HR/Recruitment,Pollini,Titolare,info@pollinilavoro.it,
+852,A,Link HR Professional Solutions,HR/Recruitment,Luca,CEO,luca@linkhr.it,
+853,A,Ingest HR Service,HR/Recruitment,Francesco,Owner,francesco@ingesthr.it,
+854,A,Agenzia Sphera Srl,HR/Recruitment,Enrico,Co Founder,enrico@sphera.it,
+855,A,Altamira HRM Software,HR/Recruitment,John,CEO,john@altamirahrm.it,
+856,A,CPL & TAYLOR by Synergos,HR/Recruitment,Paolo,Senior Partner & CEO,paolo@cpltaylor.it,
+857,A,Gamòs S.r.l.,HR/Recruitment,Corrado,CEO,corrado@gamos.it,
+858,A,Vibes Holding Group,HR/Recruitment,Gianmario,CEO & Founder,gianmario@vibesholding.com,
+859,A,HR Solutions & Coaching,HR/Recruitment,Nicola,Founder Head Hunter,nicola@hrcoaching.com,
+860,A,DRD Recruiting,HR/Recruitment,Damiano,CEO,damiano@drdrecruiting.it,
+861,A,Ci.Emme Informatica,HR/Recruitment,Claudio,CEO Cofounder,claudio@ciemme.it,
+862,A,Studio Centro Personale,HR/Recruitment,Luigi,Founder,luigi@centropersonale.it,
+863,A,Aliseatech,HR/Recruitment,Alba,Chief CEO,alba@aliseatech.it,
+864,A,Opus Srl,HR/Recruitment,Stefano,Entrepreneur,stefano@opus.it,
+865,A,Studioente,HR/Recruitment,Damiano,Socio Titolare,damiano@studioente.it,
+866,A,HRS S.r.l.,HR/Recruitment,Antonio,CEO,antonio@hrs.it,
+867,A,Officina Competenze,HR/Recruitment,Paola,CEO,paola@officinacompetenze.it,
+868,A,hrtools,HR/Recruitment,Emanuele,CEO,emanuele@hrtools.it,
+869,A,Selecta Carlet,HR/Recruitment,Doris,Owner,doris@selectacarlet.it,
+870,A,AB Lavoro,HR/Recruitment,Giacomo,Company Owner,giacomo@ablavoro.it,
+871,A,Andrea Poletti Group,HR/Recruitment,Carlogiuseppe,CEO,carlogiuseppe@andreapoletti.it,
+872,A,PEOPLE,HR/Recruitment,Fabrizio,CEO,fabrizio@people.it,
+873,A,Diana Hunters,HR/Recruitment,Gianluca,Founder & CEO,gianluca@dianahunters.it,
+874,A,People Lab Srl,HR/Recruitment,Luca,Founder & Owner,luca@peoplelab.it,
+875,A,Game2Value,HR/Recruitment,Gianmarco,CEO,gianmarco@game2value.it,
+876,A,SP Risorse Umane,HR/Recruitment,Mario,Co-founder Senior Partner,mario@sprisorse.it,
+877,A,Evolve Consulting,HR/Recruitment,Massimiliano,CEO,massimiliano@evolve.it,
+878,A,Studio Luciano Mai,HR/Recruitment,Luciano,CEO,luciano@lucianomai.com,
+879,A,Eckstein s.r.l.,HR/Recruitment,Bruno,Owner Headhunting,bruno@eckstein.it,
+880,A,IRIDA ESG,HR/Recruitment,Federico,Founder & CEO,federico@iridaesg.it,
+881,A,Miority,HR/Recruitment,Ernesto,CEO,ernesto@miority.com,
+882,A,Sistemi APG Torino,HR/Recruitment,Carlo,CEO,carlo@sistemiapg.it,
+883,A,SPP Agenzia per il Lavoro,HR/Recruitment,Valentina,CEO,valentina@spplavoro.it,
+884,A,LGTraining,HR/Recruitment,Giuseppe,CEO,giuseppe@lgtraining.com,
+885,A,Mastro HR,HR/Recruitment,Marta,Co-Founder & CEO,marta@mastrohr.it,
+886,A,Studio Marchi,HR/Recruitment,Sandro,Owner,sandro@marchiingegneria.it,
+887,A,Oltremeta,HR/Recruitment,Danilo,Owner,danilo@oltremeta.it,
+888,A,Digital Learning srl,HR/Recruitment,Sabrina,CEO & Founder,sabrina@learning.it,
+889,A,East Consulting,HR/Recruitment,Manuel,CEO,manuel@east.it,
+890,A,Xplica Srl,HR/Recruitment,Antonello,CEO,antonello@xplica.it,
+891,A,OSM Partner Mc2,HR/Recruitment,Enrico,CEO,enrico@osmmc2.it,
+892,A,Fluida Europe Srl,HR/Recruitment,Andrea,CEO,andrea@fluidaeurope.it,
+893,A,HR Intelligence,HR/Recruitment,Barbara,Co-Founder,barbara@hrintelligence.it,
+894,A,WAIM S.r.l.,HR/Recruitment,Stefano,Founder,stefano@waimpeople.it,
+895,A,TAKEFLIGHT,HR/Recruitment,Carmen,CEO,carmen@takeflight.it,
+896,A,HADMIN,HR/Recruitment,Antonella,CEO,antonella@hadmin.it,
+897,A,Plus X Improving People,HR/Recruitment,Francesco,CEO,francesco@plusimproving.it,
+898,A,DLike Srl,B2B Sales,Thomas,Direttore Commerciale,thomas@dlike.it,
+899,A,Sales Lab,B2B Sales,Carmelo,CEO,carmelo@saleslab.it,
+900,A,ZEAT S.r.l.,B2B Sales,Gianni,Responsabile Vendite,gianni@zeat.it,
+901,A,Libromania,B2B Sales,Massimo,Direttore Commerciale,massimo@libromania.it,
+902,A,Booster Academy GF,B2B Sales,Francesco,Founder & CEO,francesco@boosteracademy.com,
+903,A,blackship,B2B Sales,Pasquale,CEO & Founder,pasquale@blackship.it,
+904,A,Fratelli Martini,B2B Sales,Vincenzo,Direttore Commerciale Italia,vincenzo@fratellimartini.it,
+905,A,Messa T. SpA,B2B Sales,Giuseppe,Responsabile Vendite,giuseppe@messa.it,
+906,A,Proemozioni Group,B2B Sales,Gioacchino,Owner,gioacchino@proemozioniaziendale.it,
+907,A,Nava Press,B2B Sales,Christian,Direttore Commerciale,christian@navapress.it,
+908,A,MALLEI,B2B Sales,Francesco,Co-Founder & CEO,francesco@mallei.it,
+909,A,XForma Lead Generation B2B,B2B Sales,Matteo,CEO & Co-Founder,matteo@xformalead.it,
+910,A,Sales Process,B2B Sales,Alberto,CEO,alberto@salesprocess.it,
+911,A,Numbers Group srl,B2B Sales,Dario,Commercial Director,dario@numbers.it,
+912,A,Bonobo AI,B2B Sales,Singh,CEO & CTO,singh@bonoboai.it,
+913,A,Fimpi Impianti Tecnici,B2B Sales,Antonio,Direttore Commerciale,antonio@fimpiimpianti.it,
+914,A,Consorzio Europa,B2B Sales,Edmondo,Commercial Director,edmondo@consorzioeuropa.it,
+915,A,Gruppo Filippo Piccoli,B2B Sales,Massimo,Direttore Commerciale,massimo@filippopiccoli.it,
+916,A,MagicStore,B2B Sales,Paolo,CEO,paolo@magicstore.it,
+917,A,E.P. Elevatori Premontati,B2B Sales,Luca,Direttore Commerciale Italia,luca@elevatoripremontati.it,
+918,A,C Luce SRL,B2B Sales,Giuseppe,Direttore Commerciale Italia,giuseppe@luce.it,
+919,A,INTIT gestionali,B2B Sales,Nando,CEO,nando@intitgestionali.it,
+920,A,Locatelli Crane,B2B Sales,Daniele,Direttore Commerciale Italia,daniele@locatellicrane.com,
+921,A,Moma Comunicazione,B2B Sales,Stefano,CEO & Founder,stefano@momacomunicazione.it,
+922,A,Key Automation,B2B Sales,Sergio,Direttore Commerciale Italia,sergio@keyautomation.it,
+923,A,Line Office Pareti Divisorie,B2B Sales,Massimo,Direttore Commerciale Senior,massimo@lineoffice.com,
+924,A,DMA CX Company,B2B Sales,Francesco,CEO & Founder,francesco@dmacx.com,
+925,A,ReadySolutions s.r.l.,B2B Sales,Giovanni,Socio Titolare,giovanni@readysolutions.it,
+926,A,HoliSoft Srl,B2B Sales,Francesco,CEO & Founder,francesco@holisoft.it,
+927,A,Automatika Srl,B2B Sales,Fabrizio,CEO,fabrizio@automatika.it,
+928,A,Angelo Ghezzi & C. S.p.A.,B2B Sales,Sergio,Sales Manager,sergio@angeloghezzi.it,
+929,A,Officine Orobiche,B2B Sales,Silvia,Direttore Commerciale,silvia@officineorobiche.it,
+930,A,Aignep SPA,B2B Sales,Andrea,Direttore Commerciale,andrea@aignep.it,
+931,A,Castelletti RE,B2B Sales,Piero,Founder e CEO,piero@castellettire.it,
+932,A,Umbria Filler,B2B Sales,Phillip,Direttore Commerciale,phillip@umbriafiller.com,
+933,A,Giovanardi S.p.A,B2B Sales,Max,Direttore Commerciale,max@giovanardi.it,
+934,A,Ortospecialized Srl,B2B Sales,Gianni,Responsabile Vendite,gianni@ortospecialized.it,
+935,A,OSM Partner Caserta,B2B Sales,Fabio,CEO,fabio@osmcaserta.it,
+936,A,Griffon & Romano S.p.a.,B2B Sales,Alessandro,Sales Manager,alessandro@griffonromano.it,
+937,A,SIDA AutoSoft Multimedia,B2B Sales,Rosanna,Direttore Commerciale,rosanna@sidaautosoft.it,
+938,A,Andrew & Sax Advisor SpA,B2B Sales,Vito,Direttore Commerciale,vito@andrewsax.it,
+939,A,Sifarma S.p.A.,B2B Sales,Walter,Responsabile Vendite,walter@sifarma.it,
+940,A,Volta Software,B2B Sales,Mario,Co-Founder Co-CEO,mario@voltasoftware.it,
+941,A,Geocom Italia,B2B Sales,Daniele,CEO,daniele@geocom.it,
+942,A,Target Call Center,B2B Sales,Roberto,CEO,roberto@targetcall.it,
+943,A,CRONOS,B2B Sales,Andrea,Responsabile Vendite,andrea@cronos.it,
+944,A,Bucci Srl,B2B Sales,Paolo,CEO,paolo@bucci.it,
+945,A,ASSI Applicazioni,B2B Sales,Emanuele,CEO and Founder,emanuele@assiapplicazioni.it,
+946,A,Mac System S.r.l.,B2B Sales,Andrea,Responsabile Vendite,andrea@mac.it,
+947,A,CATI spa,B2B Sales,Renato,Responsabile Vendite,renato@cati.it,
+948,A,Multi Time,B2B Sales,Luca,CEO,luca@multitime.it,
+949,A,Gruppo Scotti,B2B Sales,Alessandro,Responsabile Vendite Flotte,alessandro@scotti.it,
+950,A,Coges,B2B Sales,Lorenzo,Responsabile Vendite Estero,lorenzo@coges.it,
+951,A,SABART S.R.L.,B2B Sales,Ruggero,CEO,ruggero@sabart.it,
+952,A,Bartolozzi Giacomo S.R.L.,B2B Sales,Sauro,Responsabile Vendite,sauro@bartolozzigiacomo.it,
+953,A,DIERRE srl,B2B Sales,Stefania,Responsabile Vendite e Marketing,stefania@dierre.it,
+954,A,Alfatek Bottling Plants,B2B Sales,Walter,Direttore Commerciale Italia,walter@alfatekbottling.it,
+955,A,Ranking Road Italia,B2B Sales,Matteo,Responsabile Vendite Digitali,matteo@rankingroad.it,
+956,A,Audi Center Terigi Lucca,B2B Sales,Luca,Responsabile Vendite,luca@audicenter.com,
+957,A,Uniontrade SpA,B2B Sales,Flavia,Responsabile Vendite Horeca,flavia@uniontrade.it,
+958,A,Accenture Italia,consulenza,,centralino,info@accenture.com,
+959,A,OVS SpA,moda,,centralino,ovs-press@ovs.it,
+960,A,Datalogic,auto-id,,centralino,info@datalogic.com,
+961,A,Arnaboldi,formaggi,,centralino,info@arnaboldimarmi.it,
+962,A,Esselunga,GDO,,Head of Customer Care,servizio-clienti@esselunga.it,
+963,A,Penny Market,GDO,,centralino,info@penny.it,
+964,A,Seeweb,cloud,,centralino,info@seeweb.it,
+965,A,Fincons Group,IT consulting,,centralino,news@finconsgroup.com,
+966,A,Fedeli Cashmere,luxury,,centralino,info@fedelicashmere.com,
+967,A,Tempocasa,Immobiliare,,centralino,milanoadriano@tempocasa.it,
+968,A,Gabetti,Immobiliare,,centralino,milanosantarita@gabetti.it,
+969,A,Studio Corno,Commercialisti,,centralino,mailbox@studiocorno.it,
+970,A,Innova Srl,Fotovoltaico,,centralino,seveso@imnova.it,
+971,A,Moneyfarm,Fintech,,centralino,info@moneyfarm.com,
+972,A,Gruppo San Donato,Sanita Privata,,centralino,info@grupposandonato.it,
+973,A,Cowo Torino Crocetta,coworking,,centralino,erredi@renatodotto.it,
+974,A,Cowo Torino Galileo,coworking,,centralino,info@coworkingtorino.org,
+975,A,Unione Industriali Torino,associazione,,centralino,info@ui.torino.it,
+976,A,I3P Incubatore,incubatore,,centralino,info@i3p.it,
+977,A,Igecos,edilizia,,centralino,cantieri5@gmail.com,
+978,A,Proxel s.r.l.,IT,,centralino,info@proxel.com,
+979,A,De Vizia Transfer,servizi,,centralino,info@devizia.com,
+980,A,Luca Delpiano,istituzionale,,centralino,info@lucadelpiano.it,
+981,A,Altea Green Power,energia,,centralino,info@alteagreenpower.com,
+982,A,Brigade elettronica,elettronica,,centralino,info-italia@brigade-elettronica.com,
+983,A,Teledif Italia Srl,TLC,,centralino,teledif@teledif.it,
+984,A,Hesa,sicurezza,,centralino,info@hesa.com,
+985,A,Aakon polichimica,chimica,,centralino,info@aakon.it,
+986,A,Burckhardt Compression Italia,industria,,centralino,info.italia@burckhardtcompression.com,
+987,A,Edilizia Acrobatica,edilizia,,centralino,info@ediliziacrobatica.com,
+988,A,APG Consulting,consulenza,,centralino,amministrazione@apgconsulting.it,
+989,A,VaSICURO Building Management,facility,,centralino,amministrazione@vasicuro.it,
+990,A,New Crazy Colors,retail,,centralino,info@newcrazycolors.it,
+991,A,Nici Costruzioni,edilizia,,centralino,info@nicicostruzioni.it,
+992,A,Sangalli Srl,edilizia,,centralino,info@impresasangalli.it,
+993,A,Fratelli Molteni Spa,industria,,centralino,info@moltenifratelli.it,
+994,A,CNA Sicurezza,sicurezza,,centralino,info@cnasicurezza.it,
+995,A,Fratelli Sarti,industria,,centralino,info@fratellisarti.it,
+996,A,Walter Kuen GmbH,industria,,centralino,info@kuenwalter.it,
+997,A,Impresa Galbiati,edilizia,,centralino,info@impresagalbiati.it,
+998,A,TTEngineering,engineering,,centralino,info@ttengineering.it,
+999,A,Brondolin,industria,,centralino,info@brondolin.it,
+1000,A,MECA,industria,,centralino,info@meca.it,

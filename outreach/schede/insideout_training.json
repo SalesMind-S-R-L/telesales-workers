@@ -1,0 +1,21 @@
+{
+  "riassunto": "InsideOut e' una societa' di formazione aziendale di Milano con 18 anni di esperienza, oltre 750 progetti e 160 clienti. Offre quattro percorsi su misura: efficacia personale, comunicazione, vendita consulenziale e leadership.",
+  "pain_point": "Con un team di training consultant impegnato in aula, il presidio commerciale per aprire nuovi clienti corporate rischia di poggiare su una sola business developer e sul passaparola.",
+  "hook": "ho visto che il percorso Trust e' dedicato alla vendita consulenziale e alle strategie commerciali",
+  "variante_email": "A",
+  "motivo_variante": "Decisore identificato e hook su un servizio specifico del sito, adatta alla variante personalizzata.",
+  "da_verificare": "profilo LinkedIn del decisore; email e' un pattern non verificato",
+  "scheda_completa": true,
+  "pool": "linkedin_new",
+  "owner": "Niccolo'",
+  "fonte": "https://insideout-training.it/blog/coaching-aziendale-tecniche-di-vendita-i-miti-da-sfatare/",
+  "nome_azienda": "InsideOut",
+  "nome_decisore": "Salvatore Errante",
+  "ruolo_decisore": "Partner",
+  "email": "salvatore.errante@insideout-training.it",
+  "telefono": "",
+  "citta": "Milano",
+  "settore": "Consulenza gestionale",
+  "website": "insideout-training.it",
+  "pagine_lette": ["https://www.insideout-training.it/", "https://insideout-training.it/chi-siamo/"]
+}

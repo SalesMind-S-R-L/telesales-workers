@@ -1,0 +1,20 @@
+{
+  "riassunto": "Auxilium e' una societa' di consulenza tecnologica di Volpiano (Torino) attiva su due fronti: infrastrutture ICT e datacenter virtualizzati con cloud a SLA 99,95%, e progettazione industriale 3D per macchine industriali. Dichiara 1.165 commesse sviluppate dal 2018 e 2.184 ore mensili di capacita' di erogazione.",
+  "pain_point": "Con due linee di business molto diverse (ICT e ingegneria meccanica) e una forte impronta tecnica, e' plausibile che l'acquisizione clienti si basi su presenza territoriale e referenze piu' che su un'attivita' commerciale outbound strutturata e costante.",
+  "hook": "ho visto che avete sviluppato 1.165 commesse dal 2018 tra infrastrutture ICT e progettazione industriale 3D",
+  "variante_email": "B",
+  "motivo_variante": "Pain commerciale non esplicito dal sito, azienda tecnica: il questionario di valutazione e' l'ingresso piu' adatto.",
+  "da_verificare": "Email gianluca.ferrante@auxilium.online e' un pattern non verificato; il dominio base rifiuta la connessione (funziona solo www.auxilium.online), verificare deliverability del dominio email.",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "nome_azienda": "Auxilium",
+  "nome_decisore": "Gianluca Ferrante",
+  "ruolo_decisore": "Chief executive officer & founder",
+  "email": "gianluca.ferrante@auxilium.online",
+  "telefono": "",
+  "citta": "Volpiano",
+  "settore": "IT / Software",
+  "website": "auxilium.online",
+  "slug": "auxilium",
+  "pagine_lette": ["https://www.auxilium.online"]
+}

@@ -1,0 +1,22 @@
+{
+  "riassunto": "Lauretti Automazioni Industriali costruisce macchine speciali per automatizzare i processi industriali. E' specializzata in assemblaggio robotizzato, collaudo di dispositivi elettromeccanici e automazione di imballaggio e trasporto.",
+  "pain_point": "Azienda familiare di macchine speciali ora gestita dalla seconda generazione: la crescita multisettore richiede un flusso costante di nuovi appuntamenti che la gestione interna fatica a presidiare.",
+  "hook": "ho visto che costruite macchine speciali per assemblaggio robotizzato e collaudo in piu' settori industriali",
+  "variante_email": "B",
+  "motivo_variante": "Storia familiare dal fondatore ai figli: aggancio sulla continuita' e sul multisettore, variante B.",
+  "da_verificare": "email pattern non verificata",
+  "scheda_completa": true,
+  "pool": "email_cold",
+  "fonte": "https://www.laurettiautomazioni.com/",
+  "nome_azienda": "Lauretti Automazioni Industriali",
+  "nome_decisore": "Gino Lauretti",
+  "ruolo_decisore": "Fondatore",
+  "email": "gino.lauretti@laurettiautomazioni.com",
+  "telefono": "",
+  "citta": "Ceccano",
+  "settore": "Automazione e macchinari",
+  "website": "laurettiautomazioni.com",
+  "pagine_lette": [
+    "https://www.laurettiautomazioni.com/"
+  ]
+}
