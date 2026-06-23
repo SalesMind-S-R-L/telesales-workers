@@ -4,6 +4,6 @@
 //  Finché resta vuoto, il modulo funziona in modalità DEMO (nessun invio reale).
 // ============================================================
 window.UZTECH_CONFIG = {
-    ENDPOINT: "",                 // <-- incolla qui l'URL .../exec
+    ENDPOINT: "https://script.google.com/macros/s/AKfycbzO__uoqnjvwBk456aIrLtzXu1S_dKSANC8r6onWV7bcqHoxvOCcaJ7dmBMZctXceQk9g/exec",
     SOURCE: "Telesales"           // valore scritto nella colonna "Fonte" del foglio
 };
