@@ -1,0 +1,29 @@
+name: Recruiting Tower Sync
+
+# Processa gli esiti ElevenLabs e aggiorna la Talent Tower su Cloudflare KV.
+# Gira nel cloud di GitHub, 24/7, indipendente dal Mac. Nessun token Vercel.
+on:
+  schedule:
+    - cron: "*/30 6-18 * * 1-5"   # ogni 30 min, ~08:00-20:00 Europe/Rome, feriali
+  workflow_dispatch: {}            # avvio manuale
+
+concurrency:
+  group: recruiting-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install requests tzdata
+      - name: Sync Tower da ElevenLabs a Cloudflare KV
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: python3 recruiting_kv_sync.py

@@ -22,6 +22,15 @@ app.post("/process/:batch_id", processHandler);
 // Stats
 app.get("/stats", statsHandler);
 
+// Recruiting: serve i dati della Talent Tower da KV (sola lettura, per il frontend Tower)
+app.get("/recruiting/candidates", async (c) => {
+  const data = await c.env.KV.get("recruiting_candidates");
+  return c.body(data || "[]", 200, {
+    "content-type": "application/json; charset=utf-8",
+    "cache-control": "no-store",
+  });
+});
+
 // Cron (internal)
 app.post("/internal/check", cronHandler);
 
