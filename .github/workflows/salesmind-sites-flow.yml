@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: '7 * * * *'        # ogni ora: collega il numero 055 appena Telnyx approva
     - cron: '30 7 * * 1-5'     # lun-ven 09:30 italiane: motore chiamate dal CRM
-    - cron: '30 11 * * 1-5'    # lun-ven 13:30 italiane: report giornaliero via email
+    - cron: '35 12 24 7 *'     # una tantum 24/07 14:35: richiamo AI ai 10 contattati via email
   workflow_dispatch:
     inputs:
       run_engine:
@@ -35,8 +35,7 @@ jobs:
             ID=$(echo "$item" | jq -r '.id')
             TO=$(echo "$item" | jq -r '.to')
             VARS=$(echo "$item" | jq -c '.vars')
-            ATT=$(echo "$item" | jq -r '.vars.call_attempt')
-            echo "--- chiamo $ID ($TO, tentativo $ATT)"
+            echo "--- chiamo $ID ($TO)"
             RES=$(curl -s -X POST -H "$H" -H 'content-type: application/json' \
               -d "{\"to\":\"$TO\",\"vars\":$VARS}" "$BASE?op=call")
             echo "$RES" | jq -c '{success, conversation_id, message}'
@@ -49,11 +48,35 @@ jobs:
           done
           echo "Motore completato."
 
-  report-giornaliero:
+  pome-oggi:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '30 11 * * 1-5'
+    if: github.event.schedule == '35 12 24 7 *'
     steps:
-      - name: Report via email ad admintelesales
+      - name: Richiamo AI ai 10 contattati via email stamattina (solo 24/07)
         run: |
-          curl -s -X POST -H "x-hub-code: ${{ secrets.HUB_CODE }}" \
-            "https://salesmindsites.vercel.app/api/hub?op=report"
+          [ "$(date -u +%Y-%m-%d)" = "2026-07-24" ] || { echo "non e' il 24/07, esco"; exit 0; }
+          H="x-hub-code: ${{ secrets.HUB_CODE }}"
+          BASE="https://salesmindsites.vercel.app/api/hub"
+          call() {
+            RES=$(curl -s -X POST -H "$H" -H 'content-type: application/json' -d "$2" "$BASE?op=call")
+            echo "$1 -> $(echo "$RES" | jq -c '{success, conversation_id, message}')"
+            if [ "$(echo "$RES" | jq -r '.success')" = "true" ]; then
+              curl -s -X POST -H "$H" -H 'content-type: application/json' \
+                -d "{\"id\":\"$1\",\"patch\":{\"stato\":\"Contattato\",\"canale\":\"AI Voice\",\"followup\":\"\"}}" \
+                "$BASE?op=crmset" > /dev/null
+            fi
+            sleep 75
+          }
+          PN_B="Email inviata stamattina con la proposta della bozza gratuita del nuovo sito"
+          PN_A="Email inviata stamattina: la proposta completa con anteprima del nuovo sito e GIA PRONTA, link nella email. Obiettivo: farla guardare e fissare la call"
+          call "5-meca" '{"to":"+390331685605","vars":{"call_attempt":"2","prev_note":"'"$PN_B"'","nome_azienda":"MECA","settore":"produzione industriale","citta":"Busto Garolfo","sito":"meca.it","criticita":"il sito da smartphone si legge con difficoltà e manca un modo semplice per contattarvi","slot_proposto":"lunedì 27 luglio alle 15:00"}}'
+          call "11-ferrari-casa" '{"to":"+390299252839","vars":{"call_attempt":"2","prev_note":"'"$PN_B"'","nome_azienda":"Ferrari casa","settore":"agenzia immobiliare","citta":"Milano","sito":"ferraricasa.eu","criticita":"il sito risulta non sicuro per il certificato scaduto e chi lo apre spesso chiude subito","slot_proposto":"lunedì 27 luglio alle 15:30"}}'
+          call "23-agriturismo-casale-dell-orso" '{"to":"+3905731975384","vars":{"call_attempt":"2","prev_note":"'"$PN_B"'","nome_azienda":"Agriturismo Casale dell Orso","settore":"agriturismo","citta":"Pistoia","sito":"casaledellorso.it","criticita":"il sito risulta non sicuro e manca la prenotazione diretta, così gli ospiti prenotano dai portali con le commissioni","slot_proposto":"lunedì 27 luglio alle 16:00"}}'
+          call "18-acritech" '{"to":"+390362347113","vars":{"call_attempt":"2","prev_note":"'"$PN_B"'","nome_azienda":"Acritech","settore":"azienda tecnica industriale","citta":"Seregno","sito":"acritech.it","criticita":"manca un punto chiaro dove un cliente possa lasciare una richiesta tecnica e da smartphone il sito non è ottimizzato","slot_proposto":"lunedì 27 luglio alle 16:30"}}'
+          call "A2-lisi-alfredo-figli" '{"to":"+39055848009","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"Lisi Alfredo e Figli","settore":"agricoltura, edilizia e legnami","citta":"Firenze","sito":"lisialfredo.it","criticita":"il certificato di sicurezza non corrisponde al dominio e la pagina mostra ancora under construction","slot_proposto":"martedì 28 luglio alle 15:00"}}'
+          call "A4-liviotti-bellini" '{"to":"+390558790533","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"Liviotti e Bellini","settore":"meccanica di precisione","citta":"Firenze","sito":"liviotti.it","criticita":"il certificato HTTPS è scaduto e il browser blocca l accesso ai visitatori","slot_proposto":"martedì 28 luglio alle 15:30"}}'
+          call "A5-firenze-manutenzioni" '{"to":"+390556580536","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"Firenze Manutenzioni","settore":"reti gas e pronto intervento","citta":"Firenze","sito":"firenzemanutenzioni.it","criticita":"il sito non è ottimizzato per smartphone e ha riferimenti fermi al 2015","slot_proposto":"martedì 28 luglio alle 16:00"}}'
+          call "A6-sismic-sistemi" '{"to":"+39055333686","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"Sismic Sistemi","settore":"centrali operative e sistemi radio","citta":"Firenze","sito":"sismic.it","criticita":"immagine e navigazione del sito non comunicano il livello della tecnologia che producete","slot_proposto":"martedì 28 luglio alle 16:30"}}'
+          call "A7-meini-gioielli" '{"to":"+390558348123","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"Meini Gioielli","settore":"arte orafa fiorentina","citta":"Firenze","sito":"gioielleria-meini.com","criticita":"il sito attuale non valorizza l artigianalità premium dei vostri gioielli","slot_proposto":"martedì 28 luglio alle 17:00"}}'
+          call "A8-tuttauto-impruneta" '{"to":"+390552012265","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"TuttAuto Impruneta","settore":"concessionaria e officina","citta":"Impruneta","sito":"tuttautoimpruneta.com","criticita":"stock, permuta e officina non emergono dal sito come azioni immediate","slot_proposto":"martedì 28 luglio alle 17:30"}}'
+          echo "Onda pomeridiana completata."
