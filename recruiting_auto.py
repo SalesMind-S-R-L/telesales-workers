@@ -101,7 +101,7 @@ def select(data):
         esito = (r.get("outreach_esito") or "").lower()
         rc = int(r.get("retry_count") or 0)
         # retry: gia' chiamato ma non connesso, <MAX
-        if canale and "non connessa" in esito and rc < MAX_RETRY:
+        if canale and ("non risposto" in esito or "non connessa" in esito) and rc < MAX_RETRY:
             retry.append(r); continue
         # fresh mai-contattato
         if not canale and not (r.get("outreach_owner")) and st == "da_contattare":
@@ -149,7 +149,7 @@ def classify_outcome(rstatus, dur, esito_raw):
     if rstatus == "voicemail" or "voicemail" in e or "segreteria" in e:
         return ("contattato", "Segreteria", 2, False)
     if rstatus == "failed" or (rstatus == "done" and dur < 6) or not esito_raw:
-        return ("da_contattare", "Non connessa", 2, True)  # retry
+        return ("contattato", "Non risposto", 2, True)  # chiamato ma non connesso; retry interno via esito
     if any(w in e for w in ("non_interess", "non interess", "non_in_target", "non in target", "rifiut")):
         return ("rejected", esito_raw[:40] or "Non interessato", 1, False)
     if any(w in e for w in ("handoff", "qualific")):

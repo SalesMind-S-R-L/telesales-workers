@@ -43,18 +43,29 @@ def main():
     lst = R.api("GET", "/v1/convai/batch-calling/workspace").get("batch_calls", [])
     todo = [b for b in lst if str(b.get("name", "")).startswith("Recruiting")
             and b.get("status") == "completed" and b.get("id") not in done]
-    if not todo and raw:
-        R.log("Nessun batch nuovo da processare."); return
     R.log(f"Da processare: {[b['name'] for b in todo]}")
     newq = []
     for bm in todo:
         batch = R.api("GET", f"/v1/convai/batch-calling/{bm['id']}")
         newq += R.process(data, batch, [])
         done.add(bm["id"])
+    # 3b) NORMALIZZA: ogni candidato CHIAMATO deve mostrare l'esito, mai "da contattare" (gira sempre)
+    fixed = 0
+    for r in data:
+        if r.get("outreach_canale") and r.get("status") == "da_contattare":
+            r["status"] = "contattato"
+            es = (r.get("outreach_esito") or "").lower()
+            if not es or "non connessa" in es or "riaggancia" in es:
+                r["outreach_esito"] = "Non risposto"
+            fixed += 1
+    if fixed:
+        R.log(f"Normalizzati {fixed} candidati chiamati: 'da contattare' -> 'contattato' con esito.")
+    if not todo and not fixed and raw:
+        R.log("Niente da aggiornare."); return
     # 4) scrivi su KV (fonte unica per la Tower)
     kv_put("recruiting_candidates", json.dumps(data, ensure_ascii=False))
     kv_put("recruiting_processed", json.dumps(sorted(done)))
-    R.log(f"KV aggiornato. Nuovi qualificati (visibili a Leo): {newq}")
+    R.log(f"KV aggiornato. Fix status={fixed}. Nuovi qualificati (visibili a Leo): {newq}")
 
 
 if __name__ == "__main__":
