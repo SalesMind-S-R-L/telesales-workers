@@ -1,0 +1,33 @@
+name: SalesMind Sites - flusso automatico
+on:
+  schedule:
+    - cron: '7 * * * *'        # ogni ora: prova a collegare il numero 055 (idempotente)
+    - cron: '30 7 27 7 *'      # lunedi 27/07 09:30 italiane: onda 2 chiamate AI
+  workflow_dispatch: {}
+
+jobs:
+  wire-numero:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Collega numero 055 se attivo
+        run: |
+          curl -s -X POST -H "x-hub-code: ${{ secrets.HUB_CODE }}" \
+            "https://salesmindsites.vercel.app/api/hub?op=wire055"
+
+  onda2:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '30 7 27 7 *'
+    steps:
+      - name: Chiamate AI onda 2 (solo 27 luglio)
+        run: |
+          [ "$(date -u +%Y-%m-%d)" = "2026-07-27" ] || { echo "non e' il 27/07, esco"; exit 0; }
+          call() {
+            curl -s -X POST -H "x-hub-code: ${{ secrets.HUB_CODE }}" \
+              -H 'content-type: application/json' -d "$1" \
+              "https://salesmindsites.vercel.app/api/hub?op=call"; echo; sleep 90;
+          }
+          call '{"to":"+390331685605","vars":{"nome_azienda":"MECA","settore":"produzione industriale","citta":"Busto Garolfo","sito":"meca.it","criticita":"il sito da smartphone si legge con difficoltà e manca un modo semplice per contattarvi","slot_proposto":"lunedì 3 agosto alle 15:00","prev_note":"Email inviata venerdì con la proposta della bozza gratuita"}}'
+          call '{"to":"+390299252839","vars":{"nome_azienda":"Ferrari casa","settore":"agenzia immobiliare","citta":"Milano","sito":"ferraricasa.eu","criticita":"il sito risulta non sicuro per il certificato scaduto e chi lo apre spesso chiude subito","slot_proposto":"lunedì 3 agosto alle 15:30","prev_note":"Email inviata venerdì con la proposta della bozza gratuita"}}'
+          call '{"to":"+3905731975384","vars":{"nome_azienda":"Agriturismo Casale dell Orso","settore":"agriturismo","citta":"Pistoia","sito":"casaledellorso.it","criticita":"il sito risulta non sicuro e manca la prenotazione diretta, così gli ospiti prenotano dai portali con le commissioni","slot_proposto":"lunedì 3 agosto alle 16:00","prev_note":"Email inviata venerdì con la proposta della bozza gratuita"}}'
+          call '{"to":"+390362347113","vars":{"nome_azienda":"Acritech","settore":"azienda tecnica industriale","citta":"Seregno","sito":"acritech.it","criticita":"manca un punto chiaro dove un cliente possa lasciare una richiesta tecnica e da smartphone il sito non è ottimizzato","slot_proposto":"lunedì 3 agosto alle 16:30","prev_note":"Email inviata venerdì con la proposta della bozza gratuita"}}'
+          call '{"to":"+39029604918","vars":{"nome_azienda":"Colored minds","settore":"servizi tecnici","citta":"Milano","sito":"coloredminds.it","criticita":"manca un modo semplice per ricevere richieste tecniche dal sito e da telefono non è ottimizzato","slot_proposto":"lunedì 3 agosto alle 17:00","prev_note":""}}'
