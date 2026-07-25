@@ -4,7 +4,7 @@ name: Recruiting Tower Sync
 # Gira nel cloud di GitHub, 24/7, indipendente dal Mac. Nessun token Vercel.
 on:
   schedule:
-    - cron: "*/30 6-18 * * 1-5"   # ogni 30 min, ~08:00-20:00 Europe/Rome, feriali
+    - cron: "*/30 6-18 * * *"     # ogni 30 min, ~08:00-20:00 Europe/Rome, TUTTI i giorni (anche weekend)
   workflow_dispatch: {}            # avvio manuale
 
 concurrency:

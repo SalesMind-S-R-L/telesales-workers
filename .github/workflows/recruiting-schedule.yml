@@ -5,7 +5,20 @@ name: Recruiting Auto Schedule
 on:
   schedule:
     - cron: "0 6 * * 1-5"    # 08:00 Europe/Rome (estate), feriali
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      size:
+        description: "Quanti candidati chiamare"
+        required: false
+        default: "20"
+      slot_hour:
+        description: "Ora di partenza (0-23, Europe/Rome)"
+        required: false
+        default: "11"
+      same_day:
+        description: "Schedulare oggi stesso? (1 = si)"
+        required: false
+        default: "0"
 
 concurrency:
   group: recruiting-schedule
@@ -26,4 +39,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          RUN_SIZE: ${{ github.event.inputs.size }}
+          RUN_SLOT_HOUR: ${{ github.event.inputs.slot_hour }}
+          RUN_SAME_DAY: ${{ github.event.inputs.same_day }}
         run: python3 recruiting_kv_schedule.py

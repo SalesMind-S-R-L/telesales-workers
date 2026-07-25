@@ -13,9 +13,10 @@ from zoneinfo import ZoneInfo
 import recruiting_auto as R
 
 TZ = ZoneInfo("Europe/Rome")
-BATCH_SIZE = 20
+BATCH_SIZE = int(os.environ.get("RUN_SIZE") or 20)
 CONCURRENCY = 2
-SLOT_HOUR = 11
+SLOT_HOUR = int(os.environ.get("RUN_SLOT_HOUR") or 11)
+SAME_DAY = os.environ.get("RUN_SAME_DAY") == "1"   # consente di schedulare OGGI (anche weekend)
 NS = "de8093d84a674862b18e6fda6f3b56fa"
 ACCT = os.environ["CLOUDFLARE_ACCOUNT_ID"]
 CFH = {"Authorization": f"Bearer {os.environ['CLOUDFLARE_API_TOKEN']}"}
@@ -51,12 +52,17 @@ def main():
     data = json.loads(raw)
     # slot: oggi 11:00 se futuro, altrimenti prossimo giorno lavorativo
     now = datetime.now(TZ)
-    day = now
-    if now.hour >= SLOT_HOUR - 1:
-        day = now + timedelta(days=1)
-    while day.weekday() >= 5:
-        day = day + timedelta(days=1)
-    when = day.replace(hour=SLOT_HOUR, minute=0, second=0, microsecond=0)
+    if SAME_DAY:
+        when = now.replace(hour=SLOT_HOUR, minute=0, second=0, microsecond=0)
+        if when <= now:  # slot gia' passato: metti fra ~15 min
+            when = now + timedelta(minutes=15)
+    else:
+        day = now
+        if now.hour >= SLOT_HOUR - 1:
+            day = now + timedelta(days=1)
+        while day.weekday() >= 5:
+            day = day + timedelta(days=1)
+        when = day.replace(hour=SLOT_HOUR, minute=0, second=0, microsecond=0)
     # seleziona candidati veri freschi
     fresh = []
     for r in data:
