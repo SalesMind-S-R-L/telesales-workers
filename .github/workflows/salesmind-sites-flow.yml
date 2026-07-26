@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '7 * * * *'        # ogni ora: collega il numero 055 appena Telnyx approva
     - cron: '30 7 * * 1-5'     # lun-ven 09:30 italiane: motore chiamate dal CRM
+    - cron: '0 13 * * 1-5'     # lun-ven 15:00 italiane: seconda onda dal CRM
     - cron: '35 12 24 7 *'     # una tantum 24/07 14:35: richiamo AI ai 10 contattati via email
   workflow_dispatch:
     inputs:
@@ -22,13 +23,13 @@ jobs:
 
   motore-chiamate:
     runs-on: ubuntu-latest
-    if: github.event.schedule == '30 7 * * 1-5' || inputs.run_engine == 'true'
+    if: github.event.schedule == '30 7 * * 1-5' || github.event.schedule == '0 13 * * 1-5' || inputs.run_engine == 'true'
     steps:
       - name: Coda dal CRM ed esecuzione chiamate
         run: |
           H="x-hub-code: ${{ secrets.HUB_CODE }}"
           BASE="https://salesmindsites.vercel.app/api/hub"
-          QUEUE=$(curl -s -H "$H" "$BASE?op=queue&new=40&fu=15")
+          QUEUE=$(curl -s -H "$H" "$BASE?op=queue&new=60&fu=20")
           TOT=$(echo "$QUEUE" | jq '.totale')
           echo "In coda oggi: $TOT (follow-up: $(echo "$QUEUE" | jq '.followups|length'), nuovi: $(echo "$QUEUE" | jq '.nuovi|length'))"
           echo "$QUEUE" | jq -c '.followups[], .nuovi[]' | while read -r item; do
