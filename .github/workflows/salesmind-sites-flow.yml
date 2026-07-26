@@ -5,6 +5,7 @@ on:
     - cron: '30 7 * * 1-5'     # lun-ven 09:30 italiane: motore chiamate dal CRM
     - cron: '0 13 * * 1-5'     # lun-ven 15:00 italiane: seconda onda dal CRM
     - cron: '35 12 24 7 *'     # una tantum 24/07 14:35: richiamo AI ai 10 contattati via email
+    - cron: '45 6 27 7 *'      # una tantum lunedì 27/07 08:45: email 'bozza pronta' ai 4 binario B
   workflow_dispatch:
     inputs:
       run_engine:
@@ -81,3 +82,13 @@ jobs:
           call "A7-meini-gioielli" '{"to":"+390558348123","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"Meini Gioielli","settore":"arte orafa fiorentina","citta":"Firenze","sito":"gioielleria-meini.com","criticita":"il sito attuale non valorizza l artigianalità premium dei vostri gioielli","slot_proposto":"martedì 28 luglio alle 17:00"}}'
           call "A8-tuttauto-impruneta" '{"to":"+390552012265","vars":{"call_attempt":"2","prev_note":"'"$PN_A"'","nome_azienda":"TuttAuto Impruneta","settore":"concessionaria e officina","citta":"Impruneta","sito":"tuttautoimpruneta.com","criticita":"stock, permuta e officina non emergono dal sito come azioni immediate","slot_proposto":"martedì 28 luglio alle 17:30"}}'
           echo "Onda pomeridiana completata."
+
+  bozze-lunedi:
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '45 6 27 7 *'
+    steps:
+      - name: Email bozza pronta ai 4 binario B (solo 27/07)
+        run: |
+          [ "$(date -u +%Y-%m-%d)" = "2026-07-27" ] || { echo "non e' il 27/07, esco"; exit 0; }
+          curl -s -X POST -H "x-hub-code: ${{ secrets.HUB_CODE }}" \
+            "https://salesmindsites.vercel.app/api/hub?op=bozzemail"
