@@ -1,0 +1,26 @@
+name: Recruiting Bulk Schedule
+
+# Programma TUTTI i candidati veri liberi su piu' slot di oggi+domani (conc 2). Solo manuale.
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: recruiting-schedule
+  cancel-in-progress: false
+
+jobs:
+  bulk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install requests tzdata
+      - name: Programma bulk oggi+domani
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: python3 recruiting_kv_bulk.py
