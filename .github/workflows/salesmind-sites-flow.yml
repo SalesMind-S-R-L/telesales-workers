@@ -43,6 +43,10 @@ jobs:
               curl -s -X POST -H "$H" -H 'content-type: application/json' \
                 -d "{\"id\":\"$ID\",\"patch\":{\"stato\":\"Contattato\",\"canale\":\"AI Voice\",\"followup\":\"\"}}" \
                 "$BASE?op=crmset" > /dev/null
+            elif echo "$RES" | jq -r '.message' | grep -q "404"; then
+              curl -s -X POST -H "$H" -H 'content-type: application/json' \
+                -d "{\"id\":\"$ID\",\"patch\":{\"tel_ko\":true,\"note\":\"Numero non valido (SIP 404): escluso dalle chiamate. Serve numero corretto.\"}}" \
+                "$BASE?op=crmset" > /dev/null
             fi
             sleep 75
           done
